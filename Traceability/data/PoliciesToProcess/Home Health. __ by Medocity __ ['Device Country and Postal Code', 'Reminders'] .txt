@@ -1,0 +1,94 @@
+platform features pharma payers providers company about us news blog careers usa india careers contact us
+platform features pharma payers providers company about us news blog careers usa india careers contact us
+privacy policy this is the privacy policy for all websites and mobile applications owned or operated by medocity, inc
+(“medocity”), including, without limitation, icancerhealth, chf care, copd care, medocity home health, medocity clinical trials, and medocity md and associated services (collectively, the “services” or “medocity services”), currently provided exclusively to users who are us residents
+your privacy is important to us and we have prepared this privacy policy to explain how we collect, use and protect personal information, health information and non-personal information (each, as defined below) when you use the services and your choices for managing your information preferences
+by using the services, you agree to be bound by this privacy policy ( http
+com/privacy-policy ) and the medocity terms of service for your use of the services
+application of privacy policy this privacy policy applies solely to medocity and medocity services
+this privacy policy does not apply to information collected at any site or on or by any products or services or third party devices, wireless or otherwise, including, but not limited to
+mobile phones, tablets, blood pressure cuffs, scales that may be used by you at your own risk in conjunction with medocity services, nor to the content, services and links, other apps, websites or other information provided to you via such devices (collectively “third-party devices”) not owned by medocity, including the third-party operating platforms and any third-party website reached through a link on or through the services, and it also does not apply to information submitted directly by you to third parties, including any third-party health care professionals, through the services
+we have no control over, and we assume no responsibility for, the content, privacy policies or practices of any such third-party
+by using the services, you release medocity from any claim or liability arising from your use of any such third-party site, services or devices
+medocity is not responsible in any way for third-party devices as it is not a reseller or manufacturer of third-party devices
+the information, software, data, or other contents (including opinions, claims, comments) connected to third-party devices belong solely to the companies or individuals responsible for same and are not and cannot be attributed to medocity in any way
+medocity does not warrant the accuracy of third-party devices, nor is medocity in any way responsible for or endorse the
+information, software, data, and/or privacy policies, etc
+, related to or pertaining to third-party devices
+information you choose to submit personal information we collect information that personally identifies you, such as your name, telephone number, email address, date of birth and other data which can be reasonably linked to such information (“personal information”) only if you choose to share such information with us
+for example, you will be required to provide us with certain personal information to register with the services, sign up for certain features available through the services (such as push notifications, text messages and other communications services which may offer you the ability to share information with third parties, such as health care professionals), and at other times
+the decision to provide this information is optional
+however, if you decide not to register or provide such information, you may not be able to use some or all of the features of the services
+further, medocity may offer location-enabled services, for example to locate a nearby doctor or pharmacy
+if you use those services, medocity may receive information about your actual location (such as gps signals sent by a mobile device) or information that can be used to approximate a location (such as a cell id)
+you will have the option to disable collection and use of location information
+however, doing so may prevent you from using some features of the services, or limit the function of some features
+health information medocity offers you the ability to share your health information through certain services available on the services
+“health information” includes both protected health information and additional health information
+“protected health information” is personally identifiable information which relates to your health or payment for your health that is created or received by an entity covered under the health insurance portability and accountability act of 1996 (hipaa), such as a third-party health care professional providing services to you through the services
+protected health information includes the combination of your personal information and personal health information, such as medical records, medical history and/or information regarding a condition or treatment (e
+information about symptoms, prescriptions, allergies, diagnoses and outcomes or side effects of treatment)
+“additional health information” is any and all other personal health information that is not protected health information, generally because such information was not created or received by a hipaa-covered entitya
+when you use the services, you expressly authorize the sharing of your health information with anyone whom is part of your services team and is also a user of the services, which may include one other or multiple other user(s) of the services, e
+, your caregiver(s) and your healthcare professional(s) – all of whom, along with you, may update your health information at any time
+if you allow someone to access your account, you do so at your sole risk and may risk exposing your health information
+medocity does not know and cannot control how anyone else to whom you give access to your account and/or with whom you share your health information may use your health information or account
+health information you provide to others may not be protected, kept private, or be secure
+you are solely responsible for all use of your account, by yourself or anyone whom you permit to use it
+medocity will not be liable for any disclosure or use of health information or other information by you or anyone using your account with your permission
+you should not upload any health information regarding any person other than yourself without that person’s prior express consent
+you must obtain the consent of your family member or any other person before you submit or share health information about that person
+by submitting or sharing health information about a family member or anyone else, you represent and warrant that you have obtained that person’s express consent to do so or that you otherwise have the legal authority to do so (e
+, because that person is a minor and you are the parent or legal guardian)
+information we automatically collect we automatically collect information that does not reflect or reference an individually identifiable user (“non-personal information”) to help us understand how our users use the services
+like most websites, we automatically collect and use the data contained in log files
+the information in the log files may include the ip address of the computer or server that you are using to access the services, the ip address and/or the url from the website you visited just before you visited our services, the url of the page you visit upon leaving the services, if any, and the type of browser and operating system you are using
+this anonymous usage information may be associated with your user name and profile, but medocity does not disclose the associated information to third parties
+cookies and web beacons we may use cookies (a small file containing a string of characters that uniquely identifies your web browser) and web beacons (an electronic file placed within a website that monitors usage)
+we may use cookies and web beacons to improve the quality of the services
+most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent
+however, certain features of the services may not work if you delete or disable cookies
+certain of our service providers (defined below) may use cookies and web beacons in connection with the services they perform on our behalf
+how we use your information we may use personal information, health information and non-personal information for the purposes intended by the services, including
+to communicate with you and your health care professionals, to notify you of new products or services, to send service notifications, to customize the content you see, to fulfill your requests for products and services, to improve the services, to conduct research, to solicit your feedback and input about the services and/or to provide more relevant products and services on or through the services
+such information may be combined with data collected from other sources so that we may further improve the relevance of products and services offered on or through the services
+medocity does not sell, share or rent personal information or health information to third parties for promotional purposes, and we will not otherwise disclose such information to third parties, without your express permission, as expressly disclosed in this privacy policy or to the extent permitted by applicable law
+medocity will further maintain the privacy of your protected health information in accordance with federal hipaa privacy rules and applicable state privacy laws, to the extent such laws impose additional privacy requirements
+we may use personal information and health information to facilitate health care services offered on or through the services, and we may disclose such information to third-party health care professionals with whom you choose to communicate
+communicating with you by becoming a user of medocity services and providing your mobile number and/or email address, certain features of the services will be provided to you via your mobile phone or other mobile device which may include
+the ability to upload content to medocity services, download applications, and receive email, short message service (sms), text message communications and mobile push notifications, each of which are not encrypted (“mobile features”)
+standard messaging, data and/or other fees may be charged by your carrier
+you can opt out of receiving email, sms/text messages, and mobile push notifications
+although unlikely, it is possible for these communications to be intercepted or accessed without your authorization, and by using the services, you release medocity from any liability arising from or related to any such interception or unauthorized access
+you can opt out by changing your profile settings within the services or by notifying your healthcare provider
+you agree to notify medocity of any changes to your mobile number and email by updating your medocity services account to reflect any changes
+communicating with your health care professionals services concerning you may be accessed by the third-party health care professionals and caregivers who are linked to your account, and by medocity service providers, affiliates, representatives and assigns, all of whom may
+send and receive reminders, alerts or other service-related information via email and/or push notifications or the like, i
+, utilize mobile features to notify and be notified of information about you
+the use of mobile features may include the sharing of your personal information and health information
+although unlikely, it is possible for these communications to be intercepted or accessed without your authorization, and by using the services, you release medocity from any liability arising from or related to any such interception or unauthorized access
+in addition, from time to time, we may establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“service providers”)
+for example, we may contract with service providers to provide certain services, such as hosting and maintenance, data storage and management services and marketing and promotions
+we provide our service providers with the information reasonably necessary for them to perform these services
+each service provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure
+we may use, and disclose to third parties, certain non-personal information regarding the services (e
+, the total number of persons using particular medications, the aggregate number of inquiries from a particular geographic location, etc
+however, such information does not identify you individually
+we may disclose your information with entities controlling, controlled by or under common control with medocity for the purposes and to the extent permitted under this privacy policy
+in certain instances, we may disclose your information when we believe it is necessary to identify, contact or bring legal action against persons or entities in order to protect medocity or our users, or when we believe that the law or legal process requires such disclosure
+in addition, in the event that medocity is merged, sold or in the event of a transfer of some or all of our assets, we may disclose or transfer your information in connection with such transaction
+public areas please be advised that, whenever you voluntarily post information to any public forum such as a bulletin board, blog, community or related interactive area of the services, collectively “public posts”, such information can and may be accessed by the public
+this means that any person or entity with access to such information can potentially use it for any purpose, including to send unsolicited communications
+security information that we collect is stored on servers that medocity manages, using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification or disclosure
+however, no data transmission over the internet can be guaranteed to be 100% secure
+as a result, while we strive to protect information transmitted on or through the services, we cannot and do not guarantee or warrant the security of any information you transmit on or through the services, and you do so at your own risk
+children’s privacy statement you are not to provide to medocity (and medocity does not knowingly collect) personal information or health information from children under the age of 13
+if medocity becomes aware that we have inadvertently received personal information or health information from or about a child under the age of 13, medocity will delete such information from its records
+privacy policy changes and questions medocity may, in its sole and absolute discretion, change this privacy policy from time to time
+medocity will post a copy of the privacy policy as changed on the services
+your continued use of the services constitutes your agreement to abide by the privacy policy as changed
+if you object to any such changes, your sole recourse shall be to cease using the services
+if you have questions or would like additional information about our privacy practices, you may contact our privacy office by contacting
+one upper pond road, building d, 3rd floor, parsippany, nj 07054, email
+© 2020 medocity, inc
+contact us © 2020 medocity, inc

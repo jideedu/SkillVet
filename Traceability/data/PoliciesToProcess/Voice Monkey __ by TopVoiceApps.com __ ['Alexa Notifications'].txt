@@ -1,0 +1,950 @@
+skip to main content
+free delivery on your first order
+select the department you want to search in
+health & personal care
+home & business services
+musical instruments & dj equipment
+pc & video games
+stationery & office supplies
+gift cards & top up
+help & customer service
+search our help pages
+amazon device support › alexa help › alexa and alexa device terms, warranties and notices ›
+alexa and alexa device faqs
+alexa-enabled echo devices faqs
+alexa on fire tablets faqs
+alexa on fire tv faqs
+how do i use alexa
+alexa allows you to ask questions and make requests using just your voice
+for instance, you can ask alexa a question, such as "what is the weather today in london
+", or tell alexa to do something, like "add cat food to my shopping list," or "play jazz
+" when you speak to alexa, a recording of what you asked alexa is sent to amazon’s cloud so we can process and respond to your request
+you access alexa differently based on the type of device you are using
+for “hands free” devices, like amazon echo, you access alexa by saying the wake word (alexa, echo, amazon or computer)
+for other devices, like certain fire tablets, you access alexa by pressing a button
+is alexa recording all my conversations
+by default, echo devices are designed to detect only your chosen wake word (alexa, amazon, computer or echo)
+the device detects the wake word by identifying acoustic patterns that match the wake word
+no audio is stored or sent to the cloud unless the device detects the wake word (or alexa is activated by pressing a button)
+what happens when i speak to alexa
+when you speak to alexa, a recording of what you asked alexa is sent to amazon’s cloud where we process your request and other information to respond to you
+for example, when you ask “alexa, play top hits on amazon music” we use the recording of your request and information from amazon music to play top hits
+how does alexa minimize the amount of data sent to the cloud
+alexa and echo devices are designed to record as little audio as possible and minimize the amount of background noise streamed to the cloud
+by default, alexa-enabled devices only stream audio to the cloud if the wake word is detected (or alexa is activated by pressing a button)
+when an alexa-enabled device detects the wake word and begins streaming audio to the cloud, alexa performs a "cloud verification" of the wake word using the more powerful processing capabilities of the cloud to double-check the audio to confirm detection of the wake word
+if the cloud verification does not also detect the wake word, alexa stops processing the audio and ends the audio stream to the cloud
+if alexa confirms that the wake word was spoken, alexa will continually attempt to determine when your request has ended and then immediately end the audio stream
+what about "false wakes"
+in some cases, your alexa-enabled device might interpret another word or sound as the wake word (for instance, the name "alex" or someone saying "alexa" on the radio or television)
+when this happens, we call that a "false wake
+" we have a team of world-class scientists and engineers dedicated to continually improving our wake word detection technology and preventing false wakes from happening, including through the cloud verification mechanism described in the faq "how does alexa minimize the amount of data sent to the cloud
+anytime your echo device detects the wake word, a visual or audible indicator will signal it is recording audio to stream to the cloud, and you can review and delete the voice recordings associated with your account (including any audio resulting from a false wake) in your voice history available in the alexa app at settings
+alexa privacy or https
+can i review and delete my voice recordings
+you can review voice recordings associated with your account and delete those voice recordings one by one, by date range, by alexa-enabled device, or all at once by visiting privacy in settings in the alexa app or www
+from either page, you can also choose to have your voice recordings older than 3 or 18 months deleted automatically
+and you can delete all those voice recordings associated with your account all at once for each of your alexa-enabled devices and apps by visiting manage your content and devices
+you can also enable the ability to delete your recordings by voice
+once enabled, you can delete the voice recording of your last request by saying "alexa, delete what i just said" or you can delete all the voice recordings from your account for the day by saying "alexa, delete everything i said today
+" to enable deletion by voice go to settings
+review voice history or https
+when enabled, anyone with access to your alexa-enabled devices can ask alexa to delete voice recordings from your account
+deleting voice recordings may degrade your alexa experience
+if you have changed your default marketplace while using an alexa-enabled product, you will need to perform this step for each marketplace to delete all voice recordings associated with your account
+what happens when i delete my voice recordings
+when you delete voice recordings associated with your account, we will delete the voice recordings and the text transcripts of your request that you selected from amazon’s cloud
+we may still retain other records of your alexa interactions, including records of actions alexa took in response to your request
+this allows us, for instance, to continue to provide your reminders, timers, and alarms, process your orders, and show your shopping and to-do lists and messages sent through alexa communications
+if your request was processed by an alexa skill, deleting your voice recordings does not delete any information retained by the developer of that skill (skill developers do not receive voice recordings)
+for more information on alexa skills, refer to the faq "how do alexa skills work
+for more information on removing messages sent through alexa communications, refer to the faq "how do i remove messages from my conversation list
+for more information on deleting the voice recordings you said to teach alexa your voice when you created a voice profile, refer to the faq "how do voice profiles work”
+what is alexa's voice history feature
+voice history is a feature that allows you to play the audio of your voice recordings that were streamed to the cloud, review the text transcript of what alexa thought you said, and review alexa’s response
+this feature can help you better understand how alexa works and what alexa is and is not recording
+you can also use it to recall answers alexa gave you previously, such as the name of a restaurant alexa recommended
+if alexa makes a mistake, you can use this feature to see what may have gone wrong, such as whether alexa misunderstood a particular word or phrase
+you can access alexa’s voice history by visiting settings
+review voice history in the alexa app or https
+you can also help us improve our voice services by providing feedback within your voice history
+how are my voice recordings used
+alexa uses your voice recordings and other information, including from third-party services, to answer your questions, fulfill your requests, and improve your experience and our services
+we associate your requests with your amazon account to allow you to review your voice recordings, access other amazon services (e
+, so you can ask alexa to read your kindle books and play audiobooks from audible), and to provide you with a more personalized experience
+for example, keeping track of the songs you have listened to helps alexa choose what songs to play when you say, "alexa, play music
+at times, alexa can provide you with recommendations based on your requests
+for example, alexa may recommend alexa skills you might like based on the alexa skills you use
+how do my voice recordings improve alexa
+alexa is a continuously improving service that is designed to get smarter every day
+for example, we use your requests to alexa to train our speech recognition and natural language understanding systems using machine learning
+training alexa with real world requests from a diverse range of customers is necessary for alexa to respond properly to the variation in our customers’ speech patterns, dialects, accents, and vocabulary and the acoustic environments where customers use alexa
+this training relies in part on supervised machine learning, an industry-standard practice where humans review an extremely small sample of requests to help alexa understand the correct interpretation of a request and provide the appropriate response in the future
+for example, a human reviewing a customer’s request for the weather in austin can identify that alexa misinterpreted it as a request for the weather in boston
+our supervised learning process includes multiple safeguards to protect customer privacy
+you can manage the use of your voice recordings to improve our services and develop new features by visiting settings
+manage how your data improves alexa in the alexa app
+how do alexa skills work
+skills are voice-driven alexa capabilities
+you can view and enable skills in your alexa app and enable certain skills by voice
+you can use a skill by saying a specific phrase, called the invocation name
+when you use a skill, we may exchange related information with the developer of that skill, such as your answers when you play a trivia skill, your postcode when you ask for the weather, or the content of your requests (but not the voice recordings)
+if you make a request to alexa without using a skill invocation name, we may send the content of your request to several skills, and enable and launch the skill we think is best able to respond to your request
+the skills portion of your alexa app contains more information about skills, such as applicable privacy policies and terms provided by skill developers
+by default, we do not share your personal information with skill developers
+you can choose to grant the developer of a skill permission to access additional information associated with your account (such as your name and email address with a restaurant booking skill to make a reservation)
+you can see and manage the skills that you granted permission to access specific additional information through settings
+alexa privacy or https
+how does voice purchasing work
+prime members can ask alexa to order or reorder eligible products available for sale through the amazon website
+you can also subscribe to eligible services using alexa, or purchase products and services through alexa skills using your default payment and delivery settings
+you can require a speakable confirmation code, turn purchasing off, and see product and order details in your alexa app or alexa
+uk for those orders
+just like orders placed through the amazon website, orders placed through alexa are subject to amazon
+uk's conditions of use & sale and, in the case of a subscription for a service, the terms for the applicable service
+some alexa skills allow you to purchase non-digital products or services from the developer of the skill (for instance, order food through a restaurant's skill) via amazon pay using your default payment and delivery settings
+you can view your amazon pay order history and find additional information for those purchases on the amazon pay website
+some other alexa skills allow you to purchase products and services from the developer of the skill using a payment method you provide directly to the developer
+your voice purchasing settings may not apply to those purchases
+can i turn off voice purchasing
+yes, alexa has voice purchasing settings
+voice purchasing in your alexa app to turn off voice purchasing from amazon
+you can also require an optional confirmation code that alexa will ask you to say out loud when you want to place an order from amazon
+what are the return and cancellation policies for products and content i order using alexa
+for information on return policies applicable to products purchased on amazon using alexa, see about our returns policies
+in addition, non-digital products purchased using alexa are eligible for free returns
+to return a product purchased using alexa, process your return as normal in the returns centre
+we’ll automatically refund you any delivery charges applied to the return
+you should see the delivery refund within 7 days of receiving your product refund
+amazon's return policies do not apply to purchases of non-digital products or services made through third-party alexa skills (for instance, a food order placed through a restaurant's skill)
+instead, the returns policy of the applicable skill developer applies
+however, the amazon pay a-to-z guarantee covers qualified purchases of physical products made through third-party alexa skills using amazon pay
+purchases of digital content are final
+however, if you accidentally purchase digital content or a subscription to a non-amazon service through alexa, that purchase is eligible for return and refund if we receive your request within 7 days of the date of purchase
+to request a refund, please contact customer service
+you may cancel the auto-renewal of a subscription to a non-amazon service by visiting the detail page for the applicable alexa skill in your alexa app and adjusting your subscription settings
+you will not receive a refund of any fees already paid
+for subscriptions to amazon services, see the terms of use for the applicable subscription for information on refund eligibility and cancellation terms
+how does alexa work with smart home devices
+alexa enables you to control and check the status of a variety of smart home devices, such as lights, electrical sockets, cameras and thermostats
+see compatible smart home devices
+you can connect compatible smart home devices to alexa using alexa smart home skills
+you can also directly connect certain smart home devices to echo devices with a built-in smart home hub like echo plus
+we may automatically update the firmware for certain devices on behalf of the applicable manufacturer
+we may receive information about third-party smart home devices you connect to alexa, such as device type, name, features, status and usage history
+what are kids skills and how do i enable them
+kids skills are skills that have been identified by the developer as directed to children
+kids skills are turned off by default
+you can turn all kids skills on in the settings menu of your alexa app
+you can turn off all kids skills at any time by changing that same setting
+when turned off, kids skills cannot be used on your account
+you can find more information about each kid skill, including any terms provided by the developer of the skill, on the detail page for the skill in your alexa app
+how do voice profiles work
+you can create a voice profile, so alexa can call you by name and do more to personalise your experience
+when you create a voice profile, alexa uses recordings of your voice to create an acoustic model of your voice characteristics
+alexa stores these acoustic models in the cloud
+if a user stops using alexa and their voice is not recognised for three years, we will automatically delete the acoustic model for their voice
+if alexa recognises your voice when you are using a third-party skill, that skill may receive a numeric identifier that allows it to distinguish you from other users in your household to better personalise your experience
+you can turn off personalisation of third-party skills based on recognised voices, or delete any voice profile you've created in the alexa app
+deleting the voice profile you’ve created will also delete the voice recordings you said to teach alexa your voice
+what is local voice control
+local voice control allows alexa to fulfill a limited set of requests on select echo devices when the device is not connected to the internet, such as requests to control supported lights, plugs, and electrical sockets
+after your echo device regains its internet connection, the recording of your request is sent to the cloud and available to review in settings
+history in the alexa app
+you can turn local voice control off by visiting settings
+device settings in the alexa app
+how does amazon use the mobile device permissions i grant in the alexa app
+the alexa app requests mobile device permissions to access certain functionality or information (e
+microphone, camera and location)
+below is a list of certain permissions the alexa app may request, along with a description of how amazon currently uses those permissions
+you can manage the permissions you grant to the alexa app in the settings for your mobile device
+we use your mobile device's geolocation to provide results (e
+, weather, traffic, restaurant recommendations) based on where you are using the app and to enable certain features
+on some mobile devices, we also need the location permission to discover and connect to nearby bluetooth devices and wi-fi networks to help you set up certain alexa-enabled devices
+we use your mobile device's microphone to hear your requests and to enable alexa communication features
+on some mobile devices, we also need the microphone permission to process audio from your alexa-enabled bluetooth devices
+we use your mobile device contacts to help you call, message, and connect with your friends and family
+to learn more about how we use your contacts for alexa communication, please see the alexa communication faqs below
+to enable certain alexa features, we may need to store data locally on the device
+for example, to improve the performance of the app, we may store certain data locally
+we use the camera on your mobile device to enable video calling and simplify device setup (e
+, scanning a device barcode to initiate setup)
+we use notifications to send you alerts, such as when you receive new messages or calls
+let the app always run in background
+to use certain alexa-enabled devices (e
+, echo auto) and features, the alexa app needs permission to always run in the background on certain mobile devices
+what is alexa communication
+this free feature brings the simplicity of echo's hands-free experience, the benefit of echo's microphone array, plus the high-quality sound of the echo speaker, to calling and messaging
+now you can quickly call and send/receive voice messages for your family and friends via alexa—all just by using your voice
+using your supported echo device, simply say "alexa, call grandma’s mobile," "alexa, call 03069990978" or "alexa, send a message to julie"
+what devices support alexa communication
+you can send and receive alexa messages (and place and receive alexa calls) as well as place outbound calls to most phone numbers in the united kingdom, united states, canada, and mexico (excluding 999, 112, 911 and other emergency numbers) using
+a supported echo device and the alexa app on supported mobile phones and tablets
+alexa communication supports receiving alexa calls but does not support inbound calls from phone numbers
+alexa communication may also be available on some third party alexa-enabled products
+features may vary by device
+how does alexa messaging work
+you can use supported echo devices and the alexa app to send voice and text messages to another alexa communication user (e
+on echo, "alexa, send a message to mum" or, on the alexa app, tapping on the message icon on mum's contact card)
+messages are processed in the cloud to convert voice messages to text, and vice versa
+when you receive a message on a supported echo device, you will hear an audio tone and see a visual notification
+you will be able to retrieve the message on your supported echo devices by saying "alexa, play my messages"
+when you receive a message, you also will receive a notification on your mobile phone or tablet, and you will be able to view and play the message in the alexa app
+alexa messaging does not support sending or receiving text messages to or from phone numbers
+how does alexa calling work
+you can use supported echo devices and the alexa app to call another alexa communication user (e
+on echo, "alexa, call mum" or, on the alexa app, tapping on the calling icon on mum's contact card)
+when you receive alexa calls on your supported echo devices, alexa will tell you that you have an incoming call and identify the caller
+you also will see a green light indicator on echo devices without a screen, and an incoming call screen on echo devices with a screen
+you can say "alexa, answer" to pick up the call
+either person can end the call by saying "alexa, hang up"
+when you receive a call, you also will receive a notification on your mobile phone or tablet and will see an incoming call screen in the alexa app that lets you answer the call
+can i call phone numbers using alexa
+yes, you can use supported echo devices and the alexa app to place outbound calls to most phone numbers in the united kingdom, united states, canada, and mexico for free (e
+, on echo, "alexa, call 03069990978" or "alexa, call mom's mobile phone")
+if you are already an alexa communication user, no additional set up is required - you can start making calls straight away
+if you are not an alexa communication user, you will first need to register for alexa communication
+on calls made using alexa calling, we will display the mobile phone number registered for the alexa communication service associated with that device as a caller id
+you can disable the caller id feature through your contact card in the alexa app
+note that you cannot call 999, 112 or other emergency number using this feature (for more information, see the below faq "can i text or call emergency services using alexa communication
+for information on placing calls using echo connect, see the below faq "how does calling on echo connect work
+can i text or call emergency services using alexa communication
+no, emergency services, such as 999 or 112, are not available through alexa communication
+you should ensure that you can contact your relevant emergency services providers through a mobile, landline telephone, or other service
+for information on calling emergency services using echo connect, see the below faq "can i call emergency services with echo connect
+how do i add and delete contacts for alexa communication
+when you register for alexa communication on your alexa app, you will be asked to import your contacts from your device, which will then appear as contacts in your alexa app
+when you open the alexa app, your contacts are auto-updated from your tablet or mobile phone
+you may disable contact import in the alexa app
+if contact import is disabled, contacts you previously imported from your device will be deleted
+you may also manually add contacts to our alexa contact list in the alexa app or at alexa
+you can also delete each contact you manually added by selecting the applicable contact card
+do i need to give permission for others to call or message me
+first you must register for alexa communication
+once you are registered, if another alexa communication user has your contact details, they can reach you via alexa
+who will receive my calls or messages
+if you call or message another alexa communication user, the call or message will go to all supported echo devices associated with that contact, as well as that contact's alexa app
+if you want to call that same contact's mobile phone number, you can ask alexa (e
+"alexa, call jane smith's mobile")
+if you call someone who is not an alexa communication user, the call will go to their phone number as it is stored in your contact book
+what is do not disturb mode
+do not disturb puts your echo device on silent, meaning you will not receive calls or messages via alexa
+simply say "alexa, turn on do not disturb" or you can turn it on by visiting devices icon
+do not disturb in the alexa app
+when you're ready to receive calls and messages again, just say "alexa, turn off do not disturb"
+how do i remove messages from my conversation list
+on the ios version of the alexa app, swipe a conversation to the left and click "remove"
+on the android version of the alexa app, long-press on a conversation to select it, then tap the trash icon in the top navigation bar
+note that removing a conversation from your conversation list does not remove it from your contact's conversation list
+it is not possible for you to remove sent or received messages from a contact's conversation list
+how do i de-register from alexa communication
+you can call customer service, and we will help you de-register from alexa communication
+what is drop in
+the optional drop in feature will let you easily connect with your closest friends and family on supported echo devices
+to give drop in permission to yourself (and your household) or a contact (and that contact’s household), select the applicable contact card and turn on drop in
+in addition, you can give drop in permission to yourself (and your household) by simply saying “alexa, drop in on home”
+to turn off drop in for your household, you can simply say “alexa, disable drop in”
+alternatively, you can turn on do not disturb on one, or all, echo devices by saying "alexa, turn on do not disturb"
+you also may disable drop in for a specific device via devices icon
+communication in the alexa app
+when someone drops in on my device, what do they hear and see
+when someone drops in on your supported echo device, you will hear an audio tone and see a visual indicator that someone is dropping in on you
+the contact on the other side of the drop in will automatically hear audio through your device
+you may end the drop in by saying "alexa, hang up"
+on echo devices without a screen, you will see a green in-call light indicator showing that a drop in is in progress
+if a contact with the alexa app or an echo device with a screen drops in on your echo device with a screen, they will see a frosted glass view from your device's camera
+the frosted glass view will automatically transition to clear video over a short period of time
+you will see the contact's video (and a picture-in-picture view of your own video) when the drop in is in progress
+you can end a drop in by tapping the end icon on the screen, or you can disable the camera while continuing an audio conversation by saying "alexa, video off" or tapping the video off icon on the screen
+what is a recently active indicator
+if household members or contacts have been granted drop in permission, they will see a recently active indicator on their echo show, echo spot or alexa app displaying whether someone is nearby your supported echo devices
+interactions with alexa, and motion sensors on echo show, will be used to determine whether your device has been recently active
+how do i disable drop in
+if you have granted your household members drop in permission, you can disable it by saying “alexa, disable drop in” or turning off drop in on your own contact card
+if you have granted any other contacts drop in permission, you can disable that on their contact cards
+you also may disable drop in for a specific device via devices icon
+communication in the alexa app
+the announcements feature lets you easily make announcements to other supported alexa-enabled devices within your household, like a one-way intercom
+simply say, “alexa, announce that dinner’s ready” and “dinner’s ready” will then be announced in your voice to all supported devices in your household
+you can block announcements on one, or all, supported devices by turning on do not disturb – simply say "alexa, turn on do not disturb"
+unlike drop in, announcements are one-way only
+to respond to an announcement, you can make a new announcement or start a drop in as a two-way intercom
+can i call or message via alexa using my existing phone service
+yes, on certain alexa-enabled products (like echo buds), alexa connects to your phone and allows you to send and receive calls and messages via alexa using your existing phone service and talk/text plan
+when you ask alexa to place a call or message, alexa will use alexa communication to complete those requests if possible
+however, if the recipient is not another alexa communication user, or you wish to contact a specific phone number, alexa can use your existing phone service to place that call or message (features may vary by device and operating system and charges from your phone service may apply)
+alexa may not be able to process your request in the event of network or connectivity issues
+if you are unable to place your call via alexa, you should dial the number directly from your phone
+can i link third-party communications services with alexa communication
+yes, you can link select third-party communications services with alexa communication
+simply go to “communications” within settings in the alexa app
+amazon may import and save your contacts from your third-party communications service in the cloud to help you connect with your friends and family
+some features may not be available via alexa, and charges from the third-party communications service may apply for use of some features
+you should check any terms applicable to the third-party communications service (including whether emergency services are available) prior to linking your account with alexa
+alexa-enabled echo devices faqs
+alexa-enabled echo devices, like amazon echo, echo show and echo auto are hands free alexa-enabled devices
+for information on echo buds, see the echo buds faqs
+for information on echo connect, see the echo connect faqs
+how do echo devices recognise the wake word
+echo devices are designed to detect only your chosen wake word (alexa, amazon, computer or echo)
+the device detects the wake word by identifying acoustic patterns that match the wake word
+once the word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word
+no audio is stored or sent to the cloud unless the device detects the wake word (or alexa is activated by pressing a button)
+how do i know when echo devices are streaming audio to the cloud
+when echo devices detect the wake word, or when the action button available on some echo devices is pressed to activate alexa, a visual indicator appears on the device to indicate that the device is recording your request to stream to the cloud
+for instance, a light ring on the amazon echo will turn blue or a blue bar will appear on echo show
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you can turn on follow-up mode to enable alexa to respond to a series of requests without repeating the wake word
+you can also configure echo devices to play a short audible tone any time audio is sent to the cloud within settings in the alexa app
+certain echo devices, like echo input, have the short audible tone turned on by default
+can i turn off the microphones on echo devices
+echo devices are equipped with a microphone off button
+when the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated
+when the microphones are turned off, your device cannot record and stream audio to the cloud, even when you say your chosen wake word
+how do echo devices with a screen know to turn on the screen
+echo devices with a screen will turn on the screen when they detect the wake word or motion in view of the camera or when you interact with the device's display or buttons
+how do i know when echo devices with a camera are streaming images or video to the cloud
+there will be an on-screen indicator whenever echo devices with a camera are streaming images or video to the cloud
+for instance, if a video call is active, the device’s screen will display a picture-in-picture view of the video being streamed to the cloud or will display a green "call in progress" bar at the bottom of the screen
+can i turn off the camera on echo devices with a camera
+you can turn off the camera on echo devices with a camera by pushing the microphone/camera off button on your device
+when the microphone/camera off button is pressed, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated
+some echo devices with a camera, like echo show 5, have an additional built-in camera shutter
+when the camera is turned off by pressing the microphone/camera off button or the camera shutter is covering the camera, the device will not detect motion in view of the camera and you will not be able to use any features that rely on the camera such as video calling
+echo buds are alexa-enabled wireless earbuds that use the alexa app on your mobile device to access alexa
+how do echo buds recognize the wake word
+echo buds are designed to detect the wake word "alexa" by identifying acoustic patterns that match the wake word
+once the wake word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word
+no audio is stored or sent to amazon’s cloud unless the device detects the wake word
+echo buds are designed to optimize for audio input from the person wearing them and detect the wake word only if you have at least one earbud in your ear
+you can also use touch controls on your earbuds to invoke alexa or your mobile device’s native voice service (google assistant or siri)
+how do i know when echo buds are streaming audio to the cloud
+you will hear a short audible tone that plays after the wake word is recognized to indicate that the device is streaming audio to amazon’s cloud
+a tone will also play at the end of your request to indicate the connection has closed and the device is no longer streaming audio
+the audio stream includes a fraction of a second of audio before the wake word, and closes once your request has been processed
+can i turn off alexa wake word detection on echo buds
+you can turn off alexa wake word detection in the alexa app
+in addition, if you remove an earbud from your ear, access to alexa will be disabled for that earbud
+you can also mute the device’s microphones in the alexa app or by configuring a custom touch gesture
+when you mute the device’s microphones, the microphones will still have power so they can be used for echo buds’ active noise reduction and pass-through features
+when an earbud is placed in the echo buds charging case, the microphones on that earbud will turn off
+how does the alexa service on echo buds work if my mobile device’s lock screen has been enabled
+if your mobile device’s lock screen is on, you can still access many alexa features using the wake word
+you’ll be required to unlock your mobile device and open the alexa app to access other alexa features
+you will only need to do this once each time you use echo buds, as long as you continue to wear at least one earbud
+echo connect is an accessory that transforms any supported echo device into a hands-free speaker phone for your home phone line
+what do i need in order to use echo connect
+you need a home phone service (such as a landline or voip service), wi-fi, and a supported echo device
+one echo connect can support only one phone line, and only one echo connect can be registered per amazon account
+how does calling on echo connect work
+echo connect extends and is not a replacement for your traditional telephone service
+plug echo connect into your home phone jack or voip adapter
+you will also need to setup your supported echo device
+uk , or register for alexa communication in the alexa app in order to complete set up of your echo connect
+with echo connect, you can ask alexa to make calls using your home phone service to your contacts or to other numbers supported by your home phone service provider (e
+"alexa, call mom" or "alexa, call 03069990978)
+echo connect will display your home phone number as caller id, unless you disable caller id with your home phone service provider
+you can also use your supported echo devices to answer incoming calls to your home phone service (e
+"alexa, answer the phone")
+as echo connect uses your existing home phone service to make and receive calls, home phone service provider charges may apply
+some calling features you may use on your home phone (such as call waiting and three-way calling) are not available through echo connect
+what's the difference between alexa calling and echo connect
+by default, echo connect will use your home phone service to make and receive your calls
+however, you can choose whether you prefer to place outbound calls to most numbers in the united kingdom, united states, canada and mexico through either echo connect using your home phone service, or alexa calling
+simply go to settings, select echo connect, and select ‘outbound calls’
+if you select alexa calling, calls to most mobile and landline numbers in the united kingdom, united states, canada and mexico will be placed at no additional cost using the alexa calling service
+calls not supported by alexa calling, including 999, 112, 911 and other emergency numbers, premium numbers, and international numbers outside the united kingdom, united states, canada and mexico, will automatically be placed through echo connect using your home phone service
+the mobile number used to register for alexa communication will be displayed as a caller id for outbound calls made using alexa calling
+you can disable the caller id feature through your contact card in the alexa app
+alexa calling uses your echo device's internet connection to place calls
+for more information on alexa calling, see the above alexa communication faqs
+if you select echo connect, your home phone service will be used to place all calls and your home phone number will be displayed as caller id
+i have an echo connect but also use alexa calling
+how will my call to an alexa contact be processed
+if you want to call another alexa communication user, there are a few different ways your call may be processed
+if you specify just the name of the person you would like to call (e
+"alexa, call mum"), alexa will default to placing the call through alexa calling to mom's supported echo devices or the alexa app
+if you specify the name of the person and their phone type (e
+"alexa, call mum's mobile"), then, depending on what you have selected as your outbound calling preference, alexa will place the call to mum's mobile using either your home phone service through your echo connect, or alexa calling
+for more information, see the above faq "what's the difference between alexa calling and echo connect
+can i call emergency services with echo connect
+yes, calling emergency services as 999 or 112 through echo connect works just like dialling any other phone number
+simply say, "alexa, call 999”
+please note that if echo connect is used to call emergency numbers like 999, the location information given to the emergency service, if any, may be the address associated with the phone line connected to your echo connect, which may not be the same as the location of your echo device from which you are making the call
+echo connect will not function in the event of a power or broadband outage or other connectivity issues
+if you are unable to place your call through your echo connect, you should use your mobile, landline telephone, or other telephone service
+alexa on fire tablets faqs
+certain fire tablets support alexa hands-free when the screen is on and/or when the tablet is connected to power, or show mode, an immersive alexa experience that provides full-screen visual responses to voice commands
+learn more about how to access alexa on your fire tablet
+how do i activate alexa hands-free on my fire tablet
+you can turn on alexa hands-free in your device settings (settings
+alexa) by ensuring that both alexa and hands-free mode settings are enabled
+to enter show mode, swipe down from the quick actions menu and toggle show mode, or ask alexa to “switch to show mode
+how does alexa hands-free on my fire tablet recognise the wake word
+alexa on your fire tablet uses on-device keyword spotting to detect the wake word, even when your device is in standby mode (fire 7 and fire hd 8 (7th generation) tablets may not detect the wake word when the screen is off, if the tablet is not connected to power)
+when the wake word is detected, alexa on your fire tablet streams audio to the cloud, including a fraction of a second of audio before the wake word
+how do i know when alexa on my fire tablet is streaming my voice to the cloud
+when alexa on your fire tablet detects the wake word, or when you press and hold the home button to access alexa, a blue line appears at the bottom of your screen to indicate that alexa is streaming audio to the cloud
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you will also hear a short audible tone that plays after the wake word is recognised, to indicate that the device is streaming audio, and at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio
+how does alexa hands-free on my fire tablet work when i lock my tablet with a passcode
+when alexa hands-free is activated and your tablet is passcode-locked, you can access certain alexa features using the wake word
+you'll be required to enter your passcode to access other alexa features
+if you prefer to no longer be asked to enter your passcode to access alexa features, you can designate a wi-fi network as a trusted network in device settings (settings
+trusted networks) and connect your fire tablet to a trusted network
+as a security precaution, if your tablet is passcode-locked, you may be prompted to enter your passcode to exit show mode—even if you're connected to a trusted network
+how does alexa know to turn on the screen when my fire tablet is in show mode
+when in show mode, your tablet will turn on the screen when it detects the wake word or motion in view of the camera or when you interact with the devices' display or buttons
+how do i know when alexa on my fire tablet is streaming images or video to the cloud
+there will be an on-screen indicator whenever alexa is streaming images or video to the cloud
+for instance, if a video call is active, the device's screen will display a picture-in-picture view of the video being streamed to the cloud
+how can i turn off alexa hands-free
+you can turn off alexa hands-free in a few different ways
+by swiping down from the quick actions menu and selecting the alexa microphone/camera on/off icon (in show mode) or the alexa hands-free icon (outside show mode), by simultaneously pressing and holding the device’s volume up and down buttons for three seconds, or through your device settings (settings
+when in show mode, a red bar and icon will appear to let you know that alexa hands-free on your fire tablet is turned off
+outside of show mode, an icon will appear in your status bar
+your fire tablet will not respond to the wake word – or, in show mode, detect motion in view of the camera - until you turn alexa hands-free back on
+if you turn off alexa hands-free, you will still be able to access alexa when your tablet is not in show mode by pressing and holding the home button
+alexa on amazon fire tv faqs
+alexa is available on all current generation fire tv streaming media players and fire tv edition devices in the uk
+fire tv cube is a far-field alexa-enabled streaming media player
+other fire tv streaming media players and fire tv edition devices are alexa-enabled devices on which you can access alexa by pressing the microphone button on your alexa voice remote
+how do i use alexa on fire tv streaming media players or fire tv edition devices
+to use alexa on your fire tv cube, you may say the wake word to activate alexa in hands-free mode, or you may use the voice remote or the fire tv app
+to use alexa on another fire tv streaming media player or a fire tv edition device, you may use the voice remote or the fire tv app, or you may pair your fire tv streaming media player or fire tv edition device with a compatible alexa-enabled device
+you can use alexa on fire tv streaming media players or fire tv edition devices to search using your voice
+voice search is faster and less frustrating than typing on a traditional alphabet grid
+to use voice search, say the wake word, or press and hold the microphone button on your voice remote or fire tv app, and say the movie, tv title, actor, genre, or director that you want
+if you’re using the voice remote, release the microphone button when you're done speaking
+how does fire tv cube recognize the wake word
+fire tv cube uses on-device keyword spotting to detect the wake word
+when it detects the wake word, it streams audio to the cloud, including a fraction of a second of audio before the wake word
+how do i know when my fire tv streaming media player or fire tv edition device is streaming my voice to the cloud
+when you press the microphone button on the voice remote, a blue light bar appears on the fire tv interface to indicate that the device is streaming audio to the cloud
+in addition, when fire tv cube detects the wake word, or when you press the action button on top of the device, the light bar on the front of your device turns blue to indicate that the device is streaming audio to the cloud
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you can turn on follow-up mode to enable alexa to respond to a series of requests without repeating the wake word
+on some devices, within sounds settings in the alexa app ( devices icon
+sounds ), you can enable a 'start of request sound,' a short audible tone that plays after the wake word is recognized to indicate that the device is streaming audio
+you can also enable an 'end of request sound' that will play a short audible tone at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio
+can i turn off the microphone on fire tv cube
+yes, you can turn off the microphone of fire tv cube by pushing the microphone on/off button on the top of your device
+when the microphone on/off button turns red, the microphone is off
+the device will not respond to the wake word, nor respond to the action button, until you reactivate the microphone by pushing the microphone on/off button again
+even when the device's microphone is off, fire tv cube will still respond to requests you make through your voice remote
+can i use alexa on my fire tv cube if my television is off
+yes, alexa will respond to requests even when your television is off
+depending on your request, alexa may turn on your television to fulfill your request (for example, "launch netflix," or "find comedies
+for common questions about alexa, echo devices and privacy, see the alexa privacy hub
+was this information helpful
+thank you for your feedback
+please select what best describes the information
+this information is confusing or wrong
+this isn't the information i was looking for
+i don't like this policy
+while we're unable to respond directly to your feedback,
+we'll use this information to improve our online help
+alexa and alexa device terms alexa terms of use
+alexa and alexa device faqs alexa, echo devices, and your privacy amazon echo spot power consumption about kid skills amazon echo power consumption amazon echo show device power consumption amazon echo (2nd generation) power consumption amazon echo plus device power consumption
+deliver books, apps to your device
+deliver books, apps to your device
+view purchased books & apps
+view purchased books & apps
+digital and device forum
+digital and device forum
+get to know us careers about us uk modern slavery statement make money with us sell on amazon sell under private brands sell on amazon business sell on amazon handmade sell your services on amazon associates programme fulfilment by amazon seller fulfilled prime advertise your products independently publish with us amazon pay › see all amazon payment methods amazon platinum mastercard amazon classic mastercard amazon money store gift cards amazon currency converter payment methods help shop with points top up your account top up your account in store let us help you covid-19 and amazon track packages or view orders delivery rates & policies amazon prime returns & replacements recycling manage your content and devices amazon mobile app amazon assistant customer service
+australia brazil canada china france germany india italy japan mexico netherlands singapore spain turkey united arab emirates united states
+stream millions of songs
+books, art & collectables
+audiobook publishing made easy
+scalable cloud computing services
+books with free delivery worldwide
+book reviews & recommendations
+experienced pros happiness guarantee
+movies, tv & celebrities
+indie digital publishing made easy
+2-hour delivery on everyday essentials
+deep discounts open-box products
+service for business customers
+we believe in real food
+pass it on, trade it in, give it a second life
+conditions of use & sale privacy notice cookies notice interest-based ads notice © 1996-2020, amazon
+unlimited one-day delivery and more
+prime members enjoy fast & free shipping, unlimited streaming of movies and tv shows with prime video and many more exclusive benefits
+there's a problem loading this menu at the moment
+learn more about amazon prime
+skip to main content
+free delivery on your first order
+select the department you want to search in
+health & personal care
+home & business services
+musical instruments & dj equipment
+pc & video games
+stationery & office supplies
+gift cards & top up
+help & customer service
+search our help pages
+amazon device support › alexa help › alexa and alexa device terms, warranties and notices ›
+alexa and alexa device faqs
+alexa-enabled echo devices faqs
+alexa on fire tablets faqs
+alexa on fire tv faqs
+how do i use alexa
+alexa allows you to ask questions and make requests using just your voice
+for instance, you can ask alexa a question, such as "what is the weather today in london
+", or tell alexa to do something, like "add cat food to my shopping list," or "play jazz
+" when you speak to alexa, a recording of what you asked alexa is sent to amazon’s cloud so we can process and respond to your request
+you access alexa differently based on the type of device you are using
+for “hands free” devices, like amazon echo, you access alexa by saying the wake word (alexa, echo, amazon or computer)
+for other devices, like certain fire tablets, you access alexa by pressing a button
+is alexa recording all my conversations
+by default, echo devices are designed to detect only your chosen wake word (alexa, amazon, computer or echo)
+the device detects the wake word by identifying acoustic patterns that match the wake word
+no audio is stored or sent to the cloud unless the device detects the wake word (or alexa is activated by pressing a button)
+what happens when i speak to alexa
+when you speak to alexa, a recording of what you asked alexa is sent to amazon’s cloud where we process your request and other information to respond to you
+for example, when you ask “alexa, play top hits on amazon music” we use the recording of your request and information from amazon music to play top hits
+how does alexa minimize the amount of data sent to the cloud
+alexa and echo devices are designed to record as little audio as possible and minimize the amount of background noise streamed to the cloud
+by default, alexa-enabled devices only stream audio to the cloud if the wake word is detected (or alexa is activated by pressing a button)
+when an alexa-enabled device detects the wake word and begins streaming audio to the cloud, alexa performs a "cloud verification" of the wake word using the more powerful processing capabilities of the cloud to double-check the audio to confirm detection of the wake word
+if the cloud verification does not also detect the wake word, alexa stops processing the audio and ends the audio stream to the cloud
+if alexa confirms that the wake word was spoken, alexa will continually attempt to determine when your request has ended and then immediately end the audio stream
+what about "false wakes"
+in some cases, your alexa-enabled device might interpret another word or sound as the wake word (for instance, the name "alex" or someone saying "alexa" on the radio or television)
+when this happens, we call that a "false wake
+" we have a team of world-class scientists and engineers dedicated to continually improving our wake word detection technology and preventing false wakes from happening, including through the cloud verification mechanism described in the faq "how does alexa minimize the amount of data sent to the cloud
+anytime your echo device detects the wake word, a visual or audible indicator will signal it is recording audio to stream to the cloud, and you can review and delete the voice recordings associated with your account (including any audio resulting from a false wake) in your voice history available in the alexa app at settings
+alexa privacy or https
+can i review and delete my voice recordings
+you can review voice recordings associated with your account and delete those voice recordings one by one, by date range, by alexa-enabled device, or all at once by visiting privacy in settings in the alexa app or www
+from either page, you can also choose to have your voice recordings older than 3 or 18 months deleted automatically
+and you can delete all those voice recordings associated with your account all at once for each of your alexa-enabled devices and apps by visiting manage your content and devices
+you can also enable the ability to delete your recordings by voice
+once enabled, you can delete the voice recording of your last request by saying "alexa, delete what i just said" or you can delete all the voice recordings from your account for the day by saying "alexa, delete everything i said today
+" to enable deletion by voice go to settings
+review voice history or https
+when enabled, anyone with access to your alexa-enabled devices can ask alexa to delete voice recordings from your account
+deleting voice recordings may degrade your alexa experience
+if you have changed your default marketplace while using an alexa-enabled product, you will need to perform this step for each marketplace to delete all voice recordings associated with your account
+what happens when i delete my voice recordings
+when you delete voice recordings associated with your account, we will delete the voice recordings and the text transcripts of your request that you selected from amazon’s cloud
+we may still retain other records of your alexa interactions, including records of actions alexa took in response to your request
+this allows us, for instance, to continue to provide your reminders, timers, and alarms, process your orders, and show your shopping and to-do lists and messages sent through alexa communications
+if your request was processed by an alexa skill, deleting your voice recordings does not delete any information retained by the developer of that skill (skill developers do not receive voice recordings)
+for more information on alexa skills, refer to the faq "how do alexa skills work
+for more information on removing messages sent through alexa communications, refer to the faq "how do i remove messages from my conversation list
+for more information on deleting the voice recordings you said to teach alexa your voice when you created a voice profile, refer to the faq "how do voice profiles work”
+what is alexa's voice history feature
+voice history is a feature that allows you to play the audio of your voice recordings that were streamed to the cloud, review the text transcript of what alexa thought you said, and review alexa’s response
+this feature can help you better understand how alexa works and what alexa is and is not recording
+you can also use it to recall answers alexa gave you previously, such as the name of a restaurant alexa recommended
+if alexa makes a mistake, you can use this feature to see what may have gone wrong, such as whether alexa misunderstood a particular word or phrase
+you can access alexa’s voice history by visiting settings
+review voice history in the alexa app or https
+you can also help us improve our voice services by providing feedback within your voice history
+how are my voice recordings used
+alexa uses your voice recordings and other information, including from third-party services, to answer your questions, fulfill your requests, and improve your experience and our services
+we associate your requests with your amazon account to allow you to review your voice recordings, access other amazon services (e
+, so you can ask alexa to read your kindle books and play audiobooks from audible), and to provide you with a more personalized experience
+for example, keeping track of the songs you have listened to helps alexa choose what songs to play when you say, "alexa, play music
+at times, alexa can provide you with recommendations based on your requests
+for example, alexa may recommend alexa skills you might like based on the alexa skills you use
+how do my voice recordings improve alexa
+alexa is a continuously improving service that is designed to get smarter every day
+for example, we use your requests to alexa to train our speech recognition and natural language understanding systems using machine learning
+training alexa with real world requests from a diverse range of customers is necessary for alexa to respond properly to the variation in our customers’ speech patterns, dialects, accents, and vocabulary and the acoustic environments where customers use alexa
+this training relies in part on supervised machine learning, an industry-standard practice where humans review an extremely small sample of requests to help alexa understand the correct interpretation of a request and provide the appropriate response in the future
+for example, a human reviewing a customer’s request for the weather in austin can identify that alexa misinterpreted it as a request for the weather in boston
+our supervised learning process includes multiple safeguards to protect customer privacy
+you can manage the use of your voice recordings to improve our services and develop new features by visiting settings
+manage how your data improves alexa in the alexa app
+how do alexa skills work
+skills are voice-driven alexa capabilities
+you can view and enable skills in your alexa app and enable certain skills by voice
+you can use a skill by saying a specific phrase, called the invocation name
+when you use a skill, we may exchange related information with the developer of that skill, such as your answers when you play a trivia skill, your postcode when you ask for the weather, or the content of your requests (but not the voice recordings)
+if you make a request to alexa without using a skill invocation name, we may send the content of your request to several skills, and enable and launch the skill we think is best able to respond to your request
+the skills portion of your alexa app contains more information about skills, such as applicable privacy policies and terms provided by skill developers
+by default, we do not share your personal information with skill developers
+you can choose to grant the developer of a skill permission to access additional information associated with your account (such as your name and email address with a restaurant booking skill to make a reservation)
+you can see and manage the skills that you granted permission to access specific additional information through settings
+alexa privacy or https
+how does voice purchasing work
+prime members can ask alexa to order or reorder eligible products available for sale through the amazon website
+you can also subscribe to eligible services using alexa, or purchase products and services through alexa skills using your default payment and delivery settings
+you can require a speakable confirmation code, turn purchasing off, and see product and order details in your alexa app or alexa
+uk for those orders
+just like orders placed through the amazon website, orders placed through alexa are subject to amazon
+uk's conditions of use & sale and, in the case of a subscription for a service, the terms for the applicable service
+some alexa skills allow you to purchase non-digital products or services from the developer of the skill (for instance, order food through a restaurant's skill) via amazon pay using your default payment and delivery settings
+you can view your amazon pay order history and find additional information for those purchases on the amazon pay website
+some other alexa skills allow you to purchase products and services from the developer of the skill using a payment method you provide directly to the developer
+your voice purchasing settings may not apply to those purchases
+can i turn off voice purchasing
+yes, alexa has voice purchasing settings
+voice purchasing in your alexa app to turn off voice purchasing from amazon
+you can also require an optional confirmation code that alexa will ask you to say out loud when you want to place an order from amazon
+what are the return and cancellation policies for products and content i order using alexa
+for information on return policies applicable to products purchased on amazon using alexa, see about our returns policies
+in addition, non-digital products purchased using alexa are eligible for free returns
+to return a product purchased using alexa, process your return as normal in the returns centre
+we’ll automatically refund you any delivery charges applied to the return
+you should see the delivery refund within 7 days of receiving your product refund
+amazon's return policies do not apply to purchases of non-digital products or services made through third-party alexa skills (for instance, a food order placed through a restaurant's skill)
+instead, the returns policy of the applicable skill developer applies
+however, the amazon pay a-to-z guarantee covers qualified purchases of physical products made through third-party alexa skills using amazon pay
+purchases of digital content are final
+however, if you accidentally purchase digital content or a subscription to a non-amazon service through alexa, that purchase is eligible for return and refund if we receive your request within 7 days of the date of purchase
+to request a refund, please contact customer service
+you may cancel the auto-renewal of a subscription to a non-amazon service by visiting the detail page for the applicable alexa skill in your alexa app and adjusting your subscription settings
+you will not receive a refund of any fees already paid
+for subscriptions to amazon services, see the terms of use for the applicable subscription for information on refund eligibility and cancellation terms
+how does alexa work with smart home devices
+alexa enables you to control and check the status of a variety of smart home devices, such as lights, electrical sockets, cameras and thermostats
+see compatible smart home devices
+you can connect compatible smart home devices to alexa using alexa smart home skills
+you can also directly connect certain smart home devices to echo devices with a built-in smart home hub like echo plus
+we may automatically update the firmware for certain devices on behalf of the applicable manufacturer
+we may receive information about third-party smart home devices you connect to alexa, such as device type, name, features, status and usage history
+what are kids skills and how do i enable them
+kids skills are skills that have been identified by the developer as directed to children
+kids skills are turned off by default
+you can turn all kids skills on in the settings menu of your alexa app
+you can turn off all kids skills at any time by changing that same setting
+when turned off, kids skills cannot be used on your account
+you can find more information about each kid skill, including any terms provided by the developer of the skill, on the detail page for the skill in your alexa app
+how do voice profiles work
+you can create a voice profile, so alexa can call you by name and do more to personalise your experience
+when you create a voice profile, alexa uses recordings of your voice to create an acoustic model of your voice characteristics
+alexa stores these acoustic models in the cloud
+if a user stops using alexa and their voice is not recognised for three years, we will automatically delete the acoustic model for their voice
+if alexa recognises your voice when you are using a third-party skill, that skill may receive a numeric identifier that allows it to distinguish you from other users in your household to better personalise your experience
+you can turn off personalisation of third-party skills based on recognised voices, or delete any voice profile you've created in the alexa app
+deleting the voice profile you’ve created will also delete the voice recordings you said to teach alexa your voice
+what is local voice control
+local voice control allows alexa to fulfill a limited set of requests on select echo devices when the device is not connected to the internet, such as requests to control supported lights, plugs, and electrical sockets
+after your echo device regains its internet connection, the recording of your request is sent to the cloud and available to review in settings
+history in the alexa app
+you can turn local voice control off by visiting settings
+device settings in the alexa app
+how does amazon use the mobile device permissions i grant in the alexa app
+the alexa app requests mobile device permissions to access certain functionality or information (e
+microphone, camera and location)
+below is a list of certain permissions the alexa app may request, along with a description of how amazon currently uses those permissions
+you can manage the permissions you grant to the alexa app in the settings for your mobile device
+we use your mobile device's geolocation to provide results (e
+, weather, traffic, restaurant recommendations) based on where you are using the app and to enable certain features
+on some mobile devices, we also need the location permission to discover and connect to nearby bluetooth devices and wi-fi networks to help you set up certain alexa-enabled devices
+we use your mobile device's microphone to hear your requests and to enable alexa communication features
+on some mobile devices, we also need the microphone permission to process audio from your alexa-enabled bluetooth devices
+we use your mobile device contacts to help you call, message, and connect with your friends and family
+to learn more about how we use your contacts for alexa communication, please see the alexa communication faqs below
+to enable certain alexa features, we may need to store data locally on the device
+for example, to improve the performance of the app, we may store certain data locally
+we use the camera on your mobile device to enable video calling and simplify device setup (e
+, scanning a device barcode to initiate setup)
+we use notifications to send you alerts, such as when you receive new messages or calls
+let the app always run in background
+to use certain alexa-enabled devices (e
+, echo auto) and features, the alexa app needs permission to always run in the background on certain mobile devices
+what is alexa communication
+this free feature brings the simplicity of echo's hands-free experience, the benefit of echo's microphone array, plus the high-quality sound of the echo speaker, to calling and messaging
+now you can quickly call and send/receive voice messages for your family and friends via alexa—all just by using your voice
+using your supported echo device, simply say "alexa, call grandma’s mobile," "alexa, call 03069990978" or "alexa, send a message to julie"
+what devices support alexa communication
+you can send and receive alexa messages (and place and receive alexa calls) as well as place outbound calls to most phone numbers in the united kingdom, united states, canada, and mexico (excluding 999, 112, 911 and other emergency numbers) using
+a supported echo device and the alexa app on supported mobile phones and tablets
+alexa communication supports receiving alexa calls but does not support inbound calls from phone numbers
+alexa communication may also be available on some third party alexa-enabled products
+features may vary by device
+how does alexa messaging work
+you can use supported echo devices and the alexa app to send voice and text messages to another alexa communication user (e
+on echo, "alexa, send a message to mum" or, on the alexa app, tapping on the message icon on mum's contact card)
+messages are processed in the cloud to convert voice messages to text, and vice versa
+when you receive a message on a supported echo device, you will hear an audio tone and see a visual notification
+you will be able to retrieve the message on your supported echo devices by saying "alexa, play my messages"
+when you receive a message, you also will receive a notification on your mobile phone or tablet, and you will be able to view and play the message in the alexa app
+alexa messaging does not support sending or receiving text messages to or from phone numbers
+how does alexa calling work
+you can use supported echo devices and the alexa app to call another alexa communication user (e
+on echo, "alexa, call mum" or, on the alexa app, tapping on the calling icon on mum's contact card)
+when you receive alexa calls on your supported echo devices, alexa will tell you that you have an incoming call and identify the caller
+you also will see a green light indicator on echo devices without a screen, and an incoming call screen on echo devices with a screen
+you can say "alexa, answer" to pick up the call
+either person can end the call by saying "alexa, hang up"
+when you receive a call, you also will receive a notification on your mobile phone or tablet and will see an incoming call screen in the alexa app that lets you answer the call
+can i call phone numbers using alexa
+yes, you can use supported echo devices and the alexa app to place outbound calls to most phone numbers in the united kingdom, united states, canada, and mexico for free (e
+, on echo, "alexa, call 03069990978" or "alexa, call mom's mobile phone")
+if you are already an alexa communication user, no additional set up is required - you can start making calls straight away
+if you are not an alexa communication user, you will first need to register for alexa communication
+on calls made using alexa calling, we will display the mobile phone number registered for the alexa communication service associated with that device as a caller id
+you can disable the caller id feature through your contact card in the alexa app
+note that you cannot call 999, 112 or other emergency number using this feature (for more information, see the below faq "can i text or call emergency services using alexa communication
+for information on placing calls using echo connect, see the below faq "how does calling on echo connect work
+can i text or call emergency services using alexa communication
+no, emergency services, such as 999 or 112, are not available through alexa communication
+you should ensure that you can contact your relevant emergency services providers through a mobile, landline telephone, or other service
+for information on calling emergency services using echo connect, see the below faq "can i call emergency services with echo connect
+how do i add and delete contacts for alexa communication
+when you register for alexa communication on your alexa app, you will be asked to import your contacts from your device, which will then appear as contacts in your alexa app
+when you open the alexa app, your contacts are auto-updated from your tablet or mobile phone
+you may disable contact import in the alexa app
+if contact import is disabled, contacts you previously imported from your device will be deleted
+you may also manually add contacts to our alexa contact list in the alexa app or at alexa
+you can also delete each contact you manually added by selecting the applicable contact card
+do i need to give permission for others to call or message me
+first you must register for alexa communication
+once you are registered, if another alexa communication user has your contact details, they can reach you via alexa
+who will receive my calls or messages
+if you call or message another alexa communication user, the call or message will go to all supported echo devices associated with that contact, as well as that contact's alexa app
+if you want to call that same contact's mobile phone number, you can ask alexa (e
+"alexa, call jane smith's mobile")
+if you call someone who is not an alexa communication user, the call will go to their phone number as it is stored in your contact book
+what is do not disturb mode
+do not disturb puts your echo device on silent, meaning you will not receive calls or messages via alexa
+simply say "alexa, turn on do not disturb" or you can turn it on by visiting devices icon
+do not disturb in the alexa app
+when you're ready to receive calls and messages again, just say "alexa, turn off do not disturb"
+how do i remove messages from my conversation list
+on the ios version of the alexa app, swipe a conversation to the left and click "remove"
+on the android version of the alexa app, long-press on a conversation to select it, then tap the trash icon in the top navigation bar
+note that removing a conversation from your conversation list does not remove it from your contact's conversation list
+it is not possible for you to remove sent or received messages from a contact's conversation list
+how do i de-register from alexa communication
+you can call customer service, and we will help you de-register from alexa communication
+what is drop in
+the optional drop in feature will let you easily connect with your closest friends and family on supported echo devices
+to give drop in permission to yourself (and your household) or a contact (and that contact’s household), select the applicable contact card and turn on drop in
+in addition, you can give drop in permission to yourself (and your household) by simply saying “alexa, drop in on home”
+to turn off drop in for your household, you can simply say “alexa, disable drop in”
+alternatively, you can turn on do not disturb on one, or all, echo devices by saying "alexa, turn on do not disturb"
+you also may disable drop in for a specific device via devices icon
+communication in the alexa app
+when someone drops in on my device, what do they hear and see
+when someone drops in on your supported echo device, you will hear an audio tone and see a visual indicator that someone is dropping in on you
+the contact on the other side of the drop in will automatically hear audio through your device
+you may end the drop in by saying "alexa, hang up"
+on echo devices without a screen, you will see a green in-call light indicator showing that a drop in is in progress
+if a contact with the alexa app or an echo device with a screen drops in on your echo device with a screen, they will see a frosted glass view from your device's camera
+the frosted glass view will automatically transition to clear video over a short period of time
+you will see the contact's video (and a picture-in-picture view of your own video) when the drop in is in progress
+you can end a drop in by tapping the end icon on the screen, or you can disable the camera while continuing an audio conversation by saying "alexa, video off" or tapping the video off icon on the screen
+what is a recently active indicator
+if household members or contacts have been granted drop in permission, they will see a recently active indicator on their echo show, echo spot or alexa app displaying whether someone is nearby your supported echo devices
+interactions with alexa, and motion sensors on echo show, will be used to determine whether your device has been recently active
+how do i disable drop in
+if you have granted your household members drop in permission, you can disable it by saying “alexa, disable drop in” or turning off drop in on your own contact card
+if you have granted any other contacts drop in permission, you can disable that on their contact cards
+you also may disable drop in for a specific device via devices icon
+communication in the alexa app
+the announcements feature lets you easily make announcements to other supported alexa-enabled devices within your household, like a one-way intercom
+simply say, “alexa, announce that dinner’s ready” and “dinner’s ready” will then be announced in your voice to all supported devices in your household
+you can block announcements on one, or all, supported devices by turning on do not disturb – simply say "alexa, turn on do not disturb"
+unlike drop in, announcements are one-way only
+to respond to an announcement, you can make a new announcement or start a drop in as a two-way intercom
+can i call or message via alexa using my existing phone service
+yes, on certain alexa-enabled products (like echo buds), alexa connects to your phone and allows you to send and receive calls and messages via alexa using your existing phone service and talk/text plan
+when you ask alexa to place a call or message, alexa will use alexa communication to complete those requests if possible
+however, if the recipient is not another alexa communication user, or you wish to contact a specific phone number, alexa can use your existing phone service to place that call or message (features may vary by device and operating system and charges from your phone service may apply)
+alexa may not be able to process your request in the event of network or connectivity issues
+if you are unable to place your call via alexa, you should dial the number directly from your phone
+can i link third-party communications services with alexa communication
+yes, you can link select third-party communications services with alexa communication
+simply go to “communications” within settings in the alexa app
+amazon may import and save your contacts from your third-party communications service in the cloud to help you connect with your friends and family
+some features may not be available via alexa, and charges from the third-party communications service may apply for use of some features
+you should check any terms applicable to the third-party communications service (including whether emergency services are available) prior to linking your account with alexa
+alexa-enabled echo devices faqs
+alexa-enabled echo devices, like amazon echo, echo show and echo auto are hands free alexa-enabled devices
+for information on echo buds, see the echo buds faqs
+for information on echo connect, see the echo connect faqs
+how do echo devices recognise the wake word
+echo devices are designed to detect only your chosen wake word (alexa, amazon, computer or echo)
+the device detects the wake word by identifying acoustic patterns that match the wake word
+once the word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word
+no audio is stored or sent to the cloud unless the device detects the wake word (or alexa is activated by pressing a button)
+how do i know when echo devices are streaming audio to the cloud
+when echo devices detect the wake word, or when the action button available on some echo devices is pressed to activate alexa, a visual indicator appears on the device to indicate that the device is recording your request to stream to the cloud
+for instance, a light ring on the amazon echo will turn blue or a blue bar will appear on echo show
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you can turn on follow-up mode to enable alexa to respond to a series of requests without repeating the wake word
+you can also configure echo devices to play a short audible tone any time audio is sent to the cloud within settings in the alexa app
+certain echo devices, like echo input, have the short audible tone turned on by default
+can i turn off the microphones on echo devices
+echo devices are equipped with a microphone off button
+when the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated
+when the microphones are turned off, your device cannot record and stream audio to the cloud, even when you say your chosen wake word
+how do echo devices with a screen know to turn on the screen
+echo devices with a screen will turn on the screen when they detect the wake word or motion in view of the camera or when you interact with the device's display or buttons
+how do i know when echo devices with a camera are streaming images or video to the cloud
+there will be an on-screen indicator whenever echo devices with a camera are streaming images or video to the cloud
+for instance, if a video call is active, the device’s screen will display a picture-in-picture view of the video being streamed to the cloud or will display a green "call in progress" bar at the bottom of the screen
+can i turn off the camera on echo devices with a camera
+you can turn off the camera on echo devices with a camera by pushing the microphone/camera off button on your device
+when the microphone/camera off button is pressed, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated
+some echo devices with a camera, like echo show 5, have an additional built-in camera shutter
+when the camera is turned off by pressing the microphone/camera off button or the camera shutter is covering the camera, the device will not detect motion in view of the camera and you will not be able to use any features that rely on the camera such as video calling
+echo buds are alexa-enabled wireless earbuds that use the alexa app on your mobile device to access alexa
+how do echo buds recognize the wake word
+echo buds are designed to detect the wake word "alexa" by identifying acoustic patterns that match the wake word
+once the wake word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word
+no audio is stored or sent to amazon’s cloud unless the device detects the wake word
+echo buds are designed to optimize for audio input from the person wearing them and detect the wake word only if you have at least one earbud in your ear
+you can also use touch controls on your earbuds to invoke alexa or your mobile device’s native voice service (google assistant or siri)
+how do i know when echo buds are streaming audio to the cloud
+you will hear a short audible tone that plays after the wake word is recognized to indicate that the device is streaming audio to amazon’s cloud
+a tone will also play at the end of your request to indicate the connection has closed and the device is no longer streaming audio
+the audio stream includes a fraction of a second of audio before the wake word, and closes once your request has been processed
+can i turn off alexa wake word detection on echo buds
+you can turn off alexa wake word detection in the alexa app
+in addition, if you remove an earbud from your ear, access to alexa will be disabled for that earbud
+you can also mute the device’s microphones in the alexa app or by configuring a custom touch gesture
+when you mute the device’s microphones, the microphones will still have power so they can be used for echo buds’ active noise reduction and pass-through features
+when an earbud is placed in the echo buds charging case, the microphones on that earbud will turn off
+how does the alexa service on echo buds work if my mobile device’s lock screen has been enabled
+if your mobile device’s lock screen is on, you can still access many alexa features using the wake word
+you’ll be required to unlock your mobile device and open the alexa app to access other alexa features
+you will only need to do this once each time you use echo buds, as long as you continue to wear at least one earbud
+echo connect is an accessory that transforms any supported echo device into a hands-free speaker phone for your home phone line
+what do i need in order to use echo connect
+you need a home phone service (such as a landline or voip service), wi-fi, and a supported echo device
+one echo connect can support only one phone line, and only one echo connect can be registered per amazon account
+how does calling on echo connect work
+echo connect extends and is not a replacement for your traditional telephone service
+plug echo connect into your home phone jack or voip adapter
+you will also need to setup your supported echo device
+uk , or register for alexa communication in the alexa app in order to complete set up of your echo connect
+with echo connect, you can ask alexa to make calls using your home phone service to your contacts or to other numbers supported by your home phone service provider (e
+"alexa, call mom" or "alexa, call 03069990978)
+echo connect will display your home phone number as caller id, unless you disable caller id with your home phone service provider
+you can also use your supported echo devices to answer incoming calls to your home phone service (e
+"alexa, answer the phone")
+as echo connect uses your existing home phone service to make and receive calls, home phone service provider charges may apply
+some calling features you may use on your home phone (such as call waiting and three-way calling) are not available through echo connect
+what's the difference between alexa calling and echo connect
+by default, echo connect will use your home phone service to make and receive your calls
+however, you can choose whether you prefer to place outbound calls to most numbers in the united kingdom, united states, canada and mexico through either echo connect using your home phone service, or alexa calling
+simply go to settings, select echo connect, and select ‘outbound calls’
+if you select alexa calling, calls to most mobile and landline numbers in the united kingdom, united states, canada and mexico will be placed at no additional cost using the alexa calling service
+calls not supported by alexa calling, including 999, 112, 911 and other emergency numbers, premium numbers, and international numbers outside the united kingdom, united states, canada and mexico, will automatically be placed through echo connect using your home phone service
+the mobile number used to register for alexa communication will be displayed as a caller id for outbound calls made using alexa calling
+you can disable the caller id feature through your contact card in the alexa app
+alexa calling uses your echo device's internet connection to place calls
+for more information on alexa calling, see the above alexa communication faqs
+if you select echo connect, your home phone service will be used to place all calls and your home phone number will be displayed as caller id
+i have an echo connect but also use alexa calling
+how will my call to an alexa contact be processed
+if you want to call another alexa communication user, there are a few different ways your call may be processed
+if you specify just the name of the person you would like to call (e
+"alexa, call mum"), alexa will default to placing the call through alexa calling to mom's supported echo devices or the alexa app
+if you specify the name of the person and their phone type (e
+"alexa, call mum's mobile"), then, depending on what you have selected as your outbound calling preference, alexa will place the call to mum's mobile using either your home phone service through your echo connect, or alexa calling
+for more information, see the above faq "what's the difference between alexa calling and echo connect
+can i call emergency services with echo connect
+yes, calling emergency services as 999 or 112 through echo connect works just like dialling any other phone number
+simply say, "alexa, call 999”
+please note that if echo connect is used to call emergency numbers like 999, the location information given to the emergency service, if any, may be the address associated with the phone line connected to your echo connect, which may not be the same as the location of your echo device from which you are making the call
+echo connect will not function in the event of a power or broadband outage or other connectivity issues
+if you are unable to place your call through your echo connect, you should use your mobile, landline telephone, or other telephone service
+alexa on fire tablets faqs
+certain fire tablets support alexa hands-free when the screen is on and/or when the tablet is connected to power, or show mode, an immersive alexa experience that provides full-screen visual responses to voice commands
+learn more about how to access alexa on your fire tablet
+how do i activate alexa hands-free on my fire tablet
+you can turn on alexa hands-free in your device settings (settings
+alexa) by ensuring that both alexa and hands-free mode settings are enabled
+to enter show mode, swipe down from the quick actions menu and toggle show mode, or ask alexa to “switch to show mode
+how does alexa hands-free on my fire tablet recognise the wake word
+alexa on your fire tablet uses on-device keyword spotting to detect the wake word, even when your device is in standby mode (fire 7 and fire hd 8 (7th generation) tablets may not detect the wake word when the screen is off, if the tablet is not connected to power)
+when the wake word is detected, alexa on your fire tablet streams audio to the cloud, including a fraction of a second of audio before the wake word
+how do i know when alexa on my fire tablet is streaming my voice to the cloud
+when alexa on your fire tablet detects the wake word, or when you press and hold the home button to access alexa, a blue line appears at the bottom of your screen to indicate that alexa is streaming audio to the cloud
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you will also hear a short audible tone that plays after the wake word is recognised, to indicate that the device is streaming audio, and at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio
+how does alexa hands-free on my fire tablet work when i lock my tablet with a passcode
+when alexa hands-free is activated and your tablet is passcode-locked, you can access certain alexa features using the wake word
+you'll be required to enter your passcode to access other alexa features
+if you prefer to no longer be asked to enter your passcode to access alexa features, you can designate a wi-fi network as a trusted network in device settings (settings
+trusted networks) and connect your fire tablet to a trusted network
+as a security precaution, if your tablet is passcode-locked, you may be prompted to enter your passcode to exit show mode—even if you're connected to a trusted network
+how does alexa know to turn on the screen when my fire tablet is in show mode
+when in show mode, your tablet will turn on the screen when it detects the wake word or motion in view of the camera or when you interact with the devices' display or buttons
+how do i know when alexa on my fire tablet is streaming images or video to the cloud
+there will be an on-screen indicator whenever alexa is streaming images or video to the cloud
+for instance, if a video call is active, the device's screen will display a picture-in-picture view of the video being streamed to the cloud
+how can i turn off alexa hands-free
+you can turn off alexa hands-free in a few different ways
+by swiping down from the quick actions menu and selecting the alexa microphone/camera on/off icon (in show mode) or the alexa hands-free icon (outside show mode), by simultaneously pressing and holding the device’s volume up and down buttons for three seconds, or through your device settings (settings
+when in show mode, a red bar and icon will appear to let you know that alexa hands-free on your fire tablet is turned off
+outside of show mode, an icon will appear in your status bar
+your fire tablet will not respond to the wake word – or, in show mode, detect motion in view of the camera - until you turn alexa hands-free back on
+if you turn off alexa hands-free, you will still be able to access alexa when your tablet is not in show mode by pressing and holding the home button
+alexa on amazon fire tv faqs
+alexa is available on all current generation fire tv streaming media players and fire tv edition devices in the uk
+fire tv cube is a far-field alexa-enabled streaming media player
+other fire tv streaming media players and fire tv edition devices are alexa-enabled devices on which you can access alexa by pressing the microphone button on your alexa voice remote
+how do i use alexa on fire tv streaming media players or fire tv edition devices
+to use alexa on your fire tv cube, you may say the wake word to activate alexa in hands-free mode, or you may use the voice remote or the fire tv app
+to use alexa on another fire tv streaming media player or a fire tv edition device, you may use the voice remote or the fire tv app, or you may pair your fire tv streaming media player or fire tv edition device with a compatible alexa-enabled device
+you can use alexa on fire tv streaming media players or fire tv edition devices to search using your voice
+voice search is faster and less frustrating than typing on a traditional alphabet grid
+to use voice search, say the wake word, or press and hold the microphone button on your voice remote or fire tv app, and say the movie, tv title, actor, genre, or director that you want
+if you’re using the voice remote, release the microphone button when you're done speaking
+how does fire tv cube recognize the wake word
+fire tv cube uses on-device keyword spotting to detect the wake word
+when it detects the wake word, it streams audio to the cloud, including a fraction of a second of audio before the wake word
+how do i know when my fire tv streaming media player or fire tv edition device is streaming my voice to the cloud
+when you press the microphone button on the voice remote, a blue light bar appears on the fire tv interface to indicate that the device is streaming audio to the cloud
+in addition, when fire tv cube detects the wake word, or when you press the action button on top of the device, the light bar on the front of your device turns blue to indicate that the device is streaming audio to the cloud
+when you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed
+you can turn on follow-up mode to enable alexa to respond to a series of requests without repeating the wake word
+on some devices, within sounds settings in the alexa app ( devices icon
+sounds ), you can enable a 'start of request sound,' a short audible tone that plays after the wake word is recognized to indicate that the device is streaming audio
+you can also enable an 'end of request sound' that will play a short audible tone at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio
+can i turn off the microphone on fire tv cube
+yes, you can turn off the microphone of fire tv cube by pushing the microphone on/off button on the top of your device
+when the microphone on/off button turns red, the microphone is off
+the device will not respond to the wake word, nor respond to the action button, until you reactivate the microphone by pushing the microphone on/off button again
+even when the device's microphone is off, fire tv cube will still respond to requests you make through your voice remote
+can i use alexa on my fire tv cube if my television is off
+yes, alexa will respond to requests even when your television is off
+depending on your request, alexa may turn on your television to fulfill your request (for example, "launch netflix," or "find comedies
+for common questions about alexa, echo devices and privacy, see the alexa privacy hub
+was this information helpful
+thank you for your feedback
+please select what best describes the information
+this information is confusing or wrong
+this isn't the information i was looking for
+i don't like this policy
+while we're unable to respond directly to your feedback,
+we'll use this information to improve our online help
+alexa and alexa device terms alexa terms of use
+alexa and alexa device faqs alexa, echo devices, and your privacy amazon echo spot power consumption about kid skills amazon echo power consumption amazon echo show device power consumption amazon echo (2nd generation) power consumption amazon echo plus device power consumption
+deliver books, apps to your device
+deliver books, apps to your device
+view purchased books & apps
+view purchased books & apps
+digital and device forum
+digital and device forum
+get to know us careers about us uk modern slavery statement make money with us sell on amazon sell under private brands sell on amazon business sell on amazon handmade sell your services on amazon associates programme fulfilment by amazon seller fulfilled prime advertise your products independently publish with us amazon pay › see all amazon payment methods amazon platinum mastercard amazon classic mastercard amazon money store gift cards amazon currency converter payment methods help shop with points top up your account top up your account in store let us help you covid-19 and amazon track packages or view orders delivery rates & policies amazon prime returns & replacements recycling manage your content and devices amazon mobile app amazon assistant customer service
+australia brazil canada china france germany india italy japan mexico netherlands singapore spain turkey united arab emirates united states
+stream millions of songs
+books, art & collectables
+audiobook publishing made easy
+scalable cloud computing services
+books with free delivery worldwide
+book reviews & recommendations
+experienced pros happiness guarantee
+movies, tv & celebrities
+indie digital publishing made easy
+2-hour delivery on everyday essentials
+deep discounts open-box products
+service for business customers
+we believe in real food
+pass it on, trade it in, give it a second life
+conditions of use & sale privacy notice cookies notice interest-based ads notice © 1996-2020, amazon
+unlimited one-day delivery and more
+prime members enjoy fast & free shipping, unlimited streaming of movies and tv shows with prime video and many more exclusive benefits
+there's a problem loading this menu at the moment
+learn more about amazon prime

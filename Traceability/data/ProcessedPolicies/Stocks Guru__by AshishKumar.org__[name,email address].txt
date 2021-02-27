@@ -1,0 +1,42 @@
+alexaskillsdocs source commits branches pull requests downloads ashish kumar / alexaskillsdocs stocks-guru-about
+md pull requests check out this repo contains help guide and other useful info about alexa skills
+source master b8f8d1c full commit alexaskillsdocs / stocks-guru-about
+stocks guru, an alexa skill, makes it easier to find and track stock prices of companies that interest you
+typical finance websites assumes
+that you have financial background and you are reasonably comfortable with stock tickers, earnings, graphs etc
+however, if you want a simple
+straight forward way to keep track of stock prices relevant to you without the upsell of stories, blogs, podcasts or analysis, this skill is for you
+inspiration for the skills
+all financial institutes have alexa skills but none has been created with simplicity in mind
+stocks guru has been created grounds up with simplicity in mind
+the skill architecture and designs follows voice first philosophy
+the information on the screen compliments the information being spoken by alexa
+the skill is built on aws server-less services
+it leverages following technologies
+aws lambda function written in javascript to handle intent requests and send responses in json format
+aws dynamodb for backend database to store user's stocks list
+intent confirmation through dialog delegation to facilitate conversational interaction
+alexa presentation language (apl) to display information on alexa enabled devices with screens
+external apis to get information about stocks and market indexes in real time
+the skill relies on external apis for financial data
+no warranty is made or implied for the accuracy of the data
+the users assumes all risk associated with using the information provided by this skill
+please allow the skill to read your name and email address on the companion alexa app
+the skill will not work properly without access to requested data
+the skill is built using server-less technologies
+the availability is directly tied to the availability of aws services (which has pretty good track record) and availability of financial data apis
+no formal sla is guaranteed or implied
+your name and email address are your property
+your personal information will not shared or sold to used for any other commercial purposes
+the name is used to personalize the experience and your email address is used to uniquely identify you in the database
+we may use the data to do anonymous analytics work to further improve the skill
+the data is exchanged between your echo/alexa device and aws data centers
+amazon web service has its own policies for storing, archiving and managing user's data
+please refer to aws website for details about their policies
+this skill contains no advertisements and completely free to use
+there are no strings attached to using this skill
+file details last updated 2019‑01‑15 lines 53 size 3
+08 kb 0 builds it looks like you don't have a build tool set up yet
+rapidly build, test, and deploy your code using bitbucket pipelines
+your plan already includes build minutes
+flag notifications flag notifications flag notifications

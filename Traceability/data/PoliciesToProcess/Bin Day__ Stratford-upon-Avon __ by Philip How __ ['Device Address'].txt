@@ -1,0 +1,4 @@
+The “Bin Day” service requires permission to find the address registered against the Alexa device triggering the skill. 
+This is used to query the Stratford-upon-Avon District Council’s website to find the correct bins you need to take out. 
+ 
+This address information (and any other personal information) is only used on Amazon’s servers and is not stored, so it cannot be shared with anyone. 

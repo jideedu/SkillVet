@@ -1,0 +1,21 @@
+genesis visual hook guide
+christopher cochran dabbler of anything web/tech/design/music you are here
+/ should i water the grass privacy policy should i water the grass privacy policy
+this privacy policy has been compiled to better serve those who are concerned with how their ‘personally identifiable information’ (pii) is being used online
+pii, as described in us privacy law and information security, is information that can be used on its own or with other information to find, contact, or find a single person, or to find an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information by our skill
+what personal information do we collect from the people use the ‘should i water the grass’
+we do use the following information from users of our skill to help you with your experience
+the full address is the full street address with city/state/province/county, postal code, and country/region that users manually enter for their device during device setup
+a user’s full address can only be retrieved upon user consent
+this information is used only to retrieve local weather information at the time of the request and never stored on any of our databases
+we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information
+we do not include or offer third-party products or services in our skill
+coppa (children online privacy protection act)
+when it comes to the collection of personal information from children under the age of 13 years old, the children’s online privacy protection act (coppa) puts parents in control
+the federal trade commission, united states’ consumer protection agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online
+we do not specifically market to children under the age of 13 years old
+by using our alexa skill, you hereby consent to our privacy policy and agree to its terms and conditions
+this privacy policy was last updated on october 14, 2018
+if there will be an update, amendment, or changes to our privacy policy then these will be posted on this page
+© 2020 christopher cochran • built on the studiopress genesis theme framework

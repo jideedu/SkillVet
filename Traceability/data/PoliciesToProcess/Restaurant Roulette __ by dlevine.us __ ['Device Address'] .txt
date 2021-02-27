@@ -1,0 +1,17 @@
+this privacy notice discloses the privacy practices for alexa skills developed by dlevine
+this privacy notice applies solely to information collected by these skills
+it will notify you of the following
+what personally identifiable information is collected from you through the website, how it is used and with whom it may be shared
+the security procedures in place to protect the misuse of your information
+information collection, use, and sharing
+we only have access to/collect information that you voluntarily give us via permissions in the skill or vocal input through your alexa enabled device
+your information is used soley for the purpose of returning the information requested
+we may gather anonymous information on the usage of the skill but will not link that in any way to a specific user
+we will not sell this information to anyone
+we take precautions to protect your information
+when you submit sensitive information via this skill, your information is protected both online and offline
+wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way as required by amazon
+while we use encryption to protect sensitive information transmitted online, we also protect your information offline
+the computers/servers in which we store personally identifiable information are kept in a secure environment
+your privacy is important to us, if you feel that we are not abiding by this privacy policy, you should contact us immediately via email
+this policy is subject to change at any time

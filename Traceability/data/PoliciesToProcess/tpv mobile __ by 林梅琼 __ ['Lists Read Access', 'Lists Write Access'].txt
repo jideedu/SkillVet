@@ -1,0 +1,34 @@
+our privacy policy explains
+what information we collect and why we collect it
+how we use that information
+we collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful, the people who matter most to you online, or which youtube videos you might like
+we collect information in the following ways
+information you give us
+for example, many of our services require you to sign up for a google account
+when you do, we’ll ask for personal information, like your name, email address, telephone number or credit card to store with your account
+if you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible google profile, which may include your name and photo
+information we get from your use of our services
+we collect information about the services that you use and how you use them, like when you watch a video on youtube, visit a website that uses our advertising services, or view and interact with our ads and content
+information we collect when you are signed in to google, in addition to information we obtain about you from partners, may be associated with your google account
+when information is associated with your google account, we treat it as personal information
+for more information about how you can access, manage or delete information that is associated with your google account, visit the transparency and choice section of this policy
+how we use information we collect
+we use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect google and our users
+we also use this information to offer you tailored content – like giving you more relevant search results and ads
+we may use the name you provide for your google profile across all of the services we offer that require a google account
+in addition, we may replace past names associated with your google account so that you are represented consistently across all our services
+if other users already have your email, or other information that identifies you, we may show them your publicly visible google profile information, such as your name and photo
+if you have a google account, we may display your profile name, profile photo, and actions you take on google or on third-party applications connected to your google account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts
+we will respect the choices you make to limit sharing or visibility settings in your google account
+when you contact google, we keep a record of your communication to help solve any issues you might be facing
+we may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements
+we use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services
+one of the products we use to do this on our own services is google analytics
+for example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer
+when showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health
+our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection
+we may combine personal information from one service with information, including personal information, from other google services – for example to make it easier to share things with people you know
+depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve google’s services and the ads delivered by google
+we will ask for your consent before using information for a purpose other than those that are set out in this privacy policy
+google processes personal information on our servers in many countries around the world
+we may process your personal information on a server located outside the country where you live

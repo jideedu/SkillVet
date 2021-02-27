@@ -1,0 +1,308 @@
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,
+linc wins 2018 artificial intelligence breakthrough award
+reinvent customer care – revolutionary customer care automation for customer-centric brands
+linc wins 2018 artificial intelligence breakthrough award
+this privacy policy describes the policies and procedures of linc, inc
+(“we”, “our” or “us”) on the collection, use and disclosure of your information on www
+com (the “site”) and the services, features, content or applications we offer through our products and services directly to you (collectively with the site, and smartphone app (as defined below) the “services”)
+we receive information about you from various sources, including
+(i) if you register for the site and/or the services, through your user account on the services (your “account”)
+(ii) your use of the services through the linc mobile device application (“smartphone app”)
+and (iii) from third party websites and services
+when you use the services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy
+what does this privacy policy cover
+this privacy policy covers the treatment of personally identifiable information (“personal information”) gathered when you are using or accessing the services
+this privacy policy also covers our treatment of any personal information that our business partners share with us or that we share with our business partners
+this privacy policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“third party services”) that you elect to access through the service or to individuals that we do not manage or employ
+while we attempt to facilitate access only to those third party services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those third party services
+we encourage you to carefully review the privacy policies of any third party services you access
+what information do we collect
+the information we gather enables us to personalize, improve and continue to operate the services
+in connection with certain aspects of the services, we may request, collect and/or display some of your personal information
+we collect the following types of information from our users
+when you create an account, you will provide information that could be personal information, such as your username, password, mobile phone number, email address, facebook account, foursquare account, and/or twitter account, and locational data
+your purchase history at payment processors (as defined below) will also be tied to your account
+services information that you choose to share with family and friends, such as payment processors, items purchased, and other information, may also be tied to your account
+you do not have to provide all of this information to create an account, but some of the services may not be available to you
+you acknowledge that this information may be personal to you, and by creating an account on the services and providing personal information to us, you allow others, including us, to identify you and therefore may not be anonymous
+we may use your contact information to send you information about our services
+you may unsubscribe from these messages through your account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes
+some features of the services allow you to provide content to the services, such as written comments and merchant ratings
+this information can also be tied to your account
+all content submitted by you to the services may be retained by us indefinitely, even after you terminate your account
+we may continue to disclose such content to third parties in a manner that does not reveal personal information, as described in this privacy policy
+we do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information)
+that information is collected and stored by our third party merchant partners (the “payment processor”)
+use and storage of that information is governed by the payment processor’s applicable terms of service and privacy policy
+you will be provided with an electronic itemized receipt, the amount spent, and payment method used delivered to your mobile phone
+ip address information and other information collected automatically
+we automatically receive and record information from your web or mobile browser when you interact with the services, including your ip address, cookie information, and (if selected) location-based data
+this information is used for to facilitate collection of data concerning your interaction with the services (e
+, receipts sent to your smartphone), target ads to you from our third party advertising and merchant, and to prevent against malware and spam
+generally, the services automatically collect usage information, such as the number and frequency of visitors to the site
+we may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally
+this type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the services so that we can analyze and improve them
+depending on the services that you use, and your app settings or device permissions, we may collect your precise or approximate location information as determined through data such as device address and gps location
+we may use this information to provide services such as locating nearby stores
+information collected using cookies
+cookies are pieces of text that may be provided to your computer through your web browser when you access a website
+your browser stores cookies in a manner associated with each website you visit
+we use cookies to enable our servers to recognize your web browser phone and tell us how and when you visit the site and otherwise use the services through the internet
+our cookies do not, by themselves, contain personal information, and we do not combine the general information collected through cookies with other personal information to tell us who you are
+as noted, however, we do use cookies to identify that your web browser has accessed aspects of the services and may associate that information with your account if you have one
+most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways
+we strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the services
+this privacy policy covers our use of cookies only and does not cover the use of cookies by third parties
+we do not control when or how third parties place cookies on your computer
+for example, third party websites to which a link points may set cookies on your computer
+information related to advertising and the use of web beacons
+to support and enhance the services, we may serve advertisements, and also allow third parties advertisements, through the services
+these advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks”
+ad networks include third party ad servers, ad agencies, ad technology vendors and research firms
+advertisements served through the services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including personal information (e
+, gender or age), may be based on the services usage patterns of particular users, purchased made from vendors who use the services based on the physical location of your mobile device, or may be based on your activity on third party services
+we do not provide personal information to any ad networks for use outside of the services
+we collect statistical information about how both unregistered and registered users, collectively, use the services (“aggregate information”)
+some of this information is derived from personal information
+this statistical information is not personal information and cannot be tied back to you, your account or your web browser
+how, and with whom, is my information shared
+the services are designed to help you share information with others
+as a result, some of the information generated through the services is shared publicly or with third parties
+may disclose personal data to its affiliates, as well as to a limited number of third-party service providers for the purpose of assisting us in providing, managing, deploying, enhancing, or improving our services
+maintains contracts with these service providers restricting their access, use and disclosure of personal data in compliance with our privacy shield obligations, and linc global, inc
+may be liable if such parties fail to meet those obligations and we are responsible for the event giving rise to the damage
+we also may share or disclose personal data to the extent that the customer or other data controller has obtained the relevant eu individual’s consent
+public information about your activity on the services
+some of your activity on and through the services is public by default, such as user reviews of merchants who use our services
+registered users may have some of this information associated with their accounts
+please also remember that if you choose to provide personal information using certain public features of the services, then that information is governed by the privacy settings of those particular features and may be publicly available
+individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information
+we therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the services (i
+facebook updates or foursquare check-ins)
+please note that while your location is not considered to be personally identifiable information that is shared, such information is used to serve advertisements, coupons and other information and offers to you
+while we collect and store ip address information and locational-data, that information is not made public
+we do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this privacy policy
+information you elect to share
+you may access other third party services through the services, for example by clicking on links to those third party services from within the site
+we are not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services� privacy policies
+this privacy policy only governs information collected on the services
+we share aggregate information with our partners, service providers and other persons with whom we conduct business
+we share this type of statistical data so that our partners can understand how and how often people use our services and their services or websites, which facilitates improving both their services and how our services interface with them
+in addition, these third parties may share with us non-private, aggregated or otherwise non personal information about you that they have independently developed or acquired
+email communications with us
+as part of the services, you may occasionally receive email and other communications from us, such as communications relating to your account
+communications relating to your account will only be sent for purposes important to the services, such as password recovery
+user profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the services
+we will not directly reveal user email addresses to other users
+information shared with our agents
+we employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “agents”)
+we may need to share personal information with our agents in order to provide products or services to you
+unless we tell you differently, our agents do not have any right to use personal information or other information we share with them beyond what is necessary to assist us
+you hereby consent to our sharing of personal information with our agents
+information disclosed pursuant to business transfers
+in some cases, we may choose to buy or sell assets
+in these types of transactions, user information is typically one of the transferred business assets
+moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party
+you acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this policy
+information disclosed for our protection and the protection of others
+we also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these terms of service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public
+this includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention
+information we share with your consent
+except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information
+is information about me secure
+your account information will be protected by a password for your privacy and security
+you need to prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account
+we seek to protect account information to ensure that it is kept private
+however, we cannot guarantee the security of any account information
+unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time
+we otherwise store all of our information, including your ip address information, using industry-standard techniques
+we do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, personal information or otherwise
+what information of mine can i access
+if you are a registered user, you can access information associated with your account by logging into the services
+registered and unregistered users can access and delete cookies through their web browser settings
+under california civil code sections 1798
+84, california residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties
+if you are a california resident and would like a copy of this notice, please submit a written request to the following address
+100 mathilda pl, suite 150, sunnvale, ca 94086
+how can i delete my account
+should you ever decide to delete your account, you may do so by emailing privacy@letslinc
+if you terminate your account, any association between your account and information we store will no longer be accessible through your account
+any public activity on your account prior to deletion will remain stored on our servers and will remain accessible to the public
+what choices do i have regarding my information
+you can use many of the features of the services without registering, thereby limiting the type of information that we collect
+you can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features
+in the event that you for location-based data not to be disclosed or shared, you must opt-out of an account and the services
+you can delete your account
+please note that we will need to verify that you have the authority to delete the account, and activity generated prior to deletion will remain stored by us and may be publicly accessible
+if you are a resident of the european union (“eu”), united kingdom, lichtenstein, norway, or iceland, you may have additional rights under the eu general data protection regulation (the “gdpr”) with respect to your personal data, as outlined below
+for this section, we use the terms “personal data” and “processing” as they are defined in the gdpr, but “personal data” generally means information that can be used to individually identify a person, and “processing” generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure
+we will be the controller of your personal data processed in connection with the services
+if there are any conflicts between this section and any other provision of this privacy policy, the policy or portion that is more protective of personal data shall control to the extent of such conflict
+if you have any questions about this section or whether any of the following applies to you, please contact us at privacy@letslinc
+note that we may also process personal data of our customers’ end users or employees in connection with our provision of services to customers, in which case we are the processor of personal data
+if we are the processor of your personal data (i
+, not the controller), please contact the controller party in the first instance to address your rights with respect to such data
+what personal data do we collect from you
+we collect personal data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with personal data about you, or when personal data about you is automatically collected in connection with your use of our services
+information we collect directly from you
+we receive personal data directly from you when you provide us with such personal data, including without limitation the following
+first and last name
+user content, for example, your account information, personal preferences, and personal shopping preferences that you provide through chat experiences or otherwise
+information we receive from third party sources
+some third parties such as our business partners, third party merchant partners and service providers provide us with personal data about you, such as the following
+account information for third party services
+if you interact with a third party service when using our services, such as if you use a third party service to log-in to our services (e
+, facebook connect or twitter oauth), or if you share content from our services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing
+the information we receive will depend on the policies and your account settings with the third party service
+information from our advertising partners
+we receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications
+information from our third party merchant partners
+we may receive social media identification information, your account profile information, shopping order information and your contact information from our partners in an effort to provide our services to you
+information we automatically collect when you use our services
+some personal data is automatically collected when you use our services, such as the following
+transaction amount, date and time such transaction occurred)
+cookies and other tracking technologies (e
+web beacons, pixel tags, sdks, etc
+ip address, zip code)
+access times, hardware and software information)
+advertisement identifiers and trackers
+how do we use your personal data
+we process personal data to operate, improve, understand and personalize our services
+for example, we use personal data to
+create and manage user profiles
+provide our services to you (directly or through a third party merchant partner)
+communicate with you about the services
+process orders (including updates on the status of such orders)
+contact you about service announcements, updates or offers
+provide support and assistance for the services
+personalize website content and communications based on your preferences
+meet contract or legal obligations
+respond to user inquiries
+comply with our legal or contractual obligations
+protect against or deter fraudulent, illegal or harmful actions
+enforce our terms of service
+we will only process your personal data if we have a lawful basis for doing so
+lawful bases for processing include consent, contractual necessity and our “legitimate interests” or the legitimate interest of others, as further described below
+we process the following categories of personal data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our https
+com/terms-of-service/ with you or due to your relationship with our third party merchant partners, which enables us to provide you with the services
+when we process data due to contractual necessity, failure to provide such personal data will result in your inability to use some or all portions of the services that require such data
+first and last name
+user content, for example, your account information, personal preferences, and personal shopping preferences that you provide through chat experiences or otherwise
+advertisement identifiers and trackers
+we process the following categories of personal data when we believe it furthers the legitimate interest of us
+transaction amount, date and time such transaction occurred)
+cookies and other tracking technologies (e
+web beacons, pixel tags, sdks, etc
+ip address, zip code)
+access times, hardware and software information)
+examples of these legitimate interests include
+operation and improvement of our business, products and services
+marketing of our products and services
+provision of support to you
+protection from fraud or security threats
+protecting the security of your account with us
+providing you with a sign-in method
+determining your geographic location and preferences so that we can serve you better
+compliance with legal obligations
+completion of corporate transactions
+from time to time we may also need to process personal data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest
+how and with whom do we share your data
+we share personal data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this privacy policy or our terms of service
+fraud prevention service providers
+staff augmentation and contract personnel
+we also share personal data when necessary to complete a transaction initiated or authorized by you or provide you with a product or service you have requested
+in addition to those set forth above, these parties also include
+social media services (if you interact with them through your use of the services)
+third party business partners who you access through the services or which you use to access our services
+other parties authorized by you
+we also share personal data when we believe it is necessary to
+comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies
+protect us, our business or our users, for example to enforce our terms of service, prevent spam or other unwanted communications and investigate or protect against fraud
+maintain the security of our products and services
+we also share information with third parties when you give us consent to do so
+last, we share personal data with our affiliates or other members of our corporate family
+furthermore, if we choose to buy or sell assets, user information is typically one of the transferred business assets
+moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party, and we would share personal data with the party that is acquiring our assets
+you acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this policy
+how long do we retain your personal data
+we retain personal data about you for as long as you have an open account with us or as otherwise necessary to provide you services
+in some cases we retain personal data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation
+afterwards, we retain some information in a depersonalized or aggregated form but not in a way that would identify you personally
+what security measures do we use
+we seek to protect personal data using appropriate technical and organizational measures based on the type of personal data and applicable processing activity
+for example, encryption of data at rest and in transit, authentication and authorization to access internal services etc
+personal data of children
+we do not knowingly collect or solicit personal data from anyone under the age of 18
+if you are under 18, please do not attempt to register for the services or send any personal data about yourself to us
+if we learn that we have collected personal data from a child under age 18, we will delete that information as quickly as possible
+if you believe that a child under 18 may have provided us personal data, please contact us at privacy@letslinc
+what rights do you have regarding your personal data
+you have certain rights with respect to your personal data, including those set forth below
+for more information about these rights, or to submit a request, please email at privacy@letslinc
+please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision
+in some cases, we may also need to you to provide us with additional information, which may include personal data, if necessary to verify your identity and the nature of your request
+you can request more information about the personal data we hold about you and request a copy of such personal data
+you can also access your personal data by simply emailing us at privacy@letslinc
+if you believe that any personal data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data
+you can correct some of this information directly by simply emailing us at privacy@letslinc
+you can request that we erase some or all of your personal data from our systems
+if we are processing your personal data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time
+please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your personal data, if such use or disclosure is necessary to enable you to utilize some or all of our services
+you can ask for a copy of your personal data in a machine-readable format
+you can also request that we transmit the data to another controller where technically feasible
+you can contact us to let us know that you object to the further use or disclosure of your personal data for certain purposes
+you can ask us to restrict further processing of your personal data
+right to file complaint
+you have the right to lodge a complaint about company’s practices with respect to your personal data with the supervisory authority of your country or eu member state
+if you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our u
+-based third party dispute resolution provider (free of charge) at https
+if linc global does not resolve your complaint, you may have the possibility to engage in binding arbitration through the privacy shield panel
+transfers of personal data
+the services are hosted and operated in the united states (“u
+”) through company and its service providers, and if you do not reside in the u
+, laws in the u
+may differ from the laws where you reside
+by using the services, you acknowledge that any personal data about you, regardless of whether provided by you or obtained from a third party, is being provided to company in the u
+and will be hosted on u
+servers, and you authorize company to transfer, store and process your information to and in the u
+, and possibly other countries
+you hereby consent to the transfer of your data to the u
+not reside in the u
+, laws in the u
+may differ from the laws where you reside
+by using the services, you acknowledge that any personal data about you, regardless of whether provided by you or obtained from a third party, is being provided to linc in the u
+and will be hosted on u
+servers, and you authorize company to transfer, store and process your information to and in the u
+, and possibly other countries
+you hereby consent to the transfer of your data to the u
+linc global, inc complies with the eu-u
+privacy shield framework and swiss-u
+privacy shield framework ( see linc’s certification here ) as set forth by the u
+department of commerce regarding the collection, use, and retention of personal information transferred from the european union and switzerland to the united states
+linc global, inc has certified to the department of commerce that it adheres to the privacy shield principles
+if there is any conflict between the terms in this privacy policy and the privacy shield principles, the privacy shield principles shall govern
+to learn more about the privacy shield program, and to view our certification, please visit https
+federal trade commission enforcement
+’s commitments under the privacy shield are subject to the investigatory and enforcement powers of the united states federal trade commission or the applicable united states authorized statutory body
+what if you have questions regarding your personal data
+if you have any questions about this section or our data practices generally, please contact us using the following information
+100 mathilda place, suite 150 sunnyvale ca, 94086 usa
+email address for contact
+designated representative and contact information
+arno schlösser dp-dock gmbh
+ballindamm 39 20095 hamburg
++49 (0) 40 99999 – 3430 mob
++49 (0) 172 918 22 22
+what happens when there are changes to this privacy policy
+we may amend this privacy policy from time to time
+use of information we collect now is subject to the privacy policy in effect at the time such information is used
+if we make changes in the way we collect or use information, we will notify you by posting an announcement on the services or sending you an email
+a user is bound by any changes to the privacy policy when he or she uses the services after such changes have been first posted
+what if i have questions or concerns
+if you have any questions or concerns regarding privacy using the services, please send us a detailed message to info@letslinc
+we will make every effort to resolve your concerns
+more about linc about us
+connect with us +1 (408) 809-2797 100 mathilda pl #150,
+sunnyvale, california 94086 620–777 hornby st,
+vancouver, canada v6z 2h7 find us on
+© 2018 linc global, inc

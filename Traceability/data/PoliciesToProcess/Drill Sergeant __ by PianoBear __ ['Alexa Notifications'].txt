@@ -1,0 +1,24 @@
+this app works best with javascript enabled
+privacy all data you provide through our alexa skills (drill sergeant, dr sugar) gets stored on our server together with a userid
+we don't save any personal information and advice you not to enter any personal information
+we may process this data anonymously to improve the user experience for our products
+you can request the deletion of your data anytime at chris@easysolutions
+cc or just by saying "delete all data" (after "alexa, open drill sergeant") and confirm the dialog with a "yes" datenschutz alle daten die sie durch den alexa skill (drill sergeant, dr
+) zur verfügung stellen werden auf unserem server zusammen mit einer temporären userid gespeichert
+wir speichern keine persönliche information und bitten sie eine solche auch nicht mit hilfe eines skills zu speichern
+wir verwenden die daten anonym um die userexperience zu verbessern
+wenn sie ihre daten löschen möchten können sie mich unter chris@easysolutions
+oder sie sagen im skill (nach "alexa, öffne drill sergeant") "lösche alle daten" und bestätigen daraufhin mit "ja"
+© 2019 , built with ♥ in vienna who coaches the coaches
+- we dothis app works best with javascript enabled
+privacy all data you provide through our alexa skills (drill sergeant, dr sugar) gets stored on our server together with a userid
+we don't save any personal information and advice you not to enter any personal information
+we may process this data anonymously to improve the user experience for our products
+you can request the deletion of your data anytime at chris@easysolutions
+cc or just by saying "delete all data" (after "alexa, open drill sergeant") and confirm the dialog with a "yes" datenschutz alle daten die sie durch den alexa skill (drill sergeant, dr
+) zur verfügung stellen werden auf unserem server zusammen mit einer temporären userid gespeichert
+wir speichern keine persönliche information und bitten sie eine solche auch nicht mit hilfe eines skills zu speichern
+wir verwenden die daten anonym um die userexperience zu verbessern
+wenn sie ihre daten löschen möchten können sie mich unter chris@easysolutions
+oder sie sagen im skill (nach "alexa, öffne drill sergeant") "lösche alle daten" und bestätigen daraufhin mit "ja"
+© 2019 , built with ♥ in vienna who coaches the coaches

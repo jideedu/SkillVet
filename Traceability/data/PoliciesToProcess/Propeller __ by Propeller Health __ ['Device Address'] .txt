@@ -1,0 +1,276 @@
+this website uses cookies we use cookies to personalize content and ads, to provide social media features and to analyze our traffic
+we also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+view our full cookie policy [#ooi_personal_information#] use necessary cookies only i agree to allow all cookies show details ok use necessary cookies only allow selection allow all cookies necessary preferences statistics marketing show details cookie declaration [#iabsettings#] [#iabv2settings#] about cookies
+unclassified (14) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type gdpr_status [x2] aaxads
+net determines whether the visitor has accepted the cookie consent box
+this ensures that the cookie consent box will not be presented again upon re-entry
+6 months http __cf_bm marketo this cookie is used to distinguish between humans and bots
+this is beneficial for the website, in order to make valid reports on the use of their website
+1 day http __cfduid propeller used by the content network, cloudflare, to identify trusted web traffic
+29 days http cookieconsent cookiebot stores the user's cookie consent state for the current domain 1 year http phpsessid propeller preserves user session state across page requests
+session http cf_ob_info propeller used to detect if the website is inaccessible, in case of maintenance of content updates - the cookie allows the website to present the visitor with a notice on the issue in question
+1 day http cf_use_ob propeller used to detect if the website is inaccessible, in case of maintenance of content updates - the cookie allows the website to present the visitor with a notice on the issue in question
+1 day http debug google tag manager pending persistent html
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+name provider purpose expiry type lang [x2] linkedin remembers the user's selected language version of a website session http cookieconsentbulksetting-# cookiebot enables cookie consent across multiple websites persistent html jwplayerlocalid mashable used to determine the optimal video quality based on the visitor's device and network settings
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type collect google used to send data to google analytics about the visitor's device and behavior
+tracks the visitor across devices and marketing channels
+session pixel _ga google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http _gat google tag manager used by google analytics to throttle request rate 1 day http _gid google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http ajs_anonymous_id google tag manager this cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an id, so the visitor does not get registered twice
+1 year html pll_language propeller this cookie is used to determine the preferred language of the visitor and sets the language accordingly on the website, if possible
+1 year http vuid vimeo collects data on the user's visits to the website, such as which pages have been read
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type ide google used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http test_cookie google used to check if the user's browser supports cookies
+1 day http fr facebook used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http tr facebook used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+session pixel bcookie linkedin used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http bscookie linkedin used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http lidc linkedin used by the social networking service, linkedin, for tracking the use of embedded services
+1 day http lissc linkedin used by the social networking service, linkedin, for tracking the use of embedded services
+1 year http usermatchhistory linkedin used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days http __tld__ google tag manager used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+session http _fbc google tag manager this cookie is used by facebook to target advertisement based on user behavior and preferences across multiple websites
+the cookie contains an encrypted id which allows facebook to identify the user across websites
+3 months http _fbp google tag manager used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http ajs%3acookies google tag manager collects data on visitors
+this information is used to assign visitors into segments, making website advertisement more efficient
+1 year http ajs%3atest google tag manager collects data on visitors
+this information is used to assign visitors into segments, making website advertisement more efficient
+1 year http ajs_group_id google tag manager collects data on visitors
+this information is used to assign visitors into segments, making website advertisement more efficient
+persistent html ajs_group_properties google tag manager collects data on visitors
+this information is used to assign visitors into segments, making website advertisement more efficient
+persistent html ajs_user_id google tag manager collects data on visitors' preferences and behaviour on the website - this information is used make content and advertisement more relevant to the specific visitor
+persistent html ajs_user_traits google tag manager collects data on visitors
+this information is used to assign visitors into segments, making website advertisement more efficient
+persistent html ged_playlist_activity propeller this cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient
+session http uid google tag manager collects data on visitors' behaviour and interaction - this is used to optimize the website and make advertisement on the website more relevant
+persistent html uid scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http uidr scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http visitor_info1_live youtube tries to estimate the users' bandwidth on pages with integrated youtube videos
+179 days http ysc youtube registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube stores the user's video player preferences using embedded youtube video session html
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type segmentio
+ack google tag manager pending persistent html segmentio
+inprogress google tag manager pending persistent html segmentio
+queue google tag manager pending persistent html segmentio
+reclaimend google tag manager pending persistent html segmentio
+reclaimstart google tag manager pending persistent html tracker/track
+gif marketo pending session pixel log [x2] l3
+net pending session pixel bids_map mashable pending persistent html __cdrop marketo pending 1 year http __csess marketo pending session http 20# propeller pending persistent html cf_store marketo pending persistent html cneplayercount propeller pending 99 days http
+[#iabv2_label_partners#] [#iabv2_body_purposes#] [#iabv2_body_features#] [#iabv2_body_partners#]
+cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+your consent applies to the following domains
+cookie declaration last updated on 25/09/2020 by cookiebot
+menu menu how it works partner with us
+pharma & medtech companies hospitals & health systems healthcare providers cpt codes for rpm success stories
+about events & webinars newsroom contact us
+patient support clinician support
+pharma & medtech companies
+cpt codes for rpm
+general privacy notice effective date of this privacy notice
+this privacy notice is for users of the propeller services
+after completing the enrollment process, you will receive additional terms of service and/or a privacy notice that will supersede these terms
+your privacy is important to us
+reciprocal labs corporation (d/b/a propeller health) (referred to herein as “propeller health,” “we,” “us,” “our”) appreciates your interest in our services, including the propeller health software application (the “app”) and our website
+our services are designed to provide access to online information about propeller health and our inhaler sensor system
+in connection with providing this information and service, there are times when we may ask for or collect information from you, either in the form of anonymous data or personally identifiable information
+as part of our commitment to honoring your privacy, this privacy notice explains the approach we take in protecting and using the information that we gather from you in our software
+by using the services, you consent to this privacy notice
+if you choose to use our services, any disputes over privacy are subject to this privacy notice
+we reserve the right to change this privacy notice at any time without notice except as otherwise provided here
+please check back periodically to see if our privacy notice has been updated
+if we make material changes to this privacy notice, we will notify you by updating this privacy notice, posting notice of the change on our home page and/or sending you email notification
+your continued use of the services constitutes your agreement to the terms of this privacy notice and any future versions of this privacy notice
+types of information we collect
+for additional information on cookies see our cookie policy
+when you choose to submit personally identifiable information to the services (including name, telephone number, mailing address and email address), your information is used only for the specific purpose for which it was submitted, unless you consent otherwise or as required by law
+in many cases, you choose the amount of information you supply
+there may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary
+in such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity
+we may collect personally identifiable information when you
+inquire about our products and services
+enroll in the services
+ask that we contact you
+subscribe to our mailing list
+register for a webinar
+complete voluntary customer service surveys
+we maintain the data that you provide us in a secure database
+to best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources
+our servers automatically record certain information (e
+, web request, internet protocol (“ip”) address, browser type, browser language, urls, etc) that your web browser sends whenever you visit our site
+log files will be maintained and/or deleted as per our data retention policy
+use and storage of your personal information
+propeller health will use your information as described in this privacy policy
+accessing app from app store
+the following terms apply to propeller app accessed through or downloaded from any app store or distribution platform (like the apple app store or google play) where the app may now or in the future be made available (each an “app provider”)
+you acknowledge and agree that
+(a) this agreement is concluded between you and propeller health, and not with the app provider, and propeller health (not the app provider), is solely responsible for the app
+(b) the app provider has no obligation to furnish any maintenance and support services with respect to the app
+(c) in the event of any failure of the app to conform to any applicable warranty, you may notify the app provider, and the app provider will refund the purchase price for the app to you (if applicable) and, to the maximum extent permitted by applicable law, the app provider will have no other warranty obligation whatsoever with respect to the app
+any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of propeller health
+(d) the app provider is not responsible for addressing any claims you have or any claims of any third party relating to the app or your possession and use of the app, including, but not limited to
+(i) product liability claims
+(ii) any claim that the app fails to conform to any applicable legal or regulatory requirement
+and (iii) claims arising under consumer protection or similar legislation
+(e) in the event of any third party claim that the app or your possession and use of that app infringes that third party’s intellectual property rights, propeller health will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by this agreement
+(f) the app provider, and its subsidiaries, are third-party beneficiaries of this agreement as related to your license to the app, and that, upon your acceptance of the terms, the app provider will have the right (and will be deemed to have accepted the right) to enforce this agreement as related to your license of the app against you as a third-party beneficiary thereof
+(g) you represent and warrant that (i) you are not located in a country that is subject to a u
+government embargo, or that has been designated by the u
+government as a terrorist-supporting country
+and (ii) you are not listed on any u
+government list of prohibited or restricted parties
+and (h) you must also comply with all applicable third party terms of service when using the app
+propeller health uses web and mobile analytics to help us understand how people use our website and our application and make changes to improve their experience
+for example, when someone visits the site, our web servers automatically gather information that allows the site to communicate with the user’s computer during the visit
+we also may use any of the following information
+the number of visits to the site, which parts of the site users select, ip address (the internet address assigned to your computer from your internet service provider), domain type, browser type (e
+, internet explorer) and date and time of day
+the data collected will be stored in cookies on your browser and/or will be transmitted and stored on a server of our trusted service partner
+we use this information for statistical purposes that help us design and administer the services
+the ip address (or reduced ip address) transmitted from your browser will not be associated with any other data identifying you (pseudonymized data)
+you can prevent the storage of those analytics cookies by selecting the appropriate settings on your browser
+you can prevent the storage of analytics cookies by refusing them through our pop-up placed on our website or app and by selecting the appropriate settings on your browser or computer
+we may conduct demographic or other research about our users to determine how users engage with our site
+retention of user provided information
+your personal information is only stored within our servers for as long as necessary
+data that is no longer necessary is destroyed per the retention schedule in our data retention policy
+you have the right to request that your personal data be deleted at any time
+to do so, contact datarequests@propellerhealth
+storage and access of your personal information
+propeller health is a global organization with operations and affiliates in the eu, eea, japan, us, and the uk
+personally identifiable information that you submit on our services (including name and email address) may be accessed and/or viewed by propeller health employees in any of these locations in order to provide you with the requested services
+we may collect this information when you
+inquire about our products and services
+ask that we contact you
+subscribe to our mailing list
+enroll in the services
+if you are located outside of the us, your personal data is transferred to the us which may not have the same level of data protection as in your country
+however, propeller health ensures all data transfers comply with applicable legal requirements and has implemented safeguards so that personal data receives an adequate level of protection
+if you enroll in the services, you must register on the app or website for a user account
+you will use your email address and password which will allow you to access the services through the website or through the mobile application
+it’s important that you provide us with accurate, complete and up-to-date information for your account and you agree to update such information to keep it accurate, complete and up-to-date
+if you don’t, we might have to suspend or terminate your account
+you agree to take all reasonable efforts to prevent the unauthorized use or disclosure of your user id and password to protect the sensor, app and website from improper access
+your user id and password are personal to you only
+you’re responsible for all activities that occur under your account, whether or not you know about them
+you are responsible for anyone who you provide access to your user id or password
+if you believe your user id or password have been compromised, notify us as soon as possible
+if you fail to do so, we are not responsible for any damages you sustain as a result of any unauthorized access to the app or website or use of the services
+further, you may be responsible for damages we sustain as a result of unauthorized access to the app or website
+we will take reasonable measures which we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security
+although we will use all reasonable efforts to safeguard the confidentiality of any visitor information collected, we shall have no liability for disclosure of any visitor information obtained due to errors in transmission or the unauthorized acts of third parties
+email is not a secure form of communication
+please do not send us any personal information via email
+please note, sending information over the internet or over mobile networks is not completely secure
+although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to and from the services or over mobile networks
+any transmission of information is at your own risk
+communications with propeller health
+communications from propeller health
+as a user of the services, you will be asked if you want to receive marketing materials from propeller health and its business partners (defined below)
+if you opt-in we will send you marketing materials
+from time to time, we may also send you offers for similar products and services from propeller health, special premiums, or special offers from our business partners
+we do not share your personally identifiable information with any third parties in connection with these communications
+you can decline these communications at any time by simply following the “unsubscribe” link at the bottom of each communication
+user support & communication
+if you register for a user account in the app, you agree that propeller health’s staff may contact you to assist you with the services and to ask your feedback on the services
+you agree that propeller health may contact you (using the information you provided at registration) via email, push notifications in the app, telephone, cell phone, and sms/text messages
+you may be able to opt-out of certain communications and we will provide information about how to do so
+you may also opt-out from receiving push notifications in the app by changing the settings in your account or on your mobile device
+even if you have opted out of email communications, we reserve the right to communicate with you from time to time about important administrative, policy, legal, and financial matters that affect your use of the services
+these communications are mandatory
+third parties and propeller health
+we reserve the right to share your information with third-party companies we may use to perform other service functions for us
+however, at all times, we will control and be responsible for the use of your information and will ensure that sufficient contractual mechanisms are in place to ensure that the information remains secure
+we do not share equipment or databases with these companies
+additionally, any company we use for these reasons will not share, sell, or distribute your information, or otherwise use your information except to provide us services
+disclosure of third party information
+you are entitled to request certain information shared with third parties for their direct marketing purposes
+to do so, contact datarequests@propellerhealth
+within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties
+a request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the e-mail address above
+we may provide information about how our users collectively use our site to our customers, advertisers, sponsors, and other companies with which we do business (“business partners”)
+this data does not include any personally identifiable information about you
+sale of propeller health or its assets
+in the event that propeller health or our assets or stock are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained in them, to a third-party acquiring our assets
+in the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information about how you can change your privacy preferences
+the site is not intended for children under the age of 13 (note that the propeller health app accessible at my
+com may be used by children under 13)
+we do not knowingly collect personal information from anyone under the age of 13 from our site
+since information regarding children under the age of 13 is not collected, we do not knowingly distribute personal information regarding children under the age of 13 from our site
+we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we reasonably believe that such action is necessary
+to comply with legal process such as a search warrant, subpoena or court order
+to protect propeller healths’ rights and property
+to investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages
+to protect against misuse or unauthorized use of our site, products, or services
+during emergencies, such as when we believe someone’s physical safety is at risk
+this privacy policy only applies to the services
+please be aware that our services may contain links to other websites or webpages that are owned and operated by our customers or other third parties
+the information practices of websites linked to our site are not covered by this privacy policy and, therefore, we are not responsible for the content or privacy policies of websites to which our site links
+we encourage you to review the privacy policies of the third-party websites to understand their privacy practices
+information for residents of the state of california
+additional information for california residents
+sale of personal information
+over the past twelve (12) months, we have not sold any categories of personal information
+propeller health does not sell personal information to third parties
+your rights and choices
+ccpa provides consumers (california residents) with specific rights regarding their personal information
+you have the following rights
+you have the right to request that we disclose the categories of personal information we collect in the 12-month period preceding the request date
+consumer requests of this nature may be made no more than twice in a 12-month period
+you have the right to request that propeller health disclose certain information to you about our collection and use of your personal information over the past 12 months
+you have the right to request that propeller health delete any of your personal information that we collected from you and retained, subject to certain exceptions as required by applicable law
+once we receive and confirm your consumer request (see
+“exercising your data rights”), we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies
+we may deny your deletion request if retaining the information is necessary for us or our service provider(s) to
+complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you
+detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities
+identify and repair errors that impair existing intended product functionality
+exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law
+engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent
+enable internal-only uses that are reasonably aligned with consumer expectations based on your relationship with us
+comply with a legal obligation
+make other internal and lawful uses of that information that are compatible with the context in which you provided it
+exercising your data rights
+to exercise your disclose, access, data portability, and deletion rights described above, submit a request to us through one of the following methods
+call us at 877-251-5451
+email us at datarequests@propellerhealth
+complete this online web form
+only you, or a person registered with the california secretary of state who you authorize to act on your behalf, may make a consumer request related to your personal information
+you may also make a consumer request on behalf of your minor child
+you may only make a consumer request for access or data portability twice within a 12-month period
+the consumer request must
+provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or proves you are an authorized representative of that person
+describe your request with sufficient detail that allows us to properly understand, evaluate and respond to it
+we cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you
+we will only use personal information provided in a consumer request to authenticate the requestor’s identity or authority to make the request
+response timing and format our intent is to respond to a consumer request within 45 days of its receipt
+if we require more time (up to 90 days), we will inform you of the reason and extension period in writing
+we will deliver our written response electronically
+any disclosures we provide will only cover the 12-month period preceding the consumer request’s receipt
+the response we provide will also explain the reasons we cannot comply with a request, if applicable
+for data access requests, we will deliver the data in a readily usable format
+non-discrimination we will not discriminate against you for exercising any of your ccpa rights
+other california privacy rights california’s “shine the light” law (civil code section § 1798
+83) permits users of our website who are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes
+we do not disclose personal information to third parties for their direct marketing purposes
+this privacy notice is subject to change at our discretion
+we will indicate changes, including material changes, to the privacy notice by updating the “effective date
+” your use of the service after any update to this privacy notice will constitute your acceptance of the changes
+if you have any questions or concerns about this privacy notice, please send us an email to dpo@propellerhealth
+pharma & medtech companies
+hospitals & health systems
+© 2020 propeller health

@@ -1,0 +1,149 @@
+volley actions on google assistant
+terms of service 1
+terms by accessing the website at https
+com or using one of our alexa skills, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws
+if you do not agree with any of these terms, you are prohibited from using or accessing this site
+the materials contained in this website are protected by applicable copyright and trademark law
+use license permission is granted to temporarily download one copy of the materials (information or software) on volley's website for personal, non-commercial transitory viewing only
+this is the grant of a license, not a transfer of title, and under this license you may not
+modify or copy the materials
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial)
+attempt to decompile or reverse engineer any software contained on volley's website
+remove any copyright or other proprietary notations from the materials
+or transfer the materials to another person or "mirror" the materials on any other server
+this license shall automatically terminate if you violate any of these restrictions and may be terminated by volley at any time
+upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format
+disclaimer the materials on volley's website are provided on an 'as is' basis
+volley makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights
+further, volley does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site
+limitations in no event shall volley or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on volley's website, even if volley or a volley authorized representative has been notified orally or in writing of the possibility of such damage
+because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you
+accuracy of materials the materials appearing on volley's website could include technical, typographical, or photographic errors
+volley does not warrant that any of the materials on its website are accurate, complete or current
+volley may make changes to the materials contained on its website at any time without notice
+however volley does not make any commitment to update the materials
+links volley has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site
+the inclusion of any link does not imply endorsement by volley of the site
+use of any such linked website is at the user's own risk
+modifications volley may revise these terms of service for its website at any time without notice
+by using this website you are agreeing to be bound by the then current version of these terms of service
+governing law these terms and conditions are governed by and construed in accordance with the laws of delaware and you irrevocably submit to the exclusive jurisdiction of the courts in that state or location
+privacy policy last updated on april 2nd, 2019 your privacy is important to us
+this privacy policy (“ policy ”) applies to services provided by volley inc
+(“ we ”, “ us ”, or “ company ”) and our website, mobile app, or other platform (collectively, the “ services ”) explains what information we collect from users of our services (a “ user ”, “ you ”, or “ your ”), including information that may be used to personally identify you (“ personal information ”) and how we use it
+we encourage you to read the details below
+this policy applies to any user or visitor to or user of our services
+we will be the controller of your personal data provided to, or collected by or for, or processed in connection with, our services
+we reserve the right to change this policy at any time
+we will notify you of any changes to this policy by sending notice to the primary email address specified in your account or by a prominent notice on our website
+significant changes will go into effect thirty (30) days following such notification
+non-material changes or clarifications will take effect immediately
+you should periodically check our website, including this privacy page, for updates
+you acknowledge that your continued use of our services after we publish or send a notice about our changes to this policy means that the collection, use and sharing of your personal information is subject to the updated policy
+what information do we collect
+we will only collect and process personal information about you where we have lawful bases
+lawful bases include consent
+(where you have given consent), contract (where processing is necessary for the performance of a contract with you (e
+to deliver the services you have requested)) and “legitimate interests”
+we collect information that you give us when contact us, or otherwise access or use our services, any information you voluntarily submit to us, and information regarding how you use the services
+specifically, the foregoing includes
+your internet protocol address (i
+, ip address) and, if you access the services from a mobile application, your unique mobile device id number and non-email authentication
+your name, email address, zip code, current location, telephone number, profile picture, your responses, including audio communication, to in-game questions, such as alexa surveys, or other surveys that we may ask you to complete for research purposes or to help direct company activities, the contact information of your representative, your social media account information and information shared with us via your social media accounts
+details of any financial transactions you participate in on the services, including the amount, currency, and method of payment
+browser and device information and information collected through technologies such as cookies, pixel tags, web beacons and other technologies
+if you use our services from a mobile device, that device will send us data about your location based on your phone settings
+we will ask you to opt-in before we use gps or other tools to identify your precise location
+how do we use the information we collect
+we use the information we collect to
+deliver and improve the services and your overall user experience
+to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity
+to link or combine user information with other personal information
+to compare and verify information for accuracy and update our records
+email, text, message, or otherwise contact you with information and updates about us and the services ●
+to send you information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages
+analyze how you use the services with tools such as google analytics and other tools to help us understand traffic patterns and know if there are problems with the services
+create targeted advertising to promote the services and engage our users
+do we share your personal information
+we do not rent, sell, or share your personal information with other people or non-affiliated third parties except with your consent or as necessary to complete any transaction or provide any service you have requested or authorized
+to help us do our work, we may provide limited access to some of your personal information to the following third parties
+sometimes we collaborate with other organizations to deliver the services
+in these cases, we may share your name, contact information and other details you provided when making an account with our partners
+we work with a wide range of third party providers, notably our database administrators, cloud computing services, advertising services, data analysts, application service providers, bulk sms services, and other non-governmental organizations
+we work with payment processors such as paypal, stripe, google pay to help process credit card transactions and other payment methods made through the services
+these payment processors will store certain information about you
+please refer to their privacy policies to learn more about how they use your personal information
+we may store information such as names, email addresses, telephone number, profile picture, user survey responses, third party social media account information (e
+facebook, google), and zip code in our databases or any information that is
+necessary to enable us to operate effectively and deliver our services to you
+we may also transfer your personal information to a third party as a result of a merger, acquisition, reorganization or similar transaction
+when required by law or to respond to legal process
+to protect our customers
+to maintain the security of the services
+and to protect the rights or property of company
+in such event, and to the extent legally permitted, we will notify you and, if there are material changes in relation to the processing of your personal information, give you an opportunity to consent to such changes
+protection of company and others we will also share personal information with companies, organizations or individuals outside of company if we have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary to detect or protect against fraud or security issues, enforce our terms of use, meet any enforceable government request, defend against legal claims, or protect against harm our legal rights or safety
+how do we use tracking technologies
+a "cookie" is a small file placed on your hard drive by some of our web pages
+we, or third parties we do business with, may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety
+cookies are commonly used at most major transactional websites in much the same way we use them in our services
+you may delete and block all cookies from our services, but parts of the services may not work
+we want to be open about our cookie use
+even if you are only browsing the services, certain information (including computer and connection information, browser type and version, operating system and platform details, and the time of accessing the services) is automatically collected about you
+this information will be collected every time you access the services and it will be used for the purposes outlined in this privacy policy
+you can reduce the information cookies collected from your device
+an easy way of doing this is often to change the settings in your browser
+if you do that you should know that (a) your use of the services may be adversely affected (and possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience may be adversely affected, and (c) you may not be presented with advertising that reflects the way that you use our and other sites
+you find out how to make these changes to your browser at this site
+unless you have adjusted your browser settings so that it will refuse cookies, our system will send cookies as soon as access our services
+by using the services you consent to this, unless you change your browser settings
+web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow
+our third-party advertising service providers may also use web beacons to recognize you when you visit the site or access the services and to help determine how you found the services
+if you would like more information about this and to know your choices about not having this information used by these companies, please visit
+the digital advertising alliance’s website, http
+info/ , or the network advertising initiative’s website, http
+how do we secure your personal information
+we take reasonable steps to protect your personal information against unauthorized access, alteration, disclosure, misuse, or destruction
+unfortunately, no data transmission or storage system can be guaranteed to be 100% secure
+the safety and security of your personal information also depends on you
+if you have an account with us, you are responsible for keeping your membership details confidential
+your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use
+we further protect your personal information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology
+however, these measures do not guarantee that your personal information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software
+by using the services, you acknowledge that you understand and agree to assume these risks
+we retain your personal data while your account is in existence or as needed to provide you services
+this includes data you or others provided to us and data generated or inferred from your use of the services
+your choices regarding information you have several choices regarding the use of personal information on the services
+changing or deleting your personal data
+all users may review, update, correct or delete the personal information furnished by a user in their user account (including any imported contacts) by contacting us at support@volleythat
+com or by accessing your user account
+for your protection, we may only share and update the personal information associated with the specific email address that you use to send us your request, and we may need to verify your identity before doing so
+we will try to comply with such requests in a reasonably timely manner
+if you completely and permanently delete all of your personal information, then your user account may become deactivated
+if you wish to cancel your account, you may do so through your account page, and any personally identifiable information associated with your account will be deleted as soon as is reasonably practical or as required by applicable law
+please note that we may retain information that is otherwise deleted in anonymized and aggregated form, in archived or backup copies as required pursuant to records retention obligations, or otherwise as required by law
+we may retain an archived copy of your records as required by law or for legitimate business purposes
+download or access personal information
+you can ask us for a copy of your personal information and can ask for a copy of personal information you provided in machine readable form by emailing us at support@volleythat
+opting out of email communications
+we may use some of the information we collect for marketing purposes, including to send you promotional communications about new company features, products, events, or other opportunities
+if you wish to stop receiving these communications or to opt out of use of your information for these purposes, please follow the opt-out instructions, such as clicking "unsubscribe" (or similar opt-out language) in those communications
+you can also contact us at support@volleythat
+com to opt out
+despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our terms of service or privacy policy
+links to third party websites we may provide links to other websites
+we have no control over these websites and they are subject to their own terms of use and privacy policies
+as such, we do not endorse and are not responsible for the availability of, or for any content, advertising, products, or other materials on or available from, these third party websites
+by using the services, you agree that we will not be liable for any damage or loss caused by your use of or reliance on any content, advertising, products, or other materials on or available from these third party websites
+how we respond to do not track signals your browser settings may allow you to automatically transmit a do not track signal to websites and other online services you visit
+we do not alter our practices when we receive a do not track signal from a visitor’s browser because we do not track our visitors to provide targeted advertising
+to find out more about do not track, please visit http
+children under 16 the services are not directed to individuals who are under age of sixteen (16) and we do not solicit nor knowingly collect personal information from children under the age of sixteen (16)
+if you believe that we have unknowingly collected any personal information from someone under the age of sixteen (16), please contact us immediately at support@volleythat
+com and the information will be deleted
+third party direct marketing we currently do not share personal data with third parties for their direct marketing purposes without your consent
+a note to users outside the united states our company is based in the united states
+the services are controlled and operated by us from the united states and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the united states
+your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the services you consent to the transfer of information to countries outside of your country of residence, including the united states, which may have data protection rules that are different from those of your country
+in certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information
+contact us if you have any questions about this policy, your personal information, or the services, you can contact support@volleythat

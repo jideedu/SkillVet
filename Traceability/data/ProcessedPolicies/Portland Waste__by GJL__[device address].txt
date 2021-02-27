@@ -1,0 +1,11 @@
+source code for portland waste alexa skill
+view the project on github gavinleader/portland-waste-alexa-skill
+portland waste alexa skill privacy policy
+this privacy policy describes how the portland waste alexa skill protects and makes use of the information you give the software when you use the alexa voice skill
+we respect the privacy of our users, and have taken careful consideration to not expose any information that is not already publicly available
+in order to provide personalized collection schedule data, we ask for your home address through either device permissions or voice commands
+this address information is processed through this skill’s software to store a property id and collection information using encryption techniques
+we may change, suspend, or discontinue the skill, or any part of it, at any time without notice
+this policy is updated from time to time
+this project is maintained by gavinleader
+hosted on github pages — theme by orderedlist

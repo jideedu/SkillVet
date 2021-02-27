@@ -1,0 +1,190 @@
+this website uses cookies we use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+we also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+you consent to our cookies if you continue to use our website
+use necessary cookies only i consent show details ok necessary preferences statistics marketing show details cookie declaration [#iabsettings#] about cookies
+unclassified (6) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type cookieconsent futurimedia
+com stores the user's cookie consent state for the current domain 1 year http
+name provider purpose expiry type lang [x2] ads
+com remembers the user's selected language version of a website session http
+name provider purpose expiry type _ga futurimedia
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http _gat futurimedia
+com used by google analytics to throttle request rate 1 day http _gid futurimedia
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http _at
+com used by the social sharing platform addthis to store the user's usage history of the addthis sharing widget persistent html vuid vimeo
+com collects data on the user's visits to the website, such as which pages have been read
+name provider purpose expiry type loc addthis
+com geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level)
+13 months http uvc addthis
+com detects how often the social sharing service, addthis, encounters the same user
+13 months http xtc addthis
+com registers the user's sharing of content via social media
+13 months http bizoid ads
+com used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days http test_cookie doubleclick
+net used to check if the user's browser supports cookies
+1 day http _gcl_au futurimedia
+com used by google adsense for experimenting with advertisement efficiency across websites using their services
+3 months http ads/ga-audiences google
+com used by google adwords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+com this cookie is used to distinguish between humans and bots
+session html bcookie linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http bscookie linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http lidc linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+1 day http usermatchhistory linkedin
+com used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days http __atuvc post-test
+com updates the counter of a website's social sharing features
+13 months http __atuvs post-test
+com ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, addthis
+1 day http _at
+com used by the social sharing platform addthis persistent html at-lojson-cache-# post-test
+com used by the social sharing platform addthis persistent html at-rand post-test
+com used by the social sharing platform addthis persistent html instapage-variant-# futurimedia
+com pending 1 year http pagead/1p-user-list/# google
+com pending session pixel
+name provider purpose expiry type instapage-visit-15184552 futurimedia
+com pending persistent html instapage-visit-15184552-expires futurimedia
+com pending persistent html no-cache futurimedia
+com pending session http totango
+com pending 2 days http totango
+com pending 2 days http pixel
+com pending session pixel
+[#cookiesiabcontent#] cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+you can at any time change or withdraw your consent from the cookie declaration on our website
+learn more about who we are, how you can contact us and how we process personal data in our privacy policy
+cookie declaration last updated on 27/06/2019 by cookiebot
+(877) 221 - 7979
+about futuri media products #engage post topicpulse futuri streaming futuri mobile topline futuri voice ldr news vip support jobs contact us contact us
+futuri privacy policy global leader in audience engagement technology
+privacy policy this privacy policy (“privacy policy”) applies to all information gathered by futuri media, llc , an ohio limited liability company (“we,” “us,” “our,” etc
+), from users (“you,” “your,” etc
+com and any related website(s) and/or application(s), including, without limitation, the platform services of #engage, ldr, topicpulse, post, streaming, futuri mobile, topline, and any subsequently acquired and/or developed applications, to the extent applicable (collectively, the “site”)
+this privacy policy applies only to the site
+it does not apply to any third-party services linked to our site, to the extent applicable, or offline activities related to our services
+we urge you to read this privacy policy in its entirety so you will understand all of the practices and procedures we follow relating to your online privacy
+in this privacy policy, we will inform you about the type of information that is collected about you on this site, how it is collected, what it will be used for, and to whom it will be given
+this policy will also tell you how to limit our use of your personal information
+this privacy policy is incorporated into our terms of use and certain capitalized terms are defined in the terms of use
+we may need to update this privacy policy to keep pace with changes in the site, our business and the law, however, we always maintain our commitment to respect your privacy
+we will post any revisions to this privacy policy, along with their effective date, in an easy to find area of the site, and we recommend that you periodically check back here to stay informed of any changes
+this privacy policy does not apply to the practices of any third-party services, such as facebook, instagram, or twitter, that you elect to access or monitor through the site (the “supported platforms”) or to any software or applications developed by third parties that we do not own or control (“third-party apps”)
+as an example, the privacy policy does not cover any information or other content you can view via the site on supported platforms (but which was not posted there using the site) or information you provide to third-party apps accessed via the site
+while we attempt to facilitate access only to those supported platforms and third-party apps that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of any supported platforms or third-party apps
+we encourage you to carefully review the privacy policies of any supported platforms or third-party apps you access via the site
+this privacy policy does not apply to information collected by us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries)
+or any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the site
+if you do not agree with any of the following privacy policy terms, do not access the site
+purpose & effect your use of the site is voluntary
+you must disclose and we must obtain personal information about you in order to provide you with certain features of the site
+by accessing the site, you are agreeing to disclose certain personal information to us and you authorize us to use your personal information pursuant to the provisions of this privacy policy
+opt-out procedure you may, of course, decline to submit any personal information through the site, in which case you may not be able to fully access and/or use the site and/or its features
+we will retain your information for as long as your account is active
+if you wish to cancel your account, please contact us at support@futurimedia
+to opt-out of all further contact initiated by us, and to forestall our further use or disclosure of your personal information, email us at any time at support@futurimedia
+collection of your personal information we may request that you enter certain personal information about yourself, including your email address, phone number, and/or home address into our site
+providing additional information beyond what is required to create an account is entirely optional, but enables you to gain more from the site
+if you sign up for an aspect of our site that involves tracking personally identifiable information, we may also collect personally identifiable information from other internet sources and database services
+no information of this type will be collected unless you have registered for an aspect of our site that requires it
+we may also record information about users’ use of our site, such as local internet address, click history, the times and dates at which users access our site, the particular portions of the site used, and the details of any transactions conducted using the site
+our servers automatically record information that your browser sends whenever you use the site
+we use this information to monitor and analyze how users use the site, to provide customer service and to maintain and improve the site
+when you interact with our site through various social media, we may receive information from social media such as your profile information, profile picture, gender, user name, user id associated with your social media account, age range, language, country, friends list, and any other information you permit social media to share with third parties
+the data we receive is dependent upon your privacy settings with the applicable social media
+you should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our site
+your personal information remains your property at all times, subject to the rights and uses granted and provided under this privacy policy
+how we may use or disclose your personal information we will use your personal information to authenticate your access to our site
+we will only disclose your personal information to third parties in furtherance of transactions into which you elect to enter using our site
+your personal information will remain solely within our secure system and will not be disclosed to any of our partners, or any other third parties
+we may, however, combine your personal information with that of our other users in a consolidated database from which we may extract aggregated information, which is statistical information about our users as a group not containing any personally identifiable information about you or any other individual user
+we may disclose the aggregated information referenced above to third parties for their use
+we may use your personal information to contact you to inform you of changes to the site, or to otherwise communicate with you about issues regarding the site
+to opt-out of all further contact initiated by us, email us at any time at support@futurimedia
+we may contact you to offer you the opportunity to avail yourself of new or additional products services, which contact may be construed as marketing
+you may later opt-out of receiving marketing-related communications from us by sending an email to
+we may disclose your individual personal information if compelled to do so by law, governmental rule or regulation, judicial process, or court order
+if we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets or equity, user information, including personal information collected from you through your use of the site, could be included in the transferred assets
+should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on our site
+we may use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the site
+we may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable
+this process is known as de-personalizing your information
+you grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the site (the “analytical data”)
+we are expressly authorized to make any commercial use of the analytical data, including without limitation, sharing the analytical data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the analytical data that personally identifies any site users
+automatically collected information we may automatically collect and receive certain information from your computer or mobile device, including your access and/or use of the site, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see “cookies and related technologies” below)
+for example, each time you access the site, we automatically collect your ip address, browser and device type, access times, the web page from which you came (if applicable), the regions from which you navigate the web page, and the web page(s) you access (as applicable) (collectively referred to as “traffic data”)
+we may link this traffic data to your unique site user id to better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, provide services, improve the features and usability of our site, and better understand and market to our customers and site users
+we also make use of non-identifiable information gathered for statistical purposes to keep track of the number of visits to the site with a view to introducing improvements and improve usability of our site
+this also includes where we track certain metrics
+we may share this type of statistical data so that our partners also understand how often people use our site, so that they, too, may provide you with an optimal experience
+your ip address and other relevant non-identifiable information may be used in order to trace any fraudulent or criminal activity or any activity in violation of the terms of use
+cookies and related technologies we use tracking technology (“cookies”) in our site
+by visiting or using the site you agree to the use of cookies in your browser and html-based emails
+cookies are small text files placed on your device when you visit a website, in order to track use of the website and to improve your user experience
+session cookies the site uses “session cookies”, which improve your user experience by storing certain information from your current visit on your computer or mobile device, such as log-in information
+these enable us to remember your log-in session so you can move easily within the site
+these session cookies have limited functionalities and expirations, and you will be required to re-enter your log-in information after a certain period of time has elapsed to protect you against others accidentally accessing your account contents and related personal information
+you may at any time opt-out of the automatic collection of data by setting your browser to refuse all or some browser cookies, or to alert you when cookies are being sent
+if you disable or refuse cookies, please note that some parts of the site may then be inaccessible or not function properly
+how we may use or disclose automatically collected information your automatically collected information may be aggregated with that of our other users in order to provide us with important trend behavior information
+the aggregated information will help us analyze and improve the functionality and features of the site
+in addition, we may share automatically collected information with our partners
+any automatically collected information shared with our partners will not contain nor be linked to any of your personal information
+we may transfer our rights relating to your automatically collected information hereunder to a third party by way of merger, acquisition or asset sale
+data management and security the personal information that you provide to us is stored on servers with restricted access
+in addition, we restrict access to personal information to our employees who need to know this information
+however, no server, computer or communications network or system, or data transmission over the internet can be guaranteed to be 100% secure
+as a result, while we strive to protect user information, we cannot ensure, guaranty, or warrant the security of any information you transmit to us or through the use of the site and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk
+once we receive a transmission from you, we will endeavor to maintain its security on our systems
+you may modify your personal information you have disclosed to us by following the applicable instructions on our site
+we do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information)
+that information is collected and stored by our third-party payment processing company (the “payment processor”), and use and storage of that information is governed by the payment processor’s applicable terms of service and privacy policy
+this privacy policy does not cover the information practices of third party websites linked to the site
+although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information
+you should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies
+when you have clicked on a third-party logo or url displayed on our site which links you to a different website, our privacy policy no longer applies and you must read the privacy policy of the third party to see how your personal information will be handled on their website
+some advertisements may be served by third-party advertisers, ad networks and ad servers
+these third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users
+this may include information about users’ behavior on this and other websites to serve them interested-based (behavioral) advertising
+we do not control these third parties’ tracking technologies or how they may be used
+if you have any questions about an advertisement, you should contact the responsible advertiser directly
+children’s information the site is not intended for children under 13 years of age
+no one under age 13 may provide any personal information to or on the site
+we do not knowingly collect personal information from children under 13
+if you are under 13, do not use or provide any information on this site or on or through any of its features, register on the site, make any purchases through the site, use any of the interactive or public comment features of this site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use
+if we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information
+if you believe that we might have inadvertently collected information from a child under 13 without parental consent, please contact us at support@futurimedia
+jurisdiction and data storage please be aware that content submitted to us will be transferred to a data center in the united states
+if you post information to the site you are confirming your consent to such information being hosted and accessed in the united states
+privacy laws or regulations in your country may differ from those in the united states, where we operate from and whose laws govern this privacy policy
+by assessing the site, you hereby irrevocably and unconditionally submit, for yourself and your property, to the exclusive jurisdiction of any ohio state court or federal court of the united states of america sitting in cuyahoga county, ohio, and any appellate court from any thereof, in any action or proceeding arising out of or relating to your access and/or use of the site or for recognition or enforcement of any judgment, and you hereby irrevocably and unconditionally agree that all claims in respect of any such action or proceeding may be heard and determined in any such ohio state or, to the extent permitted by law, in such federal court
+applicable law & legal effect this privacy policy is subject to all applicable state and federal law regarding privacy and information sharing
+california civil code section § 1798
+83 permits users of our site that are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes
+to make such a request, please send an e-mail to support@futurimedia
+we use good faith efforts to adhere to the european union safe harbor principles as set forth by the united states department of commerce regarding the collection, use, and retention of personal information
+this privacy policy constitutes our privacy notice to you under such applicable law
+your access and/or use of the site is permitted only on condition of your agreement with this privacy policy
+this privacy policy does not extend to any website other than our site, including any website or service you may access by clicking on our site’s links, or any other party’s use of your personal information other than us
+we reserve the right, in our sole discretion, to modify, discontinue, or terminate any element of the site or to modify this privacy policy at any time, without notice to you
+any modifications will be effective as of the date of its posting to our site
+your continued use of our site thereafter constitutes your assent to such revised privacy policy
+the site is intended for adult audiences and minors with a legal guardian’s consent
+contact if you have any questions about this privacy policy, please contact us at support@futurimedia
+headquarters 4141 rockside road, suite 300 seven hills, oh 44131
+1-877-221-7979 +1 216 767-5822 chicago 20 w kinzie 17th floor chicago, il 60654 1-877-221-7979 +1 216 767-5822 dc 43300-116 southern walk plaza #102 broadlands, va 20148 1-877-221-7979 +1 216 767-5822 contact vip support phone
+vip support privacy policy
+dmca join our team current positions
+sign up for our newsletter newsletter signup enter your email address
+futuri media © 2019 futuri media
+about futuri media products ▼ #engage post topicpulse futuri streaming futuri mobile topline futuri voice ldr news vip support jobs contact us contact us
+about futuri media products #engage post topicpulse futuri streaming futuri mobile topline futuri voice ldr news vip support jobs contact us contact us

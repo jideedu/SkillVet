@@ -1,0 +1,18 @@
+home product privacy more
+open beer buddy swiftly alexa apps beer buddy alexa will
+tell you about a random beer
+suggest a craft beer nearby, and where to go drink it
+alexa skill privacy policy user provided information
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site
+credit card information is not collected by any of these skills at this time
+any information that you share with the online app store during purchase is held by that store and covered by its own privacy policy
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software environment and services to help us improve the skills and our service
+automatic data collection and advertising
+we may work with analytics companies to help us understand how the skills are being used, such as the frequency and duration of usage
+if any alexa skills collect address information, address information will not be shared with analytics companies
+​ this site was designed with the
+create your website today

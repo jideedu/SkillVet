@@ -1,0 +1,25 @@
+search this site recipe finder alexa skill recipe finder privacy policy this privacy policy describes how recipe finder ("recipe finder", "us" or "we") protects your ("you", "the user") privacy and your data
+before using any of our alexa skills (“our skills”), please read the alexa terms of use and the privacy policies by the amazon digital services llc (with its affiliates, "amazon")
+regarding amazon, “alexa” means their alexa voice service which includes third party services (like our skills) and other related software
+if you use one of our skills you fully agree to this privacy policy
+general when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+information collection, use, and sharing we are the sole owners of the information collected by this skill
+we only have access to/collect information that you voluntarily give us via the use of this skill or other direct contact from you
+we will not sell or rent this information to anyone
+we will use your information to respond to you, regarding the reason you contacted us
+we will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e
+to ship an order
+to improve our services we analyze automatically how often utterances are spoken and other analytics
+this is done automatically by amazon in the amazon developer portal
+for some of our skills it is necessary to save data for you in our databases
+this data is only connected to your alexa-userid but never to your name or any other personal information
+changes our skills or parts of it may change or be updated at any time
+further, this privacy policy might change
+you can find a link to this policy on the description page of the skill in the alexa app or in the alexa store
+your continued use of our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of both
+report abuse google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

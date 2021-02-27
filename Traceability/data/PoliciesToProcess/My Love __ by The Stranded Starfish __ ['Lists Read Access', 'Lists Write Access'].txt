@@ -1,0 +1,11 @@
+I believe strongly in personal privacy and I guaranty not to use any information cited below for anything other than the purpose of determining the weather conditions for your current location. 
+
+I make the following claims: 
+
+1. I request permissions to read and write to a list named MyLove. 
+
+This permission is necessary in order to operate.
+
+ 2. I use not other lists other than MyLove. 
+
+3. No information is stored in any form. When the action completes, My Love has lost any information acquired and does not have the ability to recall that information other than what was on hte MyLove list

@@ -1,0 +1,35 @@
+alexa skill privacy policy
+this is the privacy policy of barfinder (â€œmeâ€, â€œiâ€, or â€œmyâ€)
+in this privacy policy, i refer to my skills and services as the â€œskill
+â€ please read on to learn more about my data handling practices
+your use of the skill signifies that you agree with the terms of this privacy policy
+if you do not agree with the terms of this privacy policy, do not use the skill
+information i collect or obtain when you install the skill on your device i collect the following types of information from you
+i obtain information from your device about your location (â€œgeolocation informationâ€œ)
+currently, i only use geolocation information for getting nearby bars and pubs and this location is not stored
+i collect information about your device that enables me to verify your identity
+currently, the skill does not offer tools that allow you to opt-out of the collection of device information
+sharing of your information i will not trade, rent or sell your information to third parties
+your information may be stored and processed in any country in which skill maintains facilities
+in this regard, or for purposes of sharing or disclosing data as described in this privacy policy, i reserve the right to transfer information outside of your country
+by using the skill, you consent to any such transfer of information outside of your country
+in addition, due to the inherent nature of the internet and related technology, i do not guarantee the protection of information under my control against loss, misuse or alteration
+how i use information i collect
+i use or may disclose your personal information only as follows
+to identify you as an existing user
+to provide you with relevant content that you requested
+for internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the skill, detecting and protecting against error, fraud or other illegal activity
+when i have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure
+to protect and defend my rights or property
+in connection with a corporate transaction involving skill, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, or other similar event
+age the skill is not directed to children under the age of eighteen (18) and i do not knowingly collect personally identifiable information from children under the age of eighteen as part of the skill
+if i become aware that i have inadvertently received personally identifiable information from a user under the age of eighteen as part of the skill, i will delete such information from my records
+notification of changes i reserve the right at my discretion to make changes to this privacy policy
+you may review updates to my privacy policy at any time via links on the alex skill store
+i reserve the right to modify this policy from time to time, so please review it frequently
+if i make material changes to this policy, i will notify you by publishing a revised privacy policy or as required by law
+you agree to review the privacy policy periodically so that you are aware of any modifications
+you agree that your continued use of the skill after i publish a revised privacy policy or provide a notice on my skills constitutes your acceptance of the revised privacy policy
+if you do not agree with the terms of the privacy policy, you should not use the skill
+contact information if you have any questions about this privacy policy, please contact me at neil@njsn
+uk any personally identifiable information provided in connection with inquiries related to this privacy policy will be used solely for the purpose of responding to the inquiry and consistent with my privacy policy

@@ -1,0 +1,184 @@
+aaa alexa skill terms of use and privacy policy
+the aaa skill is a voice-driven capability that allows you to request certain roadside assistance services from the american automobile association, inc
+("aaa") through any device enabled with amazon's alexa service ("alexa" or "alexa service")
+once enabled, you can use the aaa skill to make a roadside service request, such as for a flat tire, dead battery, out of fuel, tow, extrication or lockout
+the skill has limited ability to respond to free-form conversations and requests at this time
+please do not send us messages through the aaa skill unless the message is a command that the aaa skill is programmed to recognize and respond to
+the aaa skill should not
+be relied on for emergency response assistance
+before you start using the aaa skill, please make sure you and your vehicle are in a safe location
+if you are in danger, seek protection of yourself and others, and contact emergency service personnel by using 911
+the aaa skill should not be used while your vehicle is in motion
+the aaa skill cannot respond to account inquiries
+for member service and account inquiries, please contact 1-800-222-4357, use the aaa mobile app or review the phone numbers on the back of your aaa membership card or access your account through the aaa website www
+to learn more about alexa, please visit amazon's alexa help page
+the following terms and conditions of use (the "terms of use") are between you and aaa, and govern your access to and use of the aaa skill
+by using the aaa skill you agree to the terms of use
+the agreement applies in addition to and is not intended to replace any other contract, agreement, or policy you may have with aaa
+important notice regarding claims and agreement to arbitrate
+these terms of use contain certain disclaimers and limitations on our liability
+in addition, these terms of use contain a binding arbitration clause and class action waiver, which waives your right to sue in court or seek a jury trial for disputes relating to your use of the site
+these are found in the disclaimer of warranties, exclusion of liability and indemnity and dispute resolution sections below
+please read these terms carefully and make sure that you understand them before continuing with your use of the site
+if you do not agree to such terms, please do not use the site
+linking your account and using the skill
+to enable the aaa skill, you must locate the skill via the alexa app or the amazon alexa skill store (search for "aaa" under "skills") and select "enable
+" as a condition to enabling the aaa skill, you will be prompted to link your aaa account to the aaa skill
+to link accounts, an aaa-hosted page will appear and prompt you to enter your aaa membership number, last name and zip code
+at no time in the registration process will amazon or alexa be provided your account information or personal information
+once your aaa account is linked to the aaa skill, amazon will generate a linking token that will be associated with your aaa account
+then, when you use the aaa skill, alexa will identify you solely by that linking token and send that identifier to aaa who will then associate it with your individual account
+your use of the aaa skill to request roadside assistance is subject to your aaa membership validity and terms, and may result in charges or fees to your account for the requested services
+privacy and data use
+aaa and its affiliates may collect, store, and use data you provide to the aaa skill for the purpose of servicing you
+we will collect the following data when you use the aaa skill
+any information verbally submitted using the aaa skill, such as the description of your request or event
+any technical information provided to us from your alexa enabled device, such as your sending ip address, the date and time of the request, and other data of your use of the aaa skill
+location information provided via the global positions system (gps) functionality of your alexa-enabled device
+we may use any collected data to provide the service to you, to communicate with you, and help identify products and services that we may offer to you directly or through our service providers
+we may share any information that you provide with your local aaa club
+we may share certain information with our service providers solely for the purposes of providing you the requested roadside assistance services
+we may provide the information to third parties when, in our discretion, circumstances require or justify disclosure
+(a) a subpoena, warrant, or order issued by a court, person or body with jurisdiction compels the production of information
+(b) we receive a formal request to disclose information in connection with a legal action
+(c) we believe in good faith that a law, regulation or rule requires us to do so
+(d) the information is needed or helpful to address an emergency that threatens the life, health or security of an identifiable person
+storage, retention and protection
+the information will be stored on servers controlled by aaa or its service providers
+it will be retained in accordance with our security and records management policies
+the confidentiality, security, and integrity of the information will be protected through reasonable physical, administrative and technical safeguards
+by installing the skill, you are authorizing aaa to perform the actions and/or share with amazon the information communicated to aaa, or requested from aaa
+amazon may also collect and use certain information provided via the aaa skill along with technical data related to your interactions with alexa in accordance with amazon's privacy notice and the alexa terms of use
+as noted above, amazon will not have access to your personally identifiable information or account information
+the aaa skill allows you to use any alexa-enabled device to communicate with aaa, to make service requests by speaking commands and answering questions through the alexa service
+any communication to aaa via alexa will be treated as an authorized communication by you or a communication made with your consent
+you are responsible for all of the interactions with aaa via the skill, including if someone other than you interacts with aaa via the skill
+it is solely your responsibility to maintain the physical security of your connected devices and the personal devices you use to access the alexa service (for example, your mobile phone, tablet, and/or laptop) and the confidentiality of the information and services accessible through any alexa-enabled devices
+third party agreements and devices
+alexa and any alexa-enabled device, other than the aaa mobile app, were not designed or manufactured by aaa, and aaa does not have control over the software that runs on the device, which may include other third party applications
+alexa may function erroneously, e
+, incorrectly process words, conduct translations, or give responses
+by accepting these terms, you understand and agree that aaa is not responsible for the security, accuracy, legality, appropriateness or any other aspect of the content or functionality of amazon, alexa, or any other third party device, product, or service
+amazon, your mobile operating system provider, and other third party services or sites incorporated in amazon or linked to or through the aaa skill, have their own terms and conditions and privacy policies and practices
+it is your responsibility to review and accept all applicable third party agreements before using the aaa skill
+while aaa does not charge a fee for your use of the aaa skill, you will be responsible for all fees that may be imposed by third parties (such as data usage charges)
+changes to terms of use and termination
+we may amend these terms of use, or any part thereof, at any time
+we will indicate that changes to these terms of use have been made by updating the date indicated after "last modified
+" at the beginning of these terms of use
+your continued use of the skill after the effective date of the revised agreement constitutes acceptance of the terms
+we may suspend, limit, interrupt, restrict, discontinue or terminate any and all aspects of the aaa skill and/or your access to the aaa skill in our sole discretion, for any reason, and without notice or liability to you or any third party
+you acknowledge and agree that all use of the skill is at your sole risk
+to the extent permitted by law, you assume all risk for your use of the skill, that it is provided "as is", and that aaa makes no warranty or representation, either express or implied
+aaa expressly disclaims all warranties, either express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose and noninfringement
+to the extent permitted by law, aaa and its affiliates, suppliers, and licensors are not liable for any indirect, special, incidental, exemplary, punitive, or consequential loss or damage arising out of or in connection with the device or your use of the skill, whether the claim is based in contract, tort, negligence, strict liability, or otherwise, except that the foregoing shall not preclude recovery of damages for personal injury, loss or damage to personal property, or unauthorized use or disclosure of personally identifiable information caused by aaa's negligence, gross negligence, recklessness, fraud or other wilful, unconscionable or intentional misconduct
+nothing herein shall be construed to limit the clearly established legal right of a consumer to recover attorneys' fees or other remedies afforded by statute or other law
+the aaa skill is available for use only in the united states of america
+this agreement is governed by and interpreted according to the law of the state of florida
+if any part of these terms of use is determined to be invalid or unenforceable pursuant to applicable law, then such invalid or unenforceable provision will be deemed superseded by a valid and enforceable provision that most closely matches the intent of the original provision, and the remainder of these terms of use shall continue in full force and effect
+our failure in any instance to exercise or enforce any provision of these terms of use shall not constitute a waiver of such provision or any other provision
+these terms of use shall inure to the benefit of and be binding upon the parties hereto and their successors and assigns
+these terms of use set forth the entire understanding and agreement between you and us, whether written or oral, with respect to the subject matter hereof and supersede any prior or contemporaneous understandings or agreements with respect to such subject matter
+the following terms to which you are consenting consist of a binding arbitration provision and a class-action and jury trial waiver
+if you are a user who resides in the united states, in the event of any dispute (including common law and statutory claims) arising out of or relating to these terms of use, the aaa skill or your use thereof, the parties shall first attempt, promptly and in good faith, to resolve any such dispute informally between them
+if the parties are unable to resolve any such dispute within a reasonable time (which shall be at least
+thirty (30) days), then, to the fullest extent permitted by law, you agree that such dispute
+shall, unless otherwise mutually agreed by the parties for any particular dispute, be resolved exclusively by binding arbitration before the american arbitration association, pursuant to the then-current consumer arbitration rules
+any arbitration commenced between you and aaa must be arbitrated in florida
+arbitration must be on an individual basis
+this means neither you nor aaa may join claims in arbitration with or against other users, or litigate in court or arbitrate any claims as a representative or member of a class
+you understand that by agreeing to arbitration you are waiving certain legal rights, including the right to sue in court, the right to have the dispute decided by a judge or jury, and the right to bring, or be part of, a class action case
+the foregoing shall not apply to suits falling within the jurisdiction of the small claims courts located in the state of florida or to enjoin infringement or other misuse of intellectual property rights, and you or aaa may bring suit in court for (a) individual small claims matters and (b) to enjoin infringement or other misuse of intellectual property rights
+rules for the american arbitration association are available at
+aaa alexa skill terms of use and privacy policy
+the aaa skill is a voice-driven capability that allows you to request certain roadside assistance services from the american automobile association, inc
+("aaa") through any device enabled with amazon's alexa service ("alexa" or "alexa service")
+once enabled, you can use the aaa skill to make a roadside service request, such as for a flat tire, dead battery, out of fuel, tow, extrication or lockout
+the skill has limited ability to respond to free-form conversations and requests at this time
+please do not send us messages through the aaa skill unless the message is a command that the aaa skill is programmed to recognize and respond to
+the aaa skill should not
+be relied on for emergency response assistance
+before you start using the aaa skill, please make sure you and your vehicle are in a safe location
+if you are in danger, seek protection of yourself and others, and contact emergency service personnel by using 911
+the aaa skill should not be used while your vehicle is in motion
+the aaa skill cannot respond to account inquiries
+for member service and account inquiries, please contact 1-800-222-4357, use the aaa mobile app or review the phone numbers on the back of your aaa membership card or access your account through the aaa website www
+to learn more about alexa, please visit amazon's alexa help page
+the following terms and conditions of use (the "terms of use") are between you and aaa, and govern your access to and use of the aaa skill
+by using the aaa skill you agree to the terms of use
+the agreement applies in addition to and is not intended to replace any other contract, agreement, or policy you may have with aaa
+important notice regarding claims and agreement to arbitrate
+these terms of use contain certain disclaimers and limitations on our liability
+in addition, these terms of use contain a binding arbitration clause and class action waiver, which waives your right to sue in court or seek a jury trial for disputes relating to your use of the site
+these are found in the disclaimer of warranties, exclusion of liability and indemnity and dispute resolution sections below
+please read these terms carefully and make sure that you understand them before continuing with your use of the site
+if you do not agree to such terms, please do not use the site
+linking your account and using the skill
+to enable the aaa skill, you must locate the skill via the alexa app or the amazon alexa skill store (search for "aaa" under "skills") and select "enable
+" as a condition to enabling the aaa skill, you will be prompted to link your aaa account to the aaa skill
+to link accounts, an aaa-hosted page will appear and prompt you to enter your aaa membership number, last name and zip code
+at no time in the registration process will amazon or alexa be provided your account information or personal information
+once your aaa account is linked to the aaa skill, amazon will generate a linking token that will be associated with your aaa account
+then, when you use the aaa skill, alexa will identify you solely by that linking token and send that identifier to aaa who will then associate it with your individual account
+your use of the aaa skill to request roadside assistance is subject to your aaa membership validity and terms, and may result in charges or fees to your account for the requested services
+privacy and data use
+aaa and its affiliates may collect, store, and use data you provide to the aaa skill for the purpose of servicing you
+we will collect the following data when you use the aaa skill
+any information verbally submitted using the aaa skill, such as the description of your request or event
+any technical information provided to us from your alexa enabled device, such as your sending ip address, the date and time of the request, and other data of your use of the aaa skill
+location information provided via the global positions system (gps) functionality of your alexa-enabled device
+we may use any collected data to provide the service to you, to communicate with you, and help identify products and services that we may offer to you directly or through our service providers
+we may share any information that you provide with your local aaa club
+we may share certain information with our service providers solely for the purposes of providing you the requested roadside assistance services
+we may provide the information to third parties when, in our discretion, circumstances require or justify disclosure
+(a) a subpoena, warrant, or order issued by a court, person or body with jurisdiction compels the production of information
+(b) we receive a formal request to disclose information in connection with a legal action
+(c) we believe in good faith that a law, regulation or rule requires us to do so
+(d) the information is needed or helpful to address an emergency that threatens the life, health or security of an identifiable person
+storage, retention and protection
+the information will be stored on servers controlled by aaa or its service providers
+it will be retained in accordance with our security and records management policies
+the confidentiality, security, and integrity of the information will be protected through reasonable physical, administrative and technical safeguards
+by installing the skill, you are authorizing aaa to perform the actions and/or share with amazon the information communicated to aaa, or requested from aaa
+amazon may also collect and use certain information provided via the aaa skill along with technical data related to your interactions with alexa in accordance with amazon's privacy notice and the alexa terms of use
+as noted above, amazon will not have access to your personally identifiable information or account information
+the aaa skill allows you to use any alexa-enabled device to communicate with aaa, to make service requests by speaking commands and answering questions through the alexa service
+any communication to aaa via alexa will be treated as an authorized communication by you or a communication made with your consent
+you are responsible for all of the interactions with aaa via the skill, including if someone other than you interacts with aaa via the skill
+it is solely your responsibility to maintain the physical security of your connected devices and the personal devices you use to access the alexa service (for example, your mobile phone, tablet, and/or laptop) and the confidentiality of the information and services accessible through any alexa-enabled devices
+third party agreements and devices
+alexa and any alexa-enabled device, other than the aaa mobile app, were not designed or manufactured by aaa, and aaa does not have control over the software that runs on the device, which may include other third party applications
+alexa may function erroneously, e
+, incorrectly process words, conduct translations, or give responses
+by accepting these terms, you understand and agree that aaa is not responsible for the security, accuracy, legality, appropriateness or any other aspect of the content or functionality of amazon, alexa, or any other third party device, product, or service
+amazon, your mobile operating system provider, and other third party services or sites incorporated in amazon or linked to or through the aaa skill, have their own terms and conditions and privacy policies and practices
+it is your responsibility to review and accept all applicable third party agreements before using the aaa skill
+while aaa does not charge a fee for your use of the aaa skill, you will be responsible for all fees that may be imposed by third parties (such as data usage charges)
+changes to terms of use and termination
+we may amend these terms of use, or any part thereof, at any time
+we will indicate that changes to these terms of use have been made by updating the date indicated after "last modified
+" at the beginning of these terms of use
+your continued use of the skill after the effective date of the revised agreement constitutes acceptance of the terms
+we may suspend, limit, interrupt, restrict, discontinue or terminate any and all aspects of the aaa skill and/or your access to the aaa skill in our sole discretion, for any reason, and without notice or liability to you or any third party
+you acknowledge and agree that all use of the skill is at your sole risk
+to the extent permitted by law, you assume all risk for your use of the skill, that it is provided "as is", and that aaa makes no warranty or representation, either express or implied
+aaa expressly disclaims all warranties, either express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose and noninfringement
+to the extent permitted by law, aaa and its affiliates, suppliers, and licensors are not liable for any indirect, special, incidental, exemplary, punitive, or consequential loss or damage arising out of or in connection with the device or your use of the skill, whether the claim is based in contract, tort, negligence, strict liability, or otherwise, except that the foregoing shall not preclude recovery of damages for personal injury, loss or damage to personal property, or unauthorized use or disclosure of personally identifiable information caused by aaa's negligence, gross negligence, recklessness, fraud or other wilful, unconscionable or intentional misconduct
+nothing herein shall be construed to limit the clearly established legal right of a consumer to recover attorneys' fees or other remedies afforded by statute or other law
+the aaa skill is available for use only in the united states of america
+this agreement is governed by and interpreted according to the law of the state of florida
+if any part of these terms of use is determined to be invalid or unenforceable pursuant to applicable law, then such invalid or unenforceable provision will be deemed superseded by a valid and enforceable provision that most closely matches the intent of the original provision, and the remainder of these terms of use shall continue in full force and effect
+our failure in any instance to exercise or enforce any provision of these terms of use shall not constitute a waiver of such provision or any other provision
+these terms of use shall inure to the benefit of and be binding upon the parties hereto and their successors and assigns
+these terms of use set forth the entire understanding and agreement between you and us, whether written or oral, with respect to the subject matter hereof and supersede any prior or contemporaneous understandings or agreements with respect to such subject matter
+the following terms to which you are consenting consist of a binding arbitration provision and a class-action and jury trial waiver
+if you are a user who resides in the united states, in the event of any dispute (including common law and statutory claims) arising out of or relating to these terms of use, the aaa skill or your use thereof, the parties shall first attempt, promptly and in good faith, to resolve any such dispute informally between them
+if the parties are unable to resolve any such dispute within a reasonable time (which shall be at least
+thirty (30) days), then, to the fullest extent permitted by law, you agree that such dispute
+shall, unless otherwise mutually agreed by the parties for any particular dispute, be resolved exclusively by binding arbitration before the american arbitration association, pursuant to the then-current consumer arbitration rules
+any arbitration commenced between you and aaa must be arbitrated in florida
+arbitration must be on an individual basis
+this means neither you nor aaa may join claims in arbitration with or against other users, or litigate in court or arbitrate any claims as a representative or member of a class
+you understand that by agreeing to arbitration you are waiving certain legal rights, including the right to sue in court, the right to have the dispute decided by a judge or jury, and the right to bring, or be part of, a class action case
+the foregoing shall not apply to suits falling within the jurisdiction of the small claims courts located in the state of florida or to enjoin infringement or other misuse of intellectual property rights, and you or aaa may bring suit in court for (a) individual small claims matters and (b) to enjoin infringement or other misuse of intellectual property rights
+rules for the american arbitration association are available at

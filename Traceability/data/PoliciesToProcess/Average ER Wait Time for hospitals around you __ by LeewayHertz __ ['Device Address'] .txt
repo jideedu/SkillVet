@@ -1,0 +1,16 @@
+this alexa skill privacy policy ("privacy policy") explains how we collect, use and protect your data
+this alexa skill is owned by leewayhertz technologies pvt
+ltd (find the contact information below)
+the privacy policy covers only information and data collected or processed through the alexa skill
+â€¨the information we collect about you includes
+â€¨we collect location information from the alexa device, the location details that we take is what user has entered during the installation process
+how we use your information
+we take user's location from the alexa device to find er wait time for the nearest hospital
+the information we take from the device is not stored anywhere fro any further use
+how we protect and retain your information we use a secured environment from amazon aws which does not allow to show information publicly
+also, we do not save any information (name, location or phone number) anywhere
+revisions to the privacy policy â€¨please be aware that our privacy policy may be changed over the time
+if we collect personal information or data from or about you, we will use it according to the privacy policy in effect at the time the data is gathered
+you should review this privacy policy periodically to ensure you are in agreement with any updates or changes
+your continued use of our website following any changes will mean you accept such changes
+contact addressâ€¨ you may contact leewayhertz with any questions and queries via email at info@leewayhertz

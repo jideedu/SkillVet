@@ -1,0 +1,490 @@
+easy to do business with
+fair, honest, and transparent - this is how knowmail conducts business
+end user license agreement
+this license agreement (“ agreement “) is between you and knowmail s
+(“ knowmail “, “ us “, “ our “, or “ we “)
+it specifies the terms and conditions governing your use of the site, platform, and license (all as defined below)
+please read this agreement carefully
+in order to use the platform, you will be required to indicate your acceptance to this agreement
+our privacy notice, available at https
+me/terms/#privacy, governs our collection, processing and transfer of any personal data (as such term is defined therein)
+if you do not agree to (or cannot comply with) all of the terms and conditions of this agreement, please do not indicate your agreement to this agreement in order to access or otherwise use the platform
+“ you ” means any adult user of the site or platform, including on behalf of any company, organization or other entity
+“ documentation ” means the version of documentation provided to you (to the extent actually provided) by knowmail with the platform, together with any updates thereto that knowmail may provide you, or otherwise makes available to you, from time to time, in knowmail’s sole discretion
+“ platform ” means knowmail’s personalized artificial intelligence platform, accessible through different means such as through knowmail’s mobile application, all as listed
+me/products/ (each such means, a “ solution “), whether provided to you, or otherwise made available to you (including on the site), by knowmail or any other person or entity, and any derivative work thereof, with any associated and/or incorporated materials provided therein or therewith, as the case may be, including, without limitation, the documentation (printed materials, and “online” or electronic documentation), software modules, tools, executable files, add-ons, stencils, templates, filters, tutorials, help and other files that comprise or accompany the platform and/or solution, together with all updates (as defined below) thereto, to the extent that such updates have been made available by knowmail, from time to time, in its sole discretion
+“ site” means the following website
+“ software ” means any software underlying either the platform or any solution
+these terms govern your use of the site and any services available thereon, including, without limitation, requests for demos and any informational videos, if and as available on the site from time to time
+by accessing or using the site, you acknowledge that your use of the site is subject to these terms, as they may be updated from time to time
+the revised terms shall govern your use of the site following any such amendment or update
+if you do not agree to the terms, please do not use or visit this site
+the software is protected by patent and copyright laws and international copyright treaties, as well as other intellectual property laws and treaties
+notwithstanding anything else to the contrary in this agreement, you hereby acknowledge that you are provided with the right to use the platform, the software, and any intellectual property and/or confidential information embedded in or otherwise provided as part of the platform under the terms provided herein,
+and no right, except to the limited right to use provided herein, is granted to you with respect to the platform, the software, the solutions, and/or any of the aforementioned intellectual property and/or confidential information related thereto
+in order to register with knowmail for use of the solutions and/or platform, you will be required to provide your name and email address and may provide additional information such as company for which you are registering (if relevant), and the country in which you are located, your phone number and your position within your company
+following registration, in order to use the platform, you will be required to connect the email account you wish to use in connection with the platform by logging in to such account (“ linked account(s) “)
+when a linked account is connected to the platform, we may get additional information associated with your account
+knowmail reserves the right to refuse to connect any linked account to the platform for any reason, all at its sole discretion
+you are fully and solely responsible for the security of your computer system and/or mobile phone and/or other device and all activity on your linked account, even if such activities were not committed by you
+to the fullest extent permitted by applicable law, knowmail will not be liable for any losses or damage arising from unauthorized use of your linked account and you agree to indemnify and hold knowmail harmless for any improper or illegal use of your linked account, including any charges and/or taxes incurred, unless you have notified us via e-mail to support@knowmail
+me that your linked account has been compromised and have requested that we disconnect it from the platform, which we will do as soon as reasonably practicable
+we do not police for and cannot guarantee that we will learn of or prevent any inappropriate use of the platform
+knowmail may terminate use of the platform through your linked account if you violate any of this agreement
+upon termination for any reason, you shall not have any further access to the platform
+if we believe, in our sole discretion, that a violation of this agreement or any illegal or inappropriate behavior has occurred, we may take any other corrective action we deem appropriate
+we reserve the right to investigate suspected violations of this agreement or illegal and inappropriate behavior in connection with the site, platform, and/or solutions
+we will fully cooperate with any law enforcement investigation or court order requesting or directing us to disclose the identity or behavior of anyone believed to have violated this agreement or to have engaged in illegal behavior
+any suspension or termination of your access to the platform shall not affect your obligations under this agreement nor will it affect any other terms herein, which by their sense and context are intended to survive such suspension or termination (including but not limited to ownership, indemnification, any representations and warranties made by you, and limitation of liability)
+subject to your compliance, in full and to the satisfaction of knowmail, with all of the terms and conditions of this agreement, knowmail hereby grants you, during the term (as defined below) a non-exclusive, non-sublicensable, personal, non-transferable, revocable and limited right and license to use the platform through a solution, solely in accordance with the applicable documentation and the features embedded within the platform and the solution you are using (the “license “)
+you may use your license on multiple computers or other devices
+if you are using and/or installing the platform or a solution on a device, or with respect to a linked account belonging to or provided by your employer or otherwise in your capacity as an employee of another entity (such users, “employee users “), such license shall be subject to the receipt of the express consent of your employer to such use and/or installation
+you are solely responsible for ensuring that your use of the platform and any solution is in compliance with all laws, rules, and regulations applicable to you and that any requisite consents have been obtained
+if you are an employee user, you hereby represent that you are authorized to use and install the platform in connection with your work email account
+depending upon the solution through which you are accessing the platform, different features may be available to you
+not all features of the platform will be available through all solutions
+availability may vary depending upon the solution you are using
+you hereby grant knowmail and its successors a worldwide, non-exclusive, royalty-free, perpetual, sub-licensable and transferable license to use, copy, modify and alter, for the provision of the platform and license hereunder, any content contained in or in relation to the linked account with respect to which you use the platform
+ownership of the platform and site
+knowmail and/or its licensors, as the case may be, has and shall at all times retain an exclusive ownership of any and all rights, title and interests in and to the platform, solutions, software, site, and/or any intellectual property and/or confidential information embedded therein and/or related, directly or indirectly, thereto and to any other proprietary materials that may be provided to you by knowmail
+you hereby acknowledge and agree that any and all rights, title and interests, including, without limitation, all copyrights, trademarks, trade names, logos and service marks, trade secrets, know-how, patents, designs and algorithms, utility models, and all improvements thereto, and any other intellectual property incorporated in and/or otherwise related to the platform, software, solutions, or site including but not limited to any images, photographs, animations, video, audio, music, text, and “applets”, and any copies of the platform, software, solutions, site and any other form of derivative work thereof is and will at all times be owned solely by knowmail or its licensors, as the case may be
+all rights not specifically granted to you under this agreement are hereby explicitly reserved by knowmail
+except for the scope of use permitted in accordance with the terms of this agreement and the documentation, copying of the platform, software, and site, or any portion and/or component thereof, including software that has been modified or incorporated into or with other software, is expressly forbidden
+you will not (and will not allow any third party to) (i) decompile, disassemble, or otherwise reverse engineer or attempt to reconstruct or discover, by any means whatsoever, any source code or underlying ideas or algorithms of the platform
+(ii) circumvent, disable, or otherwise interfere with security-related features of the platform or site or features that prevent or restrict use or copying of the platform software, or site
+(iii) remove any product identification, copyright, reference for patent or other notices
+(iv) provide, lease, lend, use for timesharing or service bureau purposes or otherwise use or allow others to use the platform for the benefit of third parties
+(v) except as specified in the applicable documentation, modify, incorporate into or with other software or create a derivative work of any part of the platform
+(vi) use the platform in connection with any commercial endeavors in any manner, except for the purposes specifically set forth in this agreement
+or (vii) use the platform after the termination of this agreement
+the platform is currently provided free of charge, however knowmail reserves the right, at any time and at its sole discretion, to alter the payment terms, and shall notify you of any such changes
+by using the platform and any solution, you represent and warrant that (a) you are 18 years of age or older have your parent’s or guardian’s permission to enter into this agreement, or otherwise have the ability to form a binding contract
+(b) your use of the platform, solutions, and license does not and will not violate any applicable law, regulation, or any obligation you may have to a third party
+(c) your use of the platform and license shall be in compliance with all applicable laws and regulations
+and (d) if you are an employee user, you have obtained your employer’s consent to install and use the platform, solutions, and license
+the term of the license shall commence on the date on which you have accepted this agreement and shall continue to be in force until terminated in accordance with the terms hereof (“ term “)
+knowmail reserves the right to terminate this agreement at any time and cancel or suspend the license at any time, with or without cause, upon notice by knowmail to you, including through your account or by any other means
+upon such termination, you must immediately cease all use of the platform, solutions, documentation and other information and/or materials provided by knowmail and delete and destroy all copies of the platform, documentation and such other information and/or materials (whether or not modified or incorporated with or into other software) and so certify to knowmail of your compliance with the above, to the following address
+except for the license granted hereunder, as described in section 6 of this agreement, the terms of this agreement shall survive the termination or expiration hereof
+you acknowledge that termination is not knowmail’s exclusive remedy and all other remedies will be available to knowmail whether or not this agreement has been terminated or has expired
+you may terminate your use of the platform or any solution at any time and for whatever reason by deleting the platform or solution from your computer and/or device
+due to the nature of knowmail’s offering spread across a variety of devices, mobile apps , personal assistant skills , messenger bots , and more , we must receive an official email from the user (per its registered email account) to support@knowmail
+me requesting us to delete the user profile and any details and data associated with it
+this is to avoid inappropriate termination and errors
+third party applications and services
+portions of the platform, solutions, and/or site may involve linking to or using web sites and/or services belonging to third parties
+the site and/or platform may also provide you with links to access the sites of third-party vendors including, without limitation, for the purpose of reviewing or using their services
+knowmail is not responsible for and has no control over third-party sites and/or services, and all use of third-party sites and/or services is at your own risk and subject to the terms and privacy policies of such third party sites and/or services
+we do not endorse any products or services offered by third parties and we urge our users to exercise caution in using third-party sites
+to the maximum extent permitted by applicable law, the platform, software, solutions, site, and all information and/or materials provided by knowmail are provided “as is” and “as available” and knowmail hereby disclaims all warranties of any kind, expressed, implied or otherwise, including, without limitation, the accuracy, completeness or performance of the platform solutions, or site, implied warranties of merchantability, fitness for a particular purpose and non-infringement, including non-infringement of the intellectual property rights of third parties
+you hereby acknowledge that use of the platform and solutions involve the filtering of your email messages and may therefore result in your failure to receive particular email messages
+knowmail does not warrant that the platform or solutions will be free from defects, or that your use of the platform or solutions will be uninterrupted or error-free
+knowmail is not responsible and has no liability for any hardware, software, or other item or service provided by it or by any other person
+the entire risk arising out of the use of the platform and/or solutions, including as to the adequate quality and/or accuracy of the platform, remains with you, and you expressly assume all responsibility for any damages, including email messages that were not received, lost data, including the loss of any and all emails includedin your linked account’s email inbox and any other data in relation to the linked account or third party service in respect of which you use the platform, lost profits and other direct and indirect damages, that may result in any way out of this agreement and/or the use of the platform, solutions and/or license
+without derogating from the generality of the foregoing, you hereby acknowledge that knowmail does not warrant or guaranty the security of the platform or of communications made using the platform, and you assume all risks associated with the same
+you further acknowledge that the platform or solutions may, in order to perform their function, modify the configuration of the computer software and devices installed on your computer, device or server
+knowmail assumes no responsibility for any error, omission, interruption, loss of data, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, the platform, solutions, and/or site (including software related thereto)
+knowmail is not responsible for any problems or technical malfunction of any telephone network or lines, computer online systems, servers or providers, computer equipment, software, failure of any email due to technical problems or traffic congestion on the internet or on any of the platform, solutions, and/or site or combination thereof, including any loss of data, injury or damage to you or to any person’s computer and/or device related to or resulting from the platform, solutions,
+or site or the use thereof
+under no circumstances shall knowmail be responsible for any loss or damage, including personal injury or death, resulting from use of the platform, solutions, or the site
+in no event shall knowmail or any of its officers, directors, employees, assignees, or agents be liable to you for any damages whatsoever, including without limitation indirect, incidental, special, punitive, or consequential damages, arising out of or in connection with your use of the platform, solutions and/or site, including but not limited to the quality, accuracy, or utility of the information provided as part of or through the platform and/or site, whether the damages are foreseeable and whether or not we have been advised of the possibility of such damages
+the foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction and in no event shall knowmail’s maximum cumulative liability to you under any cause(s) of action (whether in contract, tort or otherwise) exceed in the aggregate the amount you have paid knowmail in the twelve months immediately preceding the applicable claim or series of claims
+if you have not made any payments to knowmail, then knowmail shall not have any liability toward you
+you agree to indemnify, defend, and hold harmless knowmail and each of its employees, directors, officers, subcontractors and agents, against any and all claims, damages, or costs or expenses (including court costs and attorneys’ fees) that arise directly or indirectly from
+(a) breach of this agreement by you or anyone using your computer, device or password (whether authorized or unauthorized)
+(b) any claim, loss or damage experienced from your use, attempted use or misuse of the platform or any solution
+(c) your violation of any law, regulation or any of your obligations, representations or warranties hereunder
+(d) any other matter for which you are responsible hereunder or under applicable law
+(e) your infringement of a third party’s right
+if you would like to contact knowmail regarding any matter covered under this agreement, please contact knowmail at support@knowmail
+knowmail may amend this agreement or any portion hereof in its sole discretion, and you will have reasonable notice thereof, including, without limitation by posting an amended version of this agreement on the site
+in such case, knowmail shall indicate the date on which this agreement was last modified, and you shall have the sole responsibility to review the amended version of agreement
+the amended terms and conditions of the agreement shall bind you as of their effective date or their publication, the later thereof
+you may not assign or transfer the license granted hereunder or any other right or obligation you may have under this agreement without the prior written consent of knowmail
+any attempt to do so in violation of the foregoing shall be void
+knowmail may assign this agreement to any third party
+if any provision of this agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this agreement shall otherwise remain in full force and effect while most nearly adhering to the intent expressed herein
+no failure to exercise, and no delay in exercising, on the part of knowmail, any privilege, any power or any right hereunder will operate as a waiver thereof or constitute the basis for any form of estoppel
+except as provided below, any waivers or amendments to this agreement shall be effective only if made in writing signed by a representative of knowmail that is authorized to bind knowmail
+this agreement shall be deemed to have been made in, and shall be construed pursuant to the laws of, the state of israel without regard to conflicts of law’s provisions thereof and without giving effect to the united nations convention on contracts for the international sale of goods
+you hereby agree to the exclusive jurisdiction of the courts located in tel-aviv-jaffa, israel, for all disputes relating to or arising out of this agreement, including issues relating to the platform
+unless provided otherwise by a different agreement between the parties, you and knowmail agree that this agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements and communications relating to the subject matter of this agreement, the supply of the platform and solutions and use thereof in particular
+you acknowledge and agree that the warranty disclaimers and liability and remedy limitations in this agreement are a material part of, and by your acceptance are also deemed as bargained in respect of, this agreement and that you and knowmail have taken them into account in determining the benefits of, and other reasons to enter into, this agreement
+nothing in this agreement creates any agency, employment, joint venture, or partnership relationship between you and knowmail or enables you to act on behalf of knowmail
+if knowmail is required to provide notice to you hereunder, knowmail may provide such notice to the contact details you provided upon registration
+we at knowmail s
+(“ knowmail “, “ us “, “ we “, or “ our “) recognize and respect the importance of your privacy and as a result, we have established this privacy notice
+key terms are defined below
+this privacy notice describes the types of information we collect from you when you (i) visit our site, (ii) use our platform and/or solutions, (iii) use our api, and/or (iv) use the knowmail service as an employee
+this privacy notice also explains how we collect, process, transfer, store and disclose the information collected, as well as your ability to control certain uses of the collected information
+“ personal data ” means any information that refers to, is related to, or is associated with an identified or identifiable individual or as otherwise may be defined by applicable law
+“ site ” means knowmail’s website – https
+“ customers ” means anyone using the platform, solutions, or api
+“ platform ” means knowmail’s personalized artificial intelligence platform, accessible through different means such as through knowmail’s mobile application, all as listed at https
+me/products/ (each such means, a “ solution “), whether provided to you, or otherwise made available to you (including on the site), by knowmail or any other person or entity, and any derivative work thereof, with any associated and/or incorporated materials provided therein or therewith
+“ eula ” means the end user license agreement available at https
+me/terms/#eula , which governs customers’ use of the site, platform, and solutions
+“ api ” means knowmail’s application programming interface, which allows customers to integrate the platform and solutions into their offerings, be it software, devices, products, and more
+“ employee ” means an employee of an api customer who has access to certain of knowmail’s services (“ knowmail service “) through customer’s implementation of the api
+personal data we collect and uses
+depending on what service you are using, we collect different types of data and we and any of our third-party sub-contractors and service providers use the data we collect for different purposes, all as specified below
+it is your voluntary decision whether to provide us with certain personal data, but if you refuse to provide such personal data we may not be able to register you to use the platform or api or part thereof
+if you are a visitor to the site, we collect the following types of personal data from you
+what personal data we collect
+when you request information from us through the site, fill out (online) forms, or contact us for any other reason, such as to request a demo, we will collect any data you provide, such as your name and/or email address, and the content of your inquiry
+when you sign up for newsletters or email lists we collect your name and email address
+how we use this data
+to respond to your request or inquiry, to provide you with updates on information related to knowmail, such as newsletters or service releases and for retargeting purposes
+what personal data we collect
+when you visit the site, we automatically collect information about your computer or mobile device, including non-personal data such as your operating system and browser type, and personal data such as your ip address, browsing history and any information regarding your viewing history on our site
+for more information about the cookies and similar technologies we use and how to adjust your preferences on the site, please see the section “cookies and similar technologies” below
+how we use this data
+(1) to review usage and operations, including in an aggregated non-specific analytical manner, develop new products or services and improve current content, products, and services
+(2) to prevent fraud, protect the security of our site and address any problems with the site
+(3) to provide you with customized content, targeted offers, and advertising related to our products and services, based on your usage history on the site on other third-party sites or apps you may visit and/or use, or via e-mail
+platform, solution, and api users
+if you are a user of the platform and solutions or api, we collect the following types of personal data from you
+what personal data we collect
+in order to register to use our platform or api, you will be required to provide all personal data requested by us, which include your name and email address, the company for which you are registering (if relevant), and the country in which you are located
+you may also choose to provide us with your phone number and position within your company
+how we use this data
+(1) to provide you with the platform, solutions, and/or api, as applicable, and to respond to your inquiries and requests and to contact and communicate with you
+(2) to prevent fraud, protect the security of and address any problems with the platform, solutions, and/or api
+and (3) to provide you with informational newsletters and promotional materials relating to our platform, solutions, and/or api, including via email and phone, if provided
+for more information about our direct marketing activities and how you can control your preferences, please see the direct marketing section below
+what personal data we collect
+when you make a payment to knowmail through the site for use of the platform or api, we receive information related to such purchase
+how we use this data
+to process the payment for your purchase and for the purposes of fraud prevention
+email account data (for platform users only)
+what personal data we collect
+in order to use the platform, you will be required to link your email account and provide knowmail with access to content contained in your mailbox and email messages, profile, calendar, and contacts associated with your email account such as your use of your email account
+such content may include personal data, as well as sensitive data and data which may be subject to special protections under the law
+you hereby represent and warrant that you have all right and consents as may be required under applicable law to provide us with such data, including any personal data related to individuals other than you
+how we use this data
+we use this data (1) to provide you with the platform, solutions, and associated services, i
+e features, benefits, and capabilities, and (2) to develop new products or services and improve current content, capabilities, products, and services
+see security section below for more information about our unique security architecture and how we protect your personal data
+if you are an employee who is using the knowmail service in the context of the api we provide to our customers, we collect and process the following types of your personal data, all on behalf of and at the direction of the relevant customer
+what personal data we collect
+in order to use the knowmail service, your email account will have to be linked to knowmail’s systems and knowmail will be provided with access to content contained in your mailbox and email messages, profile, calendar, and contacts associated with your email account such as your use of your email account
+such content may include personal data, as well as sensitive data and data which may be subject to special protections under the law
+you hereby represent and warrant that you have all right and consents as may be required under applicable law to provide us with such data, including any personal data related to individuals other than you
+how we use this data
+we use this data to provide the customer with the api and its employees with the knowmail service
+see security section below for more information about our unique security architecture and how we protect your personal data
+by analyzing all information we receive, including all information concerning users we may compile statistical information across a variety of platforms and users (“ statistical information “)
+statistical information helps us understand trends and customer needs so that new products and services can be considered and so that existing products and services can be tailored to customer desires
+statistical information can be individualized per user or per organization or be anonymous and aggregated
+we may share the anonymous and aggregate statistical information with our partners, without restriction, on commercial terms that we can determine in our sole discretion
+we and/or our service providers or subcontractors, use analytics tools (“ tools “), including “google analytics” to collect information about the use of the site, platform, solutions, and/or api
+such tools collect information such as how often users use the site, platform, solutions, and/or api, and what other sites and mobile applications they used prior to using the site
+the tools may collect certain personal data and may link such personal data to specific information stored in our customer database
+however, no personal data collected through tools may be linked to email account data of customers or employees
+we use the information we get from the tools to improve our site, platform, solutions, and api
+as described above, we may use contact information, automatically collected data of site visitors, and registration data to let you know about our products and services that we believe will be of interest to you
+we may contact you by email or telephone or through other communication channels
+in all cases, we will respect your preferences for how you would like us to manage marketing activity with respect to you
+to protect privacy rights and to ensure you have control over how we manage marketing with you
+we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you
+if you have registered an account with us at any time you can update or correct your personal profile within your account, or change your preferences for the way in which you would like us to communicate with you, including how you receive details of latest offers or newsletters from us
+you can ask us to stop sending email marketing by following the “unsubscribe” link you will find on all the email marketing messages we send you
+alternatively, you can contact us at support@knowmail
+we may use your personal data as required or permitted by any applicable law, for example, to comply with audit and other legal requirements
+sharing the personal data we collect
+we share your information, including personal data, as follows
+service providers, and subcontractors
+we also disclose information, including personal data we collect from and/or about you, to our trusted service providers and subcontractors, who have agreed to confidentiality restrictions and who use such information solely on our behalf in order to
+(1) help us provide you with the site (2) aid in their understanding of how users are using our site (3) for the purpose of direct marketing (see above for more details)
+such service providers and subcontractors provide us with it and system administration services, data backup, security, and storage services, data analysis, and help us provide marketing services
+your personal data may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition (including in cases of liquidation) in such case, your personal data shall continue being subject to the provisions of this privacy notice
+law enforcement related disclosure
+we may share your personal data with third parties
+(i) if we believe in good faith that disclosure is appropriate to protect our or a third party’s rights, property or safety (including the enforcement of the eula or the api terms and this privacy notice)
+(ii) when required by law, regulation subpoena, court order or other law enforcement related issues, agencies and/or authorities
+or (iii) as is necessary to comply with any legal and/or regulatory obligation
+we use subcontractors and service providers who are located in countries other than your own and send them information we receive (including personal data)
+we conduct such international transfers for the purposes described above
+we will ensure that these third parties will be subject to written agreements ensuring the confidentiality and integrity of your personal data
+we have implemented and maintain appropriate technical and organization, including security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to personal data appropriate to the nature of such data
+for more information about out security measures, please see
+the measures we take include
+safeguards – the physical, electronic, and procedural safeguards we employ to protect your personal data include secure servers, firewalls, antivirus, and ssl encryption of data
+access control – we dedicate efforts for a proper management of system entries and limit access only to authorized personnel on a need to know basis of least privilege rules, review permissions quarterly, and revoke access immediately after employee termination
+internal policies – we maintain and regularly review and update our privacy related and information security policies
+personnel – we require new employees to sign non-disclosure agreements according to applicable law and industry customary practice
+encryption – we encrypt the data in transit using secure protocols
+database backup – our databases are backed up on a periodic basis for certain data and are verified regularly
+backups are encrypted and stored within the production environment to preserve their confidentiality and integrity, are tested regularly to ensure availability, and are accessible only by authorized personnel
+however, no method of transmission over the internet or method of electronic storage is 100% secure
+therefore, while we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security
+as the security of information depends in part on the security of the computer you use to communicate with us and the security you use to protect user ids and passwords, please take appropriate measures to protect this information
+your rights – how to access and limit our use of certain personal data
+subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, you have certain rights in relation to the personal data that we hold about you, as detailed below
+we will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws
+we reserve the right to ask for reasonable evidence to verify your identity before we provide you with any information and/or comply with any of your requests, as detailed below
+you have a right to know what personal data we collect about you and, in some cases, to have such personal data communicated to you
+subject to applicable law, we may charge you with a fee
+please note that we may not be able to provide you with all the information you request and, in such case, we will endeavor to explain to you why
+right to correct personal data
+subject to the limitations in applicable law, you may request that we update, complete, correct or delete inaccurate, incomplete, or outdated personal data
+deletion of personal data
+you have a right to request that we delete your personal data if either
+(i) it is no longer needed for the purpose for which it was collected, (ii) our processing was based on your consent and you have withdrawn your consent, (iii) processing was unlawful, or (v) we are required to erase it for compliance with a legal obligation
+we cannot restore information once it has been deleted
+please note that to ensure that we do not collect any further personal data, you should also disconnect and disable our platform from your applicable email, disable any solutions and terminate your account with us and clear our cookies from any device where you have used our platform or solutions
+we may retain certain personal data (including following your request to delete) for audit and record-keeping purposes, or as otherwise permitted and/or required under applicable law
+direct marketing opt out
+you can change your mind at any time about your election to receive marketing communications from us and/or having your personal data processed for direct marketing purposes
+if you do, please notify us by contacting us at support@knowmail
+we will process your request as soon as reasonably possible, however it may take a few days for us to update our records before any opt out is effective
+you may withdraw your consent in connection with any processing of your personal data based on a previously granted consent
+this will not affect the lawfulness of any processing prior to such withdrawal
+you can ask us to deactivate your account by contacting us using the information below
+in order to deactivate your account, we may ask you for additional information
+subject to applicable law, we retain personal data collected from site visitors as necessary for the purposes set forth above and personal data collected from users of the platform, solutions, or api for the minimum of duration of service usage
+we may delete information from our systems without notice to you once we deem it is no longer necessary for these purposes
+retention by any of our processors may vary in accordance with the processor’s retention policy
+in some circumstances, we may store your personal data for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, audit, accounting requirements and so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal data or dealings
+to determine the appropriate retention period, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data, and whether those purposes can be achieved through other means, as well as applicable legal requirements
+please contact us at support@knowmail
+me if you would like details regarding the retention periods for different types of your personal data
+cookies and similar technologies
+we use cookies and similar technologies for a number of reasons, including to help personalize your experience
+third parties through which we provide the site and/or our business partners may be placing and reading cookies on your browser or using web beacons to collect information
+a cookie is a small piece of text that is sent to a user’s browser or device
+the browser provides this piece of text to the device of the originating user when this user returns
+a “session cookie” is temporary and will remain on your device until you leave the site
+a “persistent” cookie may be used to help save your settings and customizations across visits
+it will remain on your device until you delete it
+first-party cookies are placed by us, while third-party cookies may be placed by a third party
+we use both first- and third-party cookies
+we may use the terms “cookies” to refer to all technologies that we may use to store data in your browser or device or that collect information or help us identify you in the manner described above, such as web beacons or “pixel tags”
+how we use cookies
+we use cookies and similar technologies for a number of reasons, as specified below
+the specific names and types of the cookies, web beacons, and other similar technologies we use may change from time to time
+however, the cookies we use generally fall into one of the following categories
+type of cookie – why we use these cookies
+these cookies are necessary in order to allow the site to work correctly
+they enable you to access the site, move around, and access different services, features, and tools
+examples include remembering previous actions (e
+entered text) when navigating back to a page in the same session
+these cookies cannot be disabled
+these cookies remember your settings and preferences and the choices you make (such as language or regional preferences) in order to help us personalize your experience and offer you enhanced functionality and content
+these cookies can help us identify and prevent security risks
+they may be used to store your session information to prevent others from changing your password without your login information
+these cookies can help us collect information to help us understand how you use our site, for example whether you have viewed messages or specific pages and how long you spent on each page
+this helps us improve the performance of our site
+these cookies collect information regarding your activity on our site to help us learn more about which features are popular with our users and how our site can be improved
+how to adjust your preferences
+most web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent
+in addition, you are free to delete any existing cookies at any time
+please note that some features of the site, platform, solution, and/or related services may not function properly when cookies are disabled or removed
+for example, if you delete cookies that store your account information or preferences, you will be required to input these each time you visit
+how to adjust your preferences
+third-party applications and services
+all use of third-party applications or services is at your own risk and subject to such third party’s terms and privacy policies
+we reserve the right to send you service-related communications, including service announcements and administrative messages, without offering you the opportunity to opt out of receiving them
+should you not wish to receive such communications, you may cancel your account
+we do not knowingly collect personal data from children under the age of sixteen (16)
+in the event that you become aware that an individual under the age of sixteen (16) has enrolled without parental permission, please advise us immediately
+changes to the privacy notice
+we may update this privacy notice from time to time to keep it up to date with legal requirements and the way we operate our business, and we will place any updates on this webpage
+please come back to this page every now and then to make sure you are familiar with the latest version
+if we make fundamental changes to this privacy notice, we will seek to inform you by notice on our site or per email
+if you have any comments or questions about this privacy notice or if you wish to exercise any of your legal rights as set out herein, please contact us at support@knowmail
+and its affiliates (collectively, “ knowmail “, “ we ” or “ us “) are committed to protecting the privacy of its users and business partners (“ users ” or “ you “)
+this privacy policy (“ privacy
+policy “) has been created to inform you about how we manage, collect, store and use the information you provide in connection with our software-as-a-service solution (“ services “) and also describes the measures we take to protect the security of the information and how individuals can contact us about our privacy practices
+please note that the scope of this privacy policy is limited only to information collected by us through your use of the services (whether such use is through any computer used to access the services, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device) or through information provided by you during your use of microsoft’s “cortana” but does not include third party products or services that you may choose to integrate with our services
+you should always review the policies of third party products and services to make sure you are comfortable with the ways in which they collect and use your information
+by using the services, you agree to the collection, transfer, processing, storage, disclosure and use of your personal information as outlined in this privacy policy
+if at any time knowmail decides to retain or use personal information in a different manner, we will notify our customers by way of an e-mail or by posting a notice on our website
+your continued use of the service following such notice shall be deemed to be acceptance of any updates or changes we make to this privacy policy and as such, we encourage you to consult the privacy policy regularly for changes
+what information is collected from you
+knowmail may collect two types of information about you in connection with the services
+“ personal information ” – means information about you that can be used to contact or identify you
+the personal information types collected in accordance with the services may vary depending on the activity and may, for example, include your name, your “microsoft cortana” user identification details, and your e-mail address
+knowmail may collect personal information when you use the services including, without limitation, setting up account information, filling out surveys, corresponding with knowmail, or otherwise volunteering information about you
+“ non-personal information ” – means information that, when taken alone, cannot be used to identify or contact you
+knowmail may collect non-personal information through any of the methods discussed above as well as automatically or otherwise through your use of the services
+how we collect your information
+knowmail may collect personal information and non-personal information from you through the following methods
+knowmail may require certain personal information and non-personal information to enable certain features or functionality of the services or otherwise provide the services to you
+please note that failure to provide all information required by knowmail under the account settings may prevent access to any or all of the services, and failure to maintain accurate information may result in suspension or termination of access to or use of any or all of the services
+information collected through technology
+in order to provide you the services, you may be required to enter a user id and password in order to access your account in cortana and agree that cortana may provide us with access (via a “token” or other similar methods) to your account, but it is clarified that we do not receive your actual password and credentials
+knowmail may automatically collect details of the date and time that you log in and log out of your accounts
+information provided by you
+during the course of the business relationship between knowmail and you, you may provide knowmail with certain personal information (including without limitation contact information) and non-personal information to enable you to utilize the services and to allow knowmail to provide you with the services
+how we use your information
+knowmail may use information collected from you as follows
+system administration and providing services
+knowmail may use personal and non-personal information in furtherance of providing you with the services and administering, supporting, troubleshooting technical problems, protecting, and improving the services, ensuring proper functioning of our products and services and for purposes of communicating with you
+knowmail may use personal information to send e-mails to you related to the services (including your accounts thereunder) whether directly or through cortana, including confirmation to verify the accuracy of any information you have provided and to provide any instructions or assistance related to the services and/or your use thereof
+knowmail may also send emails to you to verify your respective identity and/or to notify you if knowmail believes your use of the services violates any applicable agreement between you and knowmail related to the services
+to the extent permitted by applicable law, knowmail may combine the various types of data that it collects with other data that knowmail collects from you and knowmail’s other customers and business partners in an anonymous and aggregate manner and in a form that does not personally identifies you
+this anonymous, statistical or aggregated information will be used to improve knowmail’s products and services and may also be provided to knowmail’s business partners
+transference of your information
+knowmail is a global corporation with operations in several countries
+we have developed global data practices designed to assure personal information is appropriately protected
+knowmail or microsoft may store data collected in connection with the services on servers located around the world in various locations including, without limitation, parts of the united states of america, asia and the european economic area
+while our primary data center is currently in the united states we may transfer personal information to offices outside of the united states
+in addition, we may employ other companies and individuals to perform functions on our behalf
+if we disclose personal information to a third party or to knowmail employees outside of the united states, we will ensure that such party has agreed to assure adequate protection of such personal information
+if you are using the services and are from the european union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the united states
+by providing your personal information, you consent to any transfer and processing in accordance with this privacy policy
+by providing us with personal information in accordance with this privacy policy, you waive any claims you may have concerning such transfer of your personal information
+disclosure of your personal information
+we may disclose your personal information to microsoft to the extent your use of the services is related to your use of microsoft “cortana”
+you understand and agree that we may be required to disclose personal information if required to do so by law or in the belief that such disclosure is reasonably necessary to avoid liability, to comply with legal process, including, but not limited to a subpoena, statute, search warrant, or court order, to complu with a law enforcement or intelligence investigation, or to protect our, or a third party’s, property and rights, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable
+we may also disclose information about you if we determine that such disclosure is reasonably necessary to enforce the terms and conditions of the services or to protect our operations or users
+in all cases of data access and collection, the personal information you provide will not be disclosed, rented, loaned, leased, sold, or otherwise voluntarily distributed to unaffiliated third parties (other than to microsoft to the extent your use of the services is related to your use of microsoft’s “cortana”), nor will we share personal information about you with third parties for their marketing purposes (including direct marketing purposes) without your permission
+please note that we may sell, transfer or otherwise share some or all of our assets, including your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy
+third party service providers
+we may employ third party companies and individuals to facilitate the services or any portion thereof, to provide the services or any portion thereof on its behalf, to perform tasks (e
+, without limitation, maintenance services, database management, web analytics and improvement of the services) or to assist us in analyzing how the services are used or to monitor user engagement or collect feedback concerning us and our services
+we may transfer personal information to such third parties for such purposes pursuant to appropriate privacy commitments
+you agree to be contacted by such third parties for such purposes
+from time to time, we may employ third party contractors to collect personal information on our behalf to provide e-mail delivery, product or promotional fulfillment or other services through the services
+when requesting these services, you may be asked to supply your name, mailing address, telephone number and e-mail address to those contractors
+we may ask some third party contractors, such as, data analytics or market research firms, to supplement personal information that you provide to us for our own marketing and demographic studies
+knowmail is committed to ensuring the security of the personal information that it processes
+to prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have adopted appropriate physical, electronic, and administrative procedures to safeguard and secure the personal information we process
+knowmail strives to protect the privacy of the personal information it processes
+in the event of an inadvertent disclosure, knowmail will use commercially reasonable steps to limit and remedy the disclosure
+however, knowmail cannot guarantee that unauthorized third parties will never be able to bypass those procedures or use personal information for improper purposes
+it is your responsibility to safeguard all passwords and user ids that you use to access your account and to notify knowmail immediately if you know or suspect that the secrecy of any such passwords and/or user ids have been compromised
+you are solely responsible for any and all unauthorized use of your account conducted via the passwords and user id’s
+changing or deleting your information
+we will retain your information for as long as your account is active or as needed to provide you with the services, or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+if you would like us to change or delete your records in our system, please contact us at support@knowmail
+me and we will attempt to accommodate your request but only to the extent such activities will not compromise privacy or security interests and only to the extent we are not legally obligated to retain such records
+please note that it may be impossible to entirely delete entries without some residual information being retained due to the manner in which data backups are maintained by knowmail or its suppliers
+knowmail is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests
+we do not knowingly collect personal information from children under the age of 13 and knowmail does not target its website or its products to children under such age group
+please let us know of any activity you have encountered, or reasonably suspect, by children under the age of 13
+knowmail strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business
+if you have questions or concerns regarding this privacy policy or any other issue regarding the services please contact us at
+© 2017 knowmail, all rights reserved
+terms of service for api service
+these terms of service (“ agreement “) is between the person accepting this agreement or the company (as defined below) on behalf of which this agreement is accepted and knowmail s
+(“ knowmail “, “ us “, “ our “, or “ we “)
+knowmail’s application programming interface (“ api “) allows its customers to integrate the “knowmail for outlook” and/or “knowmail for mobile” services (“ knowmail service “) within their respective companies’ email platforms (“ customer platform “)
+the terms and conditions of this agreement and the license granted herein, together with any later agreements which may be entered between the parties (each, a “ purchase order “) govern your use of the api and knowmail service
+our privacy notice, available at https
+me/terms/#privacy , governs our collection, processing and transfer of any personal data (as such term is defined in the privacy notice)
+please read this agreement carefully
+by clicking the acceptance button you signify your assent to all of the terms and conditions of this agreement
+if you do not agree to (or cannot comply with) all of the terms and conditions of this agreement, do not click the acceptance button and do not use the api or knowmail service
+in the event of a conflict between this agreement and a purchase order, the provisions of such purchase order shall prevail
+if you are registering on behalf of any entity or company (“ company “), you represent that you are authorized to enter into, and bind the company to this agreement and register to use the api and knowmail service
+you are solely responsible for ensuring that this agreement is in compliance with all laws, rules, and regulations applicable to you and the company and the right to access the api or knowmail service is revoked where this agreement or use of any of the foregoing is prohibited
+subject to the terms and conditions of this agreement and any purchase order, including payment of the fees, if applicable, knowmail hereby grants you a non-exclusive, non-sublicensable, non-transferable, revocable and limited right and license (i) to use the api and knowmail service solely in accordance with the applicable documentation (“ documentation “) and the features embedded within the knowmail service
+and (ii) to allow end users of your company’s customer platform (“ employees “) to access the knowmail service through the customer platform
+the limits on the number of employees, numbers of devices, and number of api calls shall be as set forth in the developer portal area of the knowmail website
+notwithstanding the above, if you and knowmail have entered into purchase order, usage limitations shall be as set forth in such purchase order
+in order to use the api, you will need to have a registered account
+to complete the registration process, you must provide all registration information as requested by us
+we may indicate that the provision of some information is optional
+accounts must be associated with an email of a company for which the api will be used and may not be associated with a personal email account
+knowmail may refuse to open an account for any individual or entity at its sole discretion, including, without limitation in the event of attempted registration using a personal email account
+you agree to notify us immediately of any unauthorized use of your account or password
+you are fully and solely responsible for the security of your computer system and all activity on your account, even if such activities were not committed by you
+knowmail will not be liable for any losses or damage arising from unauthorized use of your account or password, and you agree to indemnify and hold knowmail harmless for any unauthorized, improper or illegal use of your account, and any charges and taxes incurred, unless you have notified us via e-mail at support@knowmail
+me that your account has been compromised and have requested that we block access to it, which we will do as soon as reasonably practicable
+we do not police for, and cannot guarantee that we will learn of or prevent, any inappropriate use of the api or knowmail service
+you agree that knowmail may, for any reason, at its sole discretion and without notice, terminate your account, and may take any other corrective action it deems appropriate
+grounds for such termination may include but are not limited to (i) extended periods of inactivity, (ii) violation of the letter or spirit of this agreement or a purchase order, (iii) fraudulent, harassing or abusive behavior, (iv) behavior that is harmful to other individuals or users or the business interests of knowmail, or (v) failure to make payment in accordance with the terms specified herein, including chargebacks
+if your account is terminated, you may not rejoin knowmail again without our express permission
+upon termination of your account, you and your employees shall not have any further access to the api or knowmail service
+we reserve the right to investigate suspected violations of this agreement or a purchase order or illegal and inappropriate behavior through use of the api and knowmail service
+we will fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity, or behavior of anyone believed to have violated this agreement or a purchase order or to have engaged in illegal behavior in connection with the api or knowmail service
+you may request termination of your knowmail account at any time and for any reason by sending an email to support@knowmail
+following such request, knowmail shall close your account as soon as reasonably practicable
+termination of your account will result in the knowmail services no longer being available to employees through your customer platform
+any suspension, cancellation or termination of your account shall not affect your obligations under this agreement or a purchase order (including but not limited to intellectual property, indemnification, any representations and warranties made by you, and limitation of liability), which by their sense or context are intended to survive such suspension, cancellation or termination
+employee consents, personal data
+in order for employees to access and use the knowmail service, knowmail will be required to access the customer platform account or other email account with which the knowmail service is being used and copy, modify, and alter content in or related to the account
+you represent and warrant that you have and shall maintain throughout the term of this agreement and for a period of one (1) year thereafter, the consent of employees as may be required by applicable law to allow knowmail to access, use, copy, modify, and alter any content contained in or in relation to the employee’s customer platform or other email account for the provision of the knowmail service in accordance with the terms of this agreement or a purchase order
+in addition, the knowmail service will enable knowmail to access and process any personal data contained in such employee’s customer platform or other email account on your behalf
+you represent and warrant that you have and shall maintain all necessary rights, authorizations, and consent, and have provided all notices required under applicable law, in order to allow for knowmail’s collection of personal data of employees and its processing activities as contemplated herein
+except as expressly set forth herein, you may not do, attempt to do, or permit any third party, including without limitation an employee, to do any of the following
+(i) decipher, decompile, disassemble, or reverse-engineer the api, the knowmail service and/or their underlying ideas, algorithms, or code, including framing or mirroring any part thereof
+(ii) use the api, documentation, or knowmail service, or any content thereon in connection with any commercial endeavors in any manner, except for the purposes specifically set forth in this agreement
+(iii) circumvent, disable, or otherwise interfere with security-related features of the api or knowmail service or features that prevent or restrict use or copying of the knowmail service
+(iv) use or access another user’s account or password without permission
+(v) remove any product identification, copyright, reference for patent or other notices
+or (vi) modify the knowmail service, insert any code or product, or in any other way manipulate the knowmail service
+you shall remain fully liable to knowmail and any of its affiliates for any violation of the foregoing restrictions by any employee and/or unauthorized user of your customer platform
+to the extent any of the restrictions set forth above are not enforceable under applicable law, you shall inform knowmail in writing prior to engaging in any of the applicable activities
+if relevant, you agree to pay knowmail the fees as specified in the relevant purchase order
+payment shall be made through a third-party payment processor
+you will be asked to provide customary billing information such as name, billing address and credit card information to such third-party payment processor
+use of such third-party payment processor’s service will be subject to terms and conditions governing use of that third party’s service and that third party’s personal data collection practices
+please review such terms and conditions and privacy policy before using such services
+where applicable, taxes may also be charged
+it is your responsibility to determine whether you are required to pay any applicable taxes and to clarify such information when making a payment
+knowmail does not accept any responsibility for the calculation or collection of any applicable taxes
+except as expressly provided in a purchase order, fees are non-refundable
+you may contact knowmail with regard to support for the api and/or knowmail service by sending an email to support@knowmail
+support will be provided during business days between 9
+additional support may be provided subject to a purchase order
+with respect to technical information that you provide to knowmail as part of the support services or otherwise, knowmail may use such information for its business purposes, including for product support and development, and you hereby give knowmail a non-exclusive, perpetual, royalty free and worldwide license to make any use it desires in connection with such information
+knowmail, its affiliates, or its licensors, as the case may be, have and shall at all times retain all right, title and interest in the api, documentation, the knowmail service and/or any intellectual property and/or confidential information embedded therein or any other proprietary materials provided by knowmail and any enhancements and modifications thereto
+you hereby acknowledge and agree that any and all rights, title and interests, including, without limitation, all copyrights, trademarks, trade names, logos and service marks, trade secrets, know-how, patents, designs and algorithms, utility models, and all improvements thereto, and any other intellectual property incorporated in and/or otherwise related to the api, documentation, and/or the knowmail service, including but not limited to any images, photographs, animations, video, audio, music, text, and “applets”,
+and any form of derivative work thereof is and will at all times be owned solely by knowmail or its licensors, as the case may be
+if you provide knowmail with any feedback regarding the api, documentation, or knowmail service, knowmail may use all such feedback without restriction and shall not be subject to any non-disclosure or non-use obligations with respect thereto
+you shall have all right, title and interest in your customer platform
+you hereby grant knowmail and its successors a worldwide, non-exclusive, royalty-free, perpetual, sub-licensable and transferable right to access, use, copy, modify, and alter any content contained in or in related to the employee’s customer platform, other email account and/or data as necessary in order to allow for the provision of the knowmail service in accordance with the terms of this agreement and a purchase order, if relevant
+you represent and warrant that your customer platform (a) does not and will not, throughout the term of this agreement, infringe the intellectual property rights of any third party, (b) does not contain any defamatory, libelous, obscene or otherwise offensive material, (c) complies with all applicable law and regulations, including applicable data protection law, (d) does not collect, process or transfer the data of employees in any manner not clearly and accurately disclosed pursuant to a privacy policy that complies with applicable law and regulations, and (e) does not contain any worms, viruses, spyware, adware or other malicious or intrusive software
+your use of the api and the knowmail service is at your sole discretion and risk
+the api, the knowmail service, and any content thereon, are provided on an as is and as available basis without warranties of any kind
+knowmail expressly disclaims all warranties of any kind, express, implied or statutory, relating to the api and knowmail service or any content thereon, including without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement of proprietary rights, course of dealing or course of performance
+you hereby acknowledge that use of the knowmail service involves the filtering of email messages and may therefore result in your or an employee’s failure to receive particular email messages
+knowmail does not warrant that the knowmail service will be free from defects, or that your use of the knowmail service will be uninterrupted or error-free
+we disclaim any warranties, express or implied, (i) regarding the security, accuracy, reliability, timeliness and performance of the api or the knowmail service
+or (ii) that any errors will be corrected
+or (iii) regarding the performance of or quality, currency, completeness or usefulness of any information provided in the documentation or on the knowmail service
+no advice or information, whether oral or written, obtained by you from us, shall create any warranty not expressly stated in this agreement
+if you choose to rely on such information, you do so solely at your own risk
+some states or jurisdictions do not allow the exclusion of certain warranties
+accordingly, some of the above exclusions may not apply to you
+check your local laws for any restrictions or limitations regarding the exclusion of implied warranties
+the entire risk arising out of the use or performance of the api or the knowmail service remains with you and you expressly assume all responsibility for any damages to you or your employees, including non-received email messages, lost data, including the loss of any and all emails included in your or employees’ email inboxes and any other data in relation to any email accounts or third party services in respect of which the knowmail service is used by you or employees, lost profits and other direct and indirect damages, that may result in any way out of this agreement and/or a purchase order and/or the use of the api and/or the knowmail service
+without derogating from the generality of the foregoing, you hereby acknowledge that knowmail does not warrant or guaranty the security of the software or of communications made using the knowmail service, and you assume all risks associated with the same with respect to your own use and use by your employees
+you further acknowledge that the knowmail service may, in order to perform its function, modify the configuration of the computer software and devices installed on the computer, mobile device, or server on which it is used
+in addition to the foregoing, we assume no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of the knowmail service or any customer platform due to changes made by us, you, or any employee
+we are not responsible for any problems or technical malfunction of any telephone network or lines, computer online systems or equipment, servers or providers, software, failure of any email due to technical problems or traffic congestion on the internet, including any injury or damage to users or to any person’s mobile device or computer related to or resulting from use of the api or the knowmail service
+under no circumstances shall we be responsible for any loss or damage, including personal injury or death, resulting from use of the api or knowmail service
+in addition, we assume no responsibility for any incorrect data, including personal data provided by you, on your behalf, or by your employees
+you hereby represent that you are solely responsible for any and all data provided to knowmail, including any incorrect data and you shall assume any and all liability for any consequences of provision of such incorrect data to us and our affiliates
+in no event shall knowmail, its affiliates, or any of their respective officers, directors, employees, assignees, or agents be liable to you or any third party, including employees, for any damages whatsoever, including without limitation indirect, incidental, special, punitive, or consequential damages, arising out of or in connection with your or your employees’ use of the api and/or the knowmail service, including but not limited to the quality, accuracy, or utility of the information provided as part of or through the knowmail service, whether the damages are foreseeable and whether or not knowmail as been advised of the possibility of such damages
+the foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction and in no event shall our or our affiliates’ maximum cumulative liability to you exceed the amount you have paid us in the three months immediately preceding the date on which the applicable claim or cause of action arose, if applicable
+if you have not made any payments to knowmail for the use of the api and/or the knowmail service, then knowmail and its affiliates shall not have any liability towards you
+you agree to indemnify, defend, and hold harmless knowmail, its affiliates and their respective employees, directors, officers, subcontractors and agents, against any and all claims, damages, or costs, losses, liabilities or expenses (including court costs and attorneys’ fees) that arise directly or indirectly from
+(a) breach of this agreement and/or a purchase order by you or anyone using your computer and/or mobile device, password (whether authorized or unauthorized)
+(b) any claim, loss or damage experienced from your or any of your employees’ use or attempted use of (or inability to use) api or knowmail service
+(c) your violation of any law or regulation or any of your obligations, representations, or warranties hereunder including but not limited to breach of any privacy and/or data protection laws and regulations to which you are subject
+(d) your infringement of any right of any third party
+(e) any activities of employees, including, without limitation, breach by employees of the restrictions set forth above
+and (f) any other matter for which you are responsible hereunder or under applicable law
+portions of the knowmail service may provide you with third-party links to websites, applications, and services
+we make no promises regarding any content, goods or services provided by such third parties and all use of third-party websites and applications is at your own risk
+additionally, we do not accept responsibility for any payments processed or submitted through third-party websites and applications or for the privacy policies of such third parties
+we do not endorse any products offered by third parties and we urge our users to exercise caution in using third-party websites or applications
+this agreement and any purchase order shall be governed by the laws of the state of israel exclusive of its choice of law rules, and without regard to the united nations convention on the international sales of goods and the competent courts in tel aviv-jaffa shall have exclusive jurisdiction to hear any disputes arising hereunder
+in any action to enforce this agreement or a purchase order, the prevailing party will be entitled to costs and attorneys’ fees
+any cause of action against knowmail must be brought within one (1) year of the date such cause of action arose
+in the event that any provision of this agreement or a purchase order is held to be unenforceable, such provision shall be replaced with an enforceable provision which most closely achieves the effect of the original provision, and the remaining terms of this agreement or purchase order shall remain in full force and effect
+nothing in this agreement or a purchase order creates any agency, employment, joint venture, or partnership relationship between you and knowmail or enables you to act on behalf of knowmail
+except as may be expressly stated in this agreement or any purchase order, this agreement, together with any purchase order, constitutes the entire agreement between us and you pertaining to the subject matter hereof, and any and all other agreements existing between us relating thereto are hereby canceled
+we may assign and/or transfer our rights and obligations hereunder to any third party without prior notice
+you shall not assign and/or transfer any of your rights or obligations hereunder, and any assignment in violation of the foregoing shall be void
+no waiver of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default
+if we are required to provide notice to you hereunder, we may provide such notice to the contact details you provided upon registration
+learn more of knowmail's personalized artificial intelligence platform by contacting us
+400 tradecenter drive #5900, woburn, ma 01801, usa 1-617-804-6041
+see knowmail’s personalized ai platform right within your microsoft teams
+avaya vantage powered by knowmail pai announcement
+copyright © 2019 knowmail, all rights reserved

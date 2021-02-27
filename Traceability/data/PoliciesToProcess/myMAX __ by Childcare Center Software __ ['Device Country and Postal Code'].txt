@@ -1,0 +1,185 @@
+time clock reporting / payroll reporting
+time clock reporting / payroll reporting
+child care center software, inc
+39 old post road
+clifton park, ny 12065-3113
+the last update to our privacy policy was posted on 10/20/2016
+this document governs the privacy policy of our website www
+any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website
+‘nonpersonal information’ (npi) is information that is in no way personally identifiable and which is obtained automatically when you access our website with a web browser
+‘personally identifiable information’ (pii) is not publicly displayed information that is personally identifiable to you and obtained for us to provide you with a product or service
+pii may include information such as your name, address, phone number, credit card information, and other related information that you provide to us
+your personal information (pii)
+our privacy policy tells you what pii we may collect from you, how we may share your pii, and how you can limit our sharing of your pii
+as part of our commitment we have adopted the guidelines used by the direct marketing association privacy promise to american consumers
+other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates
+(2) honor our customers’ requests not to have their information transferred to our affiliates
+and (3) honor our customers’ requests not to receive solicitations from our affiliates
+generally you control the amount and type of information you provide to us when using our website
+if you register as a member to use our website, you must provide pii in order for us to provide you with various features and/or functionality of our website
+as a subscriber we collect your pii in the following ways
+at subscription or information request
+when you register for a subscription or marketing detail, we collect your name, title and email address, your organization name, contact phone number and contact address
+when buying products or services
+if you buy products or services from us, we collect a primary contact name and title, email address, physical business address, credit card information or ach detail, billing address, billing phone number, billing email address and tax id
+there may be online forms used on our website
+the information you enter into these online forms may contain pii
+if you use our mobile application, you may have to provide pii in order to use it
+our website may offer premium features for the use of which you must pay
+if we were to charge you for the use of these premium features, we would need to collect payment source information (such as a credit card) to bill you for using such premium features
+when you use our website, we automatically collect certain computer information through the interaction of your mobile phone or web browser with our website
+such information is typically (but not always) considered npi
+our website uses cookies
+a cookie is a small piece of data or text file stored in your computer or mobile device by your web browser
+cookies may contain text that can be read by a web server that delivered the cookie to you
+the text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer
+however, it may contain other information as well
+by agreeing to accept our use of cookies you are giving us permission to place some or all the cookies described below on your device
+we may use cookies for
+identifying the areas of our website that you have visited
+signing in and identifying you as a member or user of our website
+remarketing our products or services to you
+remembering your preferences and settings
+finally, we may use cookies to personalize the content that you see on our website
+most web browsers can be set to disable the use of cookies
+however, if you disable cookies, you may not be able to access features on our website correctly or at all
+we may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters
+the information we collect by web beacons allows us to statistically monitor the number of people who open our emails
+web beacons also help us understand the behavior of our customers and visitors
+our web beacons are not used to track your activity outside our website
+we automatically receive information from your web browser or mobile device
+this information includes the name of the website from which you entered our website, if any, as well as the name of the website to which you’ll go when you leave our website
+this information also includes the ip address of your computer/proxy server that you use to access the internet, your internet service provider’s name, web browser type, type of mobile device, and computer operating system
+we use all this information to analyze trends among our users to help improve our website
+google ad and content network privacy policy
+third-party vendors, including google, use cookies to serve ads based on a user’s past visits to our website
+google’s use of the doubleclick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the internet
+users may opt out of the use of the doubleclick cookie for interest-based advertising by visiting http
+google analytics privacy policy
+our website uses google analytics to collect information about the use of our site
+google analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site
+we use the information we get from google analytics to improve our site
+google analytics collects only the ip address assigned to you on the date you visit our site, not your name or other identifying information
+we do not combine the information collected through the use of google analytics with personally identifiable information
+although google analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but google
+google’s ability to use and share information collected by google analytics about your visits to our site is restricted by the google analytics terms of use
+you can prevent google analytics from recognizing you on return visits to this site by disabling cookies on your browser
+why am i seeing ads by google for products i’ve viewed
+our website uses a remarketing advertising service
+our remarketing service is provided by google and other companies that show our ads on websites across the internet
+with remarketing you may see ads for our products you have previously looked at
+as an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website
+the website’s owner might like to encourage you to revisit his/her site and buy a computer by showing you his/her ads again on other websites that you visit
+we use remarketing for similar purposes, so you may see advertisements for our products as you search the internet
+for this to happen google or other remarketing providers will read a cookie that is already in your browser, or they place a cookie in your browser when you visit our site or other sites using remarketing
+(this can only happen if your browser is set to let it happen)
+when you visit another website that works with google or other providers of remarketing advertising, you may see ads for products that you previously viewed, even though they may have nothing to do with the website you are seeing the ads on
+so going back to the computer example, you may see ads for computers on a news or weather website
+this happens because your browser is sending google the same cookie and encouraging you to revisit the computer website that you previously visited to buy a computer
+you can opt out of google’s use of cookies by visiting
+why am i seeing ads by for products i’ve viewed
+our website uses a remarketing advertising service
+our remarketing service is provided by facebook
+with remarketing, you may see ads for our products you have previously looked at when you use facebook
+for this to happen, facebook uses a custom audience pixel that is activated when a visitor lands on web page and a unique “cookie” is placed in their browser
+how your information is used
+we use the information we receive from you as follows
+provide our products and services
+personalize and customize content
+make improvements to our website
+contact you with updates to our website
+resolve problems and disputes
+contact you with marketing and advertising
+that we believe may be of interest
+when we communicate with you about our website, we will use the email address you provided when registering as a susbscriber or in requesting more information
+we may also send you alerts regarding your use of our website
+we may also send you emails with promotional information about our website or offers from us or our affiliates, unless you have opted out of receiving such information
+you can change contact preferences at any time through your account or by contacting us
+sharing information with affiliates and other third parties
+we do not sell, rent, or otherwise provide your pii to third parties for marketing purposes
+however, we may use your nonpersonal information for data aggregation purposes which might be sold to other parties at our discretion
+any such data aggregation would not contain any of your pii
+we may provide your pii to affiliates who provide services with regards to our website (such as payment processors, shipping companies, united states postal service and other service providers
+our website may offer the capability for users to communicate with each other through online community discussion boards
+not filter or monitor what is posted on such discussion boards
+if you chose to post on these discussion boards, you should use care when exposing any pii as such information is not protected by our privacy policy nor are we liable should you choose to disclose your pii through such postings
+legally required releases of information
+we may be legally required to disclose your pii if such disclosure is (a) required by subpoena, law, or other legal process
+(b) necessary to assist law enforcement officials or government enforcement agencies
+(c) necessary to investigate violations of or otherwise enforce our legal terms
+(d) necessary to protect us from legal action or claims from third parties, including you and/or other members
+(e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates
+if our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your pii to the new business
+the new business would retain the right to use your pii according to the terms of this privacy policy as well as to any changes to this privacy policy as instituted by the new business
+retaining your personal information
+we retain information we collect from you (including pii) for only as long as we need such information for legal, business, or tax purposes
+protecting the privacy rights of third parties
+if any postings you make to our website contain information about third parties, you need to make sure that you have permission to include them in your posting
+while we are not legally liable for the actions of our users, we will remove any postings for which we are notified that such postings violate the privacy rights of others
+you may change your pii at any time using facilities found on our website
+if you need assistance with updating your pii or removing yourself from our mailing lists, just send us an email with your request or contact us using our contact information found on our website
+opting out of sharing information
+you can always opt-out of future unaffiliated third-party disclosures of your information
+such opt out will not affect disclosures otherwise permitted by law including but not limited to
+(i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept
+do not track settings
+some web browsers have settings that enable you to request that our website does not track your movement within our website
+our website obeys such settings when transmitted to and detected by our website
+due to circumstances that are outside our control (i
+internet transmission issues, web browser/server incompatibilities, etc
+), we may not always be able to detect and honor this setting
+however, this does not change our compliance in any other way with our privacy policy
+change and turn off tracking features in your browser
+you can turn off tracking features and other security settings in your browser by visiting the following links
+for internet explorer visit
+for mozilla firefox visit
+for google chrome visit
+links to other websites
+our website may contain links to other websites
+these websites are not under our control and are not subject to our privacy policy
+these websites will likely have their own privacy policies
+we have no responsibility for these websites and provide links to these websites solely for your convenience
+you acknowledge that your use of and access to these websites are solely at your risk
+it is your responsibility to check the privacy policies of these websites to see how they treat your personal information
+we follow the children’s online privacy protection act (coppa)
+even though our website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our website
+we do not knowingly collect pii from a child under the age of 18
+if you are a parent or guardian and believe that your child is using our website, please contact us
+we may ask for proof of identification before we remove any information to prevent malicious removal of account information
+if we discover on our own that a child is accessing our website, we will delete the information as soon as we discover it, will not use the information for any purpose, and will not disclose the information to third parties
+you acknowledge that we do not verify the age of our users nor have any liability to do so
+if you are a child, please seek the permission from a parent or guardian before using our website
+we comply with the federal can-spam act
+you can always opt out of receipt of further email correspondence from us or our affiliates
+we will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business
+we have taken steps to build our website using industry-standard encryption and authentication tools to protect the security of your pii
+when we collect your pii through our website, we will encrypt your pii before it travels over the internet using industry-standard technology for conducting secure online transactions
+we also use technologies such as secure routers and firewalls to protect your pii
+unfortunately we cannot fully guarantee secure data transmission over the internet because of its nature
+once we receive your pii, we have security measures in place to protect against the loss or misuse of your pii, though again we cannot fully guarantee against such loss or misuse
+we strongly urge you to protect any password you may have for our website and not share it with anyone
+you should always log out of our website when you finish using it, especially if you are sharing a computer with someone else or are using a computer in a public place
+use of credit cards
+you may have to provide a credit card to buy products and services from our website
+we use third-party billing services and have no control over these services
+we use our commercially reasonable efforts to make sure that your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use
+however, you understand and agree that we are in no way responsible for any misuse of your credit card number
+information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy
+personal information that you publish on our website or submit for publication on our website may be available via the internet around the world
+we cannot prevent the use or misuse of such information by others
+you hereby agree to the transfers of personal information described within this section
+changes to our privacy policy
+we reserve the right to change this privacy policy at any time
+if our company decides to change this privacy policy, we will post those changes on our website so our users and customers are always aware of what information we collect, use, and disclose
+if at any time we decide to disclose or use your pii in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account)
+otherwise we will use and disclose our users’ and customers’ pii in agreement with the privacy policy that was in effect when their information was collected
+in all cases your continued use of our website, services, and products after any change to this privacy policy will constitute your acceptance of such change
+questions about our privacy policy
+if you have any questions about our privacy policy, please contact us using our contact information found on our website
+copyright © orion systems
+this document or any portion of it may not be copied or duplicated without
+a license from http
+your email address will not be published
+required fields are marked * comment
+live chat software by happyfox chat
+back to top we are offline leave us a message

@@ -1,0 +1,4 @@
+when you choose to allow the skill to use your location (postcode and country), it will only be used to locate your nearest flights
+your location is never linked to any other personal information and is not permanently saved but will be requested from amazon every time you make a request
+you can choose to disable sharing of your location with this skill or uninstall the skill at any time
+if you have any comments or questions, please contact alex

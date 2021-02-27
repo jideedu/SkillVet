@@ -1,0 +1,96 @@
+instantly share code, notes, and snippets
+last active 14 months ago
+what would you like to do
+embed this gist in your website
+copy sharable link for this gist
+clone with git or checkout with svn using the repository’s web address
+learn more about clone urls
+cmm tech operates the following skills /actions/capsules (individually refered to as "service" going forward)
+this page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service
+if you choose to use our service, then you agree to the collection and use of information in relation with this policy
+the personal information that we collect are used for providing and improving the service
+we will not use or share your information with anyone except as described in this privacy policy
+the terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy
+information collection and use
+for a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to your country and postal code
+the information that we collect will not be used to contact or identify you
+we want to inform you that whenever you use our service, we collect information session information that is called log data
+this log data may include information such as your timezone, the time and date of your visit, etc
+we may employ third-party companies and individuals due to the following reasons
+to facilitate our service
+to provide the service on our behalf
+to perform service-related services
+to assist us in analyzing how our service is used
+we want to inform our service users that these third parties have access to your logged data
+the reason is to perform the tasks assigned to them on our behalf
+however, they are obligated not to disclose or use the information for any other purpose
+we value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it
+but remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security
+our services may address persons under the age of 13
+but in adherance with the children's online privacy protection act (coppa) , we do not knowingly collect personal identifiable information (but we may collect "nicknames") from children under 13
+in the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers
+if you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions
+changes to this privacy policy
+we may update our privacy policy from time to time
+thus, we advise you to review this page periodically for any changes
+we will notify you of any changes by posting the new privacy policy on this page
+these changes are effective immediately, after they are posted on this page
+if you have any questions or suggestions about our privacy policy, do not hesitate to contact us
+sign up for free
+to join this conversation on github
+already have an account
+sign in to comment
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+instantly share code, notes, and snippets
+last active 14 months ago
+what would you like to do
+embed this gist in your website
+copy sharable link for this gist
+clone with git or checkout with svn using the repository’s web address
+learn more about clone urls
+cmm tech operates the following skills /actions/capsules (individually refered to as "service" going forward)
+this page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service
+if you choose to use our service, then you agree to the collection and use of information in relation with this policy
+the personal information that we collect are used for providing and improving the service
+we will not use or share your information with anyone except as described in this privacy policy
+the terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy
+information collection and use
+for a better experience while using our service, we may require you to provide us with certain personally identifiable information, including but not limited to your country and postal code
+the information that we collect will not be used to contact or identify you
+we want to inform you that whenever you use our service, we collect information session information that is called log data
+this log data may include information such as your timezone, the time and date of your visit, etc
+we may employ third-party companies and individuals due to the following reasons
+to facilitate our service
+to provide the service on our behalf
+to perform service-related services
+to assist us in analyzing how our service is used
+we want to inform our service users that these third parties have access to your logged data
+the reason is to perform the tasks assigned to them on our behalf
+however, they are obligated not to disclose or use the information for any other purpose
+we value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it
+but remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security
+our services may address persons under the age of 13
+but in adherance with the children's online privacy protection act (coppa) , we do not knowingly collect personal identifiable information (but we may collect "nicknames") from children under 13
+in the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers
+if you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions
+changes to this privacy policy
+we may update our privacy policy from time to time
+thus, we advise you to review this page periodically for any changes
+we will notify you of any changes by posting the new privacy policy on this page
+these changes are effective immediately, after they are posted on this page
+if you have any questions or suggestions about our privacy policy, do not hesitate to contact us
+sign up for free
+to join this conversation on github
+already have an account
+sign in to comment
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

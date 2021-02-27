@@ -1,0 +1,183 @@
+viacom18 media private limited (“we”, “us”, “the website”, “viacom18”) is strongly committed to the data subject’s (“you”, “your”, “subscriber”, “user”) right to privacy and to keeping your information secure
+to earn your trust and confidence in our commitment, we are fully disclosing our privacy practices
+we encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information
+this statement applies solely to the information collected on viacom18
+this privacy notice describes the usage of information provided or collected on the sites and applications where this privacy notice is posted
+we follow this privacy notice in accordance with applicable law in the regions where we operate
+in some cases, we may provide additional data privacy notices specific to certain services or regions
+those terms are to be read in combination with this policy
+please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications like social media login) the information we collect is through those third-party sites linked with our applications and is covered by this privacy notice, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices
+privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our sites or applications
+please also keep in observance that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites
+we encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information
+all capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the terms of use
+this privacy notice should be read in conjunction and together with the terms of use applicable to the service (website, application or other service) you are using
+by using viacom18’s service (for example, when you register as an alumni, register for an employment opportunity, enter a contest or promotion, communicate with us, on our sites), you agree to our collection, use and sharing of your personal information as described in this policy
+in some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to access our services before proceeding for further operations
+in case of any roaming user profile or if you are a traveller visiting various countries around the world and avail viacom18’s services, then we will consider the country of registration (where you provide us with your details for the first time) as your primary country and the consents obtained at the time of registration will be valid for your processing of personal information
+the privacy terms applicable as per the law of that country at the time of registration will apply to you
+accessing website and viacom18 services through vpn/ proxy
+you should not access or use the website viacom18 by means of any mechanism or technology which conceals your actual geo-location or provides incorrect details of your location (for example, use a virtual private network (vpn/proxy) to access the services)
+we will not be responsible or liable for any collection, storage or processing of your personal information or data if you use any mechanism or technology to access or use website or services which conceals your actual geo-location
+collection of personal information and it's use
+‘personal information’ or ‘pii’ is defined as any information that identifies (whether directly or indirectly)
+a particular individual or natural person, such as the individual’s name, postal address, email address, and mobile number indicating to that particular person or is identifiable
+when anonymous information is directly or indirectly associated with personal information, the resulting information can also be treated as personal information
+viacom18 does not collect personally identifiable information about you except when you specifically and knowingly provide it
+viacom18 and its service partners use your personally identifiable information to operate the sites and services and to inform you of new features, services, and products from viacom18 and its affiliates
+information you provide to us
+we may ask for and collect the following personal information about you when you use the website and without this information we may not be able to provide you with all the requested services
+to use certain features on the website and for the services (such as registrations for alumni networks, to obtain employment opportunities, event registrations and website campaigns, surveys, quizzes, polls), you may provide basic contact information through forms available on the website (“registration”), including but not limited to
+information you provide to us voluntarily
+if you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the website, we may collect and store such information
+we may collect additional information at other times, when you provide feedback(s), modify your email preferences, respond to surveys, or communicate with us
+this information may include your name, e-mail id, mobile number, location, etc
+information we collect automatically
+we collect information about you and your use of our service, your interactions with us and our service partners, as well as information regarding your computer or other devices used to access our service(such as mobile devices, tablets and other viewing devices)
+this information may include, but is not limited to
+activities on the website such as type of pages viewed, time spent on pages, search queries etc
+advertising identifiers, such as those found on the websites in the form of gaid or cookie id on browsers
+information collected via the use of cookies and other technologies*
+to improve the responsiveness of the " website " for our users, we may use " cookies ", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (" user id ") to understand the user's individual interests using the identified computer
+unless you voluntarily identify yourself (through registration, for example), we would not know who you are, even if we assign a cookie to your computer
+the only personal information which a cookie can hold is the information you supply
+a cookie cannot read data from your hard drive
+our advertisers may also assign their own cookies to your browser(s) (if you click on their ads), a process that we do not control
+we receive and store certain types of information whenever you interact with us via website(s), through your computer/laptop/notebook/ mobile/tablet/pad/handheld device or any other electronic device capable of connecting to internet
+for more details you can refer to our cookie policy
+inferred information through usage and log data
+we may track certain information about you based upon your behaviour on the website
+we use this information for conducting internal research on our users' demographics, devices, interests, and behaviour to better understand, protect and serve our users
+this information is compiled and analysed on an aggregated basis
+we may also collect your information to track user behaviour and preferences for internal analytics and research
+we may also use your information
+to evaluate your interests for the articles published on the website
+to perform analytics and conduct customer research, to determine your interest, for identifying and analysing traffic patterns
+purposes and lawfulness of processing
+the website will only collect and process personal information about you where we have lawful basis
+lawful basis on which we would process your personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with our services
+we use information to provide, analyse, administer, enhance and personalize our service and marketing efforts, to process your registration, and to communicate with you related to the cases mentioned below
+for example, we use information to
+the main uses of your personal information are to verify your identity
+to help provide our services and to administer those services
+communicate with you concerning our services (for example by email, push notifications text messaging, and online messaging channels), so that we communicate news regarding the website to you, details about the employment opportunities and updates regarding the alumni network
+determine your requirements and provide personalized suggestions, tips and promotional content for various topics all of which we think will be of interest to you
+prevent, detect and investigate potentially prohibited or illegal activities, including fraud
+analyze and understand our audience, improve our service (including our user interface experiences)
+notify you about changes in terms of service
+we provide personalisation by using data you submit to us in terms of cookies, ip addresses, web beacons or similar technologies in relation to the devices you use
+by doing so, we can provide you with contents and/or advertising that we believe is more relevant to your interests
+please provide explicit consent for the same when we collect your data
+you can click on here to modify your choices with respect to capturing of cookies from our website or you can change your browser settings
+you can also raise a request to alter your consent choices at connectwithus@viacom18
+information used by the company
+the information as supplied by the users enables us to improve the services and provide you the most user-friendly experience
+ny personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc
+any posted/uploaded/conveyed/communicated by users on the public sections of the website or the application becomes published content and is not considered personally identifiable information subject to this privacy notice
+in case you choose to decline to submit personally identifiable information, we may not be able to provide certain services to you
+in any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information
+when you register on the website, we contact you from time to time about updating your personal information to provide the users such features that we believe may benefit / interest you
+disclosure to third parties
+at times the website may make certain personal information available to strategic partners that work with the website to provide service, or that help the website market to users
+personal information will only be shared by the website to provide or improve our service and marketing aspects
+it will not be shared with third parties for their marketing purposes
+people we may disclose your personal information will include
+affiliates/subsidiaries or our group companies
+our professional advisers, including our accountants, auditors and lawyers
+other telecommunication and information services providers
+by disclosing individual records such as ip addresses as may be required by law
+government and regulatory authorities and other organisations, as required or authorised by law
+we will ensure that these people only use such information to perform the above functions, and that they have adequate procedures in place to deal with your data securely
+some of these people may be based outside india
+in the event viacom18 media private limited
+is merged with or acquired by another company or in case of re-organization or re-structuring of business, we and our affiliates may share your personal information, wholly or in part, with another business entity
+we may disclose your information if we use third party processors to administer and process your personal information for the purposes notified in the privacy notice, e
+for hosting activities related to the use of our sites or services
+the website may include links to various third-party websites that may collect your personal information
+use of your information collected by such third-party platform will be governed by the privacy notice in such third-party platform
+such websites or applications are governed by their respective privacy policies, which are beyond our control
+once you leave our servers (you can tell where you are by checking the url in the location bar on your browser), use of any information you provide is governed by the privacy notice of the operator of the application, and you are visiting
+that policy may differ from ours
+if you can't find the privacy notice of any of these sites via a link from the application's homepage, you should contact the application owners directly for more information
+we may share non-personally identifiable information publicly and with our service partners
+for example, we share information publicly to show trends about the general use of our services
+we also allow specific partners to collect information from your browser or device for marketing/promotions and measurement purposes using their own cookies or similar technologies
+the website may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to
+we find that your actions on our web sites violate the terms of service/use or any of our usage guidelines for specific products or services
+conform to the edicts of the law or comply with legal process served on the site or its owners
+protect and defend the rights or property of the site-owners, the site or the users of the website
+act under exigent circumstances to protect the personal safety of users of the website, the site, its owners, or the public
+we may need to share details with third parties (such as auditors or legal advisors) to obtain advice
+any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights
+your controls and choices
+when you use the services from viacom18 (websites or any of its sub sites), we make good efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal information or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal information or information to be retained by law or for legitimate business purposes
+we ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required
+in any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort
+because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems
+to exercise rights applicable to you as a data subject, you must write to us at connectwithus@viacom18
+com and raise a request for the specified right
+kindly ensure you use appropriate subjects to mention the right (e
+data access request, data portability request, data deletion request) while raising all such requests, this would help us process your requests in a faster and more efficient manner
+we may take 30 days from the date of receipt of request to complete your requests
+however, if the nature of the requests are excessive in nature or would require significant effort then may ask for an extension of 60 days by giving a prior notice to you with the reason for the extension
+we provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your personal information
+in accordance with applicable law, your controls and choices may include
+data access and data portability
+the eu – general data protection regulation entitles you, as the data subject, to request copies of your personal information held by us
+you may also be entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible)
+rectification of inaccurate or incomplete information
+you can ask us to correct inaccurate or incomplete personal information concerning you (this is the information which you cannot update yourself within your viacom18 account) by sending us an e-mail
+you can access and update some of your personal information through your account settings
+you are responsible for keeping your personal information up-to-date
+the website may send you periodic reminders via e-mail to maintain the accuracy of your personal information
+data retention and erasure
+we retain your personal information as long as necessary for the legitimate interests specified in this policy and for us to comply with our legal obligations
+if you no longer want us to use your information then you can request that we erase your personal information and close your account
+please note that if your request for the erasure of your personal information
+we may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety
+we may retain and use your personal information to the extent necessary to comply with our legal obligations and reasons of public interests in the area of public health
+for example, we may keep some of your information for tax, legal reporting and auditing obligations
+information you have shared with others (e
+, reviews, forum postings) may continue to be publicly visible on the website, even after your account is cancelled
+however, attribution of such information to you will be removed
+additionally, some copies of your information (e
+, log records) may remain in our database, but are disassociated from personal identifiers
+because we maintain copies of personal information to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time
+for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+withdrawing consent and restriction of processing
+for withdrawing your consent at any time during the tenure of your services with us, you may choose to do so by sending us an e-mail
+we shall review your request and may ask you to verify your identity
+post verification we will withdraw the consent for which request was made by you and stop any further processing of your personal information
+where your personal information is processed for direct marketing purposes, you may, at any time ask us to cease processing your data for these direct marketing purposes by sending an e-mail to us
+please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences
+if collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate
+if you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact our customer support team
+the website is not intentionally designed for or directed at persons less than 16 years of age
+viacom18 media private limited does not knowingly permit any person who is under 16 years of age to register with the services or to provide any other personally identifying information
+if viacom18 media private limited becomes aware that any personally identifiable information of persons less than 16 years of age has been collected on the website without verified parental consent, then viacom18 media private limited will take the appropriate steps to delete any such information and notify the parent
+however, we consider it the responsibility of parents to monitor their children’s use of our services
+nevertheless, it is our policy not to collect and process any personal information from children below 16 years of age or offer to send any promotional materials to persons in that category
+viacom18 media private limited does not seek or intend to seek or receive any personal information from children
+should a parent or guardian have reasons to believe that a minor has provided viacom18 media private limited with personal information without their prior consent, please contact our customer support team to ensure that the personal information is removed from the website
+data transfer, storage & processing globally
+we operate globally and may transfer your personal information to individual companies of the viacom18 media private limited affiliated companies or third parties in locations around the world for the purposes described in this privacy notice
+wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information
+additionally, when using or disclosing personal information transferred from the european union, we use standard contractual clauses approved by the european commission, adopt other means under european union law for ensuring adequate safeguards
+security and compliance with laws
+we are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration
+some of the safeguards we may use to protect your information are firewalls and data encryption, and information access controls
+if you know or have reason to believe that your account credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us by contacting our customer support team
+this privacy notice is subject to change from time to time
+we reserve the right, at our sole discretion, to modify the terms of this privacy notice from time to time in order to ensure compliance with applicable laws (“updated terms”)
+the updated terms shall be effective immediately and shall supersede the terms of this privacy notice
+we will notify you of any changes to this privacy notice if the changes made to the policy significantly affects your rights or as may be required by law
+you shall be solely responsible for reviewing the privacy notice from time to time for any modifications
+by continuing to use the website after the updated terms have been published, you affirm your agreement to the updated terms
+if you require any information or clarification regarding the use of your personal information or this privacy notice or grievances with respect to use of your personal information, please email us at connectwithus@viacom18
+the data controller for the website is viacom18 media private limited with the business address of
+viacom18 media pvt ltd
+zion bizworld, subhash road - 'a', next to garware institute, vile parle (east), mumbai, maharashtra 400057
+the data protection officer (dpo) appointed by viacom18 media private limited is ashutosh pandey is who can be contacted at dpo@viacom18
+you can write to our data protection officer in case of any grievance or compliant
+you have the right to complaint about the data processing activities carried out by the website before the competent data protection authorities
+if you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our data protection officer

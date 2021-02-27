@@ -1,0 +1,190 @@
+this website uses cookies we use cookies to personalize content and ads, to provide social media features and to analyze our traffic
+we also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+view our full cookie policy use necessary cookies only i agree to allow all cookies show details ok necessary preferences statistics marketing show details cookie declaration [#iabsettings#] about cookies
+unclassified (6) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type bigipserver# [x2] 384-amp-902
+com used to distribute traffic to the website on several servers in order to optimise response times
+session http __cfduid [x2] app-sji
+com used by the content network, cloudflare, to identify trusted web traffic
+1 year http cookieconsent propellerhealth
+com stores the user's cookie consent state for the current domain 1 year http
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+name provider purpose expiry type lang [x2] ads
+com remembers the user's selected language version of a website session http cookieconsentbulksetting-# consentcdn
+com enables cookie consent across multiple websites persistent html cookieconsentbulkticket cookiebot
+com enables cookie consent across multiple websites 1 year http
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type _ga propellerhealth
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http _gat propellerhealth
+com used by google analytics to throttle request rate 1 day http _gid propellerhealth
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http vuid vimeo
+com collects data on the user's visits to the website, such as which pages have been read
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type webevents/visitwebpage 384-amp-902
+com used to distribute traffic to the website on several servers in order to optimise response times
+session pixel bizoid ads
+com used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days http ide doubleclick
+net used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http r/collect doubleclick
+net this cookie is used to send data to google analytics about the visitor's device and behavior
+it tracks the visitor across devices and marketing channels
+session pixel test_cookie doubleclick
+net used to check if the user's browser supports cookies
+1 day http fr facebook
+com used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http tr facebook
+com used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+session pixel bcookie linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http bscookie linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+2 years http lidc linkedin
+com used by the social networking service, linkedin, for tracking the use of embedded services
+1 day http usermatchhistory linkedin
+com used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days http _fbp propellerhealth
+com used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http _mkto_trk propellerhealth
+com used to distribute traffic to the website on several servers in order to optimise response times
+2 years http gps youtube
+com registers a unique id on mobile devices to enable tracking based on geographical gps location
+1 day http pref youtube
+com registers a unique id that is used by google to keep statistics of how the visitor uses youtube videos across different websites
+8 months http visitor_info1_live youtube
+com tries to estimate the users' bandwidth on pages with integrated youtube videos
+180 days http ysc youtube
+com registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube
+com stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube
+com stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube
+com stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube
+com stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube
+com stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube
+com stores the user's video player preferences using embedded youtube video session html
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type tracker/track
+com pending session pixel __cdrop propellerhealth
+com pending 1 year http __csess propellerhealth
+com pending session http cf_store propellerhealth
+com pending persistent html uid propellerhealth
+com pending persistent html i18nextlng widgets
+com pending persistent html
+cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+your consent applies to the following domains
+cookie declaration last updated on 25/06/2019 by cookiebot
+menu menu how it works partner with us
+pharma & medtech companies hospitals & health systems healthcare providers
+outcomes about my propeller
+pharma & medtech companies
+privacy policy effective date of this privacy policy
+effective date of this privacy policy
+this privacy policy is for users of the website only
+if you are an enrolled propeller health user, you can review our product related privacy policy with the materials you received during the enrollment process
+your privacy is important to us
+reciprocal labs corporation (d/b/a propeller health) (referred to herein as “propeller health,” “we,” “us,” “our”) appreciates your interest in our website, www
+our site is designed to provide access to online information about propeller health and our inhaler sensor system
+in connection with providing this information and service, there are times when we may ask for or collect information from you, either in the form of anonymous data or personally identifiable information
+as part of our commitment to honoring your privacy, this privacy policy explains the approach we take in protecting and using the information that we gather from you on our site
+by using the site, you consent to this privacy policy
+if you choose to visit our site, your visit and any disputes over privacy are subject to this privacy policy
+we reserve the right to change this privacy policy at any time without notice except as otherwise provided here
+please check back periodically to see if our privacy policy has been updated
+if we make material changes to this privacy policy, we will notify you by updating this privacy policy, posting notice of the change on our home page and/or sending you email notification
+your continued use of the site constitutes your agreement to the terms of this privacy policy and any future versions of this privacy policy
+who is in charge
+propeller health, with address at 1 s pinckney st
+suite 610, madison, wi 53703 usa, and email help@propellerhealth
+com is considered the “data controller” with regard to the processing of personal data in the context of the services
+propeller health has appointed a representative in the eu
+[hogan lovells llp (paris), which may be contacted at the following address
+75378 paris cedex 08, france
+our data protection officer is stacy tyman, reciprocal labs corporation, 1 s pinckney st
+suite 610, madison, wi 53703 usa
+types of information we collect
+for additional information on cookies see our cookie policy
+when you choose to submit personally identifiable information to our site (including name, telephone number, mailing address and email address), your information is used only for the specific purpose for which it was submitted, unless you consent otherwise or as required by law
+in many cases, you choose the amount of information you supply
+there may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary
+in such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity
+we may collect personally identifiable information when you
+inquire about our products and services
+ask that we contact you
+subscribe to our mailing list
+register for a webinar
+complete voluntary customer service surveys
+we maintain the data that you provide us in a secure database
+to best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources
+our servers automatically record certain information (e
+, web request, internet protocol (“ip”) address, browser type, browser language, urls, etc) that your web browser sends whenever you visit our site
+log files will be maintained and/or deleted as per our data retention policy
+use and storage of your personal information
+propeller health will use your information as described in this privacy policy
+when someone visits the site, our web servers automatically gather information that allows the site to communicate with the user’s computer during the visit
+we also may use any of the following information
+the number of visits to the site, which parts of the site users select, ip address (the internet address assigned to your computer from your internet service provider), domain type, browser type (e
+, internet explorer) and date and time of day
+we use this information for statistical purposes that help us design and administer the site
+those types of information do not disclose personally identifiable information that would permit us to identify or locate individual visitors
+we may conduct demographic or other research about our users to determine how users engage with our site
+retention of user provided information
+your personal information is only stored within our servers for as long as necessary
+data that is no longer necessary is destroyed per the retention schedule in our data retention policy
+you have the right to request that your personal data be deleted at any time
+to do so, contact help@propellerhealth
+we will take reasonable measures which we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security
+although we will use all reasonable efforts to safeguard the confidentiality of any visitor information collected, we shall have no liability for disclosure of any visitor information obtained due to errors in transmission or the unauthorized acts of third parties
+email is not a secure form of communication
+please do not send us any personal information via email
+information over the internet or over mobile networks is not completely secure
+although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to and from the site or over mobile networks
+any transmission of information is at your own risk
+communications with propeller health
+communications from propeller health
+as a site user, you will be asked if you want to receive marketing materials from propeller health and its business partners (defined below)
+if you opt-in we will send you marketing materials
+from time to time, we may also send you offers for similar products and services from propeller health, special premiums, or special offers from our business partners
+we do not share your personally identifiable information with any third parties in connection with these communications
+you can decline these communications at any time by simply following the “unsubscribe” link at the bottom of each communication
+even if you have opted out of email communications, we reserve the right to communicate with you from time to time about important administrative, policy, legal, and financial matters that affect your use of the site
+these communications are mandatory
+third parties and propeller health
+we reserve the right to share your information with third-party companies we may use to perform other service functions for us
+however, at all times, we will control and be responsible for the use of your information and will ensure that sufficient contractual mechanisms are in place to ensure that the information remains secure
+we do not share equipment or databases with these companies
+additionally, any company we use for these reasons will not share, sell, or distribute your information, or otherwise use your information except to provide us services
+disclosure of third party information
+you are entitled to request certain information shared with third parties for their direct marketing purposes
+to do so, contact help@propellerhealth
+within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties
+a request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the e-mail address above
+we may provide information about how our users collectively use our site to our customers, advertisers, sponsors, and other companies with which we do business (“business partners”)
+this data does not include any personally identifiable information about you
+sale of propeller health or its assets
+in the event that propeller health or our assets or stock are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained in them, to a third-party acquiring our assets
+in the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information about how you can change your privacy preferences
+the site is not intended for children under the age of 13 (note that my
+com may be used by children under 13)
+we do not knowingly collect personal information from anyone under the age of 13 from our site
+since information regarding children under the age of 13 is not collected, we do not knowingly distribute personal information regarding children under the age of 13 from our site
+we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we reasonably believe that such action is necessary
+to comply with legal process such as a search warrant, subpoena or court order
+to protect propeller healths’ rights and property
+to investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages
+to protect against misuse or unauthorized use of our site, products, or services
+during emergencies, such as when we believe someone’s physical safety is at risk
+this privacy policy only applies to the site
+please be aware that our site and email communications may contain links to other websites or webpages that are owned and operated by our customers or other third parties
+the information practices of websites linked to our site are not covered by this privacy policy and, therefore, we are not responsible for the content or privacy policies of websites to which our site links
+we encourage you to review the privacy policies of the third-party websites to understand their privacy practices
+pharma & medtech companies
+hospitals & health systems
+© 2019 propeller health

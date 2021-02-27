@@ -1,0 +1,25 @@
+no suggested jump to results
+all your code in one place
+github makes it easy to scale back on context switching
+documentation, see the history of any file, and collaborate with
+contributors on projects across github
+sign up for free
+see pricing for teams and enterprises
+cannot retrieve contributors at this time
+20 lines (10 sloc) 911 bytes
+pollen count privacy policy
+what information is collected
+we use the amazon address information service to obtain the address associated with the alexa device you have used to access pollen count
+full information about this service is available online ( https
+you have full control over giving permission to the skill to view the address associated with the alexa device
+what do we use your information for
+we use the "city" portion of the address to find a latitude and longitude which we can send to a pollen service to find an update
+how do we protect your information
+the address provided by amazon is never stored and is only available during the execution of the skill, once the session has completed, the address is lost
+do we disclose any information to outside parties
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

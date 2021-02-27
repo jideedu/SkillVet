@@ -1,0 +1,249 @@
+click here to purchase oval on amazon
+welcome benefits features press
+summary oval digital, inc
+(hereinafter referred to as “oval digital”, and also “we”, “ours” or “us”) operates the website located at www
+com (the “site”), its mobile optimized version and other sites and domains that may be used from time to time, which are hosted in the united states of america (the “united states”)
+we want you, our valued customer, to understand how we collect and use data about your site visit and usage, including accessing your user account through the site, using the oval digital sensor system (the “oval sensor”), and our mobile application (the “app,” and collectively with the oval sensor and our site, the “oval services”), including, but not limited to, the portions of the site and the app that require you to register and/or log in to gain access
+this privacy policy (the “policy”) sets forth the manner in which we gather your information, how we use it, what we do to protect it, and serves as a guide to assist you in making informed decisions when using the oval services
+as used herein, the terms “you”, “your”, and/or “yourself” refer to you, a user/visitor/browser of the oval services, whether registered under an account or not
+the words “collect”, “use”, “process”, “treat”, “disclose” and any analogous terms shall be related to personally identifiable information (the “pii”) and other data that we may collect from our users and/or visitors, including cookies inside a computer and mobile device ids
+unless otherwise indicated below, this policy applies to any website that references this policy, any websites provided within the oval services, as well as any data oval digital may collect across partnered and unaffiliated sites
+this policy also incorporates our terms of use (the “terms”), which together with this policy, along with any further guidelines and user manuals, included herein by reference, will govern your relationship with oval digital
+consent & scope of this policy for purposes of providing you access to the oval services, we may collect, use, treat, store and disclose pii, which is information that identifies you
+this may include your name, address, email address, telephone or fax number, ip address, any content you post in or to the oval services, and certain other information, which is explained in greater detail below
+if you submit any information to us relating to another person, you represent that you have the authority to do so and to permit us to use the information in accordance with the terms of this policy
+henceforth, by accessing our services, you accept our policy, and consent to our collection, storage, use and disclosure of your pii as described in this policy
+in addition, by using the oval services (on our websites or across partnered and unaffiliated sites) you are accepting the practices described in this policy
+we will also ask for your specific consent to certain parts of the oval services (i
+newsletter subscription) via certain clickable boxes with legends similar or analogous to “i accept
+” here at oval digital, we work hard to earn and keep your trust
+and in that regard, we take your privacy, and privacy concerns, very seriously
+therefore, we adhere to the following principles in order to protect your privacy
+(i) we will not sell or lease your pii to third-parties
+(ii) we will not disclose your pii with other users or third-parties without your consent
+and (iii) any pii that you provide to oval digital will be secured with the highest of industry standard safety protocols and technology
+information collected this policy applies only to activities oval digital engages in, on, or through the oval services and does not apply to activities that are “offline” or unrelated to the site (i
+activities in your home, office or physical location where the oval services are present)
+please note that different guidelines may apply to other parts of oval digital’s online presence – for example, separate rules or faqs may apply to public web pages, or pages for which an authorized vendor or contractor registers and logs in, and henceforth, oval digital recommends that you review such additional rules and/or faqs to be aware of those terms, which will govern any relationship thereof
+we collect certain anonymous data regarding the usage of the oval services
+this information does not personally identify users, by itself or in combination with any other information, and we collect it in order to improve the performance of the oval services, for the betterment of our business practices, and to create aggregated databases using such anonymized data
+the anonymous data we collect can include, but is not limited to, information such as the type of browser you are using, ip address(es), the pages you view, and the length of your visit to the site
+we reserve the right to use anonymous data for any purpose and disclose anonymous data to third-parties in our sole discretion
+we may also ask you to provide pii through the site and/or the app, which may include your name, address, mobile phone number, company name (if applicable), e-mail address and other relevant details to better allow you to utilize the oval services and other oval digital products or services that may be of interest to you and to better allow us to provide the oval services to you
+these details may include, but are not limited to, whether the location is a business or residence, whether the facility is pre-wired for security, and the square footage
+certain products or services may require additional information, such as video and still-images that you may choose to provide from your mobile device (the oval sensors have no cameras or microphones present), and geo-location information, including physical location of your device, by using your mobile phone’s gateway and/or satellite, cell phone tower, wi-fi signals, or other similar technologies
+this pii may be gathered when you send us an e-mail or when you complete a specific web page or mobile application request form
+in all such cases, you will receive a readily identifiable and visible notice indicating whether you elect or decline to provide us with such requested pii
+however, please be aware that certain functionalities of the oval services may not be available to you, or we may not be able to respond to your inquiry effectively, if you decline to provide the requested pii
+the oval sensor is the central point of communication for the oval services
+the oval sensor connects to your internet router through the oval hub and may have backup capabilities that collect data in connection with an internet or power outage
+in order to improve your experience over time and to help troubleshoot any problem(s) you may encounter with the oval services, we may record the model and serial number, software version, and technical information of your oval sensor or hub
+by collecting certain geo-location information, oval digital may be able to determine whether you, or any other authorized users of your oval services, are within the oval sensor’s location (i
+, whether you or any other users are “at home” or “away”) if your app or such users’ mobile devices are connected to the oval services via various wireless or wired protocols
+during setup, the app will allow you to enable location services through your mobile device and we will collect your location information to retrieve your time zone so that we may send you certain time-specific alerts, as needed
+if you want to deactivate this feature, you can disable location services on your mobile device
+in order to provide some of the services on the site, we ask you to provide additional pii regarding your customer account with oval digital for the oval services
+this additional information may include information about your devices and home or office location, payment or credit card details, service preferences and so forth
+we may use this information to support your customer relationship with oval digital, provide you with the services that you requested, and for any other legitimate business purposes
+this includes, but is not limited to, responding to your requests, customizing your user experience, communicating with you about your account, and providing you choices about how to view and manage the products and services that you receive from oval digital
+if you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at support@meetoval
+we and our third-party service providers may also collect personal information related to customer service correspondence
+this information may include, but is not limited to, e-mails, internet chats, faxes, chatbot logs, or telephone calls directed to our customer service centers
+we process this information to provide you with customer service in order to handle your complaints or disputes, measure and improve our customer services, and to detect and prevent fraud or possible violations of our legal obligations
+we have the right to retain customer service information to carry out our legitimate business purposes or to comply with applicable legal obligations
+our newsletters are available to both public users and registered members, who may subscribe or unsubscribe from optional newsletters under their account settings, or by following the unsubscribe links contained in the newsletter emails
+as a practical matter, there may be certain situations that arise in which we must release your mailing address to a postal or courier service to deliver information that you requested
+under the controlling the assault of non-solicited pornography and marketing act of 2003, we will offer free opt-out mechanisms in every commercial request we send to our users and customers
+if, at any time, you decide that you no longer wish to receive such communications from us, please use the unsubscribe instructions provided in any email or communication you receive from us and/or our partners, or by contacting us directly at support@meetoval
+we may occasionally request information from you via surveys or contests
+your participation in these surveys or contests is completely voluntary
+the information that we request typically includes your contact details
+if you choose to participate, the information that you provide will be shared with the contest/survey sponsors to notify winners and award prizes
+survey information may also be used to monitor and improve the content and performance of the site or any of the oval services
+from time to time, we may collect sensitive pii about you
+for purposes of this policy, “sensitive personal data” shall include, but is not limited to, credit card, biometric (e
+fingerprint) and/or other financial data, such as bank information
+as stated earlier in this policy, we take your privacy, and privacy concerns, very seriously
+as such, oval digital undertakes all necessary industry standard safety measures to safeguard all of your sensitive personal data
+with your consent, we may post your oval services testimonial along with your name
+if you wish to update or delete your testimonial, you can contact us at support@meetoval
+purpose of collected information uses by oval digital
+oval digital will process any collected pii in a manner that is consistent with this policy
+accordingly, we will generally collect, process, and disclose your pii to
+provide, operate, maintain, improve, and promote the oval services and our products
+verify your e-mail address and other account notices
+develop, research, process, safeguard and improve our products and associated services
+offer promotions, newsletters, sweepstakes entries, send service related announcements, and contact you about inquiries for our products and associated services
+investigate and prevent fraudulent transactions, unauthorized access to our services, and any other suspicious activities
+monitor and analyze trends, usage, and activities in connection with our products and associated services, and for marketing or advertising purposes
+if you do not wish to disclose any or part of your pii to us, you may still be able to use some of the functionalities of our services
+however, we will not be able to guarantee that you will be able to enjoy all of the oval services to their fullest extent possible if you elect not to disclose any requested information to us
+overall, your final remedies will be to close this web tab, delete your account with us and/or exit our services
+online activity and tracking oval digital employs and makes use of technologies such as cookies and web beacons (also known as clear gifs) to automatically receive and store certain information about your use of the oval services
+cookies refer to small bits of data that are based on your internet activity and stored as text files by your internet browser on your computer’s hard drive
+through the use of cookies, we may collect information about your location and your online activity on the site, such as the specific web pages that you visit, the links that you click, and the services you use on the site
+when you visit other websites where we advertise, we, or a third-party, may use data collected on the site to show you interest-based advertisements, also called remarketing codes
+this type of advertising seems to follow you over the web, however, you can also deactivate remarketing codes just like you can deactivate cookies
+although most internet browsers are initially set to accept cookies, you can generally find a “help” section on your browser’s toolbar that will inform you how to stop accepting cookies, to be notified when you receive a browser cookie, and to disable existing browser cookies
+however, please keep in mind that if you disable browser cookies, you may be unable to take advantage of all the features that the site has to offer
+use of web beacons
+web beacons are tiny graphics that are embedded on a website and allow the website to transfer or collect information through a graphic image request
+we may use web beacons to collect information about your web browsing activities to help us determine if a particular webpage on the site has been visited, and, if so, how many times
+this information permits us, or third-parties, to deliver interest-based advertisements, measure the overall effectiveness of our online advertising, customize the services offered to the site’s users, and for other legitimate business purposes
+the web beacons are provided by our ad management partners, which may include google analytics, omniture, and other companies
+these files enable google analytics and omniture (including remarketing codes) to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our web site
+the cookie on your web browser was placed by oval digital, or by another advertiser who works with google analytics
+with both cookies and web beacon technology, the information that we collect and share, is anonymous and not personally identifiable
+it does not contain your name, address, telephone number, email address or any sensitive personal data
+our website also includes social media features (e
+social media message boards, blogs, and forums
+the facebook “like” button and widgets
+or interactive mini-programs that run on our site)
+these social media features may
+(i) allow for automatic, single login to the site using your social media account credentials
+(ii) collect your ip address and which page you are visiting on our site
+and (iii) set a cookie to enable the feature to function properly
+social media features and widgets are either hosted by a third-party or hosted directly on our site
+your interactions with these features are governed by the third-party’s terms of use and privacy policies, which you should be aware of and we do not control
+advertising, opt-out you may opt-out of providing your personal information to the oval services at any time by uninstalling the app or deleting your account with us
+you may send requests about personal information to our contact information that can be found below
+you can request to change contact choices, opt-out of our sharing with others, and review, update, correct, or delete your personal information
+we will use all commercially reasonable efforts to honor your request in a timely manner
+we may retain an archived copy of your records as required by law or for legitimate business purposes
+as stated earlier, you can typically remove and reject cookies with your browser settings
+once again, many browsers are set to accept cookies until you change your settings
+if you remove or reject our cookies, it could affect how our site works for you
+unlike cookies, device ids cannot be deleted, but you can select to reset your advertising ids in the “settings” section of your mobile device
+we may also collect and use the data contained in log files, which may include your ip address, your isp, the browser you used to visit our platform, the time you visited our platform and which sections you visited
+we do not currently offer “do not-track” or similar mechanisms
+if you do not wish to receive advertising from us, such as remarketing ads, now or in the future, you may opt-out by browsing google’s opt-out page at www
+com/settings/ads/onweb and follow the instructions found therein
+you can also use the network advertising initiative website, at www
+org/choices and follow the instructions found therein
+you can also set preferences for how google advertises to you and even block some ads permanently, by using a tool such as the browser plug-in at http
+our ads do not collect any sensitive personal data about you
+please note that there are many advertising networks currently in existence on the internet and opting out from only one (1) or two (2) of those networks, such as those examples listed above, does not guarantee that you will not be effectively tracked by other advertisers
+you will usually be able to control opt-out mechanisms directly related to the oval services in the “your account” section
+lastly, if you use our services through a mobile device, you may also use your device’s settings for control items such as your location sharing, tailored advertising and other privacy settings
+third party data processors we rely on third-party platforms to provide our services, such as those provided by amazon web services
+such platforms are governed by their own terms, policies and personal data collection practices and privacy policies
+accordingly, by acknowledging your consent to this policy, you are accepting the applicable terms and conditions of such third-parties that we rely on to help provide the oval services
+upon the case of any discrepancy or conflict among this policy, our terms and the terms of such third-party platforms, the terms of the third-party entities will control
+we will keep a list of any sub-processors that will be involved in the processing of your pii due to our providing the oval services and we will inform you of any intended material changes concerning the addition or replacement of sub-processors before such changes are effective, thereby giving you the opportunity to object to such changes and make any adjustments to your account that you may find necessary due to such changes
+we may also collect non-personally identifiable information with third-parties, such as aggregate user statistics, analytics, demographic information, and website usage information
+as our user, you will generally be able to control and select the amount and type of pii that you disclose to us consistent with the terms herein
+information release and disclosure we will not sell any of your information to any third-party, and we shall take all commercially reasonable steps to maintain the security of your information
+we use the highest industry standard security measures to protect your information from unauthorized access, including secure hardware and software
+notwithstanding the foregoing, we hereby reserve the right to disclose your information when we reasonably believe you to be in breach of our policy
+we will also release any and all collected information and/or personal data under the following circumstances
+if required by applicable law
+in response to a valid request from a law enforcement agency
+to defend ourselves and our affiliates from legal claims by third-parties and/or to respond to such claims and legal processes (including takedown notices and subpoenas)
+to protect the property, rights and integrity of oval digital or any third-party
+to prevent or terminate any illegal, unethical or objectionable activity, or that we may consider poses a risk of such activity
+to provide, understand, and improve the oval services, via any affiliate, subsidiary or holding companies, which may use your information
+from time to time, we may share our users’ personal information with our authorized third-party service providers that perform certain services on our behalf
+these services may include, but will not be limited to
+community management, customer service, analytics, user engagement, marketing, surveys and other features offered through or by the oval services
+we may share your information with third-party emergency service providers such as police departments, fire departments, insurance companies and emergency medical services, only insofar as we are capable of providing it, and only as it may be required by them
+for more information, please see our terms
+transfer in the event of sale or change of control
+we may transfer your information to a third-party in the event of a bankruptcy, reorganization, merger, sale, transfer of the assets or ownership in connection with proposed or consummated corporate reorganizations (e
+mergers, acquisitions, or sales of business units), joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings
+oval digital may disclose your personal information to our authorized third-party service providers and subcontractors, in order to provide you with products and services, process purchase orders that you submit via the site or the app, and/or to enable you to track the progress of purchase orders
+this may include sharing certain data with third-party providers such as couriers to provide you access to shipment tracking numbers
+similarly, if you qualify for any rewards based on your purchase history, this information will also be processed by oval digital and our agents to enable your access to these benefits
+if you elect to receive information about third-party offers, we may share your personal information with these companies so that they can send you details about their special offers
+you should know and understand in advance that each of these companies has their own policies with respect to the collection and use of personal information and that oval digital is not responsible for their use of your information
+information security we have implemented various security measures for the purpose of protecting your pii and sensitive personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access and against any other unlawful forms of processing
+when you make a purchase over a secure portion of our site, your pii and sensitive personal data benefits from the protections of secure sockets layer (“ssl”) technology
+our web servers have been enabled with ssl technology to automatically encrypt your information and help prevent unauthorized parties from viewing your payment information during a secure session
+this is why you must enter your payment information each time you place a purchase order through the site
+from time to time, we may use third-party payment partners in order to bill and process any payments and/or subscriptions made via the site or the app
+these platforms will request that you disclose to them sensitive information in order to complete purchases and operations related to the oval services
+such third-party payment processing platforms are governed by their own safety standards, policies and terms of use
+you are responsible for maintaining the confidentiality of the username and password that you use with the app
+you are responsible for all uses of your password, whether authorized by you or not
+it is your duty to inform us immediately of any unauthorized use or your username or password
+if you do notify us of any unauthorized use of your username or password, we reserve the right to immediately suspend your account to provide you with the opportunity to reset or change any information that was, or may have been, compromised
+however, the transmission of data over the internet by its nature entails the use of systems under the control of third parties
+while oval digital will work diligently to prevent any violation of our security systems, we cannot ensure the security of third party systems that are outside of our control
+third-party websites please be aware that our site and app may contain links to other sites on the internet that are wholly owned and operated by third parties
+our site utilizes framing techniques and technologies to make it appear that the user is still on the site when, in fact, the user is actually on a third-party website
+for example, if you are on a page that has the look and feel of the site, but the url listed in your browser is not www
+com , then you should know and be aware that any information is being collected by a third-party and, as such, their privacy policy and terms of use shall govern the collection and use of such information at that time
+the information practices of any websites linked to our site are not covered by the terms of this policy
+as such, we are not responsible for the privacy policies of any websites to which the site links you to
+if you do provide any information to such third-parties, different rules regarding the collection and use of your pii and sensitive personal data may apply
+we strongly recommend and encourage you to review any such third-party’s privacy policies before providing any data to them
+these third-party sites may send their own cookies or web beacons to users, collect data or solicit pii and, as such, we cannot, and do not, control this collection of information
+you should contact these entities directly if you have any questions about their use of the information that they collect
+please also take into account that we shall not be responsible for the business practices employed by any such third-party websites, including the information or content contained therein
+please remember that when you use a link to go to another website, our policy and terms do not apply to those third-party websites or services
+your browsing and interactions thereof are at your own and final risk
+any banner or advertising of a third-party we show on our site does not constitute an endorsement thereof
+finally, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your pii and sensitive personal data
+children and minors oval oval digital understands the importance of protecting children’s privacy in the interactive online world
+through the simple use of the site, you hereby represent that you are at least eighteen (18) years of age as of the date of first access to the site
+if you are still a minor (as defined by the laws of the jurisdiction where you reside or are using the site, as the case may be), you represent that you are using the site under the direct supervision of your parent or legal guardian
+in compliance with the terms and conditions of the children’s online privacy protection act, oval digital does not knowingly collect any kind of information from any person under the age of thirteen (13) years
+we will delete data associated with any account for which we obtain actual or purported knowledge that the user associated thereon is not at least thirteen (13) years old
+personal data subject rights the general data protection regulation (the “gdpr”) allows individuals in the european union (the “eu”) greater control over their personal data and grants them a number of rights with regard to how that data is processed, stored, and accessed
+for the purposes of the gdpr, oval digital is a “data controller” of pii that you provide to us for the primary purposes of providing you with the oval services
+while the gdpr is primarily intended for users in the eu, we believe that the gdpr currently offers the most advanced level of protection for you as a user
+as such, here at oval digital we strive to adhere to such principles and protections regarding our users located in the united states and elsewhere in the world outside the eu
+therefore, by clicking the “i accept” button, or otherwise accepting the terms and conditions of the oval services through a clickable or similar action, you hereby acknowledge, agree, authorize and unequivocally consent to the collection, processing, management, treatment, and transfer of your pii and sensitive personal data by oval digital, its affiliates and authorized third-parties
+the section below covers the certain situations that you, as data subject, and we, as a data controller, are most likely to see
+however, you should also carefully review the full list of data subject rights that can be found here
+you retain the right to access, amend, correct or delete your pii where it is inaccurate at any time
+to do so, please contact us at support@meetoval
+the right to be forgotten
+you can request to be “forgotten
+” what that means is that you have the right to have your pii removed from the oval services
+if you request that we do this, we will remove any pii that we collected from you as requester
+we will also need to contact any third-parties, such as our cloud service providers, that process your pii on our behalf
+to ensure that any personal data in oval digital’s possession can be removed in a timely manner, you can relay any request to be “forgotten” to us by submitting your request to support@meetoval
+com as set forth below
+under the gdpr, our users located in the eu may request that oval digital send back to them any of their pii that is in our possession
+in this case, we will provide you with any of your pii that we have in a commonly used, machine-readable format
+as a data subject, you can ask oval digital to confirm how and where your pii is being stored and processed
+you also have the right to know how such data is shared with third-parties by us
+as data subject, you have the right to obtain from oval digital, without undue delay, the rectification of any inaccurate pii concerning you
+in the event that you need to contact us regarding a privacy request, your request must include, at a minimum, the following information
+(i) your complete name, address and/or e-mail address for us to respond to your request
+(ii) attached documents establishing your identity
+and (iii) a clear and concise description of the pii with regard to which you seek to enforce any of your privacy rights
+if you are making a rectification request, please indicate the amendments to be made and attach all documentation to support your request
+following receipt of your privacy request, oval digital will promptly review same
+we may then edit, deactivate and/or delete your pii from the oval services within thirty (30) days
+in case of secure databases under our control where deletion is impossible, we will make such information permanently inaccessible
+inquiries, corrections and complaints your data is submitted to oval digital and is hosted and stored in a database on servers situated in the united states by oval digital and by third-parties on our behalf
+any personal information provided by you to oval digital may be transferred and stored on computers, servers and data centers located throughout the world, and, therefore, may be outside your county, state, province and/or city
+accordingly, governmental protections and regulations may be less protective than those in your own jurisdiction
+as such, if you are accessing the oval services from other jurisdictions, please be advised that you are transferring your pii to the united states or to any other country in which oval digital operates its facilities
+you are responsible for ensuring that the personal information you have submitted or accessed through the oval services is accurate and complete
+you may change the information we have on file for you by accessing the “my account” section of the site or app and entering any new or different details
+if you have included payment details or credit card information, you may alter these via the appropriate link on your “my account” section
+please contact us immediately if you notice changes to your profile that you did not request or if you notice any suspicious activity concerning your account
+if you have questions or concerns regarding this policy, the terms or about privacy at our site in general, you should first contact oval digital by sending an email to support@meetoval
+com or by calling oval digital at 347-996-4121 and we will try to resolve it as soon as is practicable
+if you have questions or complaints regarding our policy, terms or practices, please contact us at support@meetoval
+115 east 23rd street, 3rd floor – 1504 new york, ny 10010 attn
+privacy or by visiting the site at www
+com modifications to this privacy policy our policy may change and be updated from time to time
+therefore, we advise that you check back frequently for any updates
+we will promptly and prominently post the update on the site, send you an email or otherwise notify you of any material changes to the policy
+we hereby reserve the right to update, amend, upgrade, suspend or terminate the site, the terms and/or this policy, at any time and without prior notice to you, and at our sole and final discretion
+your simple access or use of the oval services after such amendments or changes become effective is your express acknowledgment and acceptance of the new policy
+©2019 oval digital, inc
+oval™, oval digital, the oval™ logo, oval digital logo and the products/services names listed in this document are marks and/or registered marks of oval digital, inc
+third-party marks are the property of their respective owners
+115 east 23rd street, 3rd floor, 1504,
+mon 9am - 5pm
+tue 9am - 5pm
+wed 9am - 5pm
+thu 9am - 5pm
+fri 9am - 5pm
+join our mailing list
+stay informed with the latest news and updates
+© 2020 oval digital, inc

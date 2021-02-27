@@ -1,0 +1,95 @@
+irish post - general terms
+by continuing to use the irish post alexa skill (collectively, the "skill" or "service"), you signify acceptance
+and compliance with the following terms of use (the "agreement" or "terms")
+the terms "irish post", "irish
+post skill", "we," "us," and "our" refer to the "irish post" skill developed to run on the amazon alexa
+platform and thus its powered devices
+the term "you", "you" or "your" refers to the entity or individual who is
+accessing the service under this agreement
+the irish post skill, developed to run on the alexa platform, is provided as is, with absolutely no guarantee
+the irish post skill is not associated in any way with any other product, service, platform or company bearing "irish
+post " or similar in its company or product name
+this skill was developed by cation consulting and is not associated or affiliated with "an post", nor does it pose
+to serve as an "an post" service
+you may use the irish post skill, as-is to request information on postal prices from the irish an post service,
+as-is per prices available on april 4'th 2018
+you may not use the irish post skill for alexa to operate, promote or otherwise generate revenue for business
+this privacy policy has been compiled to better serve those who are concerned with how their 'personally identifiable
+information' (pii) is being used online
+pii, as described in us privacy law and information security, is information
+that can be used on its own or with other information to identify, contact, or locate a single person, or to identify
+an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect,
+use, protect or otherwise handle your personally identifiable information in accordance with our website
+what personal information do we collect from the people that visit our blog, website or app
+when registering with our alexa skill, you may provide permission to allow your alexa enabled devices location to be
+available by the alexa skill, to help personalise your with your experience
+when do we collect information
+you may provide us with access to this infromation when you register with this alexa skill and use this alexa skill
+how do we use your information
+we may use the information we collect from you when you register or use the irish post alexa skill, make a purchase,
+sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other
+site features in the following ways
+to personalize your irish post alexa skill experience and to allow us to deliver location based services, in
+the case of the "irish post skill"l this allows you to search for property near your devices location
+to enhance the overall functionality provided by the irish post skill
+to more accurately update the user experenice, in aggregating the overall usage trends and utterances by all irish
+how do we protect your information
+we do not store your pii details, your device location details are linked to a device id, which in itself does not provide
+the skill with access to any pii
+we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide
+users with advance notice
+this does not include website hosting partners and other parties who assist us in operating
+our website, conducting our business, or serving our users
+we do not include or offer third-party products or services on our website
+coppa (children online privacy protection act)
+when it comes to the collection of personal information from children under the age of 13 years old, the children's online
+privacy protection act (coppa) puts parents in control
+the federal trade commission, united states' consumer protection
+agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect
+children's privacy and safety online
+we do not specifically market to children under the age of 13 years old
+we do not let third-parties, including ad networks or plug-ins collect pii from children under 13
+the fair information practices principles form the backbone of privacy law in the united states and the concepts they
+include have played a significant role in the development of data protection laws around the globe
+fair information practice principles and how they should be implemented is critical to comply with the various privacy
+laws that protect personal information
+in order to be in line with fair information practices we will take the following responsive action, should a data
+we will notify you via email
+within 7 business days
+we also agree to the individual redress principle which requires that individuals have the right to legally pursue
+enforceable rights against data collectors and processors who fail to adhere to the law
+this principle requires not
+only that individuals have enforceable rights against data users, but also that individuals have recourse to courts
+or government agencies to investigate and/or prosecute non-compliance by data processors
+the can-spam act is a law that sets the rules for commercial email, establishes requirements for commercial messages,
+gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations
+we do not collect your email addres
+to be in accordance with canspam, we agree to the following
+not use false or misleading subjects or email addresses
+identify the message as an advertisement in some reasonable way
+include the physical address of our business or site headquarters
+monitor third-party email marketing services for compliance, if one is used
+honor opt-out/unsubscribe requests quickly
+allow users to unsubscribe by using the link at the bottom of each email
+if at any time you would like to unsubscribe from receiving future emails, you can email us at
+com and we will promptly remove you from all correspondence
+this skill is provided "as-is" with no expressed warrantee or guarantee of service, accuracy or validity
+effort is made to ensure high quality of service, real-time and near real-time data is not guaranteed
+while this skill operated on the amazon alexa platform, and thus alexa enabled devices and supported applications,
+this skill is in no way connect to, represented by or associated with amazon, aws, their partners or subsidiaries
+while this skill leverages data made available by zoopla via the zoopla public api, this skill is in no way connect
+to, represented by or associated with zoopla, their partners or subsidiaries
+we may modify these terms at any time without notice to you by posting revised terms on our liked with the irish
+post skill for alexa
+it is your responsibility to regularly check these terms & conditions to determine
+if there have been changes to these terms and to review such changes
+if, at any time, you do not wish to accept
+the terms and conditions of service, you may discontinue use of the irish post skill
+this agreement also constitute the entire and only agreement between us and you, and supersedes and and all prior
+or contemporaneous agreements, representations, warranties and understandings with respect to the website, the
+content, products or services provided by or through the website and the subject matter of this agreement
+cation dynamics, cation consulting, their partners and subsidiaries accept no responsibility for loss, damage, disruption
+or inconvenience, in any form, as a result of the use of this skill
+the irish post skill was developed by cation consulting, we welcome all comments, queries and feedback
+with queries, comments and feedback at info@cationeng

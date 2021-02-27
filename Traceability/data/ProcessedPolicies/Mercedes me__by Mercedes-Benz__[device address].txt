@@ -1,0 +1,22 @@
+Notes on data protection for the Amazon Alexa connection to Mercedes me connect Daimler AG, Mercedesstraße 137, 70327 Stuttgart ("Daimler") is pleased to see that you share an interest in using the Amazon connection to Mercedes me connect ("Service")
+Protecting your personal data is important to us and we want you to feel comfortable when using this Service
+Data security and protection of your privacy when processing your personal data within the framework of the Service are an important concern to Daimler
+Collecting, processing and using personal data for the provision of the Service A prerequisite for using the Service is the separate Mercedes me connect "Interface to third-party suppliers" service for which the "Special terms of use for the interface to third-party suppliers" of Mercedes me connect apply
+With this Service, Daimler offers customers the possibility of transferring data from Mercedes me connect via the separate Mercedes me connect "Interface to third-party suppliers" service, in as far as this intended by Daimler in each individual case, in a prepared form to Amazon Inc
+"Amazon") or to receive from the device manufacturer relevant data for the modification of states or control commands
+This occurs as a result of customers being able to call up and modify data at Amazon using their "Amazon Alexa" product (hereinafter
+Communication between Amazon Alexa and Daimler takes place via Amazon
+With regard to data protection provisions, Amazon is solely responsible for the collection, processing and use of personal data from Amazon Alexa
+Connecting the Amazon Alexa device As part of the activation of the Service by the user, Daimler receives the following personal data from Amazon in order to provide the Service
+• Amazon user identification number
+necessary in order to be able to clearly identify each user
+• Street address of the Amazon Alexa device
+necessary in order to be able to identify locations relevant to the user within the vicinity of the device
+Daimler processes and uses this data in order to connect Amazon Alexa with the Mercedes me connect customer account via the Mercedes me connect "Interface to third-party suppliers" service in accordance with the conditions of access for the Mercedes me portal
+After activating the service, any user in range of the Amazon Alexa device can initiate queries about data from the Mercedes me connect customer account
+The customer can cancel the connection at any time in the Mercedes me connect customer portal or, as part of the Mercedes me connect "Interface to third-party suppliers" service, define settings regarding the categories of the data to be transfered (data release)
+Utilization of the Service Daimler collects, processes and uses personal data necessary for the utilization of the service
+Communication between Amazon Alexa and Mercedes me connect takes place via Amazon
+Following the request from the customer, Daimler receives the personal data in order to answer the query from Amazon
+Daimler uses this data to answer the query and transmit the answer
+Amazon is responsible for delivering the answer to the Amazon Alexa device

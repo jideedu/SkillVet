@@ -1,0 +1,55 @@
+no suggested jump to results
+all your code in one place
+github makes it easy to scale back on context switching
+documentation, see the history of any file, and collaborate with
+contributors on projects across github
+sign up for free
+see pricing for teams and enterprises
+cannot retrieve contributors at this time
+52 lines (34 sloc) 4
+this privacy policy has been compiled to better serve those who are concerned with how their 'personally identifiable information' (pii) is being used online
+pii, as described in us privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information in accordance with our website
+it is impossible for the ensure that the services are provided to you at all times or at any specific times or will be able to
+operate at all times error-free
+after hours provision of services are influenced by availability of related computer systems
+the fuel price given has no warranties in regard to the availability of services but all reasonable efforts will be
+made to provide the best possible service to you
+# what personal information do we collect from the people that visit our blog, website or app
+we do not collect information from visitors of our site
+or other details to help you with your experience
+# when do we collect information and how do we use your information
+we don't collect information from you when you or enter information on our site
+# do we use 'cookies'
+we do not use cookies for tracking purposes
+you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies
+you do this through your browser settings
+since browser is a little different, look at your browser's help menu to learn the correct way to modify your cookies
+if you turn cookies off, some features will be disabled
+that make your site experience more efficient and may not function properly
+however, you will still be able to place orders
+we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information
+we do not include or offer third-party products or services on our website
+# coppa (children online privacy protection act)
+when it comes to the collection of personal information from children under the age of 13 years old, the children's online privacy protection act (coppa) puts parents in control
+the federal trade commission, united states' consumer protection agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online
+we do not specifically market to children under the age of 13 years old
+# fair information practices
+the fair information practices principles form the backbone of privacy law in the united states and the concepts they include have played a significant role in the development of data protection laws around the globe
+understanding the fair information practice principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information
+in order to be in line with fair information practices we will take the following responsive action, should a data breach occur
+• within 7 business days
+we will notify the users via in-site notification
+• within 7 business days
+we also agree to the individual redress principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law
+this principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors
+by using our alexa skill, you hereby consent to our privacy policy and agree to its terms and conditions
+this privacy policy was last updated on aug 30, 2016
+if there will be any update, amendment, or changes to our privacy policy then these will be posted on this page
+reference in new issue
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

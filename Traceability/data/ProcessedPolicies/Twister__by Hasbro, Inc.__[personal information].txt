@@ -1,0 +1,45 @@
+hasbro alexa skills user privacy policy january 31, 2019 we're hasbro, inc
+, located in the us
+we make toys and games that you can find all over the world
+thank you for your interest in the alexa skills that hasbro has published
+we take our users’ privacy seriously and can provide you with the following information about what information hasbro collects about you when you use one of the alexa skills that we have published
+alexa skills covered by this policy
+twister spinner clue with the ghost of mrs
+white risk in addition to the information covered by this privacy policy, your use of any alexa skills is subject to the privacy policy and terms and conditions of the alexa platform that therefore represent policies, terms and conditions that are between you and amazon and amazon voice services, and not between you and hasbro
+to find out more about what information may be collected by amazon, please refer to amazon’s policies and documentation
+note that the following links are provided for convenience but are subject to change by amazon at any time
+for more about alexa’s terms and conditions
+nodeid=201809740 for more about alexa’s privacy policy and notifications
+com/hz/mycd/myx/#/home/alexaprivacy/home the only personal information hasbro collects is a non-persistent identifier (a random string of numbers and letters) created by amazon in the alexa device
+hasbro uses this random number in support of the internal operations of the skill in order to associate the last play-state of the skill with your device
+this information is not shared with any third parties other than amazon as it passes through the alexa platform
+the random identifier cannot be reverse-engineered or tied back to any individual or device by hasbro
+we keep this information in the united states, and in some cases in other countries where we have other offices or where our service providers are located
+these countries may have data protection laws that are different from the laws of your country
+however, we have taken safeguards to require that any personal information we may collect will remain protected in accordance with this privacy policy
+these include implementing the european commission’s standard contractual clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the eea in accordance with european union data protection law
+hasbro also receives anonymized analytic data about app play from amazon
+this analytic data is aggregated and does not identify any individuals or contain any personal information and is used by hasbro to understand how consumers play with the skill and how to make improvements to the game in the future
+we hope we have helped you to understand how we use your information
+if you want to know more, you (or your mom or dad if you’re a kid) can call us, send us an email or send us a letter using the info below
+if you have questions or concerns regarding this privacy policy, e
+if you believe that our app of skill may have unintentionally collected your and/or your child’s personal information, please contact us at
+for parents and consumers who are located outside of the united states
+00800 2242 72 76 or write to us at
+hasbro consumer affairs department po box 43 newport gwent np19 4yh for dpo requests, please contact us at dpo@hasbro
+for parents and consumers who are located within the united states
+app administrator 1027 newport avenue, mailstop a906 pawtucket, ri 02861 (800) 255-5516 for any other issues, please contact http
+as mentioned above, hasbro is a licensee of the esrb’s privacy certified program
+if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact esrb at https
+privacy certified program 420 lexington avenue, suite 2240 new york, ny 10170 privacy@esrb
+org when can this change and how
+we may change the provisions of this privacy policy at any time (such as in response to changing legal, technical or business developments) and will indicate when changes have been made by revising the date at the top of this privacy policy
+when we update this privacy policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make
+we will obtain your consent to any material privacy policy changes if and where this is required by applicable data protection laws
+please enter your birthday
+we’re sorry, but you are not eligible to access this site
+if you believe you received this message in error, please contact us for assistance
+you are now leaving hasbro
+hasbro does not control and is not responsible for the availability of, or content on, linked third party websites
+please be aware that your use of such third party's linked website is subject to their privacy policy and terms of use, which may differ from those of hasbro
+as such, we encourage you to read the third party's privacy policy and terms of use closely

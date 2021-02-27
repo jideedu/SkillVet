@@ -1,0 +1,502 @@
+faqs / contact us
+atom tickets privacy policy
+no changes were made to this privacy policy regarding what information we collect or how we use/share it
+we have updated the policy for our california and nevada residents to address new state laws, and we’ve added more information for all of our users in terms of accessing and controlling your information via the atom privacy portal
+children’s use of atom tickets’ service and the atom platform
+types of information atom tickets collects about you, and how it’s collected
+how atom tickets uses and shares the information it collects
+how we protect your information
+your choices regarding your information
+treatment of information disclosed to third-parties
+consent to processing and transfer of information outside of your country
+consumer rights to access and control your information
+notice to canadian users and/or customers of landmark cinemas canada
+notice to california residents
+notice to nevada residents
+notice to utah residents
+changes to this privacy policy
+disclosure regarding certain partners powered by atom tickets
+welcome to atom tickets
+atom tickets, llc (" atom tickets ", " we ," " us ", or " our ") has prepared this privacy policy (“ privacy policy ”) to describe our practices regarding the information we collect from users of our mobile application (" app ") and website located at www
+com (" website ") (collectively referred to as the “ atom platform ”), and the related online services provided by atom tickets through the atom platform (" services ")
+while this privacy policy applies to all users of the atom platform, it contains provisions specific to users who are canadian residents (“canadian users”) in order to comply with canada’s federal privacy laws, the personal information protection and electronic documents act (“pipeda”)
+please see section 9 for more information
+if you, as defined in the terms of use , have any questions, concerns, or complaints about our privacy policy, our information collection, or our processing practices, or if you want to report any security violations to us, or would like to access, correct, and/or delete your personally identifiable information, please contact us at privacy@atomtickets
+if you make any requests regarding access to or removal of your information pursuant to this privacy policy, we will take reasonable steps to verify your identity, such as requiring your user id or other personal information associated with your account
+so we are clear about the terminology we are using, when we use the phrase " personally identifiable information " in this privacy policy, we mean personally identifiable information as that term is described in us privacy law and pipeda, namely, information about an individual that (either by itself or when combined with information from other available sources) allows that individual to be identified, including, your name, address, telephone number, or e-mail address, as well as any other information that permits you to be contacted physically or online
+when we use the phrase " anonymous information " in this privacy policy, we mean information that does not allow for the identification of an individual or is not associated with or linked to that person’s personally identifiable information
+anonymous information does not enable identification of or contact with individuals
+please read this privacy policy carefully to understand our policies and practices regarding your information and how we will collect, use, share, protect or otherwise handle it
+if you do not agree with our policies and practices, please do not download the app, register with our services, or otherwise use our services, the app, the website or the atom platform
+by using our services, you agree to this privacy policy
+this privacy policy may change from time to time, as detailed below
+children’s use of atom tickets’ service and the atom platform
+protecting the privacy of children is very important to us
+our services are not directed to children and children are not eligible to use our services
+if you are 13 years of age or older, but under 18 years of age, you may only use our services with the involvement of a parent or guardian
+we do not specifically market to individuals we actually know are under 13 years of age, we do not collect or maintain personally identifiable information from individuals we actually know are under 13 years of age, and no part of our services is designed to attract individuals under 13 years of age
+if we later learn that a user is under 13 years of age, we will take steps to remove that user's personally identifiable information from our databases and to prevent the user from utilizing the services
+if you become aware of any data we may have collected from children under 13 years of age, please contact us
+types of information atom tickets collects about you, and how it’s collected
+in general, there are two types of information we collect about you – personally identifiable information and anonymous information, as defined above
+in general, the personally identifiable information we collect enables us to provide our services and use of the atom platform to you and make our services more relevant and useful to you and others
+we also collect personally identifiable information that you submit to us voluntarily, for example, at registration, when you sign up for e-mail or text notifications, through your claiming or using special offers, in the course of your use of our services and the atom platform, when you respond to surveys, and when you otherwise communicate directly with us
+to use certain features of the services, we require you to create an " account " by providing your name, phone number, e-mail and/or a password
+when you purchase tickets or concessions, we will collect all information necessary to process the transaction
+through your use of the services, we may also collect additional information, including your ip address
+in addition, the services may access your device’s image storage applications and contacts, with your consent, to facilitate your use of certain features of the services
+when you communicate with us or otherwise interact with publicly available areas of our services and the atom platform, including posting comments, ratings, or reviews, we will collect and store any information that is contained in your communications and/or comments (“ public postings ”)
+any information you choose to provide when using the services should reflect how much you want other users to know about you
+you can choose not to provide us with certain information, but this may limit the features of the services and the atom platform you are able to use
+as you use the atom platform, we may collect location-based information from you through your mobile or other location-aware device
+certain of our services are location-specific and can provide helpful information based on where you are
+if you consent to telling us where you are (i
+, by allowing your mobile device to send us your location), we may use that information to provide you with location-based information
+if you want to deactivate this feature, you can disable location services on your mobile device, but we will not be able to provide those services
+please contact your carrier for more information
+when we collect your personally identifiable information, we may automatically associate that information and information that we collect with your account so that we can identify you across multiple devices, browsers, and networks
+we may also obtain information about you from a third-party data aggregator, cookie technology operator, advertising network, or other form of data company
+please remember that others may have access to your device
+to protect your privacy, you should always log out from the atom platform after using any shared devices
+limits on collection of personally identifiable information
+we will not collect personally identifiable information indiscriminately, but will limit our collection of personally identifiable information to that which is reasonable and necessary to perform the services
+we will also collect personally identifiable information as authorized by law
+information collected from you about others
+if you use our services to purchase tickets for others, share your plans with others, or invite others to use our services, you can choose to provide us with the names, phone numbers, e-mail addresses, and contact profile photographs of those individuals
+by doing so, you represent and warrant that any contact information you provide is accurate and current and that you have obtained any consents from your contacts that are necessary for us to access and upload the information you provide and to send your contacts any information and messages that you choose to initiate through our services, including via e-mail and text message or short message service messages (“sms”) number
+you or the third party may contact us at privacy@atomtickets
+com to request the removal of this information from our database
+unless we have independently obtained the personally identifiable information of an individual identified in your contacts (for example, if such person has independently used our services), our use of such information from your contacts, with your consent and representation that you have obtained any necessary consent from your contacts, shall be limited to facilitating your use of the services
+information collected through social networking services and other third-parties
+we may create interfaces that allow you to connect with a social networking service (" sns "), such as facebook, through our services, or other third-parties
+we work with the sns’s application protocol interface (better known as their developer api) in a way that allows you to authorize us to access your account on that sns on your behalf
+in order to provide this authorization, you do not provide us with your user name or password to the sns, but you will need to log-in to that sns directly through our services
+once authorized by you, the sns provides us a token that allows the sns to recognize us when we ask, on your behalf, for access to your account information or to post information
+for example, when you click "connect" to grant us access to your facebook account, we will import your name and other information from facebook and, as you use our services, we may periodically check for updates to such information
+you can revoke our access to any sns at any time by amending the appropriate settings from within your account settings on the applicable sns
+similarly, if you interact with us through a social media function (such as, for example, “liking” a facebook post or a tweet), you may be permitting us to have access to certain of your information from your sns profile pursuant to the terms of that sns
+we collect the following types of anonymous information
+information collected by our servers
+to make our services more useful to you, our servers (which may be hosted by a third party service provider) collect certain anonymous information from you, including your browser type, operating system, domain name, and/or a date/time stamp for your visit
+any collected financial information, such as data related to your payment method (e
+valid credit card number, card brand, expiration date), is stored by the applicable payment processor or digital wallet entity, such as paypal, amazon payments, braintree payments, etc
+you are encouraged to review their policies and contact them directly for responses to your questions
+feel free to contact us if you have questions about who the applicable payment processor or digital wallet entity is
+as is true of most apps and websites, we gather certain information automatically and store it in log files
+this information includes browser type, internet service provider (" isp "), referring/exit pages, operating system, date/time stamp, and clickstream data
+we use this information to analyze trends, to administer the services, to track users’ use of the services, to gather demographic information about our user base as a whole, and to better tailor our services to our users’ needs
+for example, some of the information may be collected so that when you visit the services again, it will recognize you and the information could then be used to serve advertisements and other information tailored to your interests
+like many online services, we use cookies to collect information
+the cookies (" cookies ") are small pieces of information that a website sends to your computer’s or device’s hard drive while you are viewing the website
+we may use both session cookies (which expire once you close the web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our services
+this type of information is collected to make the services (and those of third parties) more useful to you and to tailor your experience with us to address your special interests and needs
+if you decide at any time that you no longer wish to accept cookies from our services for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites or apps you visit
+consult your browser’s technical information
+if you do not accept cookies, however, you may not be able to use all of the services or access certain features of the services
+if you have any questions about how to disable or modify cookies, please let us know by contacting us at privacy@atomtickets
+we may collect information about the computer or device you use to access our services, including the hardware model, operating system and version, mac address, advertising device identifier, and mobile network information
+in addition, the services may access your device’s image storage applications and contacts, with your consent, to facilitate your use of certain features of the services
+unless we have independently obtained the personally identifiable information of an individual identified in your contacts (for example, if such person has independently used our services), our use of such information from your contacts, with your consent, shall be limited to facility your use of the services
+for more information about how you can control our access to these applications, please see "your choices" below
+in addition, we may use pixel tags (" pixel tags ") (also referred to as clear gifs, web beacons, or web bugs)
+pixel tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of online users
+in contrast to cookies, which are stored on a user’s computer hard drive, pixel tags are embedded invisibly in apps and web pages
+pixel tags also allow us to send e-mail messages and in-app advertisements in a format users can read, and they tell us whether e-mails have been opened and in-app advertisements viewed to help ensure that we are sending only messages that are of interest to our users
+we may use this information to reduce or eliminate messages sent to a user
+we may allow third-party advertisers or partners to use pixel tags on the app for the same reasons and in the same methods identified above
+we do not tie the information gathered by pixel tags to our users’ personally identifiable information, nor do we provide enough information to third parties for them to do so
+collection of information by advertisers
+we may use third parties to serve ads on the services
+certain third parties may automatically collect information about your visits to the app and other apps and websites, your isp, your advertising device identifier, and/or the browser you use to visit our services
+they do this by using cookies, pixel tags, or other technologies
+information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our services and the other sites tracked by these third parties
+this privacy policy does not apply to, and we are not responsible for, cookies or pixel tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies, pixel tags, and other technologies
+if you would like more information about this practice and to know your choices about not having this information used by these companies, u
+users can click here
+info/choices and canadian users can click here
+via that link you may, among other things, opt out of certain network advertising programs but, if you do, please note that you will still see advertisements, however they may be less relevant to you
+please note that even if you opt out of targeted advertising via that link, we may still track your visits to the atom platform for our own analytics, operations, and security uses
+california residents (and others) can also check out our notice to california residents for additional information about what information we collect and how it’s collected as framed by the ccpa (as defined in that section)
+how atom tickets uses and shares the information it collects
+we may use your personally identifiable information to
+create and administer your account
+process and fulfill your transactions
+provide you with the services and customer support
+personalize and tailor the features and content of the services to you
+increase the efficiency and operation of the services
+market our products, offers, and services, and those of third parties, to you that we believe may be of interest to you, including through text message or sms, push notifications, and special offers in the app
+send newsletters, offers, updates, notices, announcements, and additional information to you related to our services and those of third parties
+administer sweepstakes, promotions and contests
+understand how our services are used so we can continue to improve the services we provide to you
+create consumer profiles and audience segments which may be used for targeted advertising of our services
+find and connect you with your contacts, including to provide special offers from us or third parties
+send offers or communications on your behalf to specifically requested recipients from your contacts
+respond to your requests, resolve disputes, and/or troubleshoot problems
+deter fraud or other potentially illegal activities, or to otherwise protect us, you, and others from error and to safeguard our business interests
+comply with legal and regulatory requirements
+verify your compliance with your obligations in our terms of use and otherwise enforce those terms of use
+and communicate with you about the services
+we may also use your personally identifiable information to create anonymous information records by excluding information that makes the information personally identifiable to you
+ticket, concession and merchandise purchases
+if you purchase tickets to a performance, and/or concessions in connection with such theatrical showing, you authorize us to share your name and information related to your purchase (but not your contact information) with the applicable venue
+we do not control how such venue uses your personally identifiable information
+you should contact the venue to understand how it may use your personally identifiable information
+if you purchase merchandise, we will share your name and information related to your purchase (including your contact information, to the extent such information is necessary for fulfillment of your merchandise order) to a merchandise vendor or fulfillment party
+canadian users and other customers of landmark cinemas canada, please see section 9 below
+we offer the ability for you to link your atom tickets account with the loyalty rewards programs of certain companies offering loyalty or membership reward programs
+when you indicate that you would like such a link to occur, we may share transaction information or other information (including personally identifiable information) pertaining to you related to the transaction with the applicable company
+we may also share this information with our affiliates, as defined below
+third parties designated by you
+when you use the services, the personally identifiable information you provide will be shared with the third parties that you authorize to receive such information
+this includes third party services you link to your account
+to the extent you post personally identifiable information in comments in a publicly available area while using our services (e
+, ratings and reviews), it will be available to other users of the services who may use it at their discretion
+please be thoughtful about the information or comments that you post
+third-party service providers and vendors
+we may share your personally identifiable information with our third-party service providers that help us provide our services to you including, by way of example, our payment processors, vendors who provide technology services, and vendors who provide research and analytics (“ service provider ”)
+service providers will have access to your personally identifiable information needed to perform their business functions but may not use or share that personally identifiable information for purposes outside the scope of their functions related to the services
+we may also share some or all of your personally identifiable information with our parent company, subsidiaries, joint ventures, or other companies under a common control (" affiliates ") and require our affiliates to honor this privacy policy
+we may share some or all of your personally identifiable information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets
+in the event of an insolvency, bankruptcy, or receivership, personally identifiable information may also be transferred as a business asset
+if another company acquires our company, business, or assets, that company will possess the personally identifiable information collected by us and will assume the rights and obligations regarding your personally identifiable information as described in this privacy policy
+some of our services may enable you to post content to an sns (e
+, facebook, twitter), as described above
+if you choose to do this, we will provide information to such sns in accordance with your elections
+you acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third-party provider of such sns
+we will not be responsible or liable for
+(i) the availability or accuracy of such sns
+(ii) the content, products, or services of such sns
+or (iii) your use of any such sns
+there may be portions of the atom platform that provide such sns functionality
+regardless of any choices you make regarding your personally identifiable information (as described below), we may disclose personally identifiable information if we believe in good faith that such disclosure is necessary
+(i) in connection with any legal investigation
+(ii) to comply with relevant laws or government requests or to respond to subpoenas or warrants served on us
+(iii) to protect or defend our rights or property or other users of the services
+or (iv) to investigate or assist in preventing any violation or potential violation of the law, this privacy policy, or our terms of use, including as part of credit fraud protection
+we may also use and disclose your personally identifiable information as required or authorized by applicable laws
+we will retain the information you provide as long as you have an account with atom tickets
+if you request to delete your account, we will retain your information for a reasonable period while processing your request
+thereafter, your information will be anonymized by removing your personally identifiable information
+your personally identifiable information will then be deleted and the anonymized information will be included in our statistical database
+we may share anonymous information in the ways described above
+however, with the exception of those examples above, the information we otherwise share with third-parties is limited to anonymous information
+we use the anonymous information we collect to analyze trends, administer and improve the services, track users’ movements in the app, and better tailor our services (and those of third parties) to our users’ and potential users’ needs
+for example, some of the log files may be collected so that when you use the app again, it will recognize you and the information could then be used to make available information tailored to your interests
+we reserve the right to disclose anonymous information publicly without restriction
+we also share anonymous information with advertisers, studio partners, and their related agencies
+for example, we may use or provide anonymous information to create consumer profiles and audience segments for targeted advertising
+because we share only anonymous information with advertisers, studio partners, and their related agencies, they are unable to identify you through this information
+when you interact with or click on an advertisement, however, you may give the advertiser certain of your personally identifiable information
+we may also share anonymous information with third party tracking services (" tracking services ") to help us analyze how users use the services
+these tracking services collect only the advertising device identifier assigned to your mobile device, rather than your name or other personally identifiable information, and use it to collect information such as how often users open the app and what features they use in the app
+we only use this information to improve our services and to better tailor our offerings and services (and those of third parties, such as movie studios) to you
+we do not combine the information generated thereby with your personally identifiable information
+the collection of this information does not enable these tracking services to personally identify or contact you
+we may also share anonymous information with third party service providers (" analytics companies ") to help analyze how users use our services
+these analytics companies may also use cookies and/or pixel tags to collect information such as how often users visit our services and how they use our services
+we do not combine the information gathered by analytics companies with your personally identifiable information, and the collection of this information does not enable these analytics companies to identify or contact you
+california residents (and others) can also check out our notice to california residents for additional information about what information we collect and how it’s collected as framed by the ccpa (as defined in that section)
+how we protect your information
+we take the security and privacy of your information very seriously
+we use reasonable security arrangements to protect the personally identifiable information in our custody or control against unauthorized access, collection, use, alteration, disclosure, copying, modification, disposal or similar risks
+we will take reasonable steps, through contractual or other reasonable means, to ensure that a comparable level of personally identifiable information protection is implements by our suppliers, vendors and agents
+unfortunately, while we make reasonable efforts to ensure that your information is secure on our system, no data transmission over the internet can be guaranteed to be 100 percent secure
+as a result, we cannot guarantee the security of any personally identifiable information you transmit to us, and you do so at your own risk
+your use of our services and the atom platform demonstrates your assumption of this risk
+your choices regarding your information
+we may periodically send you free newsletters and e-mails that directly promote the use of our app or services
+when you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving such further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly at privacy@atomtickets
+despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our terms of use or privacy policy, which you may not opt out of
+our services include communication by text message and, by signing up for our services, you expressly consent to receiving text messages from us and other communications with you via your mobile device
+we do not charge for these messages
+however, your carrier's standard messaging, data, and other rates and fees still apply to any messages you send, our confirmations, and all subsequent sms correspondence and/or transmissions
+all charges are billed by and payable to your mobile service provider
+at any time, in response to a text message from us, you may text stop to cancel or help for customer support information – you will continue receiving service-related messages via e-mail and/or the app
+we will not be liable for any delays in the receipt of any sms messages as delivery is subject to effective transmission from your mobile service operator
+if you decide at any time that you no longer wish to accept cookies from our services for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit
+consult your browser’s technical information
+if you do not accept cookies, however, you may not be able to use all of the services or certain features of the services
+if you have any questions about how to disable or modify cookies, please let us know by contacting us at privacy@atomtickets
+you can choose whether or not to allow the app to collect and use real-time information about your device’s location through the device’s privacy settings or by opting out through the app
+if you block the use of location information, you may not be able to use all of the services or certain features of the services
+changing or deleting your personally identifiable information
+you may access, review, update, correct, or delete the personally identifiable information in your account by contacting us
+certain information is necessary for us to provide the services
+therefore, if you choose to delete such necessary information you may not be able to use the services
+if you choose to delete all of your personally identifiable information, then your account may become deactivated
+please remember, however, if we have already disclosed some of your personally identifiable information to third parties, we cannot access that personally identifiable information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures
+in addition, public postings will not be deleted from our services, nor will any information we are legally obligated to retain
+upon your request, we will close your account
+please note we will delete your personally identifiable information except as necessary to comply with laws, prevent fraud, resolve disputes, assist with any investigations, enforce our terms of use , or for legitimate business purposes to the extent permitted by law
+at this time, we do not currently respond to do not track (dnt) requests
+we note that there is not yet a common understanding of how to interpret dnt signals and there is not a common definition of “tracking” with regard to dnt requests
+we may begin responding to dnt request when a uniform technology standard regarding dnt requests is developed
+from time-to-time, we may, in our sole discretion, provide additional options on the app, the website, or any other portion of the atom platform to allow you to further opt-out of discrete portions of the information collection detailed in this privacy policy
+treatment of information disclosed to third-parties
+this privacy policy addresses only our use and disclosure of information we collect from and/or about you through our services
+if you disclose information to others, or authorize us to do the same under this privacy policy, the use and disclosure restrictions contained in this privacy policy will not apply to any third party
+we do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable
+please note that the services and the atom platform may contain content or links to other websites that are not owned by, controlled by or affiliated with us
+we have no control over, do not review, and are not responsible for the privacy policies of or content displayed on such other websites
+when you click on such a link, you will leave our services and go to another site and any information provided to these third-parties is not covered by this privacy policy
+during this process, another entity may collect personally identifiable information or anonymous information from you
+we cannot guarantee the safety and privacy of your information and we are not responsible for the content or privacy and security practices/policies of those third-parties
+please review the privacy policy of any new site you visit
+also please note that the services may also contain links to other websites that are controlled by us but operate under different privacy policies so you should review those policies carefully as well
+consent to processing and transfer of information outside of your country
+our services and the atom platform are governed by and operated in accordance with the laws of the united states, where permitted by applicable law
+atom does not market to or provide services to individuals outside of the u
+if you are a canadian user of the services or the atom platform, by using our services and/or providing us with information, you acknowledge and agree that your personally identifiable information may be processed for the purposes identified in the privacy policy in accordance with united states law, where permitted by applicable law
+in addition, for all users, your personally identifiable information may be processed in the country in which it was collected and in other countries, including the united states, where laws regarding processing of personally identifiable information may be less stringent than the laws in your country, and where governments, courts, law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that personally identifiable information through the laws of those countries
+by providing your information, you consent to your personally identifiable information being used in this way
+consumer rights to access and control your information
+as used in this section, when we refer to “personal information” we include personally identifiable information and other non-anonymous information we may have collected about that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular person or household
+you can submit requests regarding your personal information by visiting the atom privacy portal or calling our customer support team at 844-838-6284
+specifically, you can submit a request to
+learn what type of personal information we have collected about you and/or obtain a copy of that personal information
+have us delete the personal information we have collected from you (while either maintaining your account or closing it)
+learn how we have shared or disclosed your personal information, if at all
+opt-out of any potential future sales of your personal information
+(each being a “ privacy request ” and collectively being “ privacy requests ”)
+please continue reading this section for important details regarding these privacy requests
+also, while this section applies to all of our to users, there are certain differences for residents of select states so please be sure to read those relevant sections as well
+notice to california residents
+notice to nevada residents
+notice to utah residents
+when you make a privacy request, we will ask you for information that allows us to reasonably verify your identity, to confirm that you are the person associated with the personal information, and we will use that information only for this purpose
+as part of this, we may request that you submit a signed statement under penalty of perjury that you are the individual you claim to be
+we will acknowledge receipt of your request within a reasonable period and will endeavor to respond further within a reasonable period thereafter
+please understand that we will not be able to provide you with or delete any personal information if we are unable to verify your identity and confirm that the personal information relates to you
+you can make a privacy request opting-out of the sale of personal information or asking to have personal information deleted at any time
+you may make all other privacy requests up to two times in any 12-month period
+when you make a privacy request to learn about or request a copy of the personal information we have collected, or to learn about any of your personal information that we have disclosed or shared
+we will not include any information which creates a substantial, articulable, and unreasonable risk to the security of the personal information, your account, or the security of our business systems or networks
+we may limit some or all of the personal information included in our response to the personal information collected in the 12 months prior to your request
+we will endeavor to provide the information in a format that is readily useable
+to protect the security of your personal information, we will provide it via a secure electronic method to your e-mail address
+when you make a request for us to delete your personal information collected from you, please understand that certain information will not be deleted in certain circumstances
+for example we will not delete personal information collected from you that is necessary
+(i) for us to complete a transaction for you or otherwise perform a contract or services for you (if you are maintaining your account)
+(ii) to detect, protect against, or prosecute security incidents, fraud or illegal activity
+(iii) to debug or otherwise identify and repair errors that impair existing intended functionality
+(iv) to use the personal information only internally in ways reasonably aligned with your expectations as our customer (such as maintaining sales records)
+and (v) to comply with legal obligations
+when you make such a request, we may ask you to separately confirm your request
+when you make such a request, we will notify any service providers that we have engaged to also delete non-exempt personal information that we have collected from you
+we do not sell your personal information for monetary consideration, but we may transfer your information to third-parties that provide us with services such as helping us identify goods and services you will be interested in, helping with advertising, data analysis and security
+if you would like to instruct us not to sell or otherwise share your personal information in this way, you can do so via the atom privacy portal (or by calling our customer support team at 844-838-6284)
+if you request that we not sell your information, we will honor your request within 15 days
+we will also notify those third-parties who received your information in the 90 days before your request to not further sell your information and will notify you when this has been completed
+once we receive such a request we will wait at least 12 months before asking you to reauthorize such a sharing or sales of personal information collected from you
+we will not discriminate against you or limit your ability to use the atom platform as a result of you exercising any of these rights via a privacy request
+notice to canadian users and/or customers of landmark cinemas canada
+if you are a canadian user or a customer of landmark cinemas canada and have requests or concerns regarding this privacy policy or the collection, use or disclosure of your personal information by us, or if you wish to withdraw your consent to collection, use, and disclosure of your personal information, please contact our privacy officer at privacy@atomtickets
+alternatively, you may contact the office of the privacy commissioner of canada with privacy questions by mail at 30 victoria street, gatineau, quebec, k1a 1h3, canada or by toll-free telephone at 1 (800) 282-1376 or by telephone at 1 (819) 994-5444
+if you are a customer of landmark cinemas canada, please note that in addition to how we use and share your information as outlined in section 4 above, as you are a customer of landmark cinemas, we also share your personally identifiable information directly with landmark cinemas, subject to the landmark cinemas privacy policy , for the purpose of landmark cinemas better serving you
+by making a purchase on the atom platform, you are opting in to and consent to this limited sharing of your personally identifiable information
+please note that this does not include any financial or otherwise sensitive information
+you can contact us as referenced in this privacy policy if you have any questions regarding this policy or if you wish to opt-out, or you can contact landmark cinemas as detailed in their privacy policy
+notice to california residents
+as of january 1, 2020, verified california residents have the right to
+request and receive disclosure of our personal information collection practices during the prior twelve months, including the categories of personal information we collect, the categories of sources of such information, our business purpose for collecting or sharing such information, and the categories of third parties with whom we share such information
+request and receive a copy of the personal information we have collected about them during the prior twelve months
+request and receive disclosure of our information sharing practices during the prior twelve months, including a list of the categories of personal information sold with the category of third-party recipients and a list of the categories of personal information that we disclosed for a business purpose
+request that we not sell personal information about them
+and request that we delete (and direct our service providers to delete) their personal information subject to certain exceptions
+for purposes of these california rights under the california consumer privacy act (“ ccpa ”), “personal information” as used here means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular california resident or household
+to learn about how you can make a request to exercise any of these rights, please check out the consumer rights to access and control your information section of this privacy policy directing you on how to use the atom privacy portal
+you can also call our customer support team at 844-838-6284
+in addition to submitting a direct request, california residents may also submit a request through someone holding a formal power of attorney
+otherwise, you may submit a request using an authorized agent only if
+(1) you provide the authorized agent with written permission to make a request on your behalf
+and (2) you verify your own identity directly with us
+we will require your agent to submit proof to us that they have been authorized to make requests on your behalf
+when you make a privacy request other than a privacy request opting-out of the sale of your personal information, we will acknowledge receipt of your request within 10 days and will endeavor to respond within 45 days, but if we require more time (up to an additional 45 days) we will notify you of our need for additional time
+if we are unable to verify your identify and confirm that the personal information relates to you, we will not be able to complete your privacy request (other than one opting-out of the sale of your personal information), and although we may respond to your request to inform you of our inability to verify your identity, we will not otherwise be able to respond your request or provide you with personal information
+for privacy requests opting-out of the sale of your personal information, we will comply with your request within 15 days and, once we have notified any third-parties to whom we may have sold your personal information of your request, we will provide you confirmation of the same
+during the prior 12 months, we have collected the following categories of personal information from the listed sources, used it for the listed business purposes, and shared it with the listed categories of third-parties
+category of personal information collected
+identifiers such as a real name, alias, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers
+individuals interacting with the atom platform, including making a transaction, scanning tickets at the theater, and interacting with advertisements and marketing on the atom platform
+individuals interacting with the atom app upon consenting to contact access
+individual interacting with atom advertising and marketing on third-party websites or applications
+and third-party marketing and data providers providing information
+business purposes for use
+performing services for you
+to enable commercial transactions
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity
+product and functionality debugging
+internal research, development and quality control, and other non-profile short-term transient uses
+and ad customization and related marketing
+categories of third-parties receiving personal information
+we do not disclose personally identifiable information, but other information in this category may be shared (including via cookies or pixels) with service providers (such as payment processors, marketing partners, data analytics partners, and technology services and support partners)
+category of personal information collected
+commercial information, including records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+individuals interacting with the atom platform, including making a transaction, scanning tickets at the theater, and interacting with advertisements and marketing on the atom platform
+individuals interacting with atom advertising and marketing on third-party websites or applications
+individuals submitting review content
+and third-party marketing and data providers providing information
+business purposes for use
+performing services for you
+to enable commercial transactions
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity
+product and functionality debugging
+internal research, development and quality control, and other non-profile short-term transient uses
+and ad customization and related marketing
+categories of third-parties receiving personal information
+information in this category may be shared (including via cookies or pixels) with service providers (such as payment processors, marketing partners, data analytics partners, and technology services and support partners)
+category of personal information collected
+internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding an individual’s interaction with the atom platform or atom advertisements
+individuals interacting with the atom platform, including making a transaction, scanning tickets at the theater, and interacting with advertisements and marketing on the atom platform
+individuals interacting with atom advertising and marketing on third-party websites or applications
+individuals interacting with the atom app upon consenting to contact access
+individuals submitting review content
+and third-party marketing and data providers providing information
+business purposes for use
+performing services for you
+to enable commercial transactions
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity
+product and functionality debugging
+internal research, development and quality control, and other non-profile short-term transient uses
+and ad customization and related marketing
+categories of third-parties receiving personal information
+information in this category may be shared (including via cookies or pixels) with service providers (such as payment processors, marketing partners, data analytics partners, and technology services and support partners)
+category of personal information collected
+individuals interacting with the atom platform, including making a transaction, scanning tickets at the theater, and interacting with advertisements and marketing on the atom platform
+individuals interacting with atom advertising and marketing on third-party websites or applications
+business purposes for use
+performing services for you
+to enable commercial transactions
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity
+product and functionality debugging
+internal research, development and quality control, and other non-profile short-term transient uses
+and ad customization and related marketing
+categories of third-parties receiving personal information
+information in this category may be shared (including via cookies or pixels) with service providers (such as payment processors, marketing partners, data analytics partners, and technology services and support partners)
+category of personal information collected
+characteristics of protected classes
+individuals directly responding to an atom demographic survey
+business purposes for use
+performing services for you
+internal research, development and quality control
+as to prospective or current employee information
+categories of third-parties receiving personal information
+information in this category may be shared (including via cookies or pixels) with service providers
+category of personal information collected
+professional or employment information (and photographs) and education information for prospective and actual employees
+prospective or current employees interacting with human resources
+business purposes for use
+categories of third-parties receiving personal information
+information in this category may be shared with service providers
+category of personal information collected
+inferences drawn from any of the information identified above
+individuals interacting with the atom platform, including making a transaction, scanning tickets at the theater, and interacting with advertisements and marketing on the atom platform
+individuals interacting with atom advertising and marketing on third-party websites or applications
+individuals interacting with the atom app upon consenting to contact access
+individuals submitting review content
+and third-party marketing and data providers providing information
+business purposes for use
+performing services for you
+to enable commercial transactions
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity
+product and functionality debugging
+internal research, development and quality control, and other non-profile short-term transient uses
+and ad customization and related marketing
+categories of third-parties receiving personal information
+information in this category may be shared (including via cookies or pixels) with service providers (such as payment processors, marketing partners, data analytics partners, and technology services and support partners)
+category of personal information not collected
+audio, electronic, visual, thermal and olfactory information
+not all information is collected from all individuals
+for example, we may collect different information from registered users, guest users, non-account holders, prospective or actual employees, or vendors
+regarding the business purposes of use identified above, more specifically
+performing services for you and enabling commercial transactions includes administering or otherwise carrying out our obligations in relation to any agreement to which we are a party
+assigning you in completing transactions and orders
+preparing and processing invoices
+responding to queries or requests and providing services and support
+providing after-sales customer relationship management
+creating and managing our customer accounts
+notifying you about changes to our services and products
+administering promotions, contests, surveys, or competitions
+providing you information regarding our products and services
+and offering our products and services to you in a personalized way
+transaction auditing and internal research, development and quality control, and other non-profile short-term transient uses includes providing for internal business administration and operations, including troubleshooting, atom platform customization, enhancement or development, testing, research, administration and operation of the atom platform and data analytics
+creating products or services that may meet your needs
+measuring performance of marketing initiatives, ads, and websites “powered by” another company on our behalf
+and monitoring quality control and ensuring compliance with our legal obligations, codes and ordinances, policies and procedures
+detecting, protecting/enforcing against security incidents and other malicious, fraudulent, or illegal activity includes ensuring that the atom platform, our business and your information remains safe and secure
+preventing or detecting fraud, malicious activity or abuses of the atom platform
+and resolving disputes, complying with our legal obligations or otherwise protecting the rights, safety and interests of ourselves, our users, or others
+product and functionality debugging includes developing and improving our products and services
+ad customization and related marketing includes for marketing and promotions we believe that you may find of interest and to provide you, or to allow selected third-parties to provide you, with information about products and services that may interest you
+your california privacy rights (shine the light act)
+under california law and due to the fact that we may, in the course of business, disclose your personally identifiable information to a third-party for their direct marketing purposes pursuant to the policies and disclosures contained in this privacy policy, we provide all california residents the right to obtain what information and to whom the information was provided in that regard by us in the immediately preceding calendar year
+if you are a california resident and want such a list, please provide a written request for such information to atom tickets, attn
+privacy manager, 2700 colorado avenue, 4th floor, santa monica, ca 90404
+in your request, you must include your name, your current california address (complete address, including street address, city, state and zip code), and you must attest to the fact that you are a california resident
+unfortunately, we cannot and will not accept requests via e-mail, telephone or any other method, nor are we responsible for requests that are not properly labeled or sent, or that are otherwise incomplete
+upon our receipt of a valid written request for such information, we shall provide a list of any disclosures of the identified california resident’s personally identifiable information to any third-party for direct marketing purposes within thirty (30) days of the receipt of such request
+the list shall include the categories of personally identifiable information disclosed to third-parties for their direct marketing purposes during the immediately preceding calendar year, the names and addresses of all of such third-parties, and to the extent we know, an indication of the third-party’s business
+such list may be in a standardized format and not specific to any individual
+this list will be sent to you at the current california address included in your request
+california residents shall only be entitled to have this information provided once per calendar year
+notice to nevada residents
+nevada residents may exercise their right to request that we not sell their covered personal information via the atom privacy portal
+notice to utah residents
+we reserve the right to transfer your personally identifiable information to a third-party (including our affiliates and subsidiaries) for our own direct marketing
+changes to this privacy policy
+this privacy policy may be updated in the future, from time to time, for any reason
+we will notify you of any changes to our privacy policy by posting the new privacy policy on the app and website at http
+com/privacy and changing the "last updated" date above
+we may take such other actions as we deem appropriate under the circumstances to announce such changes
+you should consult this privacy policy regularly for any changes
+if we decide to use personally identifiable information in a manner different from that stated at the time that it was collected, we will notify affected individuals by e-mail
+individuals can choose whether or not to allow us to use personally identifiable information related to them in this new manner
+if we make changes requiring such notice that only affect residents of a select state or country, please note that we may only provide notice to those select residents and users
+disclosure regarding certain partners powered by atom tickets
+from time-to-time, some of our partners offer ticket purchases powered by atom tickets
+those transactions, while subject to this privacy policy, may also be subject to the partner's privacy policy
+those "powered by atom tickets" situations include disclosures regarding the operative privacy policies and the sharing of information regarding your transactions in those situations
+these disclosures are also included here for your reference
+disclosure regarding atom tickets' and lionsgate's operative privacy policies
+disclosure regarding atom tickets' and ticketón's operative privacy policies
+disclosure regarding atom tickets' and snap's operative privacy policies
+if you have any questions or comments about this privacy policy, please contact us via the atom tickets help center or at
+atom tickets, llc 2700 colorado avenue 4th floor santa monica, ca 90404
+com +1 (844) 838-6284
+give an atom gift card today
+faqs / contact us
+© 2020 atom tickets llc
+, all rights reserved
+do not sell my personal information
+we will never post anything to your account
+email address or mobile number
+forgot your password or created your atom account via snapchat or apple
+this showtime is available exclusively for amazon prime members
+please sign up with your amazon account to continue
+by continuing, you agree to atom tickets'
+terms of use and privacy policy
+this showtime is available exclusively for amazon prime members
+join amazon prime to continue
+free child's ticket when you buy an adult ticket
+automatically applied at checkout once you’re logged in with amazon
+limit 1 while supplies last
+we will never post anything to your account
+email address or mobile number
+forgot your password or created your atom account via snapchat or apple
+don't have an atom account
+enter the mobile number or email address you used to create your account
+email address or mobile number
+back to log in
+you will receive a verification code to reset your password if that email address/phone number is associated with an atom account
+enter the 6 digit code below
+password must have a minimum of 8 characters
+send me a new code
+back to log in
+we will never post anything to your account
+already have an atom account
+you agree to our
+terms of use and our privacy policy
+password must have a minimum of 8 characters
+already have an atom account
+you agree to our
+terms of use and our privacy policy

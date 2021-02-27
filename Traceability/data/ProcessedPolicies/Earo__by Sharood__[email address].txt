@@ -1,0 +1,68 @@
+you need to enable javascript to run this app
+1 earo (hereafter "the game") is organized by v
+fluzzers, located at marnixstraat 233 2r, amsterdam, north holland, the netherlands (hereafter "fluzzers")
+2 the game is variable in starting time, but the first competition was launched 29 march 2019
+the competitions will follow eachother if a correct answer has been given
+3 participation is only possible in the current competition
+4 fluzzers is fully entitled to change these terms and conditions at any moment in time without the need to notify any of its users
+any changes in these terms will be reflected in this document
+1 the game is played 24/7 all over the globe, although response times to given answers will vary
+through the app and website, a sound can be heard
+participants who think they recognize the sound are able to submit an answer for our consideration
+the starting pot is $10, and is increased through a non-linear function that is dependent on the number of submissions
+for now, we have capped the total pot at $60
+this is subject to change and can be increased or decreased at any moment
+2 fluzzers has the right to modify the game at any moment
+this can be done through revealing "clues" to help users finding a winner or altering the pot to attract more attention
+3 to manage the influx of answers, the first selection round is governed by a text-similarity api, which will compare the answer given by the user to the encrypted answer in our backend
+if a certain threshold of similarity is reached (currently 0
+5), the answer is forwarded to our human quizmasters / admins that will present a final verdict
+both of these stages incur a final and non-disputable verdict
+if you think we have made a mistake in handling your submission, please let us know through our email
+1 anyone with a valid earo account and sufficient lives (credits) is able to submit answers through the mobile app
+2 registering is possible 24/7, although fluzzers is entitled to add a registering block to prevent our systems from going haywire
+1 as we identify the game as a contest with a gambling aspect, we are required that participants (also "users") are 18+ and have a valid passport
+2 for now, submissions are only valid if they are done through our ios/android application, which is available in the apple app store and google play store
+3 people who are not allowed to participate are
+those who do not the 2 aforementioned criteria, family of employees or organizers, anyone involved in creating or managing earo
+4 anyone participating in the game accepts the terms in this document as is
+5 anyone participating has the responsibility to provide valid identification credentials
+fluzzers is allowed to withdraw prizes or disallow participation to users failing to provide these credentials, or who fail to fulfill all criteria in this document
+6 in case of fraud, deception or unlawful influence to the game, fluzzers has the power to exclucde users from playing the game and nullify - both before, and up to a year after the competition - prizes won by users participating in these unlawful activities
+7 users are intially gifted with 3 free guesses
+to sustain the pot, subsequent submissions will require the purchase of so-called lives
+1 life equals 1 submission
+lives can also be acquired by referring users to the app
+anyone misusing this functionality (by creating multiple accounts for the benifit of themselves) will be excluded from the game
+8 fluzzers has the right, at any moment, to remove participants from the competition if they have a valid reason to do so
+1 the prize is the size of the pot at the moment the correct answer is selected by any of our human evaluators
+after this, the competition will be closed and further prize fluctuations will be unable to occur
+2 we offer paypal and bank transfer as payout methods, but correspondence over other payout methods is welcomed
+please note that any method will also require valid identification, so anonymous transactions (e
+bitcoin) will not be carried out
+3 no rights are conferred to the result of the competition, decisions made by fluzzers and its employees
+the verdict of the judges on the submitted answer is final and cannot be altered through appeal
+appeals to the result of the competition will not be heard
+fluzzers is of course welcoming feedback
+4 every prize is tied, and only tied, to the winning user
+this means that the prize is not transferable, not to family, relations or any other (legal) entities
+5 prizes are not substitutable for any other goods / services, unless otherwise specified in this document
+6 fluzzers is not responsible for any gambling commission or tax
+this will fall to the users' responsibility
+1 private information of a user - identification credentials and banking information - will solely be used in personal contact with the user
+the user's (user)name will be displayed as winning a particular competition, and will be used to contact the user
+on request, this can either be removed or altered
+2 winning users will be contacted about their prize as soon as possible, alongside a request to appear on our social media channels (instagram and facebook) showcasing how that user got to the solution
+this is an invitation and is not required as part of collecting the prize
+3 users participating in publicity around earo are not entitled to financial compensation unless agreed with fluzzers
+1 any issue that cannot be dealt with with this document, will be dealt with manually by fluzzers
+2 fluzzers holds the right to unilaterally modify and/or end this game at any moment
+3 fluzzers is not responsible for any direct or indirect damage to users or third parties that occurs in the context of the competition and game
+4 fluzzers is not responsible for technical outages or malfunctions
+any user making use of bugs, hacks or fraud will be excluded from participation, and potential winnings of that user can be revoked
+5 dutch law applies to these conditions
+6 these terms have been constructed to conform with the code of conduct of gambling games
+7 please contact us at fluzzersweb@gmail
+com for any unclarity or feedback
+we will do our utmost best to reply within 3 days
+terms & conditions earo © 2019

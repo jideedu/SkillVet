@@ -1,0 +1,8 @@
+daventry bins is an alexa skill to allow residents within daventry district to determine which waste bins will be collected each week
+daventry bins stores no personal identifying data for any of it users
+when activated, it asks amazon for the postcode set up for the device and uses that to determine the collection schedule using daventry district council's web site
+daventry bins then stores the schedule name against an anonymised user id provided by amazon
+daventry bins has no means of identifying any individual that uses this skill
+if you have any questions, please email daventry-bins@dopiaza
+this policy may be updated from time to time to improve it
+please check back occasionally to see if there are any updates

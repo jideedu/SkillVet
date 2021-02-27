@@ -1,0 +1,8 @@
+the developer of my weight loss coach, rak, wants you to know how
+we use and protect the important information you provide to us
+the following summarizes our policy, procedures and practices
+collect your name, time zone, starting weight, starting date, goal weight, goal date, most recent weigh in weight and date, as well as your minutes of aerobic exercise and strength training and exercise date to help you chart your progress in losing weight
+that information is saved in a database that also contains your amazon account number
+that information is not shared with any entity and is used only to help you to track your progress as you work your weight plan
+the purpose of this skill is not to provide medical advice
+the user of the skill should consult with their physician regarding any questions they may have about starting a weight loss program

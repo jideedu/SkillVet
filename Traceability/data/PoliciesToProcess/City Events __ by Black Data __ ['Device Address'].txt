@@ -1,0 +1,13 @@
+city events skill privacy policy
+this privacy policy has been compiled to better serve those who are concerned with how their
+'personally identifiable information' (pii) is being used online
+pii is information that can be used on its own or with other information to
+identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use,
+protect or otherwise handle your pii in accordance with our alexa skills
+this policy applies to our city events skill
+what personal information do we collect from the people that use our skill
+only the city, region and country of your address, with your consent, of your alexa devices are used to enable looking for events relevant to your city
+this information is not stored, and none of this information is shared with any third parties
+if there are any questions regarding this privacy policy, you may contact us via e-mail at privacy@blackdata
+last edited on 2019-04-22

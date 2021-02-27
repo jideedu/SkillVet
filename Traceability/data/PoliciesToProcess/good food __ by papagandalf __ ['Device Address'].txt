@@ -1,0 +1,30 @@
+this privacy policy discloses the privacy practices for the amazon alexa skill "good food "
+submitted to the alexa skills challenge
+this privacy policy applies solely to information collected by this software
+it will notify you of the following
+what personally identifiable information is collected from you through
+the use of the skill, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+the security procedures in place to protect the misuse of your information
+how you can correct any inaccuracies in the information
+information collection, use, and sharing
+the only information this skill can collect and store is whether a user recycles or not
+information is collected voluntarily and only by the act of the user explicitly
+using this feature of the skill
+no personal or identifiable information are stored or shared
+via the use of this skill
+the skill needs the user's permission to access their amazon echo device's location, with the sole
+purpose of finding recycling bins in close proximity
+the address or any other location information
+are not stored in any way in any infrastructure by the software
+address information is used for
+on-the-fly proximity queries and gets discared after the generation of the response by the skill
+we are the sole owners of the information collected by this skill
+your access to and control over information
+you may opt out of any future contacts from us at any time
+you can do the following at any time by de-listing the alexa skill from all of your devices
+we take precautions to protect your information
+when you submit sensitive information via the alexa service, your information
+is protected both online and offline
+our privacy policy may change from time to time and all updates will be posted on this page
+if you feel that we are not abiding by this privacy policy, you should contact us immediately via email at hello@versantus

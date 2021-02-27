@@ -1,0 +1,88 @@
+skip to main content
+the information available on this site is not intended to be comprehensive, and many details which may be relevant to particular circumstances have been omitted
+accordingly it should not be regarded as being a complete source of
+company law and information, and readers are advised to seek independent professional advice before acting on anything contained herein
+companies house cannot take any responsibility for the consequences of errors or omissions
+companies house collects personal data from customers for a variety of reasons
+for example, the registrar of companies is required by law to collect and make public certain information about officers of companies and other entities,
+including directors and people with significant control
+companies house also handles the personal data of customers writing in with queries or complaints, and collects personal data from those individuals signing up to use our digital
+further detail on how companies house handles your personal data in line with the requirements of the general data protection regulation (gdpr) can be found in our personal information charter
+notes for users of company search or disqualified directors search
+the information available here is an extract from the register of companies / register of disqualified directors which are updated on a regular basis
+this may mean that occasional inaccuracies occur which we correct as soon as they
+are drawn to our attention
+if you spot something which you think might be wrong, let us know so we can, if necessary, correct the database
+company information supplied by companies house
+we carry out basic checks on documents received to make sure that they have been fully completed and signed, but we do not have the statutory power or capability to verify the accuracy of the information that companies send to us
+fact that the information has been placed on the public record should not be taken to indicate that companies house has verified or validated it in any way
+when companies house examines accounts it only makes basic checks on them, for example to ensure that the appropriate documents are there, that they are for the correct financial year and that they have been signed
+we receive a complaint that the accounts do not comply with the companies acts in some way we have a duty to draw this to the company’s attention and, if appropriate, to ask for a set of revised accounts which do comply with the
+links to external websites
+it is our policy to obtain permission to link to other websites
+we are not responsible for the content or reliability of the linked websites
+listing should not be taken as endorsement of any kind
+we cannot guarantee that these
+links will work all of the time and we have no control over the availability of linked pages
+information collected on behalf of hmrc
+companies house through the joint registration service will act as agents for hmrc and provide an optional service whereby when a person registers a new company, a facility will be offered so that person can also register the company
+once incorporation at companies house has been accepted the corporation tax information will be sent to hmrc and will not be retained by companies house
+acceptable use of companies house searchable databases
+the companies house searchable databases are designed to meet the needs of a wide range of users wishing to interrogate our information on-line
+due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads
+individuals, companies, ip addresses or blocks of ip addresses who deny or degrade service to other users by generating unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be
+denied access to these services without notice
+companies house mobile application
+companies house mobile application
+companies house service user information
+companies house service (the service)
+in this guidance, companies house means the registrar of companies for england and wales
+the registrar of companies for scotland and/or the registrar of companies for northern ireland as the circumstances require
+the companies house service (the service) means the on-line facility provided by companies house through its website for the purposes of delivering, accessing and obtaining information in electronic form
+and a presenter means a person who is authorised to and wishes to deliver a document for filing at companies house
+a presenter who wishes to use the service must register using companies house’s on-line registration process
+the presenter must supply companies house with a valid email address and password as part of this process
+house will send a verification email to the email address provided
+the verification email contains a link
+the presenter must click on the link to verify the email address and complete the registration process
+the presenter can amend his registered email address and/or password by completing the process described on the service
+there is no means to delete the registered email address or password
+companies house will retain and use the service registration data provided by the presenter to provide that service
+any document delivered for filing must be accompanied by the appropriate authentication or presenter code for that document (see the companies house website or the registrar’s e-rules for more details)
+presenters can apply for
+authentication codes using the service
+the code will be sent by post to the registered office or principal business address of the company or body to which it relates
+at present, the service can only be used to deliver a limited class of filings to companies house
+documents that are properly delivered using the service will be registered on the public register in accordance with companies
+house’s usual document acceptance policies
+current information about the classes of filings that can be delivered using the service is available on https
+the service may also be used to search and/or take copies of material on the register including the following information
+registered name of registered entities including companies and limited liability partnerships and those dissolved in the 12 months preceding a search
+uk establishments of overseas companies are not currently included
+overview including registered name, registered number, registered office address, status, entity type, incorporation date, accounts and annual return filing dates and overdue markers, current and resigned officer count, first
+five officers and business description
+filing history of registered material and associated document images
+images are free from 2003 onwards
+paper documents registered before 2003 that require scanning are available from the companies house contract centre and
+officers - all current and resigned officers
+charges - charge details are displayed for all outstanding and part-satisfied charges satisfied since 1st january 1987
+for entities registered in northern ireland before 1st october 2009 refer to the filing history for charge
+information before that date
+insolvency information – number of insolvency cases, type of insolvency regime, petition date, winding up date, insolvency practitioner name and address and, where applicable, links to charge information
+the companies house beta service
+what is a beta service
+beta means that the service is not completely finished but it will still do everything it's designed to do
+the beta service will sometimes be available at the same time as an older, existing service and you can choose which one to
+using the beta service
+the beta service is designed to be easier to use than the service it will replace
+you shouldn’t experience any difficultly when you use the beta service
+the beta service is available to users so that feedback and data can be
+select the feedback link and complete our survey which can be used to improve the finished service
+a successful beta will eventually replace any other older service s that perform the same task
+this doesn’t mean that it won’t be improved again
+the beta service follows the same rules for accessibility
+the extractives service is designed to allow companies to meet their legal obligations to file reports under the reports on payments to governments regulations 2014
+these regulations apply to all require large undertakings in the extractives industries in relation to a financial year starting on or after 1st january 2015, apart from those undertakings which are subsidiaries of parent undertakings
+who are obliged to prepare consolidated group accounts in member states other than the united kingdom
+these regulations will apply in relation to financial years for these undertakings beginning on or after 1st january 2016
+by making these reports available for inspection by members of the public, the registrar of companies enables the service to contribute to transparency

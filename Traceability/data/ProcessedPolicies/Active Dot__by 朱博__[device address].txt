@@ -1,0 +1,856 @@
+cookie notice we use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+we also share information about your use of our site with our social media, advertising and analytics partners
+close accept cookies cookie settings your privacy strictly necessary cookies performance cookies functional cookies targeting cookies more information privacy preference centre active always active
+save settings allow all
+join more than 3,700 program directors in using active's software and
+marketing to manage and grow your camp
+camp management camp registration marketing and communications
+class and program management
+leading registration payment and operations software for visual and
+performing arts, day camps, before and after school, steam programs and more
+trusted mobile solution to register, secure payment, track programs,
+communicate with parents and more
+program management school fund accounting
+event technology to streamline operations, grow your event and elevate the
+endurance active timing active results ipico sports experience app on-site app virtual event bags active
+proven saas solutions and services for local government, ice rinks, sports
+facilities, community centers, and more
+management software small-market recreation management
+swim team management and live results
+grow your program, manage your team and save time with swim team and meet
+sports league management and registration software
+simplify league and team management for baseball, softball, football,
+soccer, hockey and all types of sports
+league and associations sports websites club management
+university camp, program and athletics management
+leading compliance, team and camps management software for college
+operations and university athletics
+ymca membership and program management
+proven saas solution and services aligned to ymcas movement for member
+engagement, operation management, camps and programs
+active network, llc (“ active ,” “ us ”, “ we ” or “ our ”) values your privacy, and we are committed to protecting your personal information
+in this privacy policy (“ policy ”), we describe the personal information that we collect from visitors to and users of our websites (“ sites ”), our blogs, our mobile applications (“ mobile apps ” / “ apps ”), and our online products and services (collectively, “ services ”) and how we collect, use, and share personal information in the course of our business activities, including
+what personal information we collect and when and why we use it
+personal information event organizers collect on active
+how we share personal information within active and with our service providers, and other partners for our business purposes
+how we share personal information with third parties for their own business purposes
+cookies and other tracking technologies
+transferring personal information globally
+how we protect and store personal information
+explaining more about marketing, profiling and automated decision making
+legal rights available to eu data subjects to help manage your privacy
+legal rights available to california residents to help manage your privacy
+• all the information set out in this policy may not apply to you
+below is an overview of the possible circumstances in which we could interact together
+our interactions with you will determine which of the following applies to you and your personal information
+• when you share personal information with us or when we collect personal information about you, we will use it in line with this privacy policy
+please read this policy carefully
+if you have questions or concerns about your personal information, please contact us at privacy@activenetwork
+if, during the services, we collect your personal information on behalf of a third party, such as one of our customers who is an event organizer (“ event organizer ”/” client ”), this will be disclosed to you at or before the time you provide your personal information
+this policy does not cover our clients’ use of your personal information outside of our services
+we are not responsible for the privacy practices of our clients, as such we encourage you to read their respective privacy statements
+further, as a result of your interactions with our services or use of the sites, including active advantage and gearup, you may purchase products or services offered by third parties (such as magazine subscriptions, hotel bookings, or cruises) or you may elect to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the site
+we are not responsible for any such purchase you make, or participation you undertake, and as such any such purchase or participation will be subject to the relevant third party's terms and conditions
+what personal information we collect and when and why we use it
+active is a leading provider of activity and participant management™ solutions
+our flagship technology platform, activeworks®, transforms the way event organizers manage their activities and events by automating online registrations and streamlining other critical management functions, while also driving consumer participation to their events
+our sites include online communities for people who want to discover, participate in, and share activities about which they are passionate
+the information we collect from you allows you to log into our sites, use our services and applications, and register for events, contests, camps, licenses, classes, tickets, facility/equipment use, transactions, sales, memberships, reservations, donations, and/or activities (collectively, “ events ”)
+individuals (and agents of individuals) may provide us information directly or indirectly by registering for an event or by otherwise using our services (these individuals are referred to as “ consumers ”)
+for example, you may enter your information in order to register for an event, or someone who has organized a team may enter your information on your behalf to register your entire team
+in addition, event organizers can use our services to create and manage events
+in some circumstances, event organizers provide us personal information about individuals who have registered for an event through them
+as part of the services, we may use your personal information to contact you on behalf of the event organizer
+we will only collect, use, and share your personal information where we are satisfied that we have an appropriate legal basis to do this
+the chart below summarizes when we collect personal information, the sources from which that information was collected, the types and categories of personal information we collect, how we use the personal information, and the legal basis for our use of such personal information
+we collect personal information
+categories and types of personal information we collect
+the business purpose and legal basis for collecting your personal information
+from you or event organizers when you register for an event using our sites or services
+•	identifiers •	information protected by california security breach law •	internet/electronic activity •	commercial information •	inferences •	geolocation we collect first and last name, email address, physical address, phone number, personal description or preferences, contact information of a friend (where you share this personal data with us), timing results, transaction information including payment information, and purchase history
+we use this information to contact you to finalize your order, process your order, manage payment, manage any contact you have with us about your purchase, analyze your personal characteristics and identify and recommend appropriate events, for profiling and analytics (see “when and how we undertake profiling and analytics” section below for more detail), manage any dispute relating to a purchase, run analytics or collect statistics, and to communicate with you about your use of our services
+if you place a purchase using a registered account, we will add this transaction to your profile so we can understand your interests and preferences and you will see a record of your transactions
+our legal basis for using this information includes (1) consent, (2) performance of a contract so you can create and manage your account, (3) our legitimate interests which include to improve our sites and services, better engage with you, prevent fraud, and secure our sites, and (4) to comply with a legal obligation (to keep information we are required to keep)
+from you when you have saved your shopping cart or placed events in your cart without completing a registration on our sites or services
+•	identifiers •	information protected by california security breach law •	internet/electronic activity •	protected characteristics
+we may collect data related to your use of our sites including information you have typed into a form on our sites or services
+we use this information to send you reminders that you have started but not completed registering for an event and to remind you of saved items in your shopping cart
+our legal basis for using this information includes our legitimate interests which include to improve our sites and services and better engage with you
+from individuals who may refer you to us as a friend
+information protected by california security breach law
+we may collect first and last name, personal email address, organization name, professional email address, and/or professional mailing address
+we use this information to contact you about products and services that may be of interest to you
+our legal basis for using this information includes (1) consent, where you have provided it the individual referring you, and (2) our legitimate interest in letting you know about products and services that may be of interest to you
+from cookies or similar technologies (“cookies”) when you visit our sites
+•	identifiers •	internet/electronic activity •	inferences we may collect data related to your use of our sites including where you came from, login details, pages you looked at, duration of your visit, geographic location, and/or the links you click
+technical information collected includes your browser type and operating system, device information, your internet protocol (“ip”) address, and your unique id which is given to each visitor and expiration of date of the id
+we use this information to tailor our sites for you, show you recommendations, marketing (see
+explaining more about direct marketing section below for more detail), or content based on your profile and interests, as well as to analyze your personal characteristics or identify and recommend appropriate events
+this information also allows our sites and applications to function properly and enables us to display content properly, to remember your shopping cart, and remember your login details
+we also use this information to record unique page visits and reactions to our advertising campaigns which enables us to improve future offers
+(we provide additional information in this policy about how to opt-out of targeted advertising and data sharing to third parties
+our legal basis to use this information includes (1) your consent (to store cookies on your device) and (2) our legitimate interests, including to improve our sites and services, to better engage with you, and to secure our sites
+personal information we collect from when you participate in an activity using our mobile apps
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	geolocation •	professional or employment related information •	inferences
+we may ask you to provide first and last name, email address date of birth, information about your activities and interests, your current location (geolocation), other profile data such as contact information, occupation, and gender, physical activities or similar health related information, application or device usage data, social media data (where you use your social media login or share this personal data with us), and payment information
+we collect this information to provide services requested, profiling and analytics (see “when and how we undertake profiling and analytics” section below for more detail), monitor and improve our applications, run analytics and statistics
+our legal basis for using this information lawful includes (1) consent (provide you with services requested) and (2) our legitimate interests, including to improve our sites and services, to better engage with you, and to secure our sites
+from you to enable personal account creation and management
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	professional or employment related information
+during the creation or management of an account on our sites, or through a social media login, we will ask you to provide first and last name, email address, country of residence, and desired password, displayed name, date of birth, subscription preferences
+you may also provide information about your activities and interests, other profile data such as mailing address, phone number, and gender, and payment information
+we use this information, to manage your registrations, offer you a loyalty program, offer personalized services based your characteristics, allow you to manage your preferences, monitor and improve our sites and applications, run analytics or collect statistics
+we may use the information to respond to your questions and otherwise communicate with you about your use of our services, inform you when service updates or new services are available, and to manage any special offers or surveys you participate in
+our legal basis for using this information includes (1) performance of a contract so you can create and manage your account, (2) our legitimate interests including to improve our sites and services, better engage with you, to prevent fraud, and secure our sites, and (3) consent
+personal information we collect from you and use when you subscribe to receiving our marketing communications
+•	identifiers •	information protected by california security breach law •	commercial information •	inferences
+we collect first and last name, email address and desired password, displayed name, date of birth, personal description or preferences, order details, user generated content, other information you have shared about yourself (e
+via your account, by contacting us, a question via the chat function available on some websites, or by participating in a contest, game, survey, etc
+), subscription preferences, contact information of a friend and payment information
+we use this information to send you marketing communications which may be tailored to your “profile” based on the personal data we know or learn about you and your preferences, show you marketing communications on other websites, including social media platforms
+note that you may also see our ads on other websites, including on social media sites, but these may not be tailored to you
+we use this information to keep an up to date suppression list if you have asked us not to be contacted, to run analytics or collect statistics, to send content on your behalf to your friends and/or family
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+our legal basis for using this information include (1) our legitimate interests which include to improve our sites and services and to better engage with you, and (2) consent
+personal information we collect from you and use when you ask questions relating to our services, your orders, account or rights, and customer support
+•	identifiers •	information protected by california security breach law •	commercial information
+we collect first and last name, email address, phone number, date of birth, information about your activities and interests, and other information you have shared with us about yourself in relation to your enquiry (which may include activities and interests)
+we use this information to communicate with you about your use of our services
+our legal basis for using this information includes (1) consent to provide you with the service you have requested or (2) our legitimate interests which include to improve our services, to better engage with you and to secure our sites
+personal information we collect from you and use if you create a page to collect donations
+•	identifiers •	information protected by california security breach law •	commercial information
+we may collect information from you surrounding the charitable event or your request for donations
+in addition, if you donate to a particular event/cause, we may collect your name, contact information, and payment information, such as credit card information
+we use this information to enable you to create a page on certain of our sites to collect donations for your participation in a charity event (e
+, you want to raise money for running in a marathon), a particular charity, or for other purposes
+our legal basis for using this information includes (1) consent and (2) performance of a contract
+personal information we collect from you and use if you apply for employment with active
+•	identifiers •	information protected by california security breach law •	protected characteristics •	professional or employment related information
+we collect your education, employment history, qualifications, and the contact information of any professional references
+we use this information for hiring purposes
+our legal basis for using this information includes (1) consent and (2) to comply with a legal obligation
+personal information we collect from you during the creation and management of a professional account on sites or applications (these are accounts created in a business capacity by our clients)
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	geolocation •	professional or employment related information •	inferences
+we collect first and last name, organization name, gender, professional and personal email address, professional and/or personal address, professional and/or personal email address, username and password, preferences, other information you have shared with us about yourself (e
+via your account, by contacting us, a question via the chat function available on some websites, or by participating in a survey, etc
+), and/or payment information
+we use this information to manage your purchases/orders, send you marketing communications which may be tailored to your professional “profile” (i
+based on the personal data we know about you and your preferences), offer you incentives, offer personalized services based on professional interests and characteristics, allow you to manage your preferences, monitor and improve our sites, applications and services, run analytics or collect statistics, , to respond to your questions and otherwise interact with you
+our legal basis for using this information includes (1) performance of a contract so you can create and manage your account, (2) our legitimate interests which include to improve our sites and services, better engage with you, prevent fraud, and secure our sites, and (3) consent
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+personal information we collect from third parties to enable business-to-business marketing
+•	identifiers •	information protected by california security breach law •	professional or employment related information
+we collect first and last name, organization name, professional email address, and/or professional mailing address
+we use this information for business-to-business marketing purposes
+our legal basis for using this information includes (1) consent, (2) performance of a contract, and (3) our legitimate interest in letting you know about products and services that may be of interest to you
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+in addition to the purposes for collecting your information that are listed in the table above, we may also use your information for the following purposes which we consider to be everyday business purposes
+• for identity and credential management, including identity verification and authentication, system and technology administration • to protect the security and integrity of systems, networks, applications and data, including detecting, analyzing and resolving security threats, and collaborating with law enforcement or other groups about imminent threats • for fraud detection and prevention • for legal and regulatory compliance, including all uses and disclosures of personal information that are required by law or for reasonably needed for compliance with company policies and procedures, such as
+anti-money laundering programs, security and incident response programs, intellectual property protection programs, and corporate ethics and compliance hotlines, • for audits, including financial, security, or compliance audits, and analysis and reporting, • to enforce our contracts and to protect against injury, theft, legal liability, fraud or abuse, to protect people or property, including physical security programs, • to de-identify the data or create aggregated datasets, such as for consolidating reporting, research or analytics, • to make back-up copies for business continuity and disaster recovery purposes, and • for corporate governance, including mergers, acquisitions and divestitures
+personal information event organizers collect on active
+when you register for an event, you are not just sharing your personal information with active, you are also sharing with our client, the event organizer
+both active and the event organizer need the same basic information about you, like your name and contact information, for example
+when you provide that information in the registration form, you are providing it to both of us
+the event organizer may collect additional information from you (“event information”) which is related to the event, but not required for your active account (for example, your t-shirt size, or information about your prior participation in events sponsored by that organizer)
+as regards such event information, active is a service provider, or processor, to the event organizer, meaning that we only use it according to the event organizer’s instructions
+when an event organizer is processing your personal information, such processing will be subject to their privacy notice which they will provide to you
+how we share personal information with third parties for their own business purposes, and other partners for our business purposes
+we share your personal information in the manner and for the purposes described below
+•	with our affiliates, subsidiaries, or with our parent company where such disclosure is necessary to provide you with our services or to manage our business
+we may also share your personal information with other active entities to improve the services we offer or help us to create new ones and to personalize the services and offers you receive and or marketing, profiling and analytics as set out further in
+explaining more about direct marketing
+and for the purposes set out in this policy
+•	with third parties who help manage our business and deliver services, for example, it service providers who help manage our it and back office systems, process credit card payments, or administer events, sites and applications
+these third parties have agreed to confidentiality restrictions and have agreed to use any personal information we share with them, or which they collect on our behalf, solely for the purpose of providing the contracted service to us
+•	with our partner websites when we publish timing results for timed events •	subject to applicable legal requirements, with another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business assets to such company
+how we share personal information with third parties for their own business purposes
+subject to any rights you may have as described in this policy, active may also share your personal information with third-party partners for their own business purposes including for them to provide you offers of related products and services
+the table below provides additional information about that sharing
+sources of personal information we share
+categories and types of personal information we share
+business purpose for sharing personal information
+categories of third parties with whom personal information is shared for their own business purpose
+• information that you provide to us
+we collect personal information that you provide to us when you set up an account with us, use our services, or communicate with us
+• information collected through technology
+when you visit our sites or apps (or when you use any of our services) we may collect certain information about your location, usage, computer or device through technology such as cookies (see “cookies” for additional information)
+we may collect geolocation in the applications for the purpose of enabling location-based services
+•	identifiers •	commercial information •	internet/electronic activity •	geolocation •	inferences (such as consumer preferences)
+we may share your name, contact information including telephone number, email address, or postal address, information about the products and services we provide to you, information about your preferences including marketing preferences, information collected through your internet-based activity (see “cookies” for additional information)
+•	provide you offers of related products and services •	for personalized marketing purposes •	to fulfill your request when you use the services to sign up for or purchase a product or service from a partner company
+•	to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies
+•	third-party partners who provide offers of related products and services •	event organizers •	advertising networks •	internet service providers •	data analytics providers •	government entities and agencies, law enforcement and regulators, •	operating systems and platforms •	social networks
+if you use the services to sign up for or purchase a third party or event organizer product or service, or place an event in your cart without completing a registration, you may also receive communications, correspondence, emails, or direct mail from such third party or event organizer
+each such party operates independently from active and their collection of your personal information is not subject to this policy but is subject to their own privacy notice
+please refer to that party’s privacy policy if you have any questions
+you may have rights to opt out of us sharing your personal information with third parties for their own business purposes
+you can learn more about such rights in
+legal rights available to california residents to help manage your privacy
+for further details about our marketing practices, refer to
+explaining more about direct marketing
+we may share in aggregate, statistical form, non-personal information regarding the visitors to our sites, traffic patterns, and website usage with our partners, affiliates or advertisers
+cookies and other tracking technologies
+a cookie is a small text file containing small amounts of information which is downloaded to / stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website
+cookies or similar tracking technologies are used to help us remember information about your visit to the site, like your country, language and other settings
+tracking technologies allow us to understand who has seen which webpages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our site(s)
+they can also help us to operate our sites more efficiently and make your next visit easier
+tracking technologies can allow us to do various other things, as explained further in our cookie policy which you can access by clicking the link below
+for more information about how our cookies work and information about how to manage your cookie settings please visit our cookie policy or the cookie management tool available in the privacy management tab of your account settings
+transferring personal information globally
+we operate on a global basis
+this means that your personal information may be transferred to and stored in the united states, which may be subject to different standards of data protection than your country of residence
+we will take appropriate steps to ensure that transfers of personal information are in accordance with applicable law, are carefully managed to protect your privacy rights and interests and limited to countries which are recognized as providing an adequate level of legal protection or where alternative adequate arrangements are in place to protect your privacy rights
+•	we ensure transfers within active will be covered by an agreement entered into by active entities (an intra group agreement) which contractually obliges each such entity to ensure that personal information receives an adequate and consistent level of protection wherever it is transferred within active
+•	where we transfer your personal information outside active or to third parties who help provide our services, we obtain contractual commitments from them to protect your personal information
+or •	where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal information are disclosed
+you have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above
+active participates in, and has certified its compliance with, the eu-u
+active is committed to subjecting all personal information received from european union (eu) member countries, in reliance on the privacy shield framework, to the framework’s applicable principles
+to learn more about the privacy shield framework, visit www
+active is responsible for the processing of personal information it receives under the privacy shield framework, and subsequent transfers to a third party acting as an agent on its behalf
+active complies with the privacy shield principles for all onward transfers of personal information from the eu, including the onward transfer liability provisions
+with respect to personal information received or transferred pursuant to the privacy shield framework, active is subject to the regulatory enforcement powers of the u
+in certain situations, active may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements
+if you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our u
+-based third party dispute resolution provider (free of charge) at https
+under certain conditions, more fully described on the privacy shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted
+how we protect and store personal information
+we have implemented and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction, or loss, or unauthorised disclosure or access to such information appropriate to the nature of the information concerned, including
+•	(where appropriate) password protection, encryption, and use of secure communication transmission software (known as "transport layer security" or "tls") to protect our sites
+•	placing confidentiality requirements on our employees and service providers
+•	destroying or permanently anonymising personal information if it is no longer needed for the purposes for which it was collected
+and •	following strict security procedures in the storage and disclosure of your personal information to prevent unauthorised access to it
+whilst we take appropriate technical and organisational measures to safeguard your personal information, no transmission over the internet can ever be guaranteed to be secure
+therefore, we cannot guarantee the security of any personal information that you transfer over the internet to us and any such transmission is at your own risk
+as the security of personal information depends in part on the security of the computer you use to communicate with us and the security you use to protect usernames and passwords, you should take steps to protect against unauthorized access to your password, computer, and web-enabled devices, among other things, by signing off after using a shared computer, inserting a password on your web-enabled device, choosing a password that nobody else knows or can easily guess, keeping your password private, and periodically changing your password
+you should never share your log-in information with others
+we are not responsible for any lost, stolen or compromised passwords, or for any activity on your account via unauthorized password activity
+storing your personal information
+we will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this policy
+where your information is no longer needed, we will ensure that it is disposed of in a secure manner
+in some circumstances we may store your personal information for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements
+in specific circumstances we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings
+explaining more about direct marketing
+how we use personal information you keep you up to date with our services
+we may use personal information to let you know about our services that we believe will be of interest to you
+we may contact you by email, post, social media, telephone, or through other communications channels that we think you may find helpful
+in all cases, we will respect your preferences for how you would like us to manage marketing activities with you
+we also work with carefully selected third parties, such as promotional partners and others with whom we have marketing or other relationships
+at all times, in accordance with your marketing preferences and in accordance with applicable law, these third parties may contact you by email, sms/text, social media or through other communications channels to tell you about products and services that they believe would be of interest to you
+how you can manage your marketing preferences
+to protect privacy rights and to ensure you have control over how we manage marketing with you
+•	we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you
+•	at any time you can update or correct your personal profile, or change your preferences for the way in which you would like us to communication with you, including how you receive details of latest offers from us
+•	if you have an online account with us, the easiest way to make updates to your marketing preferences and/or change your personal details is to log onto your account
+you can also click the “unsubscribe” link that you find on any online newsletters you receive or contact customer support team at support@activenetwork
+•	you can ask us to stop direct marketing at any time – you can ask us to stop sending email marketing by following the unsubscribe link you will find on all the email marketing messages we send you
+alternative you can contact us at support@activenetwork
+please specify whether you would like us to stop all forms of marketing or just a particular type (e
+•	you can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser
+we recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms as well as your preferences in your account with us
+further, if (in accordance with your marketing preferences) you receive marketing from the third parties referred to above, we recommend you review any relevant third party's privacy notice for how they use your personal information
+be aware that if you unsubscribe from our marketing communications we may be unable to notify you of tailored services or offer to meet your needs
+if you unsubscribe from marketing communications from us, you will still receive operational and service messages from us regarding your events and/or registrations
+when and how we undertake profiling and analytics
+•	we aggregate personal information and remove any identifying elements in order to better understand how users access and use our sites and services for other research purposes, as set out above in how we share personal information within active and with our service providers,
+and other partners for our business purposes
+we undertake profiling and analytics to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+this means that we may automatically process personal information to evaluate certain personal aspects about an individual, in particular to analyse or predict aspects concerning personal preferences, interests, behavior, location or movements
+when we send or display personalized communications or content, we use some profiling techniques
+this means we may collect personal data about you in the different scenarios mentioned above (in the why we collect your data section), and use this data to analyse, evaluate, or predict your personal preferences, interests, behavior and/or location
+based on our analysis, we then send or display communications or content specifically tailored to your interests and needs
+you may have the right to object at any time to the use of your personal data for “profiling”
+legal rights available to eu data subjects help manage your privacy
+some of the legitimate purposes for which we profile personal information include
+•	to obtain a better understanding of what you would like to see from us and how we can continue to improve our services for you
+•	to personalise the service and offers you receive from us
+•	to provide you with tailored content online and optimise your experience of our sites and services
+•	to provide you with tailored advertisements on other websites you visit and social media and digital platforms
+•	to share marketing material we believe may be of interest to you, including from other active entities and our third party partners
+•	to help us operate our services more efficiently
+•	to authenticate log-ins on our sites and detect and prevent fraud
+where required under applicable privacy laws
+•	we will take steps to ensure that prior to profiling your personal information for a legitimate interest that our legitimate interest is not overridden by your own interests or fundamental rights and freedoms
+•	you may have rights to opt out of sharing your personal information with third parties for their own business purposes
+you can learn more about such rights in
+legal rights available to california residents to help manage your privacy
+and •	you may have rights to object to us profiling your personal information
+you can learn more about such rights in
+legal rights available to eu data subjects help manage your privacy
+when and how we carry out automated decision making
+we undertake automated decision making to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+this means that we may automatically process personal information to evaluate certain personal aspects about an individual, in particular to analyse or predict aspects concerning personal preferences, interests, behavior, location or movements
+when we send or display personalized communications or content, we may use automated decision making
+this means we may collect personal data about you in the different scenarios mentioned above (in the why we collect your data section), and use this data to analyse, evaluate, or predict your personal preferences, interests, behavior and/or location
+based on our analysis, we then send or display communications or content specifically tailored to your interests and needs
+you may have the right to object at any time to the use of your personal data to carry out automated decision making
+legal rights available to eu data subjects help manage your privacy
+some of the legitimate purposes we carry out automated decision making
+•	to obtain a better understanding of what you would like to see from us and how we can continue to improve our services for you
+•	to personalise the service and offers you receive from us
+•	to provide you with tailored content online and optimise your experience of our sites and services
+•	to provide you with tailored advertisements on other websites you visit and social media and digital platforms
+•	to share marketing material we believe may be of interest to you, including from other active entities and our third party partners
+•	to help us operate our services more efficiently
+•	to authenticate log-ins on our sites and detect and prevent fraud
+legal rights available to eu data subjects help manage your privacy
+subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, if you are an eu data subject, you may have certain rights in relation to your personal information
+click on the links below to learn more about each right you may have
+• to access personal information • to rectify / erase personal information • to restrict the processing of your personal information • to transfer your personal information • to object to the processing of personal information • to object to how we use your personal information for direct marketing purposes • to obtain a copy of personal information safeguards used for transfers outside your jurisdiction • to lodge a complaint with your local supervisory authority
+if you wish to access any of the above-mentioned rights, we may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you
+we reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive
+you can exercise your rights by completing the form located at https
+subject to legal and other permissible considerations, we will make every reasonable effort to honour your request promptly or inform you if we require further information in order to fulfil your request
+we may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way
+right to access personal information
+you have a right to request that we provide you with a copy of your personal information that we hold and you have the right to be informed of (a) the source of your personal information
+(b) the purposes, legal basis and methods of processing
+(c) the data controller’s identity
+and (d) the entities or categories of entities to whom your personal information may be transferred
+you can exercise this right by completing the form located at https
+we will respond to your request within a reasonable timeframe
+right to rectify or erase personal information
+you have a right to request that we rectify inaccurate personal information
+we may seek to verify the accuracy of the personal information before rectifying it
+you can also request that we erase your personal information in limited circumstances where
+•	it is no longer needed for the purposes for which it was collected
+or •	you have withdrawn your consent (where the data processing was based on consent)
+or •	following a successful right to object (see right to object)
+or •	it has been processed unlawfully
+or •	to comply with a legal obligation to which active is subject
+you can exercise these rights by completing the form located at https
+we are not required to comply with your request to erase personal information if the processing of your personal information is necessary
+•	for compliance with a legal obligation
+or •	for the establishment, exercise or defence of legal claims
+right to restrict the processing of your personal information
+you can ask us to restrict your personal information, but only where
+•	its accuracy is contested, to allow us to verify its accuracy
+or •	the processing is unlawful, but you do not want it erased
+or •	it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims
+or •	you have exercised the right to object, and verification of overriding grounds is pending
+we can continue to use your personal information following a request for restriction, where
+•	we have your consent
+or •	to establish, exercise or defend legal claims
+or •	to protect the rights of another natural or legal person
+right to transfer your personal information
+you can ask us to provide your personal information to you in a structured, commonly used, machine readable format, or you can ask to have it transferred directly to another data controller, but in each case only where
+•	the processing is based on your consent or on the performance of a contract with you
+and •	the processing is carried out by automated means
+right to object to the processing of your personal information
+you can object to any processing of your personal information which has our legitimate interests as its legal basis if you believe your fundamental rights and freedoms outweigh our legitimate interests
+if you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms
+right to object to how we use your personal information for direct marketing purposes
+you can request that we change the manner in which we contact you for marketing purposes
+you can request that we not transfer your personal information to unaffiliated third parties for the purposes of direct marketing or any other purposes
+right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction
+you can ask to obtain a copy of, or reference to, the safeguards under which your personal information is transferred outside of the european union
+we may redact data transfer agreements to protect commercial terms
+right to lodge a complaint with your local supervisory authority
+you have a right to lodge a complaint with your local supervisory authority if you have concerns about how we are processing your personal information
+we ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time
+legal rights available to california residents to help manage your privacy
+california residents have specific rights regarding their personal information
+this section describes those rights and how to exercise them
+right to know about personal information collected, disclosed, or sold
+you have the right to request, subject to verification of your identity, that we disclose to you what personal information we have collected, used, disclosed, or sold over the past 12 months
+to learn how to exercise this right and what information you may need to provide in the process, see the “ how to exercise your rights to access and deletion ” section below
+we have provided information about the categories of personal information we have collected, the sources from which we collected it, the purposes for which it was collected, and the third parties with whom we may share it with above
+right to request deletion of personal information
+you have the right to request, subject to our verification of your identity, that we delete the personal information that we have collected or maintain about you, subject to certain exceptions
+see “ how to exercise your rights to access and deletion ” below
+you have the right not to receive discriminatory treatment from us for the exercise of your rights described in this section
+we will not discriminate against you (for example, by denying you services or charging you a different rate) for exercising any of your rights
+you have the right to opt-out of the sharing of your personal information with third parties for their own business purposes in the following ways
+•	by completing the form at active
+com/claim •	by changing your preferences in your account settings
+•	by opting-out of the collecting of non-essential cookies through our cookie management tool available in the privacy management tab of your account settings
+how to exercise your rights to access and deletion
+to exercise your right to access or your right to delete, please submit a request to us in one of the following ways
+complete the form at active
+call us toll free at 1-(888)-543-7223
+in order for us to honor your access or deletion request, you must provide us with enough information to reasonably verify you are the person about whom we collected personal information or an authorized representative
+we may ask you for information associated with your account, which might include your name, email, address, and phone number
+we will confirm receipt of your request within 10 days and respond to requests for access and deletion within 45 days
+we will also let you know if we are not able to verify your identify based on the information you have provided
+if you submit a request for deletion, we will send you a confirmation email to validate the request before deleting your personal information
+after we have responded to two requests from you within a 12-month period, we may choose not to respond to any additional requests from you during such period
+you may designate an authorized agent to make a request on your behalf
+if you choose to use an authorized agent, we may require that you both provide your authorized agent with written permission to make a request on your behalf, and verify your identity directly with us
+we may deny a request from an agent that does not submit proper proof of authorization
+in order to submit a request through an authorized agent, please either follow the instructions provided at active
+com/claim for requests submitted online or let know us over the phone for requests made through our toll free number
+in some countries, parents have the right to consent to the collection and use of personal information from children under the age of 16 (collectively, “children,” and individually, a “child”) without also consenting to the disclosure of such information to outside third parties, except in order to provide the services
+active does not share personal information collected from or children with third parties for any purpose other than to provide the services
+what information do we collect from children under the age of 16
+•	personal information such as first and last name, email address, parent’s email address
+•	username and password
+•	date of birth
+•	display name (this is the name other people will see when the child posts items to one of our sites or engage in other similar activities on our sites)
+•	information about a child’s activities and interests
+•	other profile data, such as contact information, gender, and photo (collected from the parent)
+•	physical activities or similar health related information (how long you exercised, caloric intake, or weight lost)
+and •	the contact information of a friend (when inviting them to visit the site)
+how we use the information collected from children
+•	to provide a notice to parents regarding your child’s interest in registering to use the sites
+•	to obtain verifiable parental consent
+•	to provide our services, to communicate with parents about your child’s use of our services and for other customer service purposes
+•	to provide information that a parent or child has requested to receive from us in response to an opt-in request
+•	to provide our services at the request of our clients •	to administer events
+•	to provide results of events
+and •	to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+can i access and modify my child’s personal information
+if your child’s personal information changes, if you no longer wish to allow your child to participate on the sites, or if you wish to delete your child’s information and refuse further collection and use of the information, please email us at privacy@activenetwork
+how long is my child’s information retained
+we will retain the information we collect for as long as your or your child’s account is active, as needed to provide our services
+you may close your or your child’s account by contacting us
+nonetheless, we may retain your or your child’s information for an additional period as is permitted or required to comply with our legal obligations, resolve disputes, and enforce our agreements
+please note that even if we delete your or your child’s information, it may persist on backup or archival media and other information systems
+active regularly reviews its policies, procedures and practices regarding personal information and this policy
+the primary point of contact for all issues arising from this policy is our data protection officer
+our data protection officer can be contacted in the following ways
+active privacy active network, llc 717 north harwood street suite 2500 dallas, tx 75201 phone
+if you have any questions, concerns or complaints regarding our compliance with this policy, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact us
+we will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws
+to contact your data protection supervisory authority
+you have a right to lodge a complaint with your local data protection supervisory authority (i
+your place of habitual residence, place or work or place of alleged infringement) at any time
+we ask that you please attempt to resolve any issues with us before your local supervisory authority
+your local authority can be found here
+we may update this policy from time to time
+if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective
+we encourage you to periodically review this page for the latest information on our privacy practices
+active network is on a mission to make the world a more active place
+with deep expertise in activity and participant management™, our active works® cloud technology and online event registration software powers the world’s activities and connects people with the things they love, want and need to do
+camps classes education endurance parks & recreation resorts swim team sports universities ymca it services
+our story careers contact resources blog
+terms of use copyright policy your privacy rights cookie policy social media policy product and service
+© 2019 active network, llc and/or its affiliates and licensors
+active network, llc 717 north harwood street suite 2500 dallas, tx 75201
+cookie notice we use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+we also share information about your use of our site with our social media, advertising and analytics partners
+close accept cookies cookie settings your privacy strictly necessary cookies performance cookies functional cookies targeting cookies more information privacy preference centre active always active
+save settings allow all
+join more than 3,700 program directors in using active's software and
+marketing to manage and grow your camp
+camp management camp registration marketing and communications
+class and program management
+leading registration payment and operations software for visual and
+performing arts, day camps, before and after school, steam programs and more
+trusted mobile solution to register, secure payment, track programs,
+communicate with parents and more
+program management school fund accounting
+event technology to streamline operations, grow your event and elevate the
+endurance active timing active results ipico sports experience app on-site app virtual event bags active
+proven saas solutions and services for local government, ice rinks, sports
+facilities, community centers, and more
+management software small-market recreation management
+swim team management and live results
+grow your program, manage your team and save time with swim team and meet
+sports league management and registration software
+simplify league and team management for baseball, softball, football,
+soccer, hockey and all types of sports
+league and associations sports websites club management
+university camp, program and athletics management
+leading compliance, team and camps management software for college
+operations and university athletics
+ymca membership and program management
+proven saas solution and services aligned to ymcas movement for member
+engagement, operation management, camps and programs
+active network, llc (“ active ,” “ us ”, “ we ” or “ our ”) values your privacy, and we are committed to protecting your personal information
+in this privacy policy (“ policy ”), we describe the personal information that we collect from visitors to and users of our websites (“ sites ”), our blogs, our mobile applications (“ mobile apps ” / “ apps ”), and our online products and services (collectively, “ services ”) and how we collect, use, and share personal information in the course of our business activities, including
+what personal information we collect and when and why we use it
+personal information event organizers collect on active
+how we share personal information within active and with our service providers, and other partners for our business purposes
+how we share personal information with third parties for their own business purposes
+cookies and other tracking technologies
+transferring personal information globally
+how we protect and store personal information
+explaining more about marketing, profiling and automated decision making
+legal rights available to eu data subjects to help manage your privacy
+legal rights available to california residents to help manage your privacy
+• all the information set out in this policy may not apply to you
+below is an overview of the possible circumstances in which we could interact together
+our interactions with you will determine which of the following applies to you and your personal information
+• when you share personal information with us or when we collect personal information about you, we will use it in line with this privacy policy
+please read this policy carefully
+if you have questions or concerns about your personal information, please contact us at privacy@activenetwork
+if, during the services, we collect your personal information on behalf of a third party, such as one of our customers who is an event organizer (“ event organizer ”/” client ”), this will be disclosed to you at or before the time you provide your personal information
+this policy does not cover our clients’ use of your personal information outside of our services
+we are not responsible for the privacy practices of our clients, as such we encourage you to read their respective privacy statements
+further, as a result of your interactions with our services or use of the sites, including active advantage and gearup, you may purchase products or services offered by third parties (such as magazine subscriptions, hotel bookings, or cruises) or you may elect to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the site
+we are not responsible for any such purchase you make, or participation you undertake, and as such any such purchase or participation will be subject to the relevant third party's terms and conditions
+what personal information we collect and when and why we use it
+active is a leading provider of activity and participant management™ solutions
+our flagship technology platform, activeworks®, transforms the way event organizers manage their activities and events by automating online registrations and streamlining other critical management functions, while also driving consumer participation to their events
+our sites include online communities for people who want to discover, participate in, and share activities about which they are passionate
+the information we collect from you allows you to log into our sites, use our services and applications, and register for events, contests, camps, licenses, classes, tickets, facility/equipment use, transactions, sales, memberships, reservations, donations, and/or activities (collectively, “ events ”)
+individuals (and agents of individuals) may provide us information directly or indirectly by registering for an event or by otherwise using our services (these individuals are referred to as “ consumers ”)
+for example, you may enter your information in order to register for an event, or someone who has organized a team may enter your information on your behalf to register your entire team
+in addition, event organizers can use our services to create and manage events
+in some circumstances, event organizers provide us personal information about individuals who have registered for an event through them
+as part of the services, we may use your personal information to contact you on behalf of the event organizer
+we will only collect, use, and share your personal information where we are satisfied that we have an appropriate legal basis to do this
+the chart below summarizes when we collect personal information, the sources from which that information was collected, the types and categories of personal information we collect, how we use the personal information, and the legal basis for our use of such personal information
+we collect personal information
+categories and types of personal information we collect
+the business purpose and legal basis for collecting your personal information
+from you or event organizers when you register for an event using our sites or services
+•	identifiers •	information protected by california security breach law •	internet/electronic activity •	commercial information •	inferences •	geolocation we collect first and last name, email address, physical address, phone number, personal description or preferences, contact information of a friend (where you share this personal data with us), timing results, transaction information including payment information, and purchase history
+we use this information to contact you to finalize your order, process your order, manage payment, manage any contact you have with us about your purchase, analyze your personal characteristics and identify and recommend appropriate events, for profiling and analytics (see “when and how we undertake profiling and analytics” section below for more detail), manage any dispute relating to a purchase, run analytics or collect statistics, and to communicate with you about your use of our services
+if you place a purchase using a registered account, we will add this transaction to your profile so we can understand your interests and preferences and you will see a record of your transactions
+our legal basis for using this information includes (1) consent, (2) performance of a contract so you can create and manage your account, (3) our legitimate interests which include to improve our sites and services, better engage with you, prevent fraud, and secure our sites, and (4) to comply with a legal obligation (to keep information we are required to keep)
+from you when you have saved your shopping cart or placed events in your cart without completing a registration on our sites or services
+•	identifiers •	information protected by california security breach law •	internet/electronic activity •	protected characteristics
+we may collect data related to your use of our sites including information you have typed into a form on our sites or services
+we use this information to send you reminders that you have started but not completed registering for an event and to remind you of saved items in your shopping cart
+our legal basis for using this information includes our legitimate interests which include to improve our sites and services and better engage with you
+from individuals who may refer you to us as a friend
+information protected by california security breach law
+we may collect first and last name, personal email address, organization name, professional email address, and/or professional mailing address
+we use this information to contact you about products and services that may be of interest to you
+our legal basis for using this information includes (1) consent, where you have provided it the individual referring you, and (2) our legitimate interest in letting you know about products and services that may be of interest to you
+from cookies or similar technologies (“cookies”) when you visit our sites
+•	identifiers •	internet/electronic activity •	inferences we may collect data related to your use of our sites including where you came from, login details, pages you looked at, duration of your visit, geographic location, and/or the links you click
+technical information collected includes your browser type and operating system, device information, your internet protocol (“ip”) address, and your unique id which is given to each visitor and expiration of date of the id
+we use this information to tailor our sites for you, show you recommendations, marketing (see
+explaining more about direct marketing section below for more detail), or content based on your profile and interests, as well as to analyze your personal characteristics or identify and recommend appropriate events
+this information also allows our sites and applications to function properly and enables us to display content properly, to remember your shopping cart, and remember your login details
+we also use this information to record unique page visits and reactions to our advertising campaigns which enables us to improve future offers
+(we provide additional information in this policy about how to opt-out of targeted advertising and data sharing to third parties
+our legal basis to use this information includes (1) your consent (to store cookies on your device) and (2) our legitimate interests, including to improve our sites and services, to better engage with you, and to secure our sites
+personal information we collect from when you participate in an activity using our mobile apps
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	geolocation •	professional or employment related information •	inferences
+we may ask you to provide first and last name, email address date of birth, information about your activities and interests, your current location (geolocation), other profile data such as contact information, occupation, and gender, physical activities or similar health related information, application or device usage data, social media data (where you use your social media login or share this personal data with us), and payment information
+we collect this information to provide services requested, profiling and analytics (see “when and how we undertake profiling and analytics” section below for more detail), monitor and improve our applications, run analytics and statistics
+our legal basis for using this information lawful includes (1) consent (provide you with services requested) and (2) our legitimate interests, including to improve our sites and services, to better engage with you, and to secure our sites
+from you to enable personal account creation and management
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	professional or employment related information
+during the creation or management of an account on our sites, or through a social media login, we will ask you to provide first and last name, email address, country of residence, and desired password, displayed name, date of birth, subscription preferences
+you may also provide information about your activities and interests, other profile data such as mailing address, phone number, and gender, and payment information
+we use this information, to manage your registrations, offer you a loyalty program, offer personalized services based your characteristics, allow you to manage your preferences, monitor and improve our sites and applications, run analytics or collect statistics
+we may use the information to respond to your questions and otherwise communicate with you about your use of our services, inform you when service updates or new services are available, and to manage any special offers or surveys you participate in
+our legal basis for using this information includes (1) performance of a contract so you can create and manage your account, (2) our legitimate interests including to improve our sites and services, better engage with you, to prevent fraud, and secure our sites, and (3) consent
+personal information we collect from you and use when you subscribe to receiving our marketing communications
+•	identifiers •	information protected by california security breach law •	commercial information •	inferences
+we collect first and last name, email address and desired password, displayed name, date of birth, personal description or preferences, order details, user generated content, other information you have shared about yourself (e
+via your account, by contacting us, a question via the chat function available on some websites, or by participating in a contest, game, survey, etc
+), subscription preferences, contact information of a friend and payment information
+we use this information to send you marketing communications which may be tailored to your “profile” based on the personal data we know or learn about you and your preferences, show you marketing communications on other websites, including social media platforms
+note that you may also see our ads on other websites, including on social media sites, but these may not be tailored to you
+we use this information to keep an up to date suppression list if you have asked us not to be contacted, to run analytics or collect statistics, to send content on your behalf to your friends and/or family
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+our legal basis for using this information include (1) our legitimate interests which include to improve our sites and services and to better engage with you, and (2) consent
+personal information we collect from you and use when you ask questions relating to our services, your orders, account or rights, and customer support
+•	identifiers •	information protected by california security breach law •	commercial information
+we collect first and last name, email address, phone number, date of birth, information about your activities and interests, and other information you have shared with us about yourself in relation to your enquiry (which may include activities and interests)
+we use this information to communicate with you about your use of our services
+our legal basis for using this information includes (1) consent to provide you with the service you have requested or (2) our legitimate interests which include to improve our services, to better engage with you and to secure our sites
+personal information we collect from you and use if you create a page to collect donations
+•	identifiers •	information protected by california security breach law •	commercial information
+we may collect information from you surrounding the charitable event or your request for donations
+in addition, if you donate to a particular event/cause, we may collect your name, contact information, and payment information, such as credit card information
+we use this information to enable you to create a page on certain of our sites to collect donations for your participation in a charity event (e
+, you want to raise money for running in a marathon), a particular charity, or for other purposes
+our legal basis for using this information includes (1) consent and (2) performance of a contract
+personal information we collect from you and use if you apply for employment with active
+•	identifiers •	information protected by california security breach law •	protected characteristics •	professional or employment related information
+we collect your education, employment history, qualifications, and the contact information of any professional references
+we use this information for hiring purposes
+our legal basis for using this information includes (1) consent and (2) to comply with a legal obligation
+personal information we collect from you during the creation and management of a professional account on sites or applications (these are accounts created in a business capacity by our clients)
+•	identifiers •	information protected by california security breach law •	protected characteristics •	commercial information •	geolocation •	professional or employment related information •	inferences
+we collect first and last name, organization name, gender, professional and personal email address, professional and/or personal address, professional and/or personal email address, username and password, preferences, other information you have shared with us about yourself (e
+via your account, by contacting us, a question via the chat function available on some websites, or by participating in a survey, etc
+), and/or payment information
+we use this information to manage your purchases/orders, send you marketing communications which may be tailored to your professional “profile” (i
+based on the personal data we know about you and your preferences), offer you incentives, offer personalized services based on professional interests and characteristics, allow you to manage your preferences, monitor and improve our sites, applications and services, run analytics or collect statistics, , to respond to your questions and otherwise interact with you
+our legal basis for using this information includes (1) performance of a contract so you can create and manage your account, (2) our legitimate interests which include to improve our sites and services, better engage with you, prevent fraud, and secure our sites, and (3) consent
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+personal information we collect from third parties to enable business-to-business marketing
+•	identifiers •	information protected by california security breach law •	professional or employment related information
+we collect first and last name, organization name, professional email address, and/or professional mailing address
+we use this information for business-to-business marketing purposes
+our legal basis for using this information includes (1) consent, (2) performance of a contract, and (3) our legitimate interest in letting you know about products and services that may be of interest to you
+for further details about our marketing practices, refer to explaining more about direct marketing section below
+in addition to the purposes for collecting your information that are listed in the table above, we may also use your information for the following purposes which we consider to be everyday business purposes
+• for identity and credential management, including identity verification and authentication, system and technology administration • to protect the security and integrity of systems, networks, applications and data, including detecting, analyzing and resolving security threats, and collaborating with law enforcement or other groups about imminent threats • for fraud detection and prevention • for legal and regulatory compliance, including all uses and disclosures of personal information that are required by law or for reasonably needed for compliance with company policies and procedures, such as
+anti-money laundering programs, security and incident response programs, intellectual property protection programs, and corporate ethics and compliance hotlines, • for audits, including financial, security, or compliance audits, and analysis and reporting, • to enforce our contracts and to protect against injury, theft, legal liability, fraud or abuse, to protect people or property, including physical security programs, • to de-identify the data or create aggregated datasets, such as for consolidating reporting, research or analytics, • to make back-up copies for business continuity and disaster recovery purposes, and • for corporate governance, including mergers, acquisitions and divestitures
+personal information event organizers collect on active
+when you register for an event, you are not just sharing your personal information with active, you are also sharing with our client, the event organizer
+both active and the event organizer need the same basic information about you, like your name and contact information, for example
+when you provide that information in the registration form, you are providing it to both of us
+the event organizer may collect additional information from you (“event information”) which is related to the event, but not required for your active account (for example, your t-shirt size, or information about your prior participation in events sponsored by that organizer)
+as regards such event information, active is a service provider, or processor, to the event organizer, meaning that we only use it according to the event organizer’s instructions
+when an event organizer is processing your personal information, such processing will be subject to their privacy notice which they will provide to you
+how we share personal information with third parties for their own business purposes, and other partners for our business purposes
+we share your personal information in the manner and for the purposes described below
+•	with our affiliates, subsidiaries, or with our parent company where such disclosure is necessary to provide you with our services or to manage our business
+we may also share your personal information with other active entities to improve the services we offer or help us to create new ones and to personalize the services and offers you receive and or marketing, profiling and analytics as set out further in
+explaining more about direct marketing
+and for the purposes set out in this policy
+•	with third parties who help manage our business and deliver services, for example, it service providers who help manage our it and back office systems, process credit card payments, or administer events, sites and applications
+these third parties have agreed to confidentiality restrictions and have agreed to use any personal information we share with them, or which they collect on our behalf, solely for the purpose of providing the contracted service to us
+•	with our partner websites when we publish timing results for timed events •	subject to applicable legal requirements, with another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business assets to such company
+how we share personal information with third parties for their own business purposes
+subject to any rights you may have as described in this policy, active may also share your personal information with third-party partners for their own business purposes including for them to provide you offers of related products and services
+the table below provides additional information about that sharing
+sources of personal information we share
+categories and types of personal information we share
+business purpose for sharing personal information
+categories of third parties with whom personal information is shared for their own business purpose
+• information that you provide to us
+we collect personal information that you provide to us when you set up an account with us, use our services, or communicate with us
+• information collected through technology
+when you visit our sites or apps (or when you use any of our services) we may collect certain information about your location, usage, computer or device through technology such as cookies (see “cookies” for additional information)
+we may collect geolocation in the applications for the purpose of enabling location-based services
+•	identifiers •	commercial information •	internet/electronic activity •	geolocation •	inferences (such as consumer preferences)
+we may share your name, contact information including telephone number, email address, or postal address, information about the products and services we provide to you, information about your preferences including marketing preferences, information collected through your internet-based activity (see “cookies” for additional information)
+•	provide you offers of related products and services •	for personalized marketing purposes •	to fulfill your request when you use the services to sign up for or purchase a product or service from a partner company
+•	to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies
+•	third-party partners who provide offers of related products and services •	event organizers •	advertising networks •	internet service providers •	data analytics providers •	government entities and agencies, law enforcement and regulators, •	operating systems and platforms •	social networks
+if you use the services to sign up for or purchase a third party or event organizer product or service, or place an event in your cart without completing a registration, you may also receive communications, correspondence, emails, or direct mail from such third party or event organizer
+each such party operates independently from active and their collection of your personal information is not subject to this policy but is subject to their own privacy notice
+please refer to that party’s privacy policy if you have any questions
+you may have rights to opt out of us sharing your personal information with third parties for their own business purposes
+you can learn more about such rights in
+legal rights available to california residents to help manage your privacy
+for further details about our marketing practices, refer to
+explaining more about direct marketing
+we may share in aggregate, statistical form, non-personal information regarding the visitors to our sites, traffic patterns, and website usage with our partners, affiliates or advertisers
+cookies and other tracking technologies
+a cookie is a small text file containing small amounts of information which is downloaded to / stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website
+cookies or similar tracking technologies are used to help us remember information about your visit to the site, like your country, language and other settings
+tracking technologies allow us to understand who has seen which webpages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our site(s)
+they can also help us to operate our sites more efficiently and make your next visit easier
+tracking technologies can allow us to do various other things, as explained further in our cookie policy which you can access by clicking the link below
+for more information about how our cookies work and information about how to manage your cookie settings please visit our cookie policy or the cookie management tool available in the privacy management tab of your account settings
+transferring personal information globally
+we operate on a global basis
+this means that your personal information may be transferred to and stored in the united states, which may be subject to different standards of data protection than your country of residence
+we will take appropriate steps to ensure that transfers of personal information are in accordance with applicable law, are carefully managed to protect your privacy rights and interests and limited to countries which are recognized as providing an adequate level of legal protection or where alternative adequate arrangements are in place to protect your privacy rights
+•	we ensure transfers within active will be covered by an agreement entered into by active entities (an intra group agreement) which contractually obliges each such entity to ensure that personal information receives an adequate and consistent level of protection wherever it is transferred within active
+•	where we transfer your personal information outside active or to third parties who help provide our services, we obtain contractual commitments from them to protect your personal information
+or •	where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any personal information are disclosed
+you have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal information when this is transferred as mentioned above
+active participates in, and has certified its compliance with, the eu-u
+active is committed to subjecting all personal information received from european union (eu) member countries, in reliance on the privacy shield framework, to the framework’s applicable principles
+to learn more about the privacy shield framework, visit www
+active is responsible for the processing of personal information it receives under the privacy shield framework, and subsequent transfers to a third party acting as an agent on its behalf
+active complies with the privacy shield principles for all onward transfers of personal information from the eu, including the onward transfer liability provisions
+with respect to personal information received or transferred pursuant to the privacy shield framework, active is subject to the regulatory enforcement powers of the u
+in certain situations, active may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements
+if you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our u
+-based third party dispute resolution provider (free of charge) at https
+under certain conditions, more fully described on the privacy shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted
+how we protect and store personal information
+we have implemented and maintain appropriate technical and organisational security measures, policies and procedures designed to reduce the risk of accidental destruction, or loss, or unauthorised disclosure or access to such information appropriate to the nature of the information concerned, including
+•	(where appropriate) password protection, encryption, and use of secure communication transmission software (known as "transport layer security" or "tls") to protect our sites
+•	placing confidentiality requirements on our employees and service providers
+•	destroying or permanently anonymising personal information if it is no longer needed for the purposes for which it was collected
+and •	following strict security procedures in the storage and disclosure of your personal information to prevent unauthorised access to it
+whilst we take appropriate technical and organisational measures to safeguard your personal information, no transmission over the internet can ever be guaranteed to be secure
+therefore, we cannot guarantee the security of any personal information that you transfer over the internet to us and any such transmission is at your own risk
+as the security of personal information depends in part on the security of the computer you use to communicate with us and the security you use to protect usernames and passwords, you should take steps to protect against unauthorized access to your password, computer, and web-enabled devices, among other things, by signing off after using a shared computer, inserting a password on your web-enabled device, choosing a password that nobody else knows or can easily guess, keeping your password private, and periodically changing your password
+you should never share your log-in information with others
+we are not responsible for any lost, stolen or compromised passwords, or for any activity on your account via unauthorized password activity
+storing your personal information
+we will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this policy
+where your information is no longer needed, we will ensure that it is disposed of in a secure manner
+in some circumstances we may store your personal information for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements
+in specific circumstances we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings
+explaining more about direct marketing
+how we use personal information you keep you up to date with our services
+we may use personal information to let you know about our services that we believe will be of interest to you
+we may contact you by email, post, social media, telephone, or through other communications channels that we think you may find helpful
+in all cases, we will respect your preferences for how you would like us to manage marketing activities with you
+we also work with carefully selected third parties, such as promotional partners and others with whom we have marketing or other relationships
+at all times, in accordance with your marketing preferences and in accordance with applicable law, these third parties may contact you by email, sms/text, social media or through other communications channels to tell you about products and services that they believe would be of interest to you
+how you can manage your marketing preferences
+to protect privacy rights and to ensure you have control over how we manage marketing with you
+•	we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you
+•	at any time you can update or correct your personal profile, or change your preferences for the way in which you would like us to communication with you, including how you receive details of latest offers from us
+•	if you have an online account with us, the easiest way to make updates to your marketing preferences and/or change your personal details is to log onto your account
+you can also click the “unsubscribe” link that you find on any online newsletters you receive or contact customer support team at support@activenetwork
+•	you can ask us to stop direct marketing at any time – you can ask us to stop sending email marketing by following the unsubscribe link you will find on all the email marketing messages we send you
+alternative you can contact us at support@activenetwork
+please specify whether you would like us to stop all forms of marketing or just a particular type (e
+•	you can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser
+we recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms as well as your preferences in your account with us
+further, if (in accordance with your marketing preferences) you receive marketing from the third parties referred to above, we recommend you review any relevant third party's privacy notice for how they use your personal information
+be aware that if you unsubscribe from our marketing communications we may be unable to notify you of tailored services or offer to meet your needs
+if you unsubscribe from marketing communications from us, you will still receive operational and service messages from us regarding your events and/or registrations
+when and how we undertake profiling and analytics
+•	we aggregate personal information and remove any identifying elements in order to better understand how users access and use our sites and services for other research purposes, as set out above in how we share personal information within active and with our service providers,
+and other partners for our business purposes
+we undertake profiling and analytics to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+this means that we may automatically process personal information to evaluate certain personal aspects about an individual, in particular to analyse or predict aspects concerning personal preferences, interests, behavior, location or movements
+when we send or display personalized communications or content, we use some profiling techniques
+this means we may collect personal data about you in the different scenarios mentioned above (in the why we collect your data section), and use this data to analyse, evaluate, or predict your personal preferences, interests, behavior and/or location
+based on our analysis, we then send or display communications or content specifically tailored to your interests and needs
+you may have the right to object at any time to the use of your personal data for “profiling”
+legal rights available to eu data subjects help manage your privacy
+some of the legitimate purposes for which we profile personal information include
+•	to obtain a better understanding of what you would like to see from us and how we can continue to improve our services for you
+•	to personalise the service and offers you receive from us
+•	to provide you with tailored content online and optimise your experience of our sites and services
+•	to provide you with tailored advertisements on other websites you visit and social media and digital platforms
+•	to share marketing material we believe may be of interest to you, including from other active entities and our third party partners
+•	to help us operate our services more efficiently
+•	to authenticate log-ins on our sites and detect and prevent fraud
+where required under applicable privacy laws
+•	we will take steps to ensure that prior to profiling your personal information for a legitimate interest that our legitimate interest is not overridden by your own interests or fundamental rights and freedoms
+•	you may have rights to opt out of sharing your personal information with third parties for their own business purposes
+you can learn more about such rights in
+legal rights available to california residents to help manage your privacy
+and •	you may have rights to object to us profiling your personal information
+you can learn more about such rights in
+legal rights available to eu data subjects help manage your privacy
+when and how we carry out automated decision making
+we undertake automated decision making to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+this means that we may automatically process personal information to evaluate certain personal aspects about an individual, in particular to analyse or predict aspects concerning personal preferences, interests, behavior, location or movements
+when we send or display personalized communications or content, we may use automated decision making
+this means we may collect personal data about you in the different scenarios mentioned above (in the why we collect your data section), and use this data to analyse, evaluate, or predict your personal preferences, interests, behavior and/or location
+based on our analysis, we then send or display communications or content specifically tailored to your interests and needs
+you may have the right to object at any time to the use of your personal data to carry out automated decision making
+legal rights available to eu data subjects help manage your privacy
+some of the legitimate purposes we carry out automated decision making
+•	to obtain a better understanding of what you would like to see from us and how we can continue to improve our services for you
+•	to personalise the service and offers you receive from us
+•	to provide you with tailored content online and optimise your experience of our sites and services
+•	to provide you with tailored advertisements on other websites you visit and social media and digital platforms
+•	to share marketing material we believe may be of interest to you, including from other active entities and our third party partners
+•	to help us operate our services more efficiently
+•	to authenticate log-ins on our sites and detect and prevent fraud
+legal rights available to eu data subjects help manage your privacy
+subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, if you are an eu data subject, you may have certain rights in relation to your personal information
+click on the links below to learn more about each right you may have
+• to access personal information • to rectify / erase personal information • to restrict the processing of your personal information • to transfer your personal information • to object to the processing of personal information • to object to how we use your personal information for direct marketing purposes • to obtain a copy of personal information safeguards used for transfers outside your jurisdiction • to lodge a complaint with your local supervisory authority
+if you wish to access any of the above-mentioned rights, we may ask you for additional information to confirm your identity and for security purposes, in particular before disclosing personal information to you
+we reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive
+you can exercise your rights by completing the form located at https
+subject to legal and other permissible considerations, we will make every reasonable effort to honour your request promptly or inform you if we require further information in order to fulfil your request
+we may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way
+right to access personal information
+you have a right to request that we provide you with a copy of your personal information that we hold and you have the right to be informed of (a) the source of your personal information
+(b) the purposes, legal basis and methods of processing
+(c) the data controller’s identity
+and (d) the entities or categories of entities to whom your personal information may be transferred
+you can exercise this right by completing the form located at https
+we will respond to your request within a reasonable timeframe
+right to rectify or erase personal information
+you have a right to request that we rectify inaccurate personal information
+we may seek to verify the accuracy of the personal information before rectifying it
+you can also request that we erase your personal information in limited circumstances where
+•	it is no longer needed for the purposes for which it was collected
+or •	you have withdrawn your consent (where the data processing was based on consent)
+or •	following a successful right to object (see right to object)
+or •	it has been processed unlawfully
+or •	to comply with a legal obligation to which active is subject
+you can exercise these rights by completing the form located at https
+we are not required to comply with your request to erase personal information if the processing of your personal information is necessary
+•	for compliance with a legal obligation
+or •	for the establishment, exercise or defence of legal claims
+right to restrict the processing of your personal information
+you can ask us to restrict your personal information, but only where
+•	its accuracy is contested, to allow us to verify its accuracy
+or •	the processing is unlawful, but you do not want it erased
+or •	it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims
+or •	you have exercised the right to object, and verification of overriding grounds is pending
+we can continue to use your personal information following a request for restriction, where
+•	we have your consent
+or •	to establish, exercise or defend legal claims
+or •	to protect the rights of another natural or legal person
+right to transfer your personal information
+you can ask us to provide your personal information to you in a structured, commonly used, machine readable format, or you can ask to have it transferred directly to another data controller, but in each case only where
+•	the processing is based on your consent or on the performance of a contract with you
+and •	the processing is carried out by automated means
+right to object to the processing of your personal information
+you can object to any processing of your personal information which has our legitimate interests as its legal basis if you believe your fundamental rights and freedoms outweigh our legitimate interests
+if you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms
+right to object to how we use your personal information for direct marketing purposes
+you can request that we change the manner in which we contact you for marketing purposes
+you can request that we not transfer your personal information to unaffiliated third parties for the purposes of direct marketing or any other purposes
+right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction
+you can ask to obtain a copy of, or reference to, the safeguards under which your personal information is transferred outside of the european union
+we may redact data transfer agreements to protect commercial terms
+right to lodge a complaint with your local supervisory authority
+you have a right to lodge a complaint with your local supervisory authority if you have concerns about how we are processing your personal information
+we ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time
+legal rights available to california residents to help manage your privacy
+california residents have specific rights regarding their personal information
+this section describes those rights and how to exercise them
+right to know about personal information collected, disclosed, or sold
+you have the right to request, subject to verification of your identity, that we disclose to you what personal information we have collected, used, disclosed, or sold over the past 12 months
+to learn how to exercise this right and what information you may need to provide in the process, see the “ how to exercise your rights to access and deletion ” section below
+we have provided information about the categories of personal information we have collected, the sources from which we collected it, the purposes for which it was collected, and the third parties with whom we may share it with above
+right to request deletion of personal information
+you have the right to request, subject to our verification of your identity, that we delete the personal information that we have collected or maintain about you, subject to certain exceptions
+see “ how to exercise your rights to access and deletion ” below
+you have the right not to receive discriminatory treatment from us for the exercise of your rights described in this section
+we will not discriminate against you (for example, by denying you services or charging you a different rate) for exercising any of your rights
+you have the right to opt-out of the sharing of your personal information with third parties for their own business purposes in the following ways
+•	by completing the form at active
+com/claim •	by changing your preferences in your account settings
+•	by opting-out of the collecting of non-essential cookies through our cookie management tool available in the privacy management tab of your account settings
+how to exercise your rights to access and deletion
+to exercise your right to access or your right to delete, please submit a request to us in one of the following ways
+complete the form at active
+call us toll free at 1-(888)-543-7223
+in order for us to honor your access or deletion request, you must provide us with enough information to reasonably verify you are the person about whom we collected personal information or an authorized representative
+we may ask you for information associated with your account, which might include your name, email, address, and phone number
+we will confirm receipt of your request within 10 days and respond to requests for access and deletion within 45 days
+we will also let you know if we are not able to verify your identify based on the information you have provided
+if you submit a request for deletion, we will send you a confirmation email to validate the request before deleting your personal information
+after we have responded to two requests from you within a 12-month period, we may choose not to respond to any additional requests from you during such period
+you may designate an authorized agent to make a request on your behalf
+if you choose to use an authorized agent, we may require that you both provide your authorized agent with written permission to make a request on your behalf, and verify your identity directly with us
+we may deny a request from an agent that does not submit proper proof of authorization
+in order to submit a request through an authorized agent, please either follow the instructions provided at active
+com/claim for requests submitted online or let know us over the phone for requests made through our toll free number
+in some countries, parents have the right to consent to the collection and use of personal information from children under the age of 16 (collectively, “children,” and individually, a “child”) without also consenting to the disclosure of such information to outside third parties, except in order to provide the services
+active does not share personal information collected from or children with third parties for any purpose other than to provide the services
+what information do we collect from children under the age of 16
+•	personal information such as first and last name, email address, parent’s email address
+•	username and password
+•	date of birth
+•	display name (this is the name other people will see when the child posts items to one of our sites or engage in other similar activities on our sites)
+•	information about a child’s activities and interests
+•	other profile data, such as contact information, gender, and photo (collected from the parent)
+•	physical activities or similar health related information (how long you exercised, caloric intake, or weight lost)
+and •	the contact information of a friend (when inviting them to visit the site)
+how we use the information collected from children
+•	to provide a notice to parents regarding your child’s interest in registering to use the sites
+•	to obtain verifiable parental consent
+•	to provide our services, to communicate with parents about your child’s use of our services and for other customer service purposes
+•	to provide information that a parent or child has requested to receive from us in response to an opt-in request
+•	to provide our services at the request of our clients •	to administer events
+•	to provide results of events
+and •	to improve our sites and services by providing personalized experiences, location customization, personalized help, and instructions
+can i access and modify my child’s personal information
+if your child’s personal information changes, if you no longer wish to allow your child to participate on the sites, or if you wish to delete your child’s information and refuse further collection and use of the information, please email us at privacy@activenetwork
+how long is my child’s information retained
+we will retain the information we collect for as long as your or your child’s account is active, as needed to provide our services
+you may close your or your child’s account by contacting us
+nonetheless, we may retain your or your child’s information for an additional period as is permitted or required to comply with our legal obligations, resolve disputes, and enforce our agreements
+please note that even if we delete your or your child’s information, it may persist on backup or archival media and other information systems
+active regularly reviews its policies, procedures and practices regarding personal information and this policy
+the primary point of contact for all issues arising from this policy is our data protection officer
+our data protection officer can be contacted in the following ways
+active privacy active network, llc 717 north harwood street suite 2500 dallas, tx 75201 phone
+if you have any questions, concerns or complaints regarding our compliance with this policy, the information we hold about you or if you wish to exercise your rights, we encourage you to first contact us
+we will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws
+to contact your data protection supervisory authority
+you have a right to lodge a complaint with your local data protection supervisory authority (i
+your place of habitual residence, place or work or place of alleged infringement) at any time
+we ask that you please attempt to resolve any issues with us before your local supervisory authority
+your local authority can be found here
+we may update this policy from time to time
+if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective
+we encourage you to periodically review this page for the latest information on our privacy practices
+active network is on a mission to make the world a more active place
+with deep expertise in activity and participant management™, our active works® cloud technology and online event registration software powers the world’s activities and connects people with the things they love, want and need to do
+camps classes education endurance parks & recreation resorts swim team sports universities ymca it services
+our story careers contact resources blog
+terms of use copyright policy your privacy rights cookie policy social media policy product and service
+© 2019 active network, llc and/or its affiliates and licensors
+active network, llc 717 north harwood street suite 2500 dallas, tx 75201

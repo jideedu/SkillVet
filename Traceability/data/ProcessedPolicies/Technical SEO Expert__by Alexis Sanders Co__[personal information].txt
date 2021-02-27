@@ -1,0 +1,8 @@
+this site collects data in google analytics, google search console, and anything lambda automatically records for the alexa skill
+this site does not collect any personal data (i
+, i don't know your name, email, date of birth, mailing address, phone number, etc
+that doesn't matter, since this is an online scavenger hunt
+if you get past level one, i will however know your favorite tea
+if that is private, please state so
+the purpose of data collection is simply to see what pages in this challenge are causing the most strife and to ensure nothing is broken
+if you have any questions, concerns, or want to see generic traffic numbers, please reach out on twitter @alexisksanders

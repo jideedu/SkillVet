@@ -1,0 +1,20 @@
+air quality skill privacy policy
+your privacy is valued, so i want to be explicit about what kind of personal information is involved when you interact with air quality
+air quality skill allows you to add 'places' where air quality observations and forecasts will be created for
+a place consists of place name and address (see this guide )
+you can also decide at what accuracy the address is given
+all places will be persisted together with alexa user id so that places can later be found by the skill by using the user id as a key
+only air quality skill can access this data provided that the request contains a valid user id
+persisted places are not used for any other purpose
+no other data is persisted by the skill
+any feedback is welcome to
+air quality skill privacy policy
+your privacy is valued, so i want to be explicit about what kind of personal information is involved when you interact with air quality
+air quality skill allows you to add 'places' where air quality observations and forecasts will be created for
+a place consists of place name and address (see this guide )
+you can also decide at what accuracy the address is given
+all places will be persisted together with alexa user id so that places can later be found by the skill by using the user id as a key
+only air quality skill can access this data provided that the request contains a valid user id
+persisted places are not used for any other purpose
+no other data is persisted by the skill
+any feedback is welcome to

@@ -1,0 +1,2 @@
+this skill does not store any of your personal information
+it uses the street and city or zip code registered to your device to query for elevation

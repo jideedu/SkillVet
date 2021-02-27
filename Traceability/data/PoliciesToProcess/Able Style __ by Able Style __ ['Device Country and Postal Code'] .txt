@@ -1,0 +1,48 @@
+view / edit profile
+i just need to check you're human
+what information do we collect and why
+your email address - able asks for your email address in order to identify you so that your information can be retrieved on multiple platforms such as web and phone apps
+able may also contact you via your email address for important updates or other useful updates
+you can opt out of these sorts of updates at any time
+your location (optional) - able asks for your location in order to provide outfit suggestions based on the weather in your location
+if you do not permit location information to be collected then your outfit suggestions will not be informed by the weather
+interaction data - able collects anonymous data related to your interactions with the service in order to understand how the service is being used and to improve the service
+google account link - if you use the service from google assistant™ (for example on a google home device) then you will be asked to link your google account with the service
+this is so that able is able to remember who you are when you interact with him via google assistant
+able receives no information from your google account during this process
+amazon account link - if you use the service from amazon alexa™ (for example on an amazon echo device) then you will be asked to link your amazon account with the service
+this is so that able is able to remember who you are when you interact with him via alexa
+able receives no information from your amazon account during this process
+what information do we share
+we send anonymous user data to google analytics for the purpose of analysing user behaviour and improving the service
+we send email addresses to postmark for the sole purpose of using the postmark service for sending out transactional emails to users of able style (such as the "welcome to able style" email)
+postmark does not make any use of the data themselves
+postmark are gdpr compliant
+we send email addresses to sendinblue for the sole purpose of using the sendinblue service for sending out newsletter emails to subscribers of able style
+sendinblue does not make any use of the data themselves
+sendinblue are gdpr compliant
+copyright 2020 · able style · all rights reserved · privacy · terms of service · contact us · faq
+view / edit profile
+i just need to check you're human
+what information do we collect and why
+your email address - able asks for your email address in order to identify you so that your information can be retrieved on multiple platforms such as web and phone apps
+able may also contact you via your email address for important updates or other useful updates
+you can opt out of these sorts of updates at any time
+your location (optional) - able asks for your location in order to provide outfit suggestions based on the weather in your location
+if you do not permit location information to be collected then your outfit suggestions will not be informed by the weather
+interaction data - able collects anonymous data related to your interactions with the service in order to understand how the service is being used and to improve the service
+google account link - if you use the service from google assistant™ (for example on a google home device) then you will be asked to link your google account with the service
+this is so that able is able to remember who you are when you interact with him via google assistant
+able receives no information from your google account during this process
+amazon account link - if you use the service from amazon alexa™ (for example on an amazon echo device) then you will be asked to link your amazon account with the service
+this is so that able is able to remember who you are when you interact with him via alexa
+able receives no information from your amazon account during this process
+what information do we share
+we send anonymous user data to google analytics for the purpose of analysing user behaviour and improving the service
+we send email addresses to postmark for the sole purpose of using the postmark service for sending out transactional emails to users of able style (such as the "welcome to able style" email)
+postmark does not make any use of the data themselves
+postmark are gdpr compliant
+we send email addresses to sendinblue for the sole purpose of using the sendinblue service for sending out newsletter emails to subscribers of able style
+sendinblue does not make any use of the data themselves
+sendinblue are gdpr compliant
+copyright 2020 · able style · all rights reserved · privacy · terms of service · contact us · faq

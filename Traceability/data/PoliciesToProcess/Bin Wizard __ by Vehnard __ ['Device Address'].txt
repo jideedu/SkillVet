@@ -1,0 +1,12 @@
+search this site bin wizard menu home privacy policy terms of use bin wizard home privacy policy terms of use more home privacy policy terms of use privacy policy bin wizard privacy policy thank you for your interest in the bin wizard alexa skill
+we take data protection seriously and fully support the general data protection regulation
+this is a simple skill that uses your device's address to provide bin collection data
+for further information refer to the amazon alexa privacy policy
+this skill uses the postal address of your alexa device provided via amazon
+bin wizard does not have access to the personal information of the users of this service
+address data is stored in amazon's systems for ongoing testing, validation and improvement purposes and remains
+bin wizard does not share information provided by users of this service with any third party
+report abuse google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

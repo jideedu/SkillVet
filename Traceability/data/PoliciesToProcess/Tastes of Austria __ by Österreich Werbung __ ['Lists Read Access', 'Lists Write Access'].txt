@@ -1,0 +1,185 @@
+the austrian national tourist office uses cookies according to its privacy policy
+the collected data is used to optimize the company’s websites
+however, you can refuse using cookies at all times, by simply adapting your settings
+ski and winter regions
+walking and hiking regions
+cycling and biking regions
+wine and culinary regions
+spa and thermal regions
+getting there & around
+display all search results ( )
+no search results found
+please choose language or country
+the official travel guide
+middle east & africa
+tafeln in weinberg bei falkenstein
+ski and winter regions
+walking and hiking regions
+cycling and biking regions
+wine and culinary regions
+spa and thermal regions
+getting there & around
+give us a call monday to friday from 8am to noon
+outside of our office hours please drop us an email and we'll be happy to answer your questions
+00800 400 200 00*
+calls from mobile networks may incur charges
+tafeln in weinberg bei falkenstein
+display all search results ( )
+no search results found
+wasserfall, schladming-dachstein © österreich werbung / sebastian stiphout
+general the austrian national tourist office places great importance on protecting the privacy of every customer
+the processing of personal data is therefore always carried out in accordance with the applicable data protection regulations, in particular those of the general data protection regulation (gdpr), the austrian data protection act (dsg) and the telecommunications act (tkg 2003)
+all employees of the austrian national tourist office are obliged to comply with data secrecy pursuant to § 6 dsg
+name and contact details responsible for data processing
+austrian national tourist office vordere zollamtsstraße 13, 1030 vienna, austria
++43 1 588 66-0
++43 1 588 66-40
+info no data protection officer has been appointed, as this is not required by law
+data processing on this website when you visit this website, personal data is collected that we use primarily for evaluation and analysis
+this information is used only internally and is never shared with third parties
+the collection of visitor data specifically serves the following purposes
+analysis of site usage for the purpose of market research and optimization of the website content
+alignment of the website content to the needs of visitors
+remarketing of user enquiries for the promotion of holidays in austria
+addressing people with a potential interest in austria with targeted advertising
+making improvements in user friendliness and ease of operation
+when brochures and informational material are requested or the öw newsletter is subscribed to, all data required for the order processing is also stored
+we process your personal data on the basis of the consent you gave through the settings of your internet browser or when subscribing to our newsletter, and on the basis of our overriding legitimate interests that we have in our role and mission as a national austrian tourism organization
+the following sections describe what data is collected and how it is collected
+storing address data for orders and subscriptions when you request brochures and information material or subscribe to our newsletter, your data is stored so we can carry out the orders and deliveries
+this data is deleted upon delivery
+should you want to continue to receive invitations and information from us, you can use an additional selection option
+if you select this, we will continue to store your data so we can keep you informed of attractive offers in your areas of interest
+you can revoke this consent at any time, of course
+data that we gather in the course of order processing will never be used to create individual user profiles or to track the surfing habits of our customers
+your contact information will be used solely to process your orders
+processing and transmission of personal data
+as a rule, we do not process your personal information without your consent
+a transmission of your personal data to third parties occurs only with your consent and only to the extent necessary to meet your needs and requests
+exceptions are transmissions necessary for the security of our websites
+as a matter of principle, the transfer of data to processors (service providers) takes place only to those companies that offer sufficient guarantee of a lawful and secure use of data
+agreements with all contracted processors have been made pursuant to article 28 of the gdpr that guarantee that all requirements pertaining to data protection and data security are fulfilled
+duration of data retention provided that we process your data on the basis of your consent, the data remains stored unless this consent is revoked
+otherwise we retain your personal data in accordance with the retention periods stipulated by law
+if we must retain your data in order to protect ourselves from potential legal claims, the data will be stored in accordance with the statutory periods of limitation (generally three years)
+data subject rights you have the right at any time to revoke any consent you have given
+in this case, please use the technical measures provided for this purpose
+you can also direct correspondence to the addresses listed above
+you can use the addresses listed above at any time to
+• demand information about the stored data concerning you, • demand the rectification, erasure or restriction of the stored data, • exercise your right to data portability in accordance with data-protection regulations
+you have the right at any time to prohibit the processing of your data insofar as it is used for the purpose of direct marketing
+insofar as we process your data on the basis of our overriding legitimate interests, you can object to this processing on grounds resulting from your particular situation
+you are also entitled to file a complaint with the austrian data protection authority
+ip addresses for each request to a website, the ip address of the visitor is sent to the web server
+this is necessary for technical reasons in order to be able to send the response to the correct recipient
+ip addresses are assigned by internet service providers as soon as their customers connect to the internet
+providers can track what ip address one of their customers has used at any given time
+one can therefore theoretically determine the identity of an individual visitor through a request to the internet service provider
+for security reasons (e
+to ward off hacker attacks), we store the ip addresses of all visitor enquiries, but the logs generated are used solely for tracking security breaches and consulted only in cases of suspicion
+moreover, the ip addresses are not stored permanently but cleared after a maximum of 4 weeks
+cookies cookies are very small files written from a website onto the visitor’s computer
+they cannot be used to read other data on the computer
+websites use cookies to restore previous user settings and to trace the history of visitor enquiries
+the austrian national tourist office uses cookies to better align offers on austria
+com to the needs of our customers and to structure the content of our websites in the best possible way
+the information is also used to continually improve the navigation structure of austria
+com and to make it more user-friendly
+it is possible that additional cookies may be placed by various other providers whose additional services are offered on our websites
+we have no influence on these providers and do not make use of their cookies for our own purposes
+by default, all cookies are accepted by any internet browser
+however, you can instruct the browser to not accept cookies or to delete them automatically after each internet session
+please refer to the relevant instructions on the support pages of your browser manufacturer
+for all common browsers there is also free software (plug-ins) available that allows one to manage cookies
+one suitable plug-in, for example, can be accessed at this address
+finally, you can use the “deactivate tracking” button at the end of this page
+by clicking on this button, you disable all cookie-based functions of this website
+for this setting to be stored permanently, your browser must accept cookies
+google analytics the websites of the austrian national tourist office use google analytics for web analyses
+through the use of this analysis service, cookies are stored on your computer as well
+the information generated, including the ip addresses of visitors, is sent to a server in the us and stored there
+for privacy reasons, the austrian national tourist office uses the function “_anonymizeip()” to ensure that the transmitted ip addresses are processed only in abbreviated form and a direct connection to individuals is not possible
+google will possibly pass this information on to third parties where this is required by law or where third parties process the data on behalf of google
+more information about google analytics can be found online at www
+the austrian national tourist office uses the functions of google analytics to analyze site usage, e
+in the form of anonymous evaluations and graphics on pageviews and visits, as well as for remarketing, reports on impressions in the google display network, integration of doubleclick campaign manager and google analytics reports on performance according to demographic characteristics and interests
+by using this site you consent to the processing of data gathered about you by google in the manner and for the purposes described above
+you can prevent this data collection through the use of a google browser-plug-in
+matomo on its websites, the austrian national tourist office utilizes the web analytics service piwik to analyze the use of its sites
+it uses the results of these analyses to compile usage statistics and for the optimization of its internet presence
+the individual use by the visitor is neither analyzed nor transmitted to third parties
+the data collected by piwik is processed solely on the web servers of the austrian national tourist office and can be seen only in the form of statistical summaries
+piwik sets a permanent cookie in order to record and analyze website use
+you can deactivate this analysis by clicking on the button at the end of this paragraph
+an opt-out cookie is then stored in your browser that instructs piwik not to collect any further data about your visits
+please note, however, that if you instruct your browser to delete all cookies, this opt-out cookie will be removed as well
+you therefore may have to click again on the button below
+tracking by other third parties on our website the websites of the austrian national tourist office utilize the targeting technologies of these companies
+twyn group it solutions & marketing services ag ( www
+these technologies are used to address our visitors on the websites of the advertising partners with targeted advertising
+the display of these advertising media is carried out on the basis of cookies and an analysis of your previous usage behaviour on our websites
+the data collected in this way is stored in a strictly anonymized manner
+by continuing to use this website, you agree to the procedure described above with regard to the analysis of the use of this website
+you can prohibit the tracking and the targeted advertising on the following websites
+there you will find a link with which you can deactivate the display of personalized advertising
+this procedure is carried out through a dedicated “opt-out” cookie
+the deactivation remains in effect as long as you do not delete this cookie from your browser
+finally, you can use the “deactivate tracking” button at the end of this page
+by clicking on this button, you disable all cookie-based functions of this website
+for this setting to be stored permanently, your browser must accept cookies
+facebook conversion tracking pixel with your permission, our website utilizes the conversion tracking pixel service of facebook inc
+, palo alto, ca 94304, usa (“facebook”)
+this tool allows us to follow the actions of users after they are redirected to a provider’s website by clicking on a facebook advertisement
+we are thus able to record the efficacy of facebook advertisements for statistical and market research purposes
+the collected data remains anonymous, meaning that we cannot see the personal data of any individual user
+however, the collected data is saved and processed by facebook
+we are informing you regarding this matter based on our current information
+facebook is able to link the data with that of your facebook account and uses the data for its own advertising purposes, in accordance with facebook’s data use policy found under
+facebook conversion tracking also allows facebook and its partners to show you advertisements on and outside facebook
+in addition, a cookie will be stored on your computer for these purposes
+only users over 13 years of age may give their permission
+if you are younger than this, please consult your legal guardian(s)
+please click here to revoke your permission
+facebook remarketing / retargeting integrated into our websites are remarketing tags of the social network facebook, 1601 south california avenue, palo alto, ca, 94304, usa
+when you visit our site, your browser is directly connected to the facebook server via the remarketing tags
+facebook is thus informed that you have visited our site via your ip address, making it possible to match the visit of our site to your user account
+the data thus obtained can be used by us for displaying facebook ads
+please note that as a website provider, we do not have any knowledge about the content of the transmitted data or the way it is used by facebook
+for more information on this, please see the facebook privacy statement at
+please click here to revoke your consent
+ad server (adform) the websites of the austrian national tourist office use products (ad server, dsp and dmp) of the adform a/s company in order to employ target group-oriented advertising
+to this end, our visitors’ surfing habits, type of device and the geographical origin of the visits are stored and analyzed
+based on the results, advertising media is sent to visitors to other of adform’s partner websites who might be interested in the offers of the austrian national tourist office
+for this purpose as well, cookies are used that are stored in an encrypted (pseudonymized) form
+we are unable to use this data to obtain information about any individual visitors to our website
+if you would like to prohibit this analysis of your visitor behaviour, please click here
+finally, you can use the “deactivate tracking” button at the end of this page
+by clicking on this button, you disable all cookie-based functions of this website
+for this setting to be stored permanently, your browser must accept cookies
+tastes of austria - alexa & google home we provide free digital content via the language assistants alexa and google home
+no personal data of the users of these applications are collected in this context
+amazon and google supply the austrian national tourist office only with statistical analyses, which do not allow any allocations to the individual persons
+plan your trip with us
+give us a call monday to friday from 8am to noon
+outside of our office hours please drop us an email and we'll be happy to answer your questions
+our holiday experts are here to assist you with your holiday planning
+give us a call from 8am to noon or drop us an email and we'll be happy to answer your questions
+00800 400 200 00*
+calls from mobile networks may incur charges
+share feedback about holidays in austria for a chance to win
+take the survey here
+subscribe to our free monthly e-newsletter and receive great information about austria
+imprint / terms & conditions
+imprint / terms & conditions
+© show image copyrights
+the main purpose of the two main domains www
+com is the promotion of austria as a holiday
+sign up to receive the latest information, competitions, tips and holiday deals
+please provide your email address
+please fill in fields marked with *
+by subscribing to the newsletter you agree to our data protection policy
+data is being processed
+thank you for signing up
+we look forward to sending you the latest news and recommendations for your perfect holidays in austria
+your austrian national tourist office team
+please check your e-mail address

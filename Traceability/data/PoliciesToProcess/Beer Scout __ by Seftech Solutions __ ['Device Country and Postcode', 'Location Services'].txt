@@ -1,0 +1,70 @@
+alexa skills privacy notice
+what type of information we have
+we currently collect and process the following information
+location details (dynamic device location, postal code, country code)
+how we get the information and why do we have it
+the personal information we process is provided to us by you through the amazon alexa service, by giving our amazon alexa skills permission to access the data
+we use this data to
+provide you with digital services as outlined in the amazon alexa skill description
+under the general data protection regulation (gdpr), the lawful bases we rely on for processing this information are
+you are able to remove your consent at any time by managing the alexa skill permissions via the amazon alexa app
+what we do with the information we have
+we use the information that you have given us in order to fulfil the functionality of the amazon alexa skill as outlined in its description in the alexa application and amazon store
+how we store your information
+in most cases your data is used on a 'per request' basis and not stored
+in all other cases it is stored securely for use only by seftech solutions for the purposes of fulfilling the functionality of the amazon alexa skill
+where we provide links to websites of other organisations, this privacy notice does not cover how that organisation processes personal information
+we encourage you to read the privacy notices on the other websites you visit
+our website uses a cookie
+__cfduid - this is a session cookie required to protect the security and availability of our website for its users
+it is not used for cross-site tracking or correlate you with an identity in any application
+your data protection rights
+under data protection law, you have rights including
+your right of access - you have the right to ask us for copies of your personal information
+your right to rectification - you have the right to ask us to rectify information you think is inaccurate
+you also have the right to ask us to complete information you think is incomplete
+your right to erasure - you have the right to ask us to erase your personal information in certain circumstances
+your right to restriction of processing - you have the right to ask us to restrict the processing of your information in certain circumstances
+your right to object to processing - you have the the right to object to the processing of your personal data in certain circumstances
+your right to data portability - you have the right to ask that we transfer the information you gave us to another organisation, or to you, in certain circumstances
+you are not required to pay any charge for exercising your rights
+if you make a request, we have one month to respond to you
+please contact us at hello@seftech
+uk if you wish to make a request
+you can also complain to the ico if you are unhappy with how we have used your data
+information commissioner’s office wycliffe house water lane wilmslow cheshire sk9 5af helpline number
+alexa skills privacy notice
+what type of information we have
+we currently collect and process the following information
+location details (dynamic device location, postal code, country code)
+how we get the information and why do we have it
+the personal information we process is provided to us by you through the amazon alexa service, by giving our amazon alexa skills permission to access the data
+we use this data to
+provide you with digital services as outlined in the amazon alexa skill description
+under the general data protection regulation (gdpr), the lawful bases we rely on for processing this information are
+you are able to remove your consent at any time by managing the alexa skill permissions via the amazon alexa app
+what we do with the information we have
+we use the information that you have given us in order to fulfil the functionality of the amazon alexa skill as outlined in its description in the alexa application and amazon store
+how we store your information
+in most cases your data is used on a 'per request' basis and not stored
+in all other cases it is stored securely for use only by seftech solutions for the purposes of fulfilling the functionality of the amazon alexa skill
+where we provide links to websites of other organisations, this privacy notice does not cover how that organisation processes personal information
+we encourage you to read the privacy notices on the other websites you visit
+our website uses a cookie
+__cfduid - this is a session cookie required to protect the security and availability of our website for its users
+it is not used for cross-site tracking or correlate you with an identity in any application
+your data protection rights
+under data protection law, you have rights including
+your right of access - you have the right to ask us for copies of your personal information
+your right to rectification - you have the right to ask us to rectify information you think is inaccurate
+you also have the right to ask us to complete information you think is incomplete
+your right to erasure - you have the right to ask us to erase your personal information in certain circumstances
+your right to restriction of processing - you have the right to ask us to restrict the processing of your information in certain circumstances
+your right to object to processing - you have the the right to object to the processing of your personal data in certain circumstances
+your right to data portability - you have the right to ask that we transfer the information you gave us to another organisation, or to you, in certain circumstances
+you are not required to pay any charge for exercising your rights
+if you make a request, we have one month to respond to you
+please contact us at hello@seftech
+uk if you wish to make a request
+you can also complain to the ico if you are unhappy with how we have used your data
+information commissioner’s office wycliffe house water lane wilmslow cheshire sk9 5af helpline number

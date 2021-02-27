@@ -1,0 +1,112 @@
+this rise buildings, inc
+privacy policy (this “privacy policy”) governs how we, rise buildings, inc
+, a delaware corporation (“rise,” “we,” “us” or “our”), use information (defined below) that we collect, receive, and store in connection with the use of www
+com (our “website”), our on-site devices, beacons, screens, and kiosks (our “on-site hardware”), or our proprietary software platform and services (collectively, the “services”)
+by using our website, on-site hardware, and the services, you consent to the terms of this privacy policy and to rise’s processing of information for the purposes stated herein
+if you do not agree to this privacy policy, then do not use our website, on-site hardware, or the services
+we reserve the right, at our sole discretion, to modify this privacy policy at any time
+any updates are posted on our website
+your continued use of our website, on-site hardware, or the services after we make any updates is deemed to be acceptance of those updates
+you are encouraged to review the privacy policy periodically for any updates
+we collect different types of information depending upon how you use our website, on-site hardware, and the services and whether you use certain applications available through the services
+“information” means, collectively, any website use information, on-site hardware information, access information, and aggregated information, as each of these capitalized terms are defined below
+in general, we collect certain information about you and your use of our website, on-site hardware, and the services to create a better, more personalized experience for you
+however, we are committed to respecting your online privacy and we recognize your need for the protection and management of any information that you share with us
+we provide this privacy policy to explain our online information practices and the choices you can make about the way your information is collected and used in connection with the services
+1 website use information
+(i) what we collect
+we automatically track certain basic website user information about our website visitors, such as their internet protocol (ip) address, their browser type, their internet service provider (isp), their hardware, operating system version, unique device identifiers, mobile network information, referring and exit pages and their click patterns within our website (“website use information”)
+to do this, we use web beacons, cookies, and other technologies provided by our analytics partner
+(ii) how we use it
+we use website use information to do internal research on our visitors’ usage patterns, demographics, interests, and general behavior to better understand how they use our website and what might make it better
+(iii) the extent to which we disclose it
+we may contract with various partners to help manage and optimize our business communications
+for example, we may use the services of an analytics partner to help us measure the effectiveness of our website and to better understand how our visitors use our website
+other than for the exceptions set forth in this privacy policy, no personally identifiable information will be shared with our analytics partner or other partners without your consent
+2 on-site hardware use information
+(i) what we collect
+we retain the information you give to us when you register with or use our on-site hardware located at properties serviced by our services (“on-site hardware information”)
+on-site hardware information could include contact and identifying information (including, but not limited to, name, telephone number, email, and mailing address)
+(ii) how we use it
+we use on-site hardware information to provide users with the services, including guest and service provider access and entry authorizations
+(iii) the extent to which we disclose it
+we disclose certain on-site hardware information to applicable users of our services
+for example, when a guest of a user of our services checks-in using our on-site hardware, such user receives a notification of the guest’s arrival and such notification may include certain on-site hardware information
+we will not disclose your on-site hardware information to other third parties without your consent except for the exceptions set forth in this privacy policy and to affiliates or other trusted businesses or persons we use to process the information for us subject to our instructions, this privacy policy, and any other appropriate confidentiality and security measures
+(i) what we collect
+we retain the information you voluntarily give to us during the process of registration to use the services or to acquire support, as well as other information you voluntarily provide in connection with your use of the services (“access information”)
+access information could include contact and identifying information (including name, telephone number, email, mailing address, and birthdate)
+user name and password (specifically chosen by you)
+residential and commercial property affiliation
+any updated information you choose to supply to us
+rental and other payment amounts and the merchant receiving such amounts
+visitor email, phone number, and photograph
+third party carrier and package identification
+third party maintenance identification and service requests
+and any other communications you have with our support staff and administrators
+access information also includes information that we automatically track in connection with the use of the services, such as a user’s internet protocol (ip) address, device manufacturer and model, operating system type and version, geographic location, internet provider, and access time
+(ii) how we use it
+we use access information to provide you with the services and support you request from us or to inform you about our services
+we may use access information to contact you to notify you of new services, changes to the services, or availability of third party services that may be of interest to you
+other than for the exceptions set forth in this privacy policy, we will not use access information for any other purpose without your consent
+(iii) the extent to which we disclose it
+we will not disclose your access information to any third party without your consent except for the exceptions set forth in this privacy policy and to affiliates or other trusted businesses or persons we use to process the information for us subject to our instructions, this privacy policy, and any other appropriate confidentiality and security measures
+(i) what we collect
+we may use all website use information, on-site hardware information, and access information to develop aggregated information about our website visitors and licensees of the services and their use of our website, on-site hardware, and the services (“aggregated information”)
+aggregated information will not contain any personally identifiable information about you
+(ii) how we use it
+we may use aggregated information for a variety of purposes, including improvement of our website, on-site hardware, and the services, coordination and cooperation with our analytics partners, the negotiation of relationships with service, marketing, or advertising partners and other business purposes
+(iii) the extent to which we disclose it
+we may disclose aggregated information in any manner required to use it in the manner discussed above
+5 other possible uses of your information
+we may disclose any information in the event we are required to do so by law for purposes of law enforcement or through judicial process
+you authorize us to disclose any such information to law enforcement or other government officials, and to other people who are authorized by court order or other judicial process to obtain it, as we, in our sole discretion, believe necessary or appropriate
+(ii) enforcement of rights/obligations
+notwithstanding the above policies, we may use or disclose any information to the extent such use or disclosure is required to enforce our rights or protect our interests, to perform our legal obligations, or to provide, maintain, protect, or improve our website, on-site hardware, or the services
+this privacy policy does not cover the information practices of other companies and organizations that may have links to or from our website, on-site hardware, or the services or who advertise our services and may use cookies, pixel tags, and other technologies to serve and offer relevant ads
+accessing and correcting your information
+you may send us an email at support@risebuildings
+com to request access to, corrections to, or deletion of any personally identifiable information
+we may not accommodate any such request for legitimate business or legal purposes
+you should understand that your personally identifiable information may never be completely removed from our databases due to technical, business, or legal constraints
+however, as long as we retain any such information, it will remain subject to this privacy policy and any subsequent rise privacy policies pertaining to such information
+third party service providers
+we may use third party service providers in order to efficiently deliver the services to you
+we are not responsible for the practices employed by any third party websites or services linked to or from the services, including all information or content collected or contained therein
+your browsing and interaction on any third-party website or service, including those linked to or included in the services, are subject to the applicable third party service provider’s own rules and polices
+our third party services include credit card and automated clearing house (ach) payments providers
+if you choose to use any credit card or ach payment feature of the services, you will provide personal identifying information required for our third party payment providers to process the payment request (such as your credit card number, bank name, bank routing number, account number, account holder name, merchant name, and payment amount)
+in connection with such payment transactions, we receive, collect, and maintain the account holder name, merchant name, and payment amount
+we do not receive, collect, or maintain any other personal identifying information from such payment transactions
+such information is governed by the privacy policies of the applicable payment processors
+our website, on-site hardware, and the services may permit you and other users to post, publish, and transmit information, video, image, data, text, documents, and other content onto public or private areas of our website, on-site hardware, and the services and to other users (“user submissions”)
+you acknowledge and agree that user submissions may become publicly published content and will be available to us and other users without fees or compensation of any kind to you
+use of anonymous information
+we may use anonymous information (defined below) or disclose it to third party service providers in order to provide and improve our website, on-site hardware, and the services and to enhance your experience with our website, on-site hardware, and the services
+we may also disclose anonymous information (with or without compensation) to third parties, including advertisers and partners, for purposes including, but not limited to, targeted advertisements
+“anonymous information” means information which does not enable identification of an individual user, such as aggregated information about the use of our website, on-site hardware, or the services
+we may use your email address to send you promotions, updates, newsletters, or news regarding our website, on-site hardware, and the services
+you may choose not to receive future emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us
+if you no longer desire to use the services, or wish to delete or deactivate your account, you can send an email to support@risebuildings
+the security of your information is important to us
+we follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it
+no method of transmission over the internet, or method of electronic storage, is 100% secure, however
+therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee absolute security
+if you have any questions about security on our website, on-site hardware, or the services, you can send an email to support@risebuildings
+california civil code section § 1798
+83 permits users of our website, on-site hardware, and services who are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes
+to make such a request, please send an email to support@risebuildings
+com or write us at 312 north may street, suite 104, chicago, illinois 60607, attn
+in the event that rise is involved in a merger, divestiture, restructuring, reorganization, dissolution, change of control, or other sale or transfer of some or all of our assets with a third party, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you and our users as part of such transaction
+in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control the manner in which your information is treated, transferred, or used
+our website, on-site hardware, and the services are not intended for children under 13 years of age
+no one under the age of 13 may provide any personal information
+we do not knowingly collect personal information from children under 13 without prior parental consent or parental notification
+if you are under the age of 13, please do not access our website, on-site hardware, or the services, or send any information about yourself to us
+in the event that we learn that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete such information
+if you believe that we might have any information from or about a child under the age of 13, please contact us at support@risebuildings
+if you have any comments or questions regarding this privacy policy, or your information that we may be storing and using, please send an email to support@risebuildings
+we will work with you in good faith to resolve any disputes, claims, or controversies relating to this privacy policy
+this privacy policy was last updated on 6/23/20
+stay up to date with happenings at rise buildings
+© 2020 rise buildings, inc

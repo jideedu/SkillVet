@@ -1,0 +1,5 @@
+get there on time
+the get there on time skill uses requires two pieces of information from you
+device address - used to determine travel times and routes to your specified destinations
+mobile number (optional) - used to send proactive alerts
+this information is not shared and can be removed by disabling the get there on time skill in your alexa app

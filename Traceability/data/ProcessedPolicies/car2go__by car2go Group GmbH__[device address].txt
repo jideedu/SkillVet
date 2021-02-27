@@ -1,0 +1,144 @@
+login logout de en join now
+myaccount car2go uses cookies to optimize the design of this website and make continuous improvements
+by continuing your visit the website, you consent to the use of cookies
+further details can be found in cookies car2go germany privacy statement controller within the meaning of the general data protection regulation (“gdpr”)
+car2go deutschland gmbh („wir“ „car2go“) fasanenweg 15-17 70771 leinfelden-echterdingen germany email
+com data protection officer
+data protection officer hpc g462 d-70771 leinfelden-echterdingen germany email
+com car2go privacy statement (
+data protection we are pleased about your visit on our web pages and your interest in our offers
+the protection of your personal data is an important concern for us
+in these privacy statement we explain how we collect your personal data, what we do with it, for what purposes and on what legal basis this is done, and which rights and claims are associated with it for you
+our privacy statement for the use of our websites does not apply to your activities on the websites of social networks or other providers that you can reach via the links on our websites
+please check the websites of these providers for their data protection regulations
+collection and processing of your personal data a
+when you visit our website, we store certain information about the browser and operating system you use, the date and time of your visit, the access status (e
+whether you were able to access a website or received an error message), the use of website functions, the search terms you may have entered, the frequency with which you access individual websites, the designation of files accessed, the amount of data transferred, the website from which you accessed our websites and the website which you visit from our websites, either by clicking on links on our websites or by entering a domain directly in the input field of the same tab (or the same window) of your browser in which you opened our websites
+we also store your ip address and the name of your internet service provider for sixty days for security reasons, in particular to prevent and detect attacks on our websites or attempts at fraud
+we only store other personal data if you provide this data, e
+as part of a registration, a contact form, a survey, a price com-petition or for the execution of a contract, and even in these cases only insofar as this is permitted to us on the basis of a consent given by you or in accordance with the applicable legal provisions (further information on this can be found below in the section "legal basis of processing")
+you are not legally or contractually obliged to make available your personal data
+however, it is possible that certain functions of our websites depend on the availability of personal data
+if you do not make available personal data in these cases, this may result in functions not being available or only being availa-ble to a limited extent
+purposes of use a
+we use the personal data collected when you visit our website in order to operate it in the most convenient manner for your use and to protect our it systems from attacks and other illegal activities
+if you provide us with further personal data, e
+within the scope of a registration, a contact form, a survey, a price competition or for the execution of a contract, we use this data for the purposes mentioned, for the purposes of customer administration and - if necessary - for the purposes of processing and accounting of any business transactions, in each case to the extent required for this
+transfer of personal data to third parties
+our websites may also contain offers of third parties
+if you click on such an offer, we transfer data to the respective provider to the required extent (e
+information that you have found this offer with us and, if applicable, further information that you have already provided on our websites for this purpose)
+when we use social plug-ins on our websites from social networks such as facebook, twitter and google+, we integrate them as follows
+when you visit our websites, the social plug-ins are deactivated, i
+no data is transmitted to the operators of these networks
+if you want to use one of the networks, click on the respective social plug-in to establish a direct connection to the server of the respective network
+if you have a user account on the network and are logged in when you activate the social plug-in, the network can associate your visit to our websites with your user account
+if you want to avoid this, please log out of the network before activating the social plug-in
+a social network cannot associate a visit to other car2go websites until you have activated an existing social plug-in
+when you activate a social plug-in, the network transfers the content that becomes available directly to your browser, which integrates it into our websites
+in this situation, data transmissions can also take place that are initiated and controlled by the respective social network
+your connection to a social network, the data transfers taking place between the network and your system, and your interactions on that platform are governed solely by the privacy policies of that network
+the social plug-in remains active until you deactivate it or delete your cookies
+if you click on the link to an offer or activate a social plug-in, per-sonal data may reach providers in countries outside the european economic area that, from the point of view of the european union ("eu"), may not guarantee an "adequate level of protection" for the processing of personal data in accordance with eu standards
+please remember this fact before clicking on a link or activating a social plug-in and thereby triggering a transfer of your data
+analysis of usage data
+use of analysis tools a
+we would like to tailor the content of our websites as precisely as possible to your interests and in this way improve our offer for you
+in order to identify usage preferences and particularly popular areas of the websites, we use the following analysis tool(s)
+when using these analysis tools, data may be transferred to servers located in the usa and processed there
+please note the following
+in the usa, the european union considers that there is no "adequate level of protection" for the processing of personal data in accordance with eu standards
+however, this level of protection can be replaced for individual companies by certification according to the so-called "eu-u
+if you do not want us to collect and analyze information about your visit to our website using the analysis tools mentioned above, you can object to this at any time with effect for the future ("opt-out")
+we implement your objection by setting an opt-out cookie in your browser
+this cookie is only used to associate your objection
+please note that for technical reasons, an opt-out cookie only works in the browser in which it was set
+if you delete the cookies or use a different browser or device, please opt-out again
+below you will find information on the providers of the analysis tools we use and the respective opt-out options
+(“adobe“) adobe is certified according to the eu-u
+to object to the analysis through the product adobe analytics, you can follow this link
+install the opt-out cookie (adobe omniture) ii
+for multivariate and a/b testing purposes, car2go uses optimizely
+this service uses cookies to identify a visitor's browser and track website usage while on the car2go website
+the cookies do not collect personal information about you
+optimizely is certified according to the eu-u
+learn how optimizely uses your data click here to opt out from optimizely 6
+usage-based information (targeting and retargeting) in order to be able to tailor our online marketing (e
+banner advertising) on the websites of our retargeting partners (google dynamic re-marketing and google ads) more specifically to your needs and interests, we use so-called retargeting technologies
+your interest in our products and services is stored in cookies
+these cookies are read and used when visiting other websites that work together with our re-targeting partners in order to be able to inform you as focused on your interests as possible
+this is done anonymously, i
+you cannot be identified by retargeting
+within our web presence, we use the website-custom-audience-pixel of facebook inc
+california ave, palo alto, ca 94304, usa (“facebook”)
+facebook is certified according to the eu-u
+this allows us to follow the internet behavior of our users once they have viewed or clicked on a facebook ad
+through this, we are able to evaluate the effectiveness of the facebook ads for statistical and market research purposes and can thus optimize our advertising measures
+when you visit our website, this information is passed on to facebook
+the data collected by us is anonymous and gives us no indication of the identity of the user
+however, the data is stored and processed by facebook so that a connection to the respective user profile is possible and facebook are able to use the data for its own advertising purposes in accordance with facebook’s data use policy
+you can allow facebook and its partners to display ads on and off facebook
+additionally, a cookie can be stored on your hard drive for this purpose
+facebook’s data use policy provides information on the purpose and extent of the data that they collect, how this data is processed and used, the rights available to you and the settings that you can use to protect your privacy and can be found here
+and information on the settings for the display of personalized ads can be viewed here
+deactivate the website-custom-audience-pixel if you do not want car2go and its retargeting partners to collect, store and analyze information about your visit and to tailor banner advertising to your interests, you can object to this at any time with effect for the future (opt-out)
+an opt-out cookie is placed in your browser to technically implement your objection
+this cookie is used exclusively for the association of your objection
+please note that for technical reasons, an opt-out cookie can only be used for the browser from which it was set
+if you delete the cookies or use another browser or another terminal device, please opt-out again
+you can manage and disable the use of cookies by third parties on the following website
+install the opt-out cookie 7
+security we use technical and organisational security measures to protect your data managed by us against manipulation, loss, destruction and against access by unauthorised persons
+we are constantly improving our security measures in line with technological developments
+legal bases of processing
+insofar as you have given us your consent for the processing of your personal data, that consent is the legal basis for the processing (art
+1 letter a gdpr)
+for the processing of personal data for the purposes of initiating or fulfilling a contract with you, art
+1 letter b gdpr is the legal basis
+insofar as the processing of your personal data is necessary for the fulfilment of our legal obligations (e
+for the retention of data), we are authorized to do so pursuant to art
+1 letter c gdpr
+in addition, we process personal data for the purposes of safe-guarding our legitimate interests and the legitimate interests of third parties pursuant to art
+1 letter f gdpr
+maintaining the functionality of our it systems, marketing our own and third-party products and services as well as documenting business con-tacts as required by law are such legitimate interests
+deletion of your personal data your ip address and the name of your internet service provider, which we only store for security reasons, will be deleted after seven days
+otherwise, we delete your personal data as soon as the purpose for which we have collected and processed the data ceases to apply
+beyond this point in time, data is only stored if this is required by the laws, regulations or other legal provisions of the european union or of a member state of the european union to which we are subject
+rights of the data subject a
+as a data subject, you have the right of access (art
+15 gdpr), right to rectification (art
+16 gdpr), right to erasure (art
+17 gdpr), right to restriction of processing (art
+18 gdpr) and right to data porta-bility (art
+if you have consented to the processing of your personal data by us, you have the right to revoke your consent at any time
+the legality of processing your personal data before revocation remains unaffected
+we may further process such data pursuant to another applicable legal basis, e
+for the fulfilment of our legal obligations (cf
+section "legal bases of processing")
+right to object you have the right to object at any time to the processing of your person-al data pursuant to art
+1 letter e gdpr (data processing in the public interest) or art
+1 letter f gdpr (data processing on the ba-sis of a balance of interests) on grounds relating to your particular situa-tion
+if you object, we will only process your personal data if we can prove compelling legitimate reasons that outweigh your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims
+we ask you to address your claims or declarations to the following contact address if possible
+if you believe that the processing of your personal data violates le-gal requirements, you have the right to lodge a complaint with a competent data protection supervisory authority (art
+newsletter if you subscribe to a newsletter offered on our website, the data provided in the newsletter subscription will only be used for sending the newsletter, unless you agree to further use
+you can unsubscribe at any time using the unsubscribe option provided in the newsletter
+cookies information on the cookies we use and their functions can be found in our cookie statement
+may 2018 android app permissions after you download and open the car2go app, your mobile device will ask you for "permissions"
+permissions are special authorizations that apps must ask for if they want to access data or functions on your phone
+for example, if you'd like to find a car2go near you, the car2go app will ask for permission to see your exact location
+we only ask for the bare necessities so that the car2go app will work well for you
+you can always view and manage these permissions under your phone’s settings
+to improve gps location quality so that your location is as precise as possible on the map, we ask for permission to access
+(access_coarse_location) your precise location (access_fine_location) information about networks around you (access_network_state) to secure your login in the car2go app, we ask for permission to
+authenticate your account (authenticate_accounts maxsdkversion=22) securely retrieve your account information (get_accounts maxsdkversion=22) securely manage your account information (manage_accounts maxsdkversion=22) securely use your account credentials (use_credentials maxsdkversion=22) to display available car2go vehicles, we ask for permission to
+check for an internet connection (internet) to support driver's license revalidation in the car2go app, we ask for permission to
+securely read external storage (read_external_storage maxsdkversion=22) write external storage (write_external_storage) to support push messaging for car2go's radar feature, we ask for permission to
+vibrate your phone when something important happens (vibrate) wake your phone up when a notification is received (wake_lock) to support fingerprint authentication, we ask for permission to
+use your fingerprint data to unlock a car2go instead of using a pin (use_fingerprint) to support google maps and google cloud messaging, we ask for permission to
+read google services’ configuration data (com
+com specials press contact blog career imprint terms of hire privacy policy cookies legal notice mercedes-benz car2gos help faq service hotline +49 (0)30 233 40 110 private customers kundenservice@car2go
+com commercial customers business
+com press contact media_car2go@daimler
+com download app now just get in and go – thanks to the official car2go app you can easily find, reserve and open our vehicles comfortably
+your whole rental process will be directly operated via the car2go app

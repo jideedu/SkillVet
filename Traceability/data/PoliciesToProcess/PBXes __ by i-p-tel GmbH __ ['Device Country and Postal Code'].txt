@@ -1,0 +1,128 @@
+· virtual pbx as a service · for ip phones and · pots phones/mobiles · up to 2 voice channels · no monthly fees
+· more features such as fax, · queues, digital receptionists, · callback, follow me, · fixed mobile convergence · unlimited extensions
+· crm for call centers · billing for call shops · unified desktop · realtime database · free 14-day trial
+privacy policy and user agreement
+your privacy is critically important to us
+for our core business we use our own servers not shared or managed by anyone else
+the new gdpr rules lead us to further improvements in data minimization
+we don’t ask you for personal information unless we truly need it
+data transmissions between our servers are secured by strong encryption
+most passwords have been encrypted for years
+although it is hard to monitor and intercept sip-based phone calls, internet providers can potentially read personal data such as phone numbers and ip addresses
+to keep your personal communication safe, we recommend to access pbxes via our encrypted tls or vpn services
+our websites are using https protocol to encrypt your login credentials and all entered data
+server logs i-p-tel collects the following information from web server logs
+browser type, operating system, referer url, ip address, date, time, and parameters of your visit
+parameters may include user names, location, search terms and so on
+the information we collect in web server logs helps us administer the site, protect the website and its content from inappropriate use
+we make no effort to combine web server logs with any other source of personal information
+it is our policy to delete log files after one month or sooner
+cookies a cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns
+i-p-tel currently does only cookies where technically required
+they are deleted when closing your browser or logging out
+ads i-p-tel does not deliver any ads within its websites or apps
+social networks i-p-tel is on twitter to keep you up to date with what’s going on with i-p-tel and the status of its services
+besides a link there is no further integration into our websites or apps
+purpose of data collection for pbxes for each account i-p-tel stores first name, email address, paypal address, time, date and ip address of last login, and referer url of first access
+this is used to contact you related to the purchase of services such as invoices, confirmation of activation or termination
+also this personal information is stored for security reasons, and also anonymized statistics may be generated for marketing purposes
+per call i-p-tel stores source and destination phone number, source and destination ip, trunk used, date, time plus a call recording upon request
+this information is accessible by the user to view his call details
+we only access call details to calculate the monthly usage, and in case of unauthorized use to trace how calls have been made, to be able to block such access for the future
+data collection by third parties when paying via paypal we get your full name, country and paypal address
+these are used to write a receipt for payment
+data retention period for pbxes subscriber data is stored until an account is deleted
+deletion can be requested from personal data settings
+if an account is not being used for two to a maximum of five years, we delete it automatically
+a warning email is sent to the customer prior to automatic deletion
+traffic data is stored for a minimum of one and a maximum of four years
+these periods correspond to technical and international customer needs
+upon request we may delete traffic data earlier for you
+receipts are stored to conform to accounting requirements for a minimum of 10 and a maximum of 13 years
+disclosure we don't disclose any potentially personally-identifying and personally-identifying information as part of our business
+only in response to a subpoena, court order or other governmental request, or when i-p-tel believes in good faith that disclosure is reasonably necessary to protect the property or rights of i-p-tel, third parties or the public at large
+inquiry on personal information privacy if you have any questions or request related to our treatment of personal information, contact the following
+i-p-tel gmbh information privacy marc-chagall-str
+49 d-55127 mainz or send an email to datenschutz@i-p-tel
+rights visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities
+we respect any person’s right to his or her personal information
+upon receiving a relevant request, we will revise or delete any personal information
+regarding deletion see also under 7
+furthermore you have the right to transfer your data and to see what data we have about you, if any
+for all requests please contact us via the address listed above under 9
+regulatory authority if you want to file a complaint, you may contact the following regulatory authority
+der landesbeauftragte für den datenschutz und die informationsfreiheit rheinland-pfalz
+data processing agreement i-p-tel offers all customers to have a data processing agreement that is compliant with the gdpr
+please contact us under the address listed above under 9
+privacy policy changes although most changes are likely to be minor, i-p-tel may change its privacy policy from time to time, and in i-p-tel’s sole discretion
+i-p-tel encourages visitors to frequently check this page for any changes to its privacy policy
+your continued use of this site after any change in this privacy policy will constitute your acceptance of such change
+user agreement the following user agreement has not been translated yet
+basically saying all services that are provided for free may be cancelled at any time, don't break the law, we are not liable for defects and not responsible for any loss
+the services are for your personal and non-commercial use
+much like the terms of service of other free service providers e
+§1 vertragspartner sind die i-p-tel und der kunde
+als kunden werden nur verbraucher akzeptiert
+verbraucher ist jede natürliche person, die ein
+rechtsgeschäft zu einem zweck abschließt, der
+weder ihrer gewerblichen noch ihrer
+selbständigen beruflichen tätigkeit zugerechnet
+die i-p-tel erbringt ihre dienste ausschließlich auf grundlage dieser geschäftsbedingungen
+i-p-tel ist berechtigt, diese allgemeinen geschäftsbedingungen mit einer angemessenen ankündigungsfrist zu ändern oder zu ergänzen
+die ankündigung erfolgt ausschließlich durch veröffentlichung im internet
+widerspricht der kunde den geänderten oder ergänzten bedingungen nicht innerhalb von 4 wochen nach deren veröffentlichung im internet, so werden die geänderten oder ergänzenden bedingungen wirksam
+widerspricht der kunde fristgemäß, so ist i-p-tel berechtigt, den vertrag zu dem zeitpunkt zu kündigen, an dem die geänderten oder ergänzenden geschäftsbedingungen in kraft treten sollen
+abweichende, entgegenstehende oder ergänzende allgemeine geschäftsbedingungen werden, selbst bei kenntnis, nicht vertragsbestandteil, es sei denn, i-p-tel hat ihrer geltung ausdrücklich schriftlich zugestimmt
+soweit i-p-tel kostenlose dienste und leistungen erbringt, hat der kunde auf ihre erbringung keinen erfüllungsanspruch
+i-p-tel ist befugt, solche bisher vergütungsfrei zur verfügung gestellten dienste jederzeit einzustellen, zu ändern oder nur noch gegen entgelt anzubieten
+ein minderungs-, erstattungs- oder schadensersatzanspruch ergibt sich daraus nicht
+der kunde ist verpflichtet, die dienste nur für eigene zwecke zu nutzen und keine dienste für dritte bereitzustellen
+der kunde ist verpflichtet, die dienste von i-p-tel nur in übereinstimmung mit den einschlägigen gesetzen sowie den anerkannten internet-standards zu nutzen
+der kunde ist verpflichtet, keine fremden schutzrechte (z
+urheberrechte, datenbankrechte, markenrechte, patentrechte, etc
+) zu verletzen, keine dienste von i-p-tel zum abruf oder zur verbreitung von sitten- oder rechtswidrigen informationen zu nutzen und keine inhalte beleidigenden, verleumderischen oder volksverhetzenden charakters zu verbreiten
+im fall eines verstoßes des kunden gegen die vorstehenden verpflichtungen (§3, §4, §5) ist i-p-tel berechtigt, sämtliche materialien und daten, die gegen die vorstehenden bestimmungen verstoßen, zu entfernen sowie sonstige maßnahmen zu treffen, um rechtsverletzungen zu verhindern
+der kunde stellt i-p-tel von allen kosten und ansprüchen dritter frei, die ihre ursache in der verletzung von urheber-, nutzungs-, persönlichkeits- oder sonstigen schutzrechten haben, soweit die verletzung durch den kunden im rahmen der nutzung der dienste verursacht wurde
+der kunde ist verpflichtet, sämtliche genehmigungen dritter, die zur nutzung der von i-p-tel erbrachten dienstleistung erforderlich sind, einzuholen, sofern nicht ausdrücklich schriftlich anders vereinbart
+obwohl die administratoren und moderatoren von i-p-tel versuchen, alle unerwünschten beiträge/nachrichten von foren, bewertungen und wikiseiten fernzuhalten, ist es unmöglich, alle beiträge/nachrichten zu überprüfen
+alle beiträge/nachrichten drücken die ansichten des autors aus und die eigentümer von i-p-tel können nicht für den inhalt jedes beitrags verantwortlich gemacht werden
+einträge sowie accounts können durch moderatoren und administratoren des boards u
+aus gründen des verstoßes gegen gute sitten ohne weitere begründung editiert oder gelöscht werden
+i-p-tel weist darauf hin, dass sämtliche daten ungeschützt und unverschlüsselt über das internet transportiert werden können
+der kunde trifft angemessene maßnahmen zur minimierung des risikos des unberechtigten zugangs dritter zu seinen rechnersystemen und daten
+besteht seitens des kunden grund zur annahme, dass sich dritte unberechtigt zugang verschafft haben, informiert der kunde i-p-tel unverzüglich durch schriftliche mitteilung
+während die hauptverantwortlichkeit beim kunden verbleibt, unterstützt i-p-tel den kunden im rahmen des möglichen bei ursachenforschung und schadensminimierung
+im rahmen der unterstützung entstehender aufwand bei i-p-tel wird dem kunden zu einem angemessenen preis berechnet
+der kunde hat eventuell auftretende mängel stets aussagekräftig zu dokumentieren, insbesondere unter protokollierung angezeigter fehlermeldungen schriftlich zu melden
+er hat eine problemanalyse und fehlerbeseitigung nach dem bedienerhandbuch durchzuführen
+der kunde hat i-p-tel bei einer möglichen mangelbeseitigung nach kräften zu unterstützen
+soweit sich nach- bzw
+vorstehend nichts anderes ergibt, sind schadensersatzansprüche gegen i-p-tel ausgeschlossen, falls die schadensursache nicht auf vorsatz oder grober fahrlässigkeit beruht
+i-p-tel haftet nicht für schäden, die durch unberechtigte eingriffe des kunden in das servernetz von i-p-tel, die technische ausstattung oder die netzinfrastruktur des kunden entstanden sind
+i-p-tel haftet ebenfalls nicht für schäden aufgrund fehlerhafter, unsachgemäßer installation, bedienung oder behandlung der für die inanspruchnahme der leistung erforderlichen geräte oder systemkomponenten durch den kunden oder von ihm beauftragte dritte sowie für schäden, die durch die fehlende beachtung oder einhaltung der in leistungsbeschreibungen oder sonstigen produktinformationen vorgegebenen hinweise und bestimmungen entstanden sind
+i-p-tel haftet nicht für vermögensschäden, die durch eine unterbrechung oder störung des dienstes entstanden sind
+i-p-tel distanziert sich ausdrücklich von den inhalten sämtlicher seiten, auf die direkte oder indirekte verweise (sog
+"links") aus dem angebot von i-p-tel bestehen
+i-p-tel übernimmt für diese inhalte und seiten keinerlei haftung
+für die inhalte dieser seiten sind die anbieter der jeweiligen seiten selbst verantwortlich
+wenn der kunde verbraucher i
+§ 13 bgb ist, gelten die folgenden bestimmungen und hinweise
+widerrufsrecht sie können ihre vertragserklärung innerhalb von zwei wochen ohne angabe von gründen in textform (z
+brief, fax, e-mail) widerrufen
+die frist beginnt nach erhalt dieser belehrung in textform
+zur wahrung der widerrufsfrist genügt die rechtzeitige absendung des widerrufs
+der widerruf ist zu richten an
+49, 55127 mainz, oder presse@i-p-tel
+com oder per fax an +49 (6131) 466138
+widerrufsfolgen im falle eines wirksamen widerrufs sind die beiderseits empfangenen leistungen zurückzugewähren und ggf
+können sie uns die empfangene leistung ganz oder teilweise nicht oder nur in verschlechtertem zustand zurückgewähren, müssen sie uns insoweit ggf
+verpflichtungen zur erstattung von zahlungen müssen innerhalb von 30 tagen erfüllt werden
+die frist beginnt für sie mit der absendung ihrer widerrufserklärung, für uns mit deren empfang
+besonderer hinweis ihr widerrufsrecht erlischt vorzeitig, wenn der vertrag von beiden seiten auf ihren ausdrücklichen wunsch vollständig erfüllt ist, bevor sie ihr widerrufsrecht ausgeübt haben
+rechte und pflichten aus diesem vertrag können nur mit schriftlicher zustimmung der jeweils anderen vertragspartei auf einen dritten übertragen werden
+die angestellten von i-p-tel sind nicht befugt, mündliche oder schriftliche nebenabreden zu treffen oder mündliche oder schriftliche zusicherungen zu geben, die über den inhalt des jeweiligen vertrages einschließlich dieser geschäftsbedingungen hinausgehen
+auf diesem vertrag findet ausschließlich recht der bundesrepublik deutschland anwendung
+das un-kaufrecht und das deutsche internationale privatrecht sind ausgeschlossen
+sollte eine bestimmung dieser vereinbarung unwirksam sein oder werden, so berührt dies die wirksamkeit der restlichen bestimmungen nicht
+vielmehr gilt an stelle der unwirksamen bestimmung eine dem zweck der vereinbarung entsprechende oder zumindest nahekommende ersatzbestimmung, die die parteien zur erreichung des gleichen wirtschaftlichen ergebnisses vereinbart hätten, wenn sie die unwirksamkeit der bestimmung gekannt hätten
+gleiches gilt für den fall der unvollständigkeit der bestimmungen entsprechend

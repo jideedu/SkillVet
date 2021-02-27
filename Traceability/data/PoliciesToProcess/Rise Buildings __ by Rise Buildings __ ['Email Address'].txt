@@ -1,0 +1,80 @@
+find free wordpress themes and plugins
+welcome to rise software llc privacy policy your privacy is critically important to us
+rise software llc is located at
+rise software llc 171 north aberdeen street, suite 400, chicago, illinois 60607 (888) 733-6828 support@riseliving
+co it is rise software llc’s policy to respect your privacy regarding any information we may collect while operating our website and rise living app
+this privacy policy applies to www
+co (hereinafter, “us”, “we”, or “www
+co”) and the rise living app available on various app stores
+we respect your privacy and are committed to protecting personally identifiable information (pii) you may provide us through the website and/or the rise living app
+we have adopted this privacy policy (“privacy policy”) to explain what information may be collected on our website, rise living app, how we use this information, and under what circumstances we may disclose the information to third parties
+this privacy policy applies only to information we collect through the website and rise living app and does not apply to our collection of information from other sources
+this privacy policy, together with the terms and conditions posted on our website, set forth the general rules and policies governing your use of our website
+depending on your activities when using our rise living app or visiting our website, you may be required to agree to additional terms and conditions
+website visitors and rise living app users like most website and app operators, rise software llc collects non-personally-identifying information of the sort that web browsers, smartphones and servers typically make available, such as the browser type, smartphone type, language preference, referring site, and the date and time of each visitor request
+rise software llc’s purpose in collecting non-personally identifying information is to better understand how rise software llc’s visitors use its website and rise living app
+from time to time, rise software llc may release non-personally-identifying information in the aggregate, e
+, by publishing a report on trends in the usage of its website and rise living app
+rise software llc also collects potentially personally-identifying information like internet protocol (ip) addresses for logged in users and for users leaving comments on http
+co blog posts and usage of the rise living app
+rise software llc only discloses logged in user and ip addresses under the same circumstances that it uses and discloses personally-identifying information as described below
+– gathering of personally-identifying information certain visitors to rise software llc’s websites and rise living app choose to interact with rise software llc in ways that require rise software llc to gather personally-identifying information
+the amount and type of information that rise software llc gathers depends on the nature of the interaction
+for example, we ask visitors who sign up for a blog at http
+co or sign into the rise living app to provide a username and email address
+– security the security of your personal information is important to us, but remember that no method of transmission over the internet, or method of electronic storage is 100% secure
+while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security
+– advertisements ads appearing on our website may be delivered to users by advertising partners, who may set cookies
+these cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer
+this information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you
+this privacy policy covers the use of cookies by rise software llc and does not cover the use of cookies by any advertisers
+– links to external sites our service may contain links to external sites that are not operated by us
+if you click on a third party link, you will be directed to that third party’s site
+we strongly advise you to review the privacy policy and terms and conditions of every site you visit
+we have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services
+co uses google adwords for remarketing www
+co uses the remarketing services to advertise on third party websites (including google) to previous visitors to our site
+it could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry
+this could be in the form of an advertisement on the google search results page, or a site in the google display network
+third-party vendors, including google, use cookies to serve ads based on someone’s past visits
+of course, any data collected will be used in accordance with our own privacy policy and google’s privacy policy
+you can set preferences for how google advertises to you using the google ad preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin
+– protection of certain personally-identifying information rise software llc discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on rise software llc’s behalf or to provide services available at rise software llc’s website and rise living app, and (ii) that have agreed not to disclose it to others
+some of those employees, contractors and affiliated organizations may be located outside of your home country
+by using rise software llc’s website and rise living app, you consent to the transfer of such information to them
+rise software llc will not rent or sell potentially personally-identifying and personally-identifying information to anyone
+other than to its employees, contractors and affiliated organizations, as described above, rise software llc discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when rise software llc believes in good faith that disclosure is reasonably necessary to protect the property or rights of rise software llc, third parties or the public at large
+if you are a registered user of http
+co and rise living app and have supplied your email address, rise software llc may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with rise software llc and our products
+we primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum
+if you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users
+rise software llc takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information
+– aggregated statistics rise software llc may collect statistics about the behavior of visitors to its website
+rise software llc may display this information publicly or provide it to others
+however, rise software llc does not disclose your personally-identifying information
+– affiliate disclosure this site uses affiliate links and does earn a commission from certain links
+this does not affect your purchases or the price you may pay
+– cookies to enrich and perfect your online experience, rise software llc uses “cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer
+a cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns
+rise software llc uses cookies to help rise software llc identify and track visitors, their usage of http
+co, and their website access preferences
+rise software llc visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using rise software llc’s websites, with the drawback that certain features of rise software llc’s websites may not function properly without the aid of cookies
+by continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to rise software llc’s use of cookies
+– e-commerce those who engage in transactions with rise software llc – by purchasing rise software llc’s services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions
+in each case, rise software llc collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with rise software llc
+rise software llc does not disclose personally-identifying information other than as described below
+and visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities
+– business transfers if rise software llc, or substantially all of its assets, were acquired, or in the unlikely event that rise software llc goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party
+you acknowledge that such transfers may occur, and that any acquirer of rise software llc may continue to use your personal information as set forth in this policy
+– payments we use stripe for payment, analytics, and other business services
+stripe collects identifying information about the devices that connect to its services
+stripe uses this information to operate and improve the services it provides to us, including for fraud detection
+you can learn more about stripe and read its privacy policy at https
+privacy policy changes although most changes are likely to be minor, rise software llc may change its privacy policy from time to time, and in rise software llc’s sole discretion
+rise software llc encourages visitors to frequently check this page for any changes to its privacy policy
+your continued use of this site after any change in this privacy policy will constitute your acceptance of such change
+did you find apk for android
+you can find new free android games and apps
+get the latest updates
+stay up to date with happenings at rise buildings
+© 2019 rise software

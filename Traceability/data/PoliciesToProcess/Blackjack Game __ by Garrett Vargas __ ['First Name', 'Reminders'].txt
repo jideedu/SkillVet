@@ -1,0 +1,20 @@
+alexa casino games privacy policy
+this privacy policy has been compiled to better serve those who are concerned with how their
+'personally identifiable information' (pii) is being used online
+pii, as described in us privacy law
+and information security, is information that can be used on its own or with other information to
+identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use,
+protect or otherwise handle your personally identifiable information in accordance with our alexa skills
+this policy applies to our blackjack game, roulette wheel, slot machine, craps table, casino war, party craps (party dice in uk), blackjack party, three card poker, and video poker skills
+what personal information do we collect from the people that use our skill
+the amazon user identification number and your given (first) name are stored to allow us to associate your account with your high score and save progress of your game play
+none of this information is shared with any third parties
+the can-spam act is a law that sets the rules for commercial email, establishes requirements for
+commercial messages, gives recipients the right to have emails stopped from being sent to them,
+and spells out tough penalties for violations
+to be in accordance with canspam, we agree to the following
+if at any time you would like to unsubscribe from receiving future emails, you can email us at
+and we will promptly remove you from all correspondence
+if there are any questions regarding this privacy policy, you may contact us via e-mail at alexacasinogames@gmail
+last edited on 2018-12-05

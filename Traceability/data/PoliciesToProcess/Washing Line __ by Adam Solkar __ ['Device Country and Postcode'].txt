@@ -1,0 +1,6 @@
+washing line privacy policy
+we use your postal code and country code in order to get information about your local weather
+this information is only gathered if you have granted the skill permissions to use your location in the alexa app
+the location information is used in conjunction with a third party weather api service - openweathermap
+please refer to openweathermap
+org's privacy policy for more information about how they might use the information we send to them

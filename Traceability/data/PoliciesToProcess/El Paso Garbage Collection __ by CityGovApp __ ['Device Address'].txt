@@ -1,0 +1,31 @@
+citygovapp has a focus on both privacy and security
+we will never sell or rent your personally identifiable information to third parties for marketing purposes we will never share your contact information with another user without consent all personally identifiable information you provide will be secured using industry standard protocols and technology
+personal information collected the primary method of collecting personal information is through forms and the registration process
+citygovapp requires some personal information during the registration process in order to ensure the users information is accurate and allowing citygovapp to verify the information when necessary
+cookies like most web sites, citygovapp uses cookies and web log files to track site usage
+a cookie is a tiny data file which resides on your computer which allows citygovappy to recognize you as a user when you return to our site using the same computer and web browser
+unfortunately, if your browser settings do not allow cookies, you will not be able to use our website
+like the information you enter at registration or in your profile, cookie and log file data is used to customize your experience on the web site
+we use cookies to improve the quality of our service by storing user preferences and tracking user trends
+in the course of serving advertisements or optimizing services to our users, we may allow authorized third parties to place or recognize a unique cookie on your browser
+any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e
+your industry or geographic location, for greater customization of your user experience, most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent
+unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use our website or services
+citygovapp does not store personally identifiable information in the cookies
+log files, ip addresses and information about your computer due to the communications standards on the internet, when you visit the citygovapp web site we automatically receive the url of the site from which you came and the site to which you are going when you leave citygovapp
+we also receive the internet protocol (ip) address of your computer (or the proxy server you use to access the world wide web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your isp
+this information is used to analyze overall trends to help us improve the citygovapp service
+the linkage between your ip address and your personally identifiable information is never shared with third-parties without your permission or except when required by law
+legal disclaimer it is possible that we may need to disclose personal information when required by law
+we will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims
+disclosures to others we may also disclose your personal and other information you provide, to another third party as part of a re-organization or a sale of the assets of a citygovapp corporation division or company and only after taking steps to ensure that your privacy rights continue to be protected
+any third party to which we transfer or sell citygovapp's assets will have the right to continue to use the personal and other information that you provide to us
+changes to this privacy policy citygovapp may update this privacy policy
+in the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site
+unless stated otherwise, our current privacy policy applies to all information that we have about you and your account
+if you continue to use the citygovapp service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices
+security in order to secure your personal information, access to your data on citygovapp is password-protected, and sensitive data (such as credit card information) is protected by ssl encryption when it is exchanged between your web browser and our web site
+to protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center
+it is your responsibility to protect the security of your login information
+how to contact us if you have questions or comments about this privacy policy, info@citygovapp
+copyright © 2019 citygovapp

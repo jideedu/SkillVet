@@ -1,0 +1,28 @@
+1 - this agreement governs your use of the alexa skill on an alexa enabled device, like amazon echo (the ‘skill’)
+2 - by linking the skill, you agree to the following terms and conditions
+these should be read in conjunction with the common sense
+3 - during account linking the skill will access your full name and e-mail address
+this address will be stored in the system for the purpose of account linking
+this information will not be shared with third parties
+we will send you any e-mails, if you request the skill to send your tasks and goals to your e-mail and/or if you enable this function in our website
+we endeavour to make sure this information is stored securely and destroyed when requested from alexa module
+4 - we endeavour to make sure the information we provide is correct but you should not rely on any of the information
+we accept no responsibility for any damage, loss, liabilities, injury or disappointment incurred or suffered by you as a result of using the skill, including as a result of us providing inaccurate, untimely, incomplete, erroneous information or sending inaccurate command to alexa and/or the entered information in our website
+5 - we shall not be liable for any failure to comply with its obligations where the failure is caused by something outside its reasonable control
+com reserves the right to modify or discontinue the skill at any time without prior notice
+7 - should you have any questions about the skill please contact us at alexa@aistockvaluations
+© ai stock valuations - all rights reserverd
+1 - this agreement governs your use of the alexa skill on an alexa enabled device, like amazon echo (the ‘skill’)
+2 - by linking the skill, you agree to the following terms and conditions
+these should be read in conjunction with the common sense
+3 - during account linking the skill will access your full name and e-mail address
+this address will be stored in the system for the purpose of account linking
+this information will not be shared with third parties
+we will send you any e-mails, if you request the skill to send your tasks and goals to your e-mail and/or if you enable this function in our website
+we endeavour to make sure this information is stored securely and destroyed when requested from alexa module
+4 - we endeavour to make sure the information we provide is correct but you should not rely on any of the information
+we accept no responsibility for any damage, loss, liabilities, injury or disappointment incurred or suffered by you as a result of using the skill, including as a result of us providing inaccurate, untimely, incomplete, erroneous information or sending inaccurate command to alexa and/or the entered information in our website
+5 - we shall not be liable for any failure to comply with its obligations where the failure is caused by something outside its reasonable control
+com reserves the right to modify or discontinue the skill at any time without prior notice
+7 - should you have any questions about the skill please contact us at alexa@aistockvaluations
+© ai stock valuations - all rights reserverd

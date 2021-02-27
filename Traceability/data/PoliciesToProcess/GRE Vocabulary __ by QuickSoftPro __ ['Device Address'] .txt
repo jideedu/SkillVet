@@ -1,0 +1,19 @@
+this alexa skill is owned and is operated by quicksoftpro if you have any questions, contact us at info@quicksoftpro
+com this skill may have premimum contents which require payment, you must be over the age of 18+ years to make the purchase
+what does this policy cover
+this privacy policy describes how this skill collects, stores, uses, and shares your information
+we do not collect any user name/password information
+only collect userid, device id to track the user who purchased subsciption
+your data is not shared with any third party and is solely used for providing better experience within the skill
+we may revise this privacy policy from time to time to reflect new or changed features and services,
+changes in the law, or changes in our use or collection of personal information
+effective date of the privacy policy can be immediate
+you may or may not be communicated if there is a change in this policy
+if you object to any terms and conditions of the privacy policy or
+any subsequent changes or you become dissatisfied with the skill in any way,
+your only option is to unsubscribe from this skill from alexa alexa account
+your continued use of this skill after we post a revised privacy policy means
+that you agree to the revisions
+all purchases made are final and non-refundable in all circumstances
+skill developer/company is not liable for any direct or indirect monetary or non-monetary losses of any kind happened because of direct/indirect use of this skill
+company has zero liablity of any kind at all times

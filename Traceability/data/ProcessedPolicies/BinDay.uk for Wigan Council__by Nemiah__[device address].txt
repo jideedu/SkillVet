@@ -1,0 +1,7 @@
+privacy and personal data
+we do not collect or store any personal information via this web-app or the alexa skill
+your postcode is passed straight to wigan council's website where it is used to look up bin collection data
+we store your postcode in a cookie on your device
+by using a cookie it means that we don't need to store any of your personal data on our servers
+we use google analytics to help us monitor usage and flag errors
+google analytics places a few cookies on your computer to track you throughout the web-app

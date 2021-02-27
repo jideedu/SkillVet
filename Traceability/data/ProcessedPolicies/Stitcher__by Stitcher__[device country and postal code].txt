@@ -1,0 +1,113 @@
+see more shows and episodes
+stitcher eu privacy notice
+stitcher security vulnerability policy
+stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously
+this privacy policy discloses our privacy practices and the possible uses of the information that stitcher, inc
+(“stiticher”) gathers via our website at https
+com , the stitcher mobile application, and any other submissions by you to stitcher (together, the “services”)
+this privacy policy is supplementary to our terms of use
+by installing, using, registering for or otherwise accessing the services, you agree to this privacy policy and give an explicit and informed consent to the processing of your personal data in accordance with this privacy policy
+if you do not agree to this privacy policy, please do not install, use, register to or otherwise access the services
+stitcher may update this privacy policy from time-to-time at our sole discretion
+it is your responsibility to review the privacy policy for any changes each time that you use our services and you are bound by such changes
+use of the services by you following the posting of a new privacy policy on our website at https
+com constitutes your acceptance of the privacy policy as modified
+what information do we collect, and how do we use it
+stitcher collects information about our users in various ways, including by your voluntary submissions, participation in and access to the services, as well as through cookie and other tracking technology
+the information stitcher collects may be used in a variety of ways, including for internal review, to improve the services, to notify you about updates to the services,or promotions that you may be interested in, and to fulfill and provide services requested by you
+the information we collect currently includes, but is not limited to, the following
+for purposes of this privacy policy, “non-personal data” means information that does not directly identify you, including "aggregate" and "de-personalized" information, which is data stitcher collects about the use of stitcher, from which any personally identifiable data has been removed
+stitcher may use tools or third party analytical software to automatically collect and use certain non-personal data that does not directly enable stitcher to identify you
+the types of non-personal data stitcher may collect and use include, but are not limited to
+(i) device properties, including, but not limited to unique device identifier or other device identifier ("udid")
+(ii) device software platform and firmware
+(iii) mobile phone carrier
+(iv) geographical data such as zip code, area code and location
+and (v) other non-personal data to help us enhance our services
+from time to time, we may collect general, non-personal, statistical information about the use of the services, such as how many visitors visit a specific page on our website or in our mobile apps, how long they stay on that page, and which hyperlinks/buttons, if any, they click on
+this information represents a generic overview of our users, including their collective viewing habits, and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior
+we collect this information through the use of technologies such as 'cookies', which are discussed in greater detail in this privacy policy
+we collect this information in order to determine which services are most popular and to enhance our services
+we may also group this information into aggregate visitor data in order to describe the use of the services to our existing or potential business partners or other third parties, or in response to a government request
+from time to time, we may use this non-personal information to optimize third-party offers of products and/or services
+we also may share aggregated demographic and preference data with third parties to enable the provision of targeted information, promotions, offers and/or discounts on products and services
+however, please be assured that this aggregate data will in no way personally identify you
+cookies and other tracking technologies
+stitcher may automatically collect non-personally identifiable information and data through the use of cookies
+cookies are small text files a website uses to recognize repeat users, facilitate the user's ongoing access to the website and facilitate the use of the website
+cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising
+most browsers allow you to control cookies, including whether or not to accept them and how to remove them
+you may set your browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser
+however, please be aware that some features of our services may not function or may be slower if you refuse cookies
+you may occasionally get cookies from our advertisers or other third parties
+we do not control these cookies
+the use of advertising cookies sent by third party ad servers is standard in the internet industry
+tracking technologies may record information such as internet domain and host names
+internet protocol (ip) addresses
+browser software and operating system types
+and dates and times that our services are accessed
+an ip address is a number that is automatically assigned to your computer whenever you are surfing the web
+web servers, the computers that 'serve up' webpages, automatically identify your computer by its ip address
+we may link the information we record using tracking technologies to personal information we collect from you for our own marketing and advertising purposes
+in addition, we reserve the right to use ip addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with our terms of use , to protect our services, our customers or others, or when we believe in good faith that the law requires it
+you recognize and agree that the analytics companies and marketing partners utilized by stitcher may combine the information collected with other information they have independently collected from other services or products relating to your activities
+these companies collect and use information under their own privacy policies
+"personal information" refers to information that tells us specifically who you are, such as your name, phone number, email, postal address, and possibly information relating to certain support or customer service issues
+in many cases, we need this information to provide to you many of the services that you may have requested
+we use this personal information to manage and provide our services, monitor user activity, and otherwise to improve our services
+we might ask for or collect additional personal information in the future
+who do we share your personal information with
+we do not disclose personal information to third parties, except when one or more of the following conditions is true
+we have your permission to make the disclosure
+the disclosure is consistent with the purpose for which the personal information was obtained
+the disclosure is permitted by relevant law
+the personal information to be disclosed is publicly available
+the disclosure is reasonably related to the sale or other disposition of all or part of our business or assets
+the disclosure is for our own marketing purposes, or, with your authorization, for the marketing purposes of third parties
+the party to whom the disclosure is made controls, is controlled by, or is under common control with stitcher
+the disclosure is in our sole discretion necessary for the establishment or maintenance of legal claims or legal compliance, to satisfy any law, regulation, subpoena or government request, or in connection with litigation
+the disclosure is in our sole discretion about users who we believe are engaged in illegal activities or are otherwise in violation of our terms of use, even without a subpoena, warrant or court order
+the disclosure is to outside businesses to perform certain services for us, such as maintaining our services, providing marketing assistance, and data analysis
+prior to sharing of your personal information with others, agreements are made between stitcher and such outside parties to whom we are sharing data
+if stitcher becomes aware that any such outside party is improperly using or disclosing personal information, it will notify that outside party and request that it take reasonable steps to cease such use or disclosure
+you can also ask us whether we are keeping information about you
+how your information is being used
+update or delete your information, or opt-out of the collection and use of certain information by sending an email or by writing to us specifying the nature and scope of your request
+if you choose to delete your information or opt-out of the collection and use of your information, you understand that the services may no longer be available to you
+please state in your correspondence the details of your request
+we may require proof of your identity before we provide you with the requested information
+we allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed
+approved requests will be processed within ten (10) days of the date on which we receive the request
+as part of our services provided to you, we may send you email with news and other information
+you may, at any time, opt-out of receiving these type of email from us
+however, you agree that we may continue to use your email address from time to time to contact you about your account
+the personal information you provide and we collect is stored within databases that we control directly or through our service providers
+as we deem appropriate, we use security measures consistent with industry standards, such as firewalls, to protect your personal information
+however, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the internet
+your information may be transferred to, and maintained on, computers located outside of your state, province, or country where the privacy laws may not be as protective as those where you live
+if you are located outside the united states and choose to provide information to us, please be aware that we transfer personal information to the united states and process and store it there
+by submitting your personal information, you consent to having your personal data transferred to, processed, and stored in the united states
+links to other sites
+our services may contain hyperlinks and pointers to internet sites maintained by third parties
+these links are provided for your reference only
+we do not control, operate or endorse in any respect information, products or services on such third-party sites and are not responsible for their content
+many third-party sites have their own privacy policies that may differ from ours
+this privacy policy only covers our services and does not cover any other site
+while we make every effort to keep your information secure, we do not control the policies of other sites
+we do not seek or knowingly collect any personal information about children under 13 years of age
+if we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database
+visitors residing outside the united states
+this privacy policy and the privacy practices of stitcher will be subject exclusively to the laws of california, without regard to its conflict of law principles
+stitcher makes no representation that this privacy policy and such practices comply with the laws of any country outside the united states
+how to contact us
+should you have any questions relating to this privacy policy, please contact us at support@stitcher
+you may also contact us by mail
+250 montgomery st, 15th floor,
+san francisco, ca 94105
+the easiest way to listen to podcasts on your iphone, ipad, android, pc, smart speaker — and even in your car
+bonus and ad-free content available with stitcher premium
+get the free app
+now available for iphone, ipad, android and alexa
+© stitcher 2019, all content is copyright of its owners
+this site is protected by recaptcha and the google privacy policy and terms of service apply
+do not sell my info

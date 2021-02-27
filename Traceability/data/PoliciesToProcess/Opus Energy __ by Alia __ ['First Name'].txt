@@ -1,0 +1,6 @@
+go to first page
+go to last page
+enter the password to open this pdf file
+go to first page
+go to last page
+enter the password to open this pdf file

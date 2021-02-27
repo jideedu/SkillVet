@@ -1,0 +1,13 @@
+# amazon alexa skill privacy policy
+this applies to the following alexa skills
+, a dog-themed motivational for developers
+, a skill for keeping up to date with the online publishings of @edm00se
+*, a skill for checking against a common "sweat threshold" for those of a perspiring persuation
+# what information does the skill collect
+we don't collect any identifying information
+# what do we use the information use for
+*when making use of location based apis, they are accessed directly via amazon's alexa location api, the permissions of which can be managed by the user and changed at any time
+these values are not stored by the developer in any capacity, any use of that information is handled directly on amazon's servers by their own apis under their own terms
+# do we disclose any information to 3rd parties
+these are hobby skills meant for fun and amusement, which are primarily open sourced
+a place for miscellanea

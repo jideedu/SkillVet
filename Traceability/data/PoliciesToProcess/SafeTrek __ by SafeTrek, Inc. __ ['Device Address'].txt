@@ -1,0 +1,52 @@
+public safety partners support blog get the app public safety partners support blog get the app privacy policy last updated april 18, 2019 noonlight, inc
+(“noonlight,” “we,” “our,” or “us”) values the privacy of individuals who use the noonlight website, mobile application, and related services (collectively, the “service”)
+this privacy policy (the “policy”) describes the information that we gather from visitors, users, and others who access or use the service (“users” or “you”), how we use and disclose such information, and the steps we take to protect such information
+by using the service, you consent to the privacy practices described in this policy
+‍ this policy is incorporated into and is subject to the noonlight terms of use
+capitalized terms used but not defined in this policy have the meaning given to them in the terms of use
+information we collect personal data ‍ while using the service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“personal information”)
+personal information may include, but is not limited to, your name, email address, mailing address, telephone number, other contact and demographic information, and payment information
+you may provide us with personal information when you register for an account, use the service, make a purchase on the service, contact customer support, or otherwise communicate with us
+personal information will also include any health-related information about yourself that you choose to directly or indirectly provide to us
+you are not required to provide any health-related information in order to use the service, but if you do, you are authorizing us to share such information with emergency responders and as otherwise provided for under this policy
+‍ usage information ‍ we collect information about how you access and interact with the service, such as device type, ip address, operating system, browser type, address of a referring website, activity on our website, device id, access dates and times, and other system activity
+we may collect certain information by automated means using technologies such as cookies, web beacons, pixels, browser analysis tools, server logs, and mobile identifiers
+in many cases the information we collect using cookies and other tools is only used in a non-identifiable manner without reference to personal information
+for example, we may use information we collect to better understand website traffic patterns and to optimize our users’ experience
+in some cases we associate the information we collect using cookies and other technology with your personal information
+‍ location information ‍ when you use the service, we collect geo-location information from your device to determine your physical location through data such as gps, ip address, and wifi
+‍ information received from third parties ‍ if you choose to connect your account to your account with a third-party service (e
+apple health or amazon’s alexa), we may receive or be granted access to information from such third-party service, including personal information
+you can stop sharing your information from a third-party service with us by removing our access to that service
+‍ voice recordings ‍ in order to provide the service to you, we may record your phone calls with emergency responders
+by using the service and interacting with emergency responders, you consent to such recording and our use and storage of any recording in accordance with this policy
+‍ third-party cookies ‍ third parties may also use cookies, web beacons, or other devices to collect information when you use the service
+noonlight does not control any cookies or other data collection tools that may be placed on the service by a third party, and this policy does not cover the use of such cookies and/or other data collection tools by any third party
+we encourage you to read the privacy policies of such third parties to find out more about the information that may be collected by them and the choices you have regarding the collection, use, and sharing of such information
+you may be able to “opt out” of the collection of information through cookies or other tracking technology by actively managing the settings on your browser or mobile device
+how we use your information provide, maintain, and improve the service ‍ we may use your information to
+contact you if you trigger an emergency dispatch public safety authorities to your location and share with them any information that you have provided us, including health information provide customer service send you confirmations, updates, security alerts, and support and administrative messages detect and prevent fraud operate, protect, and optimize the service and your experience, such as by performing analytics and conducting research troubleshoot and protect against errors personalize and improve the service monitor and analyze usage and trends and otherwise measure the effectiveness of the service develop new features sharing your information when you use our service, you are authorizing us to share information with relevant emergency responders
+in addition, we may share information
+that you direct us to disclose to other with our third-party business partners, vendors, and consultants who perform services on our behalf or who help us provide our services, such as accounting, managerial, technical, marketing, or analytic services if required to do so by law or in the good-faith belief that such action is necessary to comply with local, state, or federal laws, or to respond to a court order, judicial or other governmental subpoena or warrant, or in the event of bankruptcy proceedings if we believe in good faith that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of noonlight, our users, our employees, copyright owners, third parties, or the public, including without limitation to protect noonlight or our users from fraudulent, abusive, inappropriate, or unlawful use of our service in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where information may be disclosed or transferred as one of the business assets of noonlight nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent
+this policy in no way restricts or limits our collection and use of aggregate or de-identified information
+links to third-party sites and services ‍ the service may contain links to other websites
+we are not responsible for the practices employed by websites or services linked to or from the service, nor the information or content provided to or contained therein
+please remember that when you use a link to go from the service to another website, our privacy policy does not apply to those third-party websites or services
+your browsing and interaction on any third-party website or service, including those that have a link on our service, are subject to that third party’s own rules and policies
+please read those rules and policies before proceeding
+how we protect your information we take measures designed to protect your information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction
+please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse
+to protect the confidentiality of information maintained in your account, you must keep your password confidential and not disclose it to any other person
+you are responsible for all uses of the service by any person using your password
+please advise us immediately if you believe your password has been misused
+children's privacy persons under the age of 13, or any higher minimum age in the jurisdiction where that person resides, are not permitted to create accounts unless their parent has consented in accordance with applicable law
+if we learn that we have collected the personal information of a child under the relevant minimum age without parental consent, we will take steps to delete the information as soon as possible
+parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at legal@noonlight
+opting out you may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails
+if you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations
+changes and updates to the policy we reserve the right to change the provisions of this policy at any time
+please revisit this page periodically to stay aware of any changes
+if we modify this policy, we will make it available through the service and indicate the date of the latest revision
+your continued use of the service after the revised policy has become effective indicates that you have read, understood, and agreed to the current version of this policy
+contact please contact us with any questions regarding this policy at legal@noonlight
+platform consumers partners public safety company about us blog support faqs contact us legal privacy policy terms of use follow us

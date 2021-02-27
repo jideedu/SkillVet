@@ -1,0 +1,4 @@
+alexa opinion poll skill privacy policy
+we value your privacy, so we want to be explicit about what kind of personal information is involved when you interact with opinion poll skill
+please note all responses are anonymous and that no personally identifiable information is collected
+please refer to your device's privacy policy, as well amazon’s privacy policy for alexa, to better understand what information those devices and services may be collecting when any skill is used

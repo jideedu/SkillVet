@@ -1,0 +1,149 @@
+this privacy policy describes and explains how vet24seven, inc
+(“vet24seven”, “we”, “us”, or “our”) collects, uses, stores, shares and protects your information in connection with the vet24seven website(s), including the website located at www
+com(the “websites”), and the services and tools (including, but not limited to, mypetdoc online community, text service, and other software applications) related to the websites (collectively, the “service”)
+this privacy policy applies when you access, visit or use the service
+this privacy policy is part of, and is governed by, the terms and conditions set forth in the mypetdoc terms of service (the “terms”)
+by creating an mypetdoc account, or by otherwise accessing, visiting or using the service, you expressly consent to our collection, use, disclosure and retention of your information as described in this privacy policy and in the terms
+if you have questions or concerns about this privacy policy, please contact us by sending an email to info@ask
+vet or writing us at vet24seven, 809b cuesta drive, #2132, mountain view, ca 94040, attention
+information we collect about you and your animal that you voluntarily provide to us
+the information we collect or maintain about you and your animal, when you register as a user of the service, make changes to your user profile information or send email messages, forms or other information to us through the service, may include, but is not limited to
+your full name, email address, username, password, birthday, your city, state and country of residence, your zip code, phone number and similar registration information
+billing information that you provide us, such as credit card information including card number, corresponding security code, card expiration date, cardholder name and billing and shipping addresses
+we collect, but do not store your credit card or payment information in any useable form, other than for authorization purposes
+we may collect information about your purchases or other activities on and through the service, and associate it with your mypetdoc account
+information about the computer or mobile device you are using, such as what internet browser you use, the kind of computer or mobile device you use, and other information about how you use the service
+your comments, reviews, tags, ratings, pictures, videos and any other information or content you choose to share through the service
+this content may be displayed on the service and may be viewable by other users of the service
+information we collect automatically through use of technology
+when you use the service, we, along with our third-party service partners, vendors and business partners, may automatically collect information about you
+we may passively collect certain information, navigational data like uniform resource locators (urls) and third party tracking services, including
+tracking of some of the actions you take on the website, such as the content of searches you perform on the website
+when you access the service from a computer or other device, we may collect anonymous information from that device, such as your internet protocol address, browser type, connection speed and access times
+we may use both session cookies (which expire once you close your web browser) and persistent cookies to make the service easier to use, to make our advertising better, and to protect both you and mypetdoc
+certain features of the service use gps technology to collect real-time information about the location of your device so that the service can connect you to a provider who is licensed or authorized to provide services in the state where you are located
+we may also collect non-personal information from your mobile device or computer
+this information is generally used to deliver the most relevant information to you (for example, how you use the application(s), and information about the type of device or computer you use, fixing bugs and otherwise improve the performance of the service)
+we use google analytics to help analyze how users use the service
+google analytics uses cookies to collect information such as how often users access and use the websites, what pages they visit, and what other websites they used prior to coming to the websites
+we use the information we get from google analytics only to improve the websites and the service
+google analytics collects only the ip address assigned to you on the date you visit the websites, rather than your name or other personally identifying information
+although google analytics plants a persistent cookie on your web browser to identify you as a unique user the next time you visit the websites, the cookie cannot be used by anyone but google
+the google analytics terms of use and the google privacy policy restrict google’s ability to use and share information collected by google analytics about your visits to the websites
+some of our third-party service partners, vendors and business partners allow you to opt-out from the automatic collection of your information
+to opt-out from having google analytics collect and use your information, please visit https
+use of cookies and web beacons
+mypetdoc , along with our third-party service partners, vendors and business partners may use cookies, locally stored objects and web beacons to automatically collect information about your use of the service
+cookies are small bits of information that are transferred to and stored in separate files within your computer’s browser
+the service uses both “persistent cookies” which remain on your computer after you have closed your browser as well as “session cookies” which exist only during a visitor’s online session and disappear from your computer when you close your browser
+locally stored objects or “flash cookies” are data files that can be created on your computer by the websites you visit and are a way for websites to store information for later use
+locally stored objects are different than cookies because they are stored in different parts of your computer than cookies
+web beacons are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data
+you can set your browser to reject cookies or to notify you when you are sent a cookie
+you can also disable the storage of flash cookies
+for additional information about managing and disabling flash cookies, please visit http
+however, if you reject cookies or disable flash cookies, you may not be able to use all portions or all functionality of the service and will not be able to stay logged in to the service
+do not track requests
+your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit
+however, mypetdoc will not disable tracking technology that may be active on the service in response to any “do not track” requests that we receive from your browser
+how we use the information we collect
+we may use information we collect about you through the service for the following purposes and/or disclosures (subject to applicable legal restrictions)
+provide access to the service and to provide you with requested services and customer support and to process and respond to your inquiries
+personalize, customize, measure, and improve our services, content, and advertising and otherwise to enhance your experience with the service
+contact you with information, including promotional, marketing and advertising information and recommendations that we believe may be of interest to you
+generate and review reports and data about our user base and service usage patterns
+improve the quality of service through the performance of quality reviews and similar activities
+prevent, detect, and investigate potentially prohibited or illegal activities, and enforce the terms
+compile aggregate data for internal and external business purposes and create aggregate statistics and reports relating to the use of the service
+notify you when service updates are available
+market and promote the websites and the service, and analyze the accuracy, effectiveness, usability, or popularity of the service
+resolve disputes and troubleshoot problems
+provide you with other services requested by you as described when we collect the information
+and take any other action as otherwise stated in this privacy policy or the terms or for which you give us authorization
+how we share information we collect with third parties
+mypetdoc may disclose information it collects to the following third parties
+we may share your information with third-party contractors or service providers who provide certain services to us or on our behalf, such as operating and supporting the service, processing payments, fulfilling orders you place through the service or otherwise responding to your customer service requests
+these service providers, who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them, will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use for the service
+we may, from time to time, share your name, your postal mailing address and your email address with a few carefully selected third-party marketing partners that we believe offer products or services that may be of interest to you
+we will not share credit card information which you have given us with any of our third-party marketing partner(s)
+in addition, if would like us to stop providing your information to our third-party marketing partners, you may opt-out by emailing us at info@ask
+companies that acquire our business or assets
+becomes involved in a merger, acquisition, sale of assets, securities offering, bankruptcy, divestiture, restructuring, reorganization, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer your information to a third party or parties in connection with the applicable transaction
+our affiliates and subsidiaries
+we may share some or all of your information with our parent company, subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us
+we will require these entities to comply with the terms of this privacy policy with regard to their use of your information
+if you place an order through the service, the information you provide will be transmitted to your credit card company to verify and authorize your purchase
+mypetdoc may share information relating to visitors and users of the service with affiliated or unaffiliated third parties on an aggregate basis (anonymized and de-identified) without any restrictions
+we note that, while this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally
+to the extent permitted by law, we may share your information with law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other user of the service to legal liability, or to protect our rights or property, or during emergencies when safety is at risk
+we may also share your information in response to court orders, subpoenas, or other legal or regulatory requests, and we may provide access to your information to our legal counsel and other consultants in connection with actual or potential litigation
+we may share your information with third parties when we forward digital millennium copyright act (“dmca”) infringement notifications and counter- notifications as described in the terms
+dmca infringement notifications and counter-o notifications (including any personal information included as part of the notifications) will be forwarded as submitted to us without any deletions
+unforeseeable or unpreventable disclosures
+your information may be disclosed to third parties in unforeseeable situations or situations that are not preventable even when commercially reasonably protections are employed, such as in the case that mypetdoc or the service is subject to a hacking or other attack
+does this privacy policy apply to information collected by third parties
+this privacy policy applies only to information we collect through the service and in email, text, video and other electronic communications sent through or in connection with the service, and does not apply to information collected by any third party
+when you click on links on the websites or through the use of the service, you may leave the websites or the service and third parties may collect some information from or about you
+please note that mypetdoc does not alert you when you have chosen to click through to another website or property through the links on the websites or the service
+the information practices of such third parties are governed by their own privacy policies and are not covered by this privacy policy
+please read their privacy statements to determine how they handle any information they collect from you
+we are not responsible for the privacy practices of any third party
+the service may carry advertisements from other companies (the “advertisers”), often with the ability to click through to websites or properties run by these other companies
+the advertisers may use cookies, web beacons, and other technologies to collect information from or about you in order to tailor advertisements, measure advertising effectiveness, and enable other enhancements
+this information may include your use of the websites and the services, other websites you visited, advertisements you viewed, and your other activities online
+the information practices of advertisers are governed by their own privacy policies and are not covered by this privacy policy
+some of the advertisers may be members of the network advertising initiative (“nai”), a cooperative of online marketing companies that offers a centralized tool for opting out of behavioral advertising delivered by each of its member companies
+if you would like to obtain more information about the nai and make choices about their members’ use of your information, please visit http
+some of the third parties that collect information on the websites in order to provide more relevant advertising to you participate in the self-regulatory program for online behavioral advertising
+this program offers a single location where users can make choices about the use of their information for ad targeting
+to learn more, please visit http
+how is information accessed, changed or modified
+some information may be modified through the service via your account
+you may make a request to modify any information by contacting us directly at info@ask
+following receipt of a request from you, we will take reasonable steps to update, correct or modify your information
+what information is retained and for how long
+we retain information for active mypetdoc accounts as long as it is necessary and relevant for our operations
+in addition, we may retain information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce the terms and take other actions permitted by law
+we also retain anonymous information about your use of the service and aggregate data for as long as it is necessary or relevant for our business operations
+the information we retain about you will be handled in accordance with this privacy policy
+what about deleting the information collected
+you may request deletion of information we collect by us, but we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements)
+when we delete information we collect, it will be deleted from the active database, but may remain in our archive
+once we disclose some of the information we collect to third parties, we may not be able to access that information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures
+after we delete the information you requested, we will retain any and all aggregate data and will continue to use such aggregate data as permitted under this privacy policy
+what steps are taken to keep information secure
+mypetdoc takes reasonable measures to protect the information you provide to us or submit through the service against loss, theft and unauthorized use, disclosure, or modification
+we use secure sockets layer (ssl), the standard security technology for establishing an encrypted link between a web server and a browser
+we employ reasonable physical, electronic and managerial security methods to help protect against unauthorized access to personal information, such as encryption
+but please be aware that no data transmission over the internet or data storage facility can be guaranteed to be perfectly secure
+as a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk
+report any security violations by sending email to info@ask
+does this privacy policy apply to users located outside of the united states
+the service is operated from the united states and directed to users in the united states
+if you are located outside of the united states and choose to use the service or provide your information to us, your information will be transferred, processed and stored in the united states
+privacy laws may not be as protective as those in your jurisdiction
+your agreement to the terms of this privacy policy followed by your submission of information in connection with the service represents your agreement to this practice
+if you do not want your information transferred to or processed or stored in the united states, you should not use the service
+use of the service by users outside of the united states is at your own risk
+are there any additional rights of california residents
+83 of the california civil code permits california residents to request from a business, with whom the california resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year
+you may make one request each year by emailing us at info@ask
+vet or writing us at vet24seven, 809b cuesta drive, #2132, mountain view, ca 94040, attention
+can children use the service
+the service is not intended for use by anyone under age 18 or the applicable age of majority without involvement of a parent or guardian
+we will never knowingly collect information directly from children under the age of 18 without verifiable parental consent
+if you are under the age of 18, please do not provide us with information of any kind whatsoever
+if we become aware that a user is under the age of 18 and has submitted information to the service without verifiable parental consent, we will remove his or her information from our files
+we encourage parents and guardians to spend time with their children online and to be familiar with the websites they visit
+if you have reason to believe that we may have accidentally received personal information from a child under age 18, please contact us immediately at info@ask
+how is the privacy policy modified
+we may change this privacy policy from time to time in the future
+we will post any revised version of the privacy policy on this page at least thirty (30) days before the effective date of the changes
+we will also notify you of material changes to this privacy policy by sending you an email at least thirty (30) days before the effective date of the changes to the email address you most recently provided to us
+we encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding material changes to this privacy policy
+continued use of our service following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes
+if you do not agree to the new terms, you may terminate your account within the applicable thirty (30) day period by contacting us or by deleting your account from the service
+how do i contact you to ask additional questions or request additional information
+please feel free to contact us at info@ask
+vet if you have any questions about this privacy policy
+© 2019 vet24seven, inc

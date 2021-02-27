@@ -1,0 +1,89 @@
+sign in with google signed in with google
+forgot password don't have an account
+sign in with google signed in with google
+by signing up, i agree to the terms of use and privacy policy have an account
+pet24care ("pet24care", "we", "us" or "our") has formulated this privacy policy ("privacy policy") for the benefit of the users of its website ("you", "your" and "yourself") at https
+com (the "site") to demonstrate our serious commitment to protecting the privacy of the data that we collect through the site, mobile applications and services (collectively, the “services”)
+we may automatically collect personally identifying information ("personal information") when you use our services
+this privacy policy sums up how we handle the personal information that you voluntarily provide when you use our services
+your use of our services will be deemed conclusively to constitute your acceptance of and agreement to this privacy policy and all portions hereof
+we may change or add to this privacy policy, so we encourage you to review it periodically
+what information is collected
+information you provide to us we collect personal information you provide directly to us
+types of personal information includes
+your phone (or mobile) number
+your date of birth or age
+your credit/debit card number
+your pet’s information (name, breed, date of birth, gender, veterinary information, vaccination details, photographs, etc
+we may also collect and store limited payment information from you, such as payment card type, expiration date and a portion of your credit/debit card number
+however, we do not store or have access to full payment card numbers as all transactions are processed by our third-party payment processors
+in some cases, we may also collect information you provide about others, such as when you send an email to one of your personal contacts using our services
+in such case, we will use this information solely to fulfill your request, and not to otherwise send promotional communications to those contacts
+if you choose not to provide personal information, we may not be able to provide you with requested services or information
+information we collect automatically when you use our services
+when you access or use our services, we automatically collect information about you, including
+we collect log information about your use of our services, including the type of browser you use, access times, pages you visit on our site, your ip address and the page you visited before navigating to our services
+we collect information about the computer or mobile device you use to access our services, including the hardware model, operating system and version, unique device identifiers and mobile network information
+we may collect information about the location of your device each time you access or use certain features of our mobile applications or otherwise consent to the collection of this information
+for more details, please see “your choices” below
+information collected by cookies and other tracking technologies
+we use various technologies to collect information, including cookies and web beacons
+cookies are small data files stored on your hard drive or in device memory that help us improve our services and your experience, see which areas and features of our services are popular and count visits
+web beacons are electronic images that may be used in our services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness
+for more information about cookies, and how to disable them, please see “your choices” below
+we also use this information for reporting and analysis purposes which helps us provide the best possible customer experience
+information we collect from other sources
+we may also obtain information from other sources and combine that with information we collect through our services
+for example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site
+how the collected information is used
+we may use information about you for various purposes as described in this privacy policy or disclosed to you in connection with our services, including to
+provide, maintain and continuously improve our services
+fulfill and manage purchases, orders, payments, refunds or requests for information about our services
+facilitate and process transactions and send you related information, including booking and payment confirmations and tax documentation (where required)
+enable communications between you and other users of the services
+send you technical notices, updates, security alerts and support and administrative messages
+respond to your comments, questions and requests and provide customer service
+monitor and analyze trends, usage and activities in connection with our services
+communicate with you about services, offers, promotions, and events, and provide news and information we think will be of interest to you
+personalize and improve the services and provide advertisements, content or features that match user profiles or interests
+link or combine with information we get from others to help understand your needs and provide you with better service
+detect, investigate and prevent fraudulent transactions and other illegal activities and protect our customers and our business
+investigate claims, incidents or inquiries regarding customers, and pets, assist law enforcement, animal control, health officials and/other government entities to respond to legal, regulatory, health and similar inquiries
+enable the mediation of disputes between users of our services
+carry out any other purpose described to you at the time the information is collected
+if you have created a pet24care
+com online account, you may log in and update, correct or delete your account information, including contact, billing, and shipping information
+you may also call 425-598-3006 and ask for the information you are trying to access or change
+you may also contact us at https
+we may, however, decline requests that are unreasonable, prohibited by law, or are not required to be honored by applicable law
+if you wish to deactivate your account, please call us at 425-598-3006, but note that we may retain certain information as required by law or for legitimate business purposes
+we may also retain cached or archived copies of information about you for a certain period of time
+when you first install or launch our mobile applications that collect location information, you will be asked to consent to the application’s collection of this information
+we require location information to use certain features of our services, so if you do not consent to this collection, you cannot use those features
+if you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device
+if you do so, certain features of our mobile applications will no longer function
+you may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device
+cookies and browser settings
+most web browsers are set to accept cookies by default
+if you prefer, you can usually choose to set your browser to remove or reject browser cookies
+please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services
+some browsers have a 'do not track' feature that lets you tell websites that you do not want to have your online activities tracked
+neither pet24care nor its third party providers have a systematic method for ensuring that browser 'do not track' requests are consistently honored
+you may continue to receive business communications such as appointment confirmations or other administrative information
+your information will likely remain in our database
+with your consent, we may send push notifications or alerts to your mobile device
+you can deactivate these messages at any time by changing the notification settings on your mobile device
+if you are a service provider, however, certain pet24care services may require that you accept mobile app push notifications or alerts
+if you do not want to receive these push notifications or alerts, then, in addition to adjusting the notifications in your mobile device, you must withdraw from providing such services
+with your consent, we may send service-related text messages to your mobile device
+you may opt out of receiving some or all of these messages by updating your “notifications” preferences under “account settings” in your online pet24care profile (these settings are not available in-app)
+if you are a service provider, however, certain pet care services or features may require you to receive service-related messages by text
+if you do not want to receive these service-related text messages, then, in addition to adjusting your notifications preferences, you must withdraw from providing such services or using such features
+our mobile app and mobile website
+our mobile app is downloadable onto smart phones and serves as a mechanism to take you to our mobile website
+our mobile website collects the same type of information outlined throughout this policy
+if you have any questions or comments regarding this privacy policy or any the practices described herein, you can contact us by
+calling support helpline at 425-598-3006
+emailing us at support@pet24care
+writing us at pet24care, 2018 156th ave ne, bellevue, wa 98007, usa, attn
+chief information security officer/privacy policy

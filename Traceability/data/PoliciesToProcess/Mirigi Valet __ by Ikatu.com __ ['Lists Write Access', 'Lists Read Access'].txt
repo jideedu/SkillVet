@@ -1,0 +1,40 @@
+ikatu's mirigi privacy policy
+data privacy is important to our company (referred in this document as "us"), we respect the privacy rights of users and recognize the importance of protecting information collected about you
+this privacy policy explains how information is collected, used and disclosed when using the mirigi product ("service")
+mirigi is a concierge service software for the residential market that provides the user ("you") with home automation features through services such as khimo or lutron, and allows efficient communication with the building staff to provide services such as delivery tracking, amenities reservations, notifications, and more
+ikatu is a company which develops and provides solutions for smart buildings since 2006, with offices located in montevideo, uruguay at siria 6101
+what will we do with your personal information
+by using our service you knowingly provide personal information that is stored in our servers
+this information will only be used in order to provide you with the features of our service, and always in ways you would reasonably expect
+log files of all the processing that is done in mirigi, are kept in the servers
+these log files help us to debug and fix any possible errors and will not be used for other purpose than that
+the logs could contain any of the personal data listed below
+in addition to creating the logs, the information will be also processed for the purposes that are specified in each item
+if requested, it will be used to identify you as a user
+user's name and personal preferences optional
+if requested, it will be used to personalize the service such as the language and metric system
+user's building and apartment, and register of events to provide the basic functionalities of our service
+events are registered to provide notifications, communicate the staff, etc
+session cookies when using mirigi in a browser, session cookies are used to improve the usage of the service
+do we share information with third parties
+in some cases the service will need to share personal information with third parties
+in particular, the service uses khimo to provide home automation features
+for this purpose, information such as the execution of commands on your home are sent
+please refer to khimo's privacy policiy for more information
+your personal information may be also disclosed to a third party if we are required to do so because of an applicable law, court order or governmental regulation
+do we receive information from third parties
+in order to be able to control your home, the service needs to obtain data from khimo
+in particular khimo provides our service with a description of your home
+please refer to khimo's privacy policiy for more information
+how can you access, erase or update your personal information
+if you wish to access, review, update or delete any personal information we hold, you can write to support@mirigi
+com with your requests
+where do we store your information
+our servers are located in the us, meaning that your personal data will be transferred there
+the transmission and storing of this information is under appropriate security measures and will be done through a compliance mechanism such as a data processing agreement
+the hosting partner is a subject to the privacy shield agreement with the eu/euu
+could this policy change
+we might change this policy in case of any change on what or how the data is processed
+refer to this policy from time to time to stay updated in our latest policies
+what if i you are not satisfied with this policy
+if you have any doubts or concerns about this policy please send us a message to support@mirigi

@@ -1,0 +1,351 @@
+switching to a meter
+appearance of your water
+how do i pay online
+how can you help me with paying my bill
+how do i set up a direct debit
+would i be better off on a meter
+where is my stop tap
+how can i save water
+how can i get paperless billing
+how can i give you my feedback
+manage my account online
+save money on my bill
+apply for a meter
+set up a payment plan
+what is open water
+find out about open water
+water supply and fittings regulations
+how do i pay for a new main
+how much does a connection cost
+how do i tell you about an installation
+where can i get more regs information
+how do i hire a standpipe
+notify you of an installation
+apply for a new connection
+apply for a replacement connection
+privacy & cookie policy
+privacy & cookie policy
+welcome to the south staffordshire water plc privacy notice
+issue date 12 february 2019, version 3
+we are south staffordshire water plc, registered in england & wales with company number 02662742 with our registered office at green lane, walsall, ws2 7pd
+we are registered as a data controller (registration number z6670622) with the information commission’s office
+we provide our customers with clean water services
+to our customers in the west midlands, south staffordshire and south derbyshire we are known as south staffs water and to our customers in the cambridge region we are known as cambridge water
+we are part of the south staffordshire plc group of companies (“group”)
+you can find details about the other companies in our group here
+any reference in this privacy notice to “we”, “us” or “our” is a reference to south staffordshire water plc
+about this privacy notice please take some time to read this privacy notice which applies to the personal data we collect about you
+it explains how we collect and process your personal data and tells you about the rights you have
+if we change our privacy notice we will post an up to date version on our website and let you know about any important changes
+personal data we collect about you
+personal data means any information about an individual from which that person can be identified
+it does not include data where the identity of an individual has been removed (anonymous data)
+we may collect, use, store and transfer different kinds of personal data about you which we have grouped together and have provided examples as follows
+includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth, gender, national insurance number, video images (including cctv footage)
+includes billing address, home address, email address and mobile and landline telephone numbers, landlord contacts details (if applicable)
+includes bank account and payment card details (payment card details are not recorded once the payment has been completed)
+your credit history which we obtain from credit reference agencies, fraud checks and ccjs
+includes details about your billing and payment history, other details of services we provide to you, the way you manage your account with us, income, and expenditure details, benefit information, complaints, job details, household details, property type, operational investigations, repairs, interruptions to supply, planned maintenance, meter details, claims, incident details, tariff details
+includes internet protocol (ip) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website
+information about your visit, including the full uniform resource locators (url) clickstream to, through and from our site (including date and time)
+and any phone number used to call our customer service number
+includes the type of device you use, a unique device identifier (for example
+your device’s imei number, the mac address of the device’s wireless network interface, or the mobile phone number used by the device), the type of mobile browser you use, and time zone setting
+we collect this information via the microsoft app centre
+includes your current location disclosed by gps or other technology to enable you to use location-enable services on our website and mobile application
+you can withdraw your consent at any time by disabling the location data in your device settings
+includes details about payments made from you to us through our website, mobile application, your bank, paypoint, by telephone call to our contact centre or in person
+includes your username and password, purchases or orders made by you, your interests, preferences, feedback, survey responses and responses to competitions you may enter
+includes information about how you use our website and mobile application, products and services, information about your water consumption and usage which we collect from our meters, current and historical water data usage
+marketing and communications information
+includes your preferences in receiving marketing from us and our third parties and your communication preferences
+includes information about you or a member of your household’s physical or mental health conditions, or disabilities where you have applied for specific tariffs or schemes such as watersure and our assure tariff, or to register you as a vulnerable customer on our priority services register
+we also collect, use and share aggregated data such as statistical or demographic data for any purpose
+aggregated data may be derived from your personal data but is not considered personal data it does not directly or indirectly reveal your identity
+however, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice
+where we collect information about health or disabilities we will always obtain your explicit consent to collect, record and share your information with others, unless processing is necessary to protect your vital interest, someone else’s vital interest or for another lawful reason
+if we need to process data about children (under 16 years of age) we will seek consent from a parent or a legal guardian
+how we collect your personal data
+we collect personal data in a number of different ways and from a variety of sources
+we will collect information directly from you when you
+contact us through our website or mobile application, by telephone, post or email or fill in forms we provide to you and when we visit your home or premises
+register with us and set up an account to receive our services
+access or use our services on our website or mobile application
+use our services or communicate with us about our services
+sign up to participate in our watersmart programme or use our voice activated application alexa skill or mobile applications or our social media platforms such as twitter and facebook
+and enter a competition, promotion or survey
+when you visit our website or mobile application we may automatically collect technical information
+we may also receive or collect information about you from third parties such as
+other members of your family or persons authorised to act on your behalf
+landlords (including landlord tap) where you are a tenant
+social services and medical professionals in relation to customers who are registered on our priority services register or apply to receive our social tariffs
+housing associations and local authorities who assist us in providing our social tariffs and provide us with information to help us to keep your account details accurate and up to date
+other utilities such as anglian water limited and severn trent services limited who provide sewerage and waste services to you
+our business partners, subcontractors and suppliers for the delivery of services, provision of operational services such as fixing leaks
+service partners who provide or help us to provide you with water efficient products and services, such as homeserve membership limited and watersmart limited
+if someone makes a complaint about a water leak or notifies us that a property is empty
+from other members of our group who assist us in managing your account and providing services to you
+from benefits agencies to assist us in assessing applications for social tariffs, our watersure scheme, debt management and recovery
+the consumer council for water, ofwat and watrs where we are dealing with complaints or queries raised with them
+priority services information provided by other utility companies (consent required for this)
+photographs and images from our cctv cameras on our sites or where our employees or supplier’s employees use body cameras or dash cams to record their work and for their safety and security and for the prevention and detection of crime
+law enforcement agencies, police, department for work and pensions, hm revenue & customs, fraud prevention and credit reference agencies
+third party data and insight providers who provide us with relevant information about you, which we use to ensure that your personal data is accurate and up to date, to help us operate our business and deliver services to you
+we may also collect information from publically available sources such as
+register of county court judgments
+why we collect your personal data and our lawful basis for processing
+we collect, use, store and transfer your personal data for a number of different purposes and the law requires us to have a lawful basis for processing your personal data
+primarily as a water business we have a legal obligation to supply water, maintain our networks, maintain water quality and charge for our services
+we are required to keep reliable and accurate records of all of our communications with our customers
+our activities are also in the public interest and sometimes we process personal data where it is in our legitimate interest
+the table below sets out the lawful basis that we use
+lawful basis for processing
+providing water services to you and managing your account
+supplying you with water
+legal obligation and public interest
+managing your supply and the provision of water services and products to you
+legal obligation and public interest
+charging you, collecting monies and debt collection
+legal obligation and public interest
+dealing with service and billing enquiries
+legal obligation and public interest
+to manage and administer your account
+legal obligation and public interest
+to make guaranteed service standards payments
+legal obligation and public interest
+to deal with complaints
+legal obligation and public interest
+legal obligation and public interest
+to provide you with service communications (including by sms) for example about leaks in your supply area, interruptions to water supplies
+legal obligation and public interest
+keeping our records accurate and up-to-date
+legal obligation and public interest
+carrying out fraud and fraud prevention
+data for children under the age of 16 which we may be required to collect for the purpose of any special tariffs or services to vulnerable customers
+to make arrangements on your behalf with approved third party contractors to provide quotations for repairs to leaks on your premises
+dealing with risks to your household due to water quality and supply issues
+legal and regulatory compliance
+to meet our obligations under the water industry act 1991, water industry act 1999, water industry act 2014, water supply (water quality) regulations 2016, water resources act 1991, environment act 1995 and our statutory instrument of appointment and licence conditions
+complying with our general regulatory and statutory obligations (including our responsibilities under data protection laws)
+providing personal data to ofwat or their appointed suppliers for the purpose of carrying our customer surveys
+managing our water supply network and resources
+service communications (water supply issues, road closures etc
+) metering, to comply with the law
+legal obligation and public interest
+complying with instructions, orders and requests from law enforcement agencies, any court or otherwise as required by law
+for a non-household customer (businesses, charities or public sector) to provide information with your retailer and with market operator services limited ("mosl") who operate the central marketing systems for the non-household retail market as part of openwater
+fraud and detection of criminal activity
+legal obligation and public interest
+to carry out staff training and quality assurance
+we have a legitimate interest in ensuring that our staff are trained and to check and improve the quality of our services
+managing litigation and compensation claims
+making and defending claims
+we have a legitimate interest in establishing and defending our legal rights
+administering and improving our website and mobile application (including implementing and/or notifying you of updates, troubleshooting, data analysis and system testing)
+we have a legitimate interest in collecting information to allow us to administer and improve our website and mobile application for the benefit of our customers
+we have a legitimate interest in effectively managing our organisation to the benefit of all of our stakeholders
+sharing information with organisations which promote or help us to promote water efficiency services and products, such as homeserve limited and watersmart limited
+we have a legitimate interest in promoting products and services which can improve customers water efficiency, reduce leakage and waste water and assist us in meeting our legal obligations
+improving and broadening our range of services and product
+we have a legitimate interest in improving and broadening our range of services and products that we offer
+carrying out surveys, market research, gathering feedback and promoting competition
+it is in our legitimate interest to obtain feedback from our customers about the services and products that we provide so that we can improve and expand the products and services that we offer and to offer our customers competitions to encourage them to provide feedback or use of our services and products
+analysing trends and profiling activities
+we have a legitimate interest to analyse trends in relation to water consumption and use profiling to tailor goods and services for our customers
+arrangements with developers and self-lay organisations to supply mains, pipework and meter
+legal obligation and contract
+the provision of recreational facilities
+to send you direct marketing for products and services where you have given consent (unless we rely on our legitimate interest)
+managing the proposed sale, restructuring, transfer or merging of any or all part(s) of our business, including to respond to queries from the prospective buyer or merging organisation
+legal obligation and legitimate interest
+we have a legitimate interest in being able to sell any part of our business
+maintaining the security and integrity of our systems, platforms, premises and communications (and detecting and preventing actual or potential threats to the same)
+we have a legitimate interest to make sure that our business is secure and protected
+lawful basis for processing special categories of data
+purpose of processing special categories of personal data
+collecting medical, mental & physical health data to assess whether special tariffs can be provided or additional services are required and sharing this information with third parties as necessary (particularly in the case of an emergency)
+explicit consent and it is necessary to protect someone’s vital interest or they are incapable of giving consent vital interest
+obtaining legal advice, establishing, defending and enforcing our legal rights and obligations in connection with, any legal proceedings (including prospective legal proceedings)
+it is necessary for the establishment, exercise or defence of a legal claim
+information we share with others
+we may need to share your personal data with other third parties as follows
+types of third parties
+our group & employees
+we share your personal data with our employees and other companies within our group, so that we can manage your account and provide you with services
+we have legal and regulatory obligations to share personal data with our regulators, such as, ofwat, department for environment, food and rural affairs, drinking water inspectorate, the consumer council for water, water redress scheme and the environment agency
+all of our customers may have their contact information shared with ofwat and third parties working on their behalf for the purpose of the following customer surveys
+service incentive mechanism (sim), customer measure of experience (c-mex) and developer services measure of experience – for developers only (d-mex)
+you may be contacted by third parties on ofwat’s behalf about the service you receive from us
+this is not a direct marketing call and we have a statutory obligation to share your personal data
+sometimes we are contacted by hm revenue & customs, the department for work and pensions, the police, local authorities and fraud agencies
+under data protection laws we are permitted to share personal data with them without your consent and you will not be notified that this has been done
+this is in support of the prevention and detection of crime
+we may also share information where we are required to do so to under a legal obligation such as a court order or under statute
+if you are a non-household customer (businesses, charities or public sector) we will share information with your retailer and with market operator services limited (“mosl”) who operate the central marketing systems for the non-household retail market as part of openwater
+we have a legal obligation to share this information
+pennon water services limited (“pwsl”) is a joint venture between south staffordshire plc and pennon group limited and operates as a retailer
+we share information with pwsl in the same way as any other retailer
+water & sewerage companies
+customers in our supply area receive sewerage services from severn trent water limited or anglian water limited
+we share personal data with these companies for billing purposes and to manage sewerage services
+we also provide both companies with billing services and act as data processors on their behalf
+we may share your personal data with and receive personal data from credit reference agencies (“cras”)
+we will share your identity, contact, financial and transactional information with cra’s and they will share this data with us
+we will also share details of your settled accounts and any debts not fully repaid on time
+we will use this personal data to assess your account, decide what payment terms are appropriate, make sure the information we hold about you is up to date and accurate, verify your identity, manage your account with us, trace and recover debts and to help detect and prevent criminal activity and fraud
+when cra’s receive a search from us they will place a search footprint on your credit file that may be seen by other lenders
+they provide us with public and shared credit and fraud information
+if you owe us money and do not repay in accordance with our terms we will notify our credit reference agency
+this could result in your credit rating being negatively impacted
+further information about the cras and the way in which they process and share personal data can be found in the credit reference agency information notice here
+the main cra’s that we use are listed below together with links to their privacy notices
+we use carefully selected third parties to help us process your personal data and provide services to you
+when we work with third parties we ask them to provide us with assurances that they comply with data protection laws
+we work with the following categories of service partners
+our contact centre and billing partner, who assist us with account management, handling enquiries and complaints, processing payments, reading meters, debt collection activity, managing our special tariffs and schemes for vulnerable customers, providing our contact centre and billing system
+it service providers who provide software services, to support us with processing our data, providing management information, it security services, and it support
+operational contractors and their subcontractors, who provide our network maintenance and repairs, respond to water supply issues, manage pipe repairs, mains replacement, and fit new meters
+approved contractors who can assist you in repairing leaks on your premises
+research organisations who assist us with carrying out customer satisfaction surveys, market research with the aim of improving our business and services
+companies who provide customer communications services such as those companies which print bills and send out mailings on our behalf
+third party payment providers which help us to process payments including card payments and payment cards
+debt recovery companies, courts, high court enforcement officers and solicitors, for the collection of unpaid charges on our behalf and to recover customer debt
+homeserve membership limited is our affinity insurance partner and provides water related insurance products
+homeserve is responsible for processing personal data if you purchase a product or service from them
+watersmart limited provides water energy efficiency monitoring services on our behalf
+if you sign up to receive watersmart’s online services your receipt of such services will also be subject to the specific privacy notice applicable to those services
+we may also share your personal data with
+housing associations and local authorities where we have agreements in place to help keep our customer records up to date and to provide customers with access to our social tariffs
+landlords and landlord tap (who act on behalf of landlord’s) where you are a tenant
+organisations who can provide customers with debt advice such as citizens advice and step change
+organisations and individuals to the extent necessary in the course of handling complaints and managing leakages or other supply matters
+local authorities, police, fire and ambulance services in the event of an emergency
+third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets
+alternatively, we may seek to acquire other businesses or merge with them
+if a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice
+professional advisors such as our auditors, insurance company or loss adjusters in order to obtain assurance, advice, make or defend a claim, manage litigation and compensation claims
+we have a legal duty to promote water efficiency and use a number of methods to do this, including direct marketing
+this may include products and services that we provide or that are provided by a third party such as homeserve membership limited and watersmart limited
+we rely on our legitimate interests to do this
+from time to time we may also tell you about products, services or offers that we think may interest you which we provide or that are provided by carefully selected third parties
+in some circumstances we may need to ask for your consent to share your personal data for the purpose of these offers
+if at any time you wish to stop receiving marketing from us please contact us using any of the methods described in our contact us section below
+please note you may still receive non-personalised marketing material
+you will also receive information which we are required to provide you with by our regulator ofwat which will be included with your bill
+we will never sell your personal data to marketing companies
+automated decision making and profiling
+we do not carry out any automated decision making
+we carry out limited profiling activities in relation to for example
+water consumption, demographic data and ability to pay
+this helps us to provide you with information that may assist you for example
+whether you would benefit from a water meter
+cctv and mobile recording devices our sites (including car parks) may be monitored by cctv and your image and car registration may be recorded for security purposes if you visit any of our sites
+images are retained for 30 days and then deleted
+our employees and our service provider’s employees may be equipped with and operate “body cameras” and “dash cams” may be located in their vehicles, so that work can be recorded for the security and safety of those employees and for the prevention and detection of crime
+use of our company drones
+we operate drones fitted with cameras that can be switched on remotely to record images of our sites and assets for inspection, mapping, managing our network and infrastructure
+we retain the images for no longer than is required for the purpose for which the images are being recorded but may keep inspection images indefinitely
+the drones are operated by a licensed and qualified drone pilot
+when a drone is used it is always kept within the pilot’s visual line of sight
+drones are operated on land owned by us or our group or where we have the express permission of the landowner or relevant local authority and in accordance with all drone regulations
+if you have any concerns relating to privacy and the use of our drones please contact us using any of the methods described in the contact us section below
+we, our group and the service provider managing our customer contact centre may monitor and record calls for quality, security and training purposes
+how we look after your personal information
+when we collect information about you we ensure that we minimise what we collect, but we also try to collect enough accurate and up to date personal information to ensure that you can receive our products and services
+we take appropriate care to secure the information we hold about you
+we have implemented appropriate organisational and technical security measures to protect your information, such as passwords and information encryption
+we also have policies and procedures in place to ensure that there is no unauthorised access to your personal data
+we take seriously our obligations towards your privacy and the protection of information we may hold about you
+whenever we share your personal information we work to ensure it is protected from misuse or loss
+although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our website or mobile application
+any transmission is at your own risk
+once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access
+when visiting our website, you may also be providing us with certain information via our use of website ‘cookies’
+you can find out more about how we use cookies by reading our cookie policy below
+our website and mobile application contains links to third party websites
+if you follow a link to any of the websites provided by a third party, we will not be responsible for the content and privacy practices of that third party and we accept no liability for those third party websites
+please note that your use of a third party website will be subject to the terms and conditions and privacy notices of that third party
+where your personal data may be processed
+sometimes we will need to share your personal data with third party data processors in countries that are outside of the european economic area (eea)
+where this happens we put adequate safeguards in place to ensure that your data received the same level of protection as if it were being processed inside the eea
+please contact us if you would like further information on the specific mechanism we apply when transferring your personal data out of the eea
+how long we keep your information for
+we will retain your information for as long as we need it depending on the purpose for which your personal data has been processed
+generally we will keep your information for as long as you are a customer and for a period of 6 years after your account has been closed
+your personal information will then either be deleted or anonymised
+in certain circumstances, we may be required to retain your personal information for longer where such retention is required by law or record keeping requirements, including managing our relationship with you, defending any claims, or for tax purposes
+depending on the circumstances, you may have the right to
+access your personal data and to be provided with certain information in relation to it
+this is known as a data subject access request (“sar”) and we have a standard form which you can compete to make it easier for you to make a sar request
+require us to correct any inaccuracies in your personal data without undue delay
+require us to erase your personal data
+require us to restrict processing of your personal data
+receive the personal data which you have provided to us, in a machine readable format, where we are processing it on the basis of your consent or because it is necessary for your contract with us and where the processing is automated
+object to a decision that we make which is based solely on automated processing of your personal data
+where our processing of your personal data is based on your consent, you have the right to withdraw your consent at any time
+if you do decide to withdraw your consent we will stop processing your personal data for that purpose, unless there is another lawful basis we can rely on – in which case, we will let you know
+where our processing of your personal data is based on legitimate interests you can object to this processing at any time
+if you do this, we will need to show either a compelling reason why our processing should continue, which overrides your interests, rights and freedoms or that the processing is necessary for us to establish, exercise or defend a legal claim
+where we are processing your personal data for direct marketing purposes, you have the right to object to that processing
+in most cases we will respond to you within 1 month of your request and you will not be required to pay a fee
+however, there may be circumstances where we are unable to complete your request to exercise your rights within 1 month or at all or you may be required to pay a fee
+if this is the case we will inform you of the reasons and provide details of how you can register a complaint with the information commissioners officer
+to exercise any of your rights or request a sar form please contact us using any of the methods referred to in the in our contact us section below
+we have appointed a data protection officer (“dpo”) who you can contact if you would like any information about our privacy notice or you would like to exercise any of your rights
+you can contact us by
+writing to us at
+data protection officer at south staffordshire water plc, green lane, walsall, ws2 7pd
+0345 60 70 456 and ask for the data protection officer
+you can also contact the information commissioners office at www
+uk , or by writing to them at wycliffe house water lane, wilmslow, cheshire, sk9 5af or by phone on 0303 123 1113 to make a complaint or for further information or advice
+we take our responsibilities in relation to personal data very seriously, so if you have any complaints or concerns about how we are processing your personal data we would appreciate the opportunity to address your concerns in the first instance
+a cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree
+cookies contain information that is transferred to your computer's hard drive
+how we use cookies
+our website uses cookies to distinguish you from other users of our website
+this helps us to provide you with a good experience when you browse our website and also allows us to improve our website
+by continuing to browse the website, you are agreeing to our use of cookies
+we use the following cookies
+these are cookies that are required for the operation of our website
+they include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services
+they allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it
+this helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily
+these are used to recognise you when you return to our website
+this enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region)
+you can find more information about the individual cookies we use and the purposes for which we use them in the table below
+this cookie enables the user to use the functionality on the website
+at the end of the session
+this cookie is used to remember that you have accepted our cookie policy and prevents the policy pop-up from appearing each time you visit within a 90 day period of time
+please note that if you delete cookies this will reappear
+a strictly necessary cookie which ensures that the user's session is secure
+at the end of the session
+oracle strictly necessary cookie
+an essential cookie which enable the user to use the question and action section on our website
+click here for further information about oracle corporations privacy policy
+at the end of the session
+an analytical cookie used to distinguish users from each other
+these cookies are used to collect information about how visitors use our site
+we use the information to compile reports and to help us improve the site
+the cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited
+click here for an overview of privacy at google
+click here to opt out
+when browsing session ends
+other third parties including without limitation google and oracle corporation may also use cookies, over which we have no control
+these cookies are likely to be analytical/performance cookies or targeting cookies
+how do i change my cookie settings
+you can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies
+for example, in internet explorer you can refuse all cookies by clicking "tools", "internet options", "privacy", and selecting "block all cookies" using the sliding selector
+however, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site and you will not be able to purchase products
+click here to opt out of being tracked by google analytics across all websites
+south staffs water green lane walsall ws2 7pd
+how can we help
+how can i access your charges scheme
+our charges scheme can be found under your charges in publications read more
+ask us a question
+credit reference agency information notice
+select language ​ ▼
+privacy & cookie policy
+© south staffs water 2019
+we use cookies in order to deliver an improved customer experience
+by using this website you agree to the use of cookies
+original text contribute a better translation

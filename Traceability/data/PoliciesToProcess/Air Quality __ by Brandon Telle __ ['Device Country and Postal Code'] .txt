@@ -1,0 +1,32 @@
+the air quality app was built as a free app
+this service is provided at no cost and is intended for use as is
+this page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service
+if you choose to use the service, then you agree to the collection and use of information in relation to this policy
+the personal information that we collect is used for providing and improving the service
+we will not use or share your information with anyone except as described in this privacy policy
+the terms used in this privacy policy have the same meanings as in our terms and conditions, which is accessible at air quality unless otherwise defined in this privacy policy
+information collection and use
+the service requests to use device location data to enhance the service offered
+your locations are not stored, logged, or otherwise saved by the service
+you may use the the service without providing permission to use your device location
+you may opt out of the device location sharing at any time
+the service logs information about each invocation of the service for debugging and stability reasons
+personally identifiable information is not included in these logs
+logs are retained for 90 days then are permanently deleted
+we will not share log data with anyone unless compelled to by court order
+the air quality app was built as a free app
+this service is provided at no cost and is intended for use as is
+this page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service
+if you choose to use the service, then you agree to the collection and use of information in relation to this policy
+the personal information that we collect is used for providing and improving the service
+we will not use or share your information with anyone except as described in this privacy policy
+the terms used in this privacy policy have the same meanings as in our terms and conditions, which is accessible at air quality unless otherwise defined in this privacy policy
+information collection and use
+the service requests to use device location data to enhance the service offered
+your locations are not stored, logged, or otherwise saved by the service
+you may use the the service without providing permission to use your device location
+you may opt out of the device location sharing at any time
+the service logs information about each invocation of the service for debugging and stability reasons
+personally identifiable information is not included in these logs
+logs are retained for 90 days then are permanently deleted
+we will not share log data with anyone unless compelled to by court order

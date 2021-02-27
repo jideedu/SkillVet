@@ -1,0 +1,169 @@
+lingyang-electronics limited (“lingyang-electronics”, “we”, “us”, “our”) is committed to doing business with the highest ethical standards and appropriate internal controls
+our privacy policy applies to all users, and all other domain names and website owned by lingyang-electronics limited (the “websites”) as well as to all users of the products of lingyang-electronics, such as the meater® (the “products”), mobile applications related to the products (the “apps”), and cloud services related to the products (the “cloud services”)
+lingyang-electronics’ terms and conditions (“terms”) are incorporated herein by reference and are available at https
+all defined terms in the privacy policy shall have the same meaning as defined in the terms
+lingyang-electronics adheres to the following policies with regards to your privacy
+lingyang-electronics is the controller of, and responsible for, your personal information
+"non-personal information" is information that does not identify an individual and that is obtained automatically through your simple use of the cloud services
+it may include the device parameters of your telephone, tablet or computer as well as information relating to the cooking you carry out using the products
+"personal information" is any information about an individual from which that person can be identified
+it does not include data where the identity has been removed (anonymous data)
+it may include information such as name, address and email address
+we do not process any of your sensitive personal information (known as “special categories” of data in the general data protection regulation)
+when you enter the websites, or use the products, the apps or the cloud services, we collect non¬personal information such as your browser type and ip address
+likewise, in order to offer you meaningful products and services and for other reasons, we may collect personal information about you from the following sources
+information you give us on applications or other forms on the websites, the apps or the cloud services
+information you send us via any medium, including, but not limited to email, telephone, and social media interaction
+if you use a mobile device platform to access the websites, the apps or the cloud services or communicate with lingyang-electronics, information transmitted from your mobile device
+information purchased from third parties (where permitted by applicable law)
+your use of and interaction with the apps may also be stored in an anonymised form by us or our software partners
+in order to become a user (as defined in the terms), you must provide us with a combination of the following information to create an account
+name and email address, plus a username and password (your password is stored in an encrypted way that we cannot decipher)
+in the alternative, you may instead provide a link to your social media account to become a user, in which case we will receive basic information from your social media account including your name and email address
+we may request other information from you during or after the registration process that we use to provide better and more customized services to users
+you acknowledge that this information is personal to you, and by creating an account on any of the websites, the apps or the cloud services, such as https
+com , you may allow others, including lingyang-electronics, to identify you and to allow us to use your information in accordance with the terms
+we collect information when you interact with our customer service in order to accurately categorize and respond to customer inquiries and investigate breaches of our terms
+using third party services and visiting third party websites
+information you provide to third‐party sites/ websites through the cloud services is not within the control of lingyang-electronics and you provide such information at your own risk
+the terms and conditions of use and the privacy policies of those websites that you provide information to through the cloud services will govern their use of such information
+any information you share with a third‐party website through the cloud services will be collected by lingyang-electronics and its affiliates (such as lingyang-electronics, inc
+we will use such information in compliance with this privacy policy
+the websites (one or any of them) may send a "cookie" to your computer
+a cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive
+a cookie cannot read data off your hard disk or read cookie files created by other websites
+cookies do not damage your system
+cookies allow us to recognize you as a user when you return to any of the websites using the same computer and web browser
+we use cookies to identify which areas of our websites you have visited, so the next time you visit the websites, those pages may be readily accessible
+we also may use this information to better personalize the content that you see on the websites
+most browser software can be set to reject cookies
+however, if you reject our cookies, certain functionality on the websites may not work correctly or at all
+we do not link non‐personal information from cookies to your personal information
+in the course of optimizing the websites to our users, we may allow authorized third parties to place or recognize a unique cookie on your browser
+any information provided to third parties through cookies will not contain personal information, but may provide general segment information for the enhancement of your user experience by providing more relevant advertising
+lingyang-electronics does not store unencrypted personal information in the cookies
+lingyang-electronics also may use web beacons, pixels, anonymous ad network tags, and cookies to collect non‐personal information about your use of the websites and the websites of selected sponsors and advertisers, to collect anonymized, aggregated auditing, research and reporting for advertisers, and to collect data related to your use of special promotions or newsletters
+the information collected by web beacons also allows us to statistically monitor how many people open our emails and for what purposes these actions are being taken
+our web beacons are not used to track your activity outside of the websites or the websites of our sponsors
+we do not link non‐personal information from web beacons to personal information without your permission
+however, because your web browser requests advertisements and web beacons directly from ad network servers, these networks can view, edit or set their own cookies, just as if you had requested a web page from their websites
+if you are a non‐registered visitor to the website, the only information we collect will be non‐personal information through the use of cookies or web beacons
+log files, ip addresses and information about your computer and mobile device
+due to the communications standards on the internet, when you visit the websites, the apps or the cloud services, we automatically receive the url of the site from which you came and the site to which you are going when you leave the websites
+lingyang-electronics also receives the internet protocol (“ip”) address of your computer (or the proxy server you use to access the world wide web), your computer operating system and type of web browser you are using, email patterns, your mobile device (including your udid) and mobile operating system (if you are accessing the websites using a mobile device), as well as the name of your isp or your mobile carrier
+we may also receive location data passed to us from third‐party services or gps‐enabled devices that you have enabled
+also, as described above in section 2
+, lingyang-electronics receives information when you access third‐party web pages through the cloud services
+the link between your ip address and your personal information is not shared with third parties without your permission
+exemptions from privacy policy
+our privacy policy does not apply to any information you post from our websites to other websites (i
+), due to the public nature of such postings
+use of personal information
+lingyang-electronics uses and/or intends to use personal information to
+operate and improve the websites, the products, the apps and the cloud services
+provide users with the cloud services and other products and services that a user may request or that a user has expressed interest in
+facilitate subscription processing, reviews and analysis
+evaluate user interest and needs in order to improve the cloud services and make available other offers, products or services
+evaluate the types of offers, products or services we make available to users and potential users
+track use of the cloud services
+allow integration with third party devices and virtual assistants such as amazon alexa
+communicate and provide additional information that may be of interest to users through email or other means, such as special offers, announcements, and marketing materials relating to both our products and services and products and services we might sell on behalf of third parties (but always subject to the legal restrictions on electronic and telephone marketing and to your right to object to further marketing)
+send you reminders, technical notices, updates, security alerts and support and administrative messages or service bulletins
+manage our everyday business needs such as website administration, management, fulfilment, analytics, fraud prevention, and enforcement of our corporate reporting obligations, terms and conditions or to comply with the law
+where you have signed up to the cloud services we will also store details of your cooking activities
+we do not consider this data to be personal information but do not share it with third parties in any way that identifies you
+we collect cooking information for the purposes of providing technical support to you, for analysing aggregated cooking data and for tracking bugs
+we may also transfer aggregated cooking data which does not identify you to any third parties
+the legal bases on which we will rely for our processing of personal information are that the activities are either necessary to provide services to you, necessary for our legitimate interests or are necessary to comply with a legal obligation
+we make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests
+we do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law)
+links/postings to other websites
+the websites, the apps or the cloud services may contain links to other websites
+we are not responsible for the actions, practices, or content of such websites linked to or from the websites, the apps or the cloud services
+you understand that such websites may have their own legal documents to which you must agree to prior to using and that we have no control over these legal documents
+as always, you understand that it is your responsibility to verify your legal use of a website as well as use of information from the website with the corresponding website owner
+we may conduct online research surveys in order to gather feedback about the websites, the apps and the cloud services and opinions on important issues, through email invitations, the apps or the websites
+when participating in a survey, we may ask you to submit personal information
+this personal information is used for research purposes, and is not used for sales solicitations
+personal information collected through market research will be used only by lingyang-electronics and will not be given or sold to a third party without your consent or as otherwise permitted by this privacy policy
+use of aggregate data
+lingyang-electronics may combine non‐personal information you provide through the websites with information from other users to create aggregate data that may be disclosed to third parties
+aggregate information does not contain any information that could be used to identify you and does not include your personal contact information
+when we may disclose your information
+except as set forth below or as specifically agreed to by you, lingyang-electronics will not disclose any personal information as gathered from you on the websites, the apps or the cloud services
+we may share personal information in limited fashion to our contractors and service providers that perform services on our behalf, including, but not limited to, operation of the websites’ technology, marketing services, and other related services and the parcel delivery businesses we use to deliver the products
+these contractors also may have access to your email address to send newsletters or special promotions to you on our behalf or to send emails to you for purposes such as conducting market research on our behalf
+access to your personal information by such contractors and service providers is limited to the information reasonably necessary for the contractor to perform its limited function for lingyang-electronics
+we also contractually require that such contractors and service providers
+1) protect the privacy of your personal information consistent with this policy, and 2) not use or disclose your personal information for any purpose other than providing us with products and services as required by law
+where you sign up to our cloud services we may share your email address with facebook to allow them to create audience insights for us (which gives us an anonymised profile of our typical users and customers)
+we may provide content and services to you through websites other than our own
+we will not disclose your personal information to these 3rd party websites without your consent, but you should be aware that any information you disclose on such sites is not subject to this privacy policy
+security policy & user id/password
+our websites utilize various information security measures such as internet firewalls, an intrusion detection system, encrypted data transmission, and operating procedures to protect your personal data, accounts, passwords, etc
+this information is kept completely separate and confidential, unless you have given someone‐else your user id and password
+as such, you should protect your user id and password and not share it with anyone
+if you believe your user id and password have been compromised and you have trouble changing your user id/password on the websites, the apps or the cloud services or within the application, please contact our technical support department
+lingyang-electronics and its affiliates fully comply with the federal can‐spam act
+you can always opt out of receipt of further email correspondence from us
+if the entire or substantial ownership of the websites, the apps or the cloud services were to change, your user information may be transferred to the new owner as one of the assets sold
+in any such transfer of information, your user information would remain subject to the promises of our then current privacy policy
+international transfers of data
+lingyang-electronics is headquartered in the united kingdom
+personal information may be accessed by us or transferred to us in the united kingdom or to our affiliates, business partners, merchants, or service providers elsewhere in the world
+we will protect the privacy and security of personal information according to our privacy policy, regardless of where it is processed or stored
+we will also do our utmost to ensure that any personal information shared between lingyang-electronics and its subsidiaries (lingyang-electronics, inc
+and others) is protected and secure during transfers
+if you are resident in the uk or european economic area, you should be aware that whenever we transfer your personal information out of the uk/eea, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented
+we may transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the european commission
+where we use certain service providers, we may use specific contracts approved by the european commission which give personal information the same protection it has in europe
+where we use providers based in the us, we may transfer data to them if they are part of the privacy shield which requires them to provide similar protection to personal information shared between the uk/eea and the us
+under certain circumstances, you have rights under data protection laws in relation to your personal information, as set out below
+if you wish to exercise any of the rights set out below, please contact us using the contact details at the end of this privacy notice
+we may not have to comply with your request but we would explain why if we believe we are entitled to refuse
+request access to your personal information (commonly known as a "data subject access request")
+this enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it
+request correction of the personal information that we hold about you
+this enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us
+request erasure of your personal information
+this enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it
+you also have the right to ask us to delete or remove your personal information where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal information to comply with local law
+note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request
+object to processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms
+you also have the right to object where we are processing your personal information for direct marketing purposes
+in some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms
+request restriction of processing of your personal information
+this enables you to ask us to suspend the processing of your personal information in the following scenarios
+(a) if you want us to establish the data's accuracy
+(b) where our use of the data is unlawful but you do not want us to erase it
+(c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims
+or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it
+request the transfer of your personal information to you or to a third party
+where our systems allow, we will provide to you, or a third party you have chosen, your personal information in a structured, commonly used, machine-readable format
+note that this right only applies to information which is processed by automated means
+we do not currently hold personal information in a form that is readily portable and it is unlikely we would be able (or required) to comply with such a request
+withdraw consent at any time where we are relying on consent to process your personal information
+however, this will not affect the lawfulness of any processing carried out before you withdraw your consent
+if you withdraw your consent, we may not be able to provide certain services to you
+we will advise you if this is the case at the time you withdraw your consent
+no fee usually required
+you will not have to pay a fee to access your personal information (or to exercise any of the other rights)
+however, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive
+alternatively, we may refuse to comply with your request in these circumstances
+what we may need from you
+we may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights)
+this is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it
+we may also contact you to ask you for further information in relation to your request to speed up our response
+time limit to respond
+we try to respond to all legitimate requests within one month
+occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests
+in this case, we will notify you and keep you updated
+your acceptance of this privacy policy
+this is our entire privacy policy and it supersedes any earlier version
+you agree to it every time you use the cloud services (which includes your use of the websites, the apps, the products or the cloud services)
+if we make any material changes to this privacy policy, we will notify you by email or by posting a prominent notice on the websites, the apps or the cloud services prior to the change becoming effective
+we encourage you to periodically review this page for the latest information on our privacy practices
+your continued use of the cloud services constitutes your agreement to be bound by such changes to this policy
+your only remedy, if you do not accept the terms of this policy, is to discontinue use of the websites, the products, the apps and any of the cloud services
+questions about this privacy policy and complaints
+should you have a privacy question about the websites, the apps or the cloud services or to exercise your rights, please contact our customer happiness team email

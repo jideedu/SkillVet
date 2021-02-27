@@ -1,0 +1,124 @@
+privacy policy / privacy statement
+united kingdom - english
+omron connect privacy statement
+4 – march 2019
+this omron connect privacy statement (together with the omron connect terms of use [ https
+com/eula/ ] applies to your use of
+mobile application software ‘omron connect’ and any updates or supplements to it (“app”), once you have downloaded a copy of omron connect onto your smartphone or other handheld device (“device”)
+omron connect cloud service (“service”) if you choose to connect the app with such service
+this policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us
+please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
+for the purpose of applicable european data protection legislation, the data controller is omron healthcare co
+, ltd (“omron”) based in japan
+omron healthcare europe b
+is omron’s representative in the eu and shall serve as point of contact for eu data subjects and data protection authorities
+information we may collect from you
+the app can be used as a stand-alone mobile application that only has local storage or you can choose to connect it to the service by creating your personal account
+if you use the app as a stand-alone mobile application without using the service, all your personal data will be stored on your device only and we will not collect any personal data from you, except as mentioned below
+all your personal data stored by the app on your device will be encrypted with up-to-date encryption techniques to assure that your personal data cannot easily be accessed and/or read by unauthorized third parties
+regardless of whether you use the app with or without the service, we collect and process the following data about you and your device
+information that you give us about yourself if you contact us for support, in which case we will keep a record of that correspondence
+this information may include
+your name and e-mail address (“contact information”)
+your height, gender, step length, weight and date of birth (“user profile information”)
+the model of device you use, your mobile operating system, number and type of registered omron health devices, storage capacity and available storage information of the device, application error log, and your region (“technical information”)
+details of your use of the app including, but not limited to traffic data, application usage data and other communication data (“log information”), but no personal data is included
+in addition, if you choose to use the app with the service, we will collect and process, either directly or by making use of third parties, the following information about you and your device
+your e-mail address, username and encrypted password (“contact information”)
+your height, gender, step length, weight and date of birth (“user profile information”)
+the model of device you use, your mobile operating system, number and type of registered omron health devices and your region (“technical information”)
+measurement information, entered manually or transferred from your omron devices, stored and managed in the app, including but not limited to, blood pressure, pulse, irregular heartbeat, body weight, visceral fat, resting metabolism, body mass index, body fat percentage, skeletal muscle percentage, body age (“measurement information”)
+general trackers information, entered manually or transferred from your omron devices, stored and managed in the app, including, but not limited to, the performance of sports and physical activities, eating patterns, use of medication (“general trackers information”)
+how we use your information
+we use information held about you in the following ways
+for the performance of our agreement with you
+to handle your enquiries
+to operate the service, to handle your enquiries
+to handle your enquiries
+to operate the service, to handle your enquiries
+to operate the service, to handle your enquiries
+to handle your enquiries
+for our legitimate commercial interests
+to develop or improve our products and services and to analyse anonymized, aggregated data to understand usage trends and health data trends
+to ask you to fill in questionnaires, to develop or improve our products and services
+to develop and improve our products and services
+to develop or improve our products and services and to analyse anonymized, aggregated data to understand usage trends and health data trends
+following your explicit consent
+to inform you of products and/or services we offer
+how to cancel your account
+you may request to cancel your account by using the ‘cancel account’ function within the app, by contacting the support service by using the ‘contact us’ function within the app or by sending an email with such request to support-omron
+upon receipt of your cancellation request, we will process your request within 14 calendar days
+we will confirm cancellation of your account within 30 calendar days of your request
+when your account is cancelled, your user profile information and contact information is deleted
+as a result, your measurement information and general trackers information is anonymized and cannot be linked back to you
+disclosure of your information
+we may disclose the data we collect from you to the following third parties
+google analytics, firebase, repro inc
+contact information user profile information measurement information general trackers information
+technical information contact information user profile information measurement information general trackers information
+omron healthcare europe b
+we may disclose your personal information to (other) third parties
+in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the seller or buyer of such business or assets
+if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request
+enforce or apply the omron connect terms of use [ https
+com/eula/ ] or to investigate potential breaches
+protect the rights, property or safety of omron, our customers, or others
+this includes exchanging information with other companies and organisations for the purposes of fraud protection
+transfer of your information outside the eea
+the data that we collect from you will be transferred to, and stored at, a destination inside the european economic area (“eea”)
+your personal data may also be transferred to, and used in countries outside the eea for the purposes described in this policy
+such countries may not have the same level of protection for your information as the country in which you reside
+omron guarantees that all such data transfers are in accordance with applicable privacy legislation
+omron will enter into ‘model clauses’ with entities in such countries
+model clauses are standardized contractual clauses used in agreements between data controllers (such as omron) and their data processors to ensure that any personal data leaving the eea will be transferred in compliance with eu data protection law and meet the mandatory requirements
+we have implemented technical and organizational measures to protect your information against unauthorized access, use and disclosure
+all information you provide to us is stored on secure servers
+any data transfer will be encrypted using secured sockets layer technology
+where we have given you (or where you have chosen) a password that enables you to access the service, you are responsible for keeping this password confidential
+we ask you not to share a password with anyone including support staff
+unfortunately, the transmission of information via the internet is not completely secure
+although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the service
+any transmission is at your own risk
+once we have received your information, we will use strict procedures and security features to prevent unauthorised access
+retention of your information
+we will retain your information unless you request us to cancel your account or until we cancelled your account due to inactivity
+we will consider your account ‘inactive’ if you don’t use the service during a one-year period
+before your account becomes inactive, we will notify you by email requesting you to use the service to prevent your account becoming inactive
+we will cancel your account within 31 calendar days of it becoming inactive at which time your user profile information will be deleted
+as a result, your measurement information and general trackers information is anonymized and cannot be linked back to you
+based on european data protection legislation you have several rights with regards to our processing of your personal data, including
+you may ask us for confirmation as to whether we process your personal data
+if so, we will grant you access to that personal data and provide you with a copy of the data upon request
+if you discover errors in the personal data that is being processed by us, you have the right of rectification
+likewise, you have the right to complete the data if incomplete
+you may ask us for erasure of your personal data
+please refer to the process described in section ‘how to cancel your account’
+if you want to restrict processing, you cannot continue to use the service
+please refer to the process described in section ‘how to cancel your account’
+you may decide to continue to use the app without using the service
+right to withdraw consent
+if you want to withdraw your consent to our processing of your personal data, you cannot continue to use the service
+please refer to the process described in section ‘how to cancel your account’
+you may decide to continue to use the app without using the service
+right to data portability
+you can export your personal data by using the ‘export’ function in the app to get a copy of your personal data in a structured, commonly used and machine-readable format
+right to lodge a complaint
+in case you may have a question or complaint about how we process your personal data, you may contact us as described in the ‘contact’ section
+alternatively, you may consider lodging a complaint with a supervisory data protection authority
+the app may contain links to and from our partners and affiliates
+if you follow any of these links, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected by them
+please check their policies before you submit any personal data to them
+changes to privacy statement
+any changes we may make to our privacy statement in the future will be notified to you when you next start the app
+we will ask you to read and accept any such changes to the privacy statement
+if you choose to not accept these changes, you cannot continue to use the app
+if you have any concerns, questions, comments or requests about this document or the app, you can contact us through our representative in the eu via email to support-omron
+com , the ‘contact us’ function within the app, or by regular mail to
+omron healthcare europe b
+, marketing and communication department scorpius 33 2132lr hoofddorp the netherlands
+53 kunotsubo, terado-cho, muko, kyoto japan
+further information can also be found on https
+omron connect makes it easy to view, save, and share your health data
+latin america - español
+hong kong - english
+new zealand - english

@@ -1,0 +1,293 @@
+log in to cozi
+sign up for cozi
+recipes & meal planner
+why families love cozi
+media & press kit
+recipes & meal planner
+why families love cozi
+media & press kit
+log in to cozi
+sign up for cozi
+cozi is strongly committed to the privacy of all its users
+we understand you value your family's privacy and we do too
+we want you to always be confident that your cozi experience is safe and secure
+if you have any additional privacy or security questions after reading this information, please contact us
+this privacy policy governs how we collect and use your information when you use our websites, mobile apps, and related services ("services")
+cozi (“ company ,” “ we ,” “ our ,” or “ us ”)
+understands you value your family’s privacy
+this privacy policy governs how we collect, use, and share your information and applies to your use of any online service location that posts a link to this privacy policy including our websites, mobile apps, and related services and all features, content, and other services that we own, control, and make available through such online service location (collectively, the “service”)
+this privacy policy does not apply to our information collection activities outside of the service (unless otherwise stated below or at the time of collection)
+by using the service, you agree to our terms of use and to our collection, use, and disclosure practices, and other activities as described in this privacy policy
+if you do not agree and consent, discontinue use of the service
+if you have any additional privacy or security questions after reading this information, please contact us as set forth in the section entitled “contact us” below
+what kind of information does cozi collect from me
+we collect and store the following information
+information you give us
+we collect and store the information you give to us when you are using our service, including the first names and email addresses of family members, calendar appointments, shopping list items, and recipes as well as information you provide when you register an account, update your profile, access our content, make a purchase, participate in a sweepstakes, contest, survey, or other promotion (“ promotion ”), contact customer support, or apply for a job
+we may use service providers (defined below) to collect this information
+the information we store includes information that identifies you personally (whether alone or in combination)
+some examples of information we collect if you provide it to us include
+we store your first name, household name, e-mail address, and other similar contact data
+we store passwords and similar security information for authentication and account access
+we store demographic information such as your country
+we store data necessary to process your payment if you provide us with any payment information related to the service, e
+, if you upgrade to cozi gold from our website, we will ask for your credit card information, which will be processed directly by a company affiliate or a service provider, as each are defined below
+we do not store your credit card number
+if you upgrade to cozi gold from an ios or android app, you will pay for the upgrade directly through apple or google, respectively, and we will not have access to your credit card information
+we store any information that you add to your cozi calendar
+in addition, if you link a third party calendar (such as google) to the cozi service, we store all data contained in your linked calendar
+this includes any information that you add to your cozi calendar or linked calendars regarding medical or legal appointments, children’s or school events, and other sensitive information
+we store your username, family photo, and other profile data
+we store data about your contacts in order to fulfill a request by you, such as finding your contacts on the service or inviting your contacts to join the service, or if you import your phone contacts using our contacts feature
+such functionality is only intended for united states (“u
+by using this functionality, you acknowledge and agree that both you and your contacts are based in the u
+and that you have your contacts’ consent for us to use their contact information to fulfill your request
+we collect any information that you add to your lists, including sensitive information such as medications, book or video titles, or other personal products, financial, medical, and children’s information, and personal reminders, only while these items are visible to you in your list
+we do not store list history
+we store any birthday information that you add to our birthday tracker feature
+we store information you add when you use our journal feature, including quotes, stories, and images
+we store the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide to customer support
+we store data as necessary to consider you for a job opening if you submit an application to us, such as your employment history, transcript, writing samples, and references
+you may choose to voluntarily submit other information to us through the service that we do not request, and, in such instances, you are solely responsible for such information
+we automatically collect information from and about your use of the service and the devices you use to access the service
+this includes things like ip addresses, the type of browser and device you use, the web page you visited before coming to our service, and information about the advertisements you view and the links you click on
+your devices (depending on your settings) may also transmit location information and/or an advertising identifier to the service
+some examples of information we collect include the following
+we collect data about the features you use, the pages you visit, the e-mails from us and advertisements you view, the products you purchase from us, the time of day you browse, your referring and exiting pages, and other similar information
+device connectivity and configuration data
+we collect data about the type of device or browser you use, your device’s operating software, your internet service provider, your device’s regional and language settings, and other similar information
+this data may also include ip address, mac address, device advertising id (e
+, idfa or aaid), and other device identifiers
+if you have enabled location services, we collect data about your device’s location, which can be precise (e
+, latitude/longitude data) or imprecise (e
+, location derived from an ip address or data that indicates a city or postal code level)
+we use various current – and later – developed technologies to collect this information (“ tracking technologies ”), including the following
+a log file is a file that records events that occur in connection with your use of the service, such as your service use data
+data in log files is not personally identifiable
+a cookie is a small data file stored on your device that acts as a unique tag to identify your browser
+we use two types of cookies
+session cookies and persistent cookies
+session cookies make it easier for you to navigate the service and expire when you close your browser
+persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features
+additionally, persistent cookies allow us to bring you advertising both on and off the service
+persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings
+a pixel (also known as a web beacon) is code embedded in a website, video, e-mail, or advertisements that sends information about your use to a server
+there are various types of pixels, including image pixels (which are small graphic images) and javascript pixels (which contains javascript code)
+when you access a website, video, e-mail, or advertisement that contains a pixel, the pixel may permit us or a third party to drop or read cookies on your browser
+pixels are used in combination with cookies to track activity by a particular browser on a particular device
+we may incorporate pixels from third parties that allow us track our conversions, bring you advertising both on and off the service, and provide you with additional functionality, such as the ability to connect our service with your social media account
+device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as javascript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your device and apps
+there are a variety of tracking technologies that may be included in our apps, and these are not browser-based like cookies and cannot be controlled by browser settings
+for example, our apps may include third party sdks, which is code that sends information about your use to a server, and is in effect the app version of a pixel
+these sdks allow us track our conversions, bring you advertising both on and off the service, and provide you with additional functionality
+gps, wifi, bluetooth, and other location-aware technologies may be used to collect precise location data when you enable location-based services through your device
+location data may be used for purposes such as verifying your device’s location and delivering or restricting relevant content and advertising based on that location
+voice processing technologies collect audio through the microphone on your device to effectuate an instruction or request by you
+we only maintain the audio long enough to complete your instruction or request and then immediately delete it
+we may use non-audio data associated with the collection for additional purposes such as data analytics and in accordance with this privacy policy
+some information about your use of the service and certain third party services (defined below) may be collected using tracking technologies across time and services and used by us and third parties for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the service and certain third party services
+for further information on tracking technologies and your rights and choices regarding them, see the sections entitled “third parties” and “your rights and choices” below
+information from other sources
+we also obtain information about you from other third party sources
+to the extent we combine such third party sourced information with information we have collected about you through the service, we will treat the combined information in accordance with the practices described in this privacy policy, plus any additional restrictions imposed by the source of the data
+these third party sources vary over time, but have included
+data brokers from which we purchase demographic data to supplement the data we collect
+social networks when you reference our service or grant permission to cozi to access your data on one or more of these services
+partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities
+for further information on third party services, see the section entitled “third parties” below
+what does cozi do with my information
+we use the information we collect to provide, personalize, improve, offer, and protect our service
+if you contact cozi, we may use your information to provide customer support to you
+we may use your email address to communicate with you, for example, to inform you when a subscription is ending
+cozi is able to provide many of our services free of charge because we are supported by advertising
+in order to make these services available, we may use the information we collect to improve the advertisements you see by making them more relevant
+if you are a cozi gold subscriber, your experience on the cozi app will be ad-free
+some of our legitimate interests that we use information about you for include to
+manage our service, including your registration and account
+perform services requested by you, such as to respond to your comments, questions, and requests, and provide customer service
+send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages
+prevent and address fraud, breach of policies or terms, and threats or harm
+monitor and analyse trends, usage, and activities
+conduct research, including focus groups and surveys
+improve the service or other cozi websites, apps, marketing efforts, products and services
+develop and send you direct marketing, including advertisements and communications about our and third party products, offers, promotions, rewards, events, and services
+we also use information about you with your consent, including to
+provide you with the ability to use our calendar, journal, shopping list, to do list, recipes, surveys, and other functionality for matters that, if you send it to us, may include your highly sensitive data
+by using these functions for this kind of highly sensitive data, you give us your affirmative consent for the processing of such data for the sole purpose of providing you with that functionality
+verify your eligibility and deliver prizes in connection with promotions you have entered
+serve advertising tailored to your interests on our service and third party services if you have consented to receive personalized advertising
+fulfill any other purpose disclosed to you and with your consent
+we may use information that does not identify you (including information that has been de-identified) without obligation to you except as prohibited by applicable law
+for information on your rights and choices regarding how we use your information, please see the section entitled “your rights and choices” below
+with whom does cozi share my information
+we understand your family’s information is very important to you
+we do not sell your personal information, and we do not share your personal information with third parties, except as described
+we share information about you as follows
+with service providers working for cozi
+cozi uses certain trusted third parties including agents, vendors, and other service providers to help us provide, personalize, improve, offer and protect our service (“service providers”)
+we share information with our service providers in connection with their work on our behalf
+service providers assist us with services such as payment processing, data analytics, marketing and promotional services, promotions, website hosting, and technical support
+service providers will access your information only to perform tasks on our behalf, in compliance with this privacy policy and are prohibited from using your information for any purpose other than to provide this assistance, although we may permit them to use aggregate information which does not identify you or de-identified data for other purposes
+with other parts of the meredith corporation
+cozi is a subsidiary of the meredith corporation and may share information with the meredith corporation and other meredith corporation subsidiaries and affiliates (collectively, the “company affiliates”)
+any information shared with company affiliates will be subject to this privacy policy
+we may disclose your information to third parties if we determine that such disclosure is necessary to (a) comply with the law or in response to a law enforcement agency’s request
+(b) protect any person from death or serious bodily injury
+(c) prevent fraud or abuse of cozi or our users
+or (d) protect cozi’s property rights
+our promotions may be jointly sponsored or offered by third parties
+if you voluntarily choose to enter a promotion, we may share your information with third parties a set forth in the official rules that govern the promotion as well as for administrative purposes and as required by law (e
+, on a winners list)
+by entering a promotion, you agree to the official rules that govern that promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials
+we may share your information with third parties for purposes of facilitating your requests and in connection with tailoring advertisements (such as third party offers related to your shopping lists), measuring and improving our service and advertising effectiveness, and enabling other enhancements
+we reserve the right to transfer any information we have about you in the event of a merger with a third party or upon a sale or transfer of all or a portion of our business or assets to a third party acquirer, meredith corporation or another
+the new company would be required to protect all the information that cozi has collected from its users under the same terms of this privacy policy
+we may share your information for any other purpose disclosed to you and with your consent or at your direction (e
+, if you use our journal feature to share pictures, quotes, stories, or other content with your household members or if you instruct cozi to automatically send a monthly email with your photos and memories to individuals you select)
+without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law
+for information on your rights and choices regarding how we share your information, please see the section entitled “your rights and choices” below
+public information certain areas of the service, such as the journal and recipe box, are designed to help you share information with the world
+if you make information public through our service, other people will have access to it
+please think carefully before making information public as you are solely responsible for any information you make public
+once you have posted information, you may not be able to edit or delete such information
+however, california residents and data subjects in europe have additional rights as set forth in “your rights and choices” below
+third parties third party services
+our service contains content from and hyperlinks to websites, locations, platforms, and services operated and owned by third parties (“third party services”)
+cozi does not have control over the privacy policies of advertisers or other third-party websites
+these third party services may use tracking technologies to independently collect information about you and may solicit information from you
+the information collected and stored by third parties, whether through our service, a third party service, a third party feature (defined below), or a third party device, remains subject to their own policies and practices, including what information they share with us, your rights and choices on their services and devices, and whether they store information in the u
+we encourage you to familiarize yourself with and consult their privacy policies and terms of use
+we may allow you to connect our service to a third party service or offer our service through a third party service (“ third party features ”)
+if you use a third party feature, both we and the applicable third party may have access to and use information associated with your use of the third party feature, and you should carefully review the third party’s privacy policy and terms of use
+some examples of third party features include the following
+we may embed a pixel or sdk on our service that allows you to “like” or “share” content on third party services, including social networks such as facebook and twitter
+if you choose to engage with such a third party service through our service or visit our service while logged in to that third party service on your device, the third party service may receive information about your activities on our service and be able to associate that information with information the third party service already has about you
+we may offer our content on social networks such as a facebook and twitter
+any information you provide to us when you engage with our content (such as through our brand page) is treated in accordance with this privacy policy
+also, if you publicly reference our service on a third party service (e
+, by using a hashtag associated with cozi in a tweet or post), we may use your reference on or in connection with our service
+we may offer skills through alexa and other voice-activated platforms, and use the voice processing and other technologies discussed in the section entitled “information collected automatically” above
+any information you provide to us when you engage with our skills is treated in accordance with this privacy policy
+we may offer you the ability to link your cozi account to a third party service in order to retrieve certain data about your account on that service
+for example, if you link your cozi account to your google calendar, the linking may allow us to obtain information such as your username, e-mail address, and calendar content
+for more information about how these platforms handle your information, please refer to their respective privacy policies and terms of use
+analytics and interest-based advertising
+if you are a cozi gold subscriber, your experience on the cozi app will be ad-free
+our service contains tracking technologies owned and operated by third parties
+for example, we use tracking technologies from third party analytics provides, such as google analytics, to help us analyze your use of the service, compile statistic reports on the service’s activity, and provide us with other services relating to service activity and internet usage
+we also work with ad serving services, advertisers, and other third parties, such as google doubleclick for publishers, to serve advertisements on the service and/or on third party services
+these third parties may use tracking technologies on our service and third party services (including in e-mails and advertisements) to track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you on the service and third party services or third party devices after you have left the service (“ interest-based advertising ”)
+we may serve ads on third party services, such as facebook and google, which are targeted to reach people (or similar people) on those services that have visited our service or that are also identified in one of more of our databases (“matched ads”)
+this is done by matching common factors between our data and the data of third party services
+when we use facebook custom audiences to serve matched ads on facebook services, you should be able to hover over the box in the right corner of such a facebook ad and find out how to opt-out
+we are not responsible for such third party services’ failure to comply with your opt-out instructions
+for further information on tracking technologies and your rights and choices regarding them, please see the sections entitled “information collected automatically” above and “your rights and choices” below
+your rights and choices
+how do i access or correct my information collected by cozi
+as a cozi user, you have the opportunity to review and modify your information and your private content any time you log onto your cozi account using an email address and password listed on the account
+you may also access, update, or remove certain account information that you have voluntarily submitted to us through the service by visiting our privacy & legal page and selecting the appropriate link
+we may require additional information from you to allow us to confirm your identity
+please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+california residents and data subjects in europe have additional rights as set forth in the sections entitled “your california privacy rights” and “your european privacy rights” below
+how do i delete my data
+we retain your personal data while your account is in existence or as needed to provide you services
+this includes data you or others provided to us and data generated or inferred from your use of our services
+if you want to delete an account, please visit cozi’s account deletion page here and confirm your email address and shared family password
+once an account is deleted, all data for everyone included in the account will be permanently erased, and cannot be recovered
+we use technologies like cookies and pixel tags to provide, improve, protect and promote our services
+for example, cookies help us with things like remembering your account for your next visit, understanding how you are interacting with our services, and improving them based on that information
+cookies can also be used to target advertisements to you
+to learn more about this practice or to opt-out of this type of advertising, click here
+most browsers accept cookies by default
+you can instruct your browser, by changing its settings, to decline or delete cookies
+if you use multiple browsers on your device, you will need to instruct each browser separately
+your ability to limit cookies is subject to your browser settings and limitations
+you can set your browser to not accept cookies, but this may limit your ability to use the services
+cozi uses mixpanel for analytical purposes
+to opt out of mixpanel’s cookie usage, please visit https
+please note that if you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file, you may also clear any opt-out cookies you have
+you can reset your device advertising id at any time through your device settings, which is designed to allow you to limit the use of information collected about you
+for information on how to do this on apple devices, visit apple
+for information on how to do this on android devices, visit google
+you can stop all collection of information via an app by uninstalling the app
+the location data collected through an app depends on your device settings and app permissions
+you can exercise choice over the location data collected through our apps by (i) for gps data, disabling location in your device settings or disabling location permissions to that app
+(ii) for bluetooth data, disabling bluetooth and any bluetooth scanning option in your device settings
+or (iii) for wifi data, disabling wifi and any wifi scanning option in your device settings
+you can stop collection of all location data via an app by uninstalling the app
+your browser settings may allow you to automatically transmit a “do not track” signal to online services you visit
+note, however, there is no industry consensus as to what site and app operators should do with regard to these signals
+accordingly, we do not monitor or take action with respect to “do not track” signals or other mechanisms
+for more information on “do not track,” visit http
+please be aware that if you disable or remove tracking technologies some parts of the service may not function correctly
+analytics and interest-based advertising
+if you are a cozi gold subscriber, your experience on the cozi app will be ad-free
+you can opt-out of your data being used by google analytics through cookies by visiting https
+com/dlpage/gaoptout and downloading the google analytics opt-out browser add-on
+some of the third parties that collect information from or about you on the service in order to provide more relevant advertising to you participate in the digital advertising alliance (“ daa ”) self-regulatory program for online behavioral advertising
+this program offers a centralized location where users can make choices about the use of their information for online behavioral advertising
+to learn more about the daa and your opt-out options for their members, please visit (i) for website opt-out, http
+and (ii) for mobile app opt-out, http
+in addition, some of these third parties may be members of the network advertising initiative (" nai ")
+to learn more about the nai and your opt-out options for their members, please visit http
+you can learn more about your eu online choices here
+please note that if you opt-out of online behavioral advertising using any of these methods, the opt-out will only apply to the specific browser or device from which you opt-out
+further, opting-out only means that the selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e
+, from other ad networks)
+we are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs
+you may also limit our use of information collected from or about your mobile device for purposes of serving online behavioral advertising to you by going to your device settings and selecting “limit ad tracking” (for ios devices) or “opt out of interest-based ads” (for android devices)
+you can opt-out of receiving promotional e-mails from us at any time by following the instructions as provided in e-mails to click on the unsubscribe link
+you can opt-out of receiving non-promotional service e-mails such as reminders and agendas by visiting your family settings
+please note that you cannot opt-out of certain non-promotional e-mails, such as those about your account, transactions, servicing, or cozi’s ongoing business relations
+if you have opted-in to receive push notification on your device, you can opt-out at any time by adjusting your notification preferences in your family settings, or by uninstalling our app
+please note that your opt-out is limited to the e-mail address and device used and will not affect subsequent subscriptions
+if you have linked your cozi account with certain third party services such as your google calendar you may unlink your accounts at any time by visiting your cozi account settings
+please note that unlinking your accounts will not affect any information previously shared through the linking
+cozi is not responsible for any third party service data practices, and we recommend that you carefully review their privacy policies and terms of use
+how does cozi protect my children’s information
+cozi will never knowingly request information or private content from anyone under the age of 13 and does not knowingly collect personal information as defined by the u
+children’s privacy protection act (“ coppa ”) in a manner that is not permitted by coppa
+in order to register and create a cozi account you must be 18 years of age or older
+you may, at any time, direct cozi to delete all identifiable information regarding you or your family that you have provided or that has been collected from your family
+to do so, please contact our privacy officer at the contact information below in the section entitled “contact us
+” however, if you do any of the foregoing, you and your family will not be able to use the cozi account or our services
+if you are a parent or guardian and believe cozi has collected information in a manner not permitted by coppa, please contact us as set forth in the section entitled “contact us” below, and we will remove such data to the extent required by coppa
+how does cozi maintain security
+cozi uses industry standard methods of securing user information and data
+examples of our security measures include, where appropriate, firewalls, virtual private networks, encryption, and anonymization
+we also maintain strict limits on who at cozi and at our parent corporation meredith corporation can access the information databases that contain your information
+since there is no such thing as perfect security over the internet, we cannot guarantee 100% security
+however, in the unlikely case of a security breach on our databases, we will take immediate steps to resolve the problem swiftly and effectively
+what happens if i want to forward my cozi information to a friend
+if you use one of the cozi features designed to allow you to voluntarily forward or share your information or content with family or friends outside of your secure account, we will forward or share access to such content from your account to your friend’s email address as you provided it to us
+such email address may be stored by cozi for your future use but will not be used by cozi to initiate any emails
+by sharing your content, you automatically limit cozi’s ability to keep your content private
+we recommend that you do this only with trusted friends and family
+will there be changes and updates to this privacy policy
+we may occasionally update this privacy policy
+when we do, we will also revise the “last updated” date
+any changes will be effective immediately upon posting of the revised privacy policy
+we encourage you to review this privacy policy from time to time to stay informed of any updates or changes to this privacy policy
+if you continue to use our services after we make changes to the privacy policy, you agree to the changes
+if the changes are material, we may provide you additional notice to your e-mail address
+contact us if you have any questions, comments, or concerns about this privacy policy, please contact us at https
+821 2nd avenue, suite 400 seattle, wa 98104 attention
+privacy officer your california privacy rights
+notice to california residents california civil code section 1798
+83 permits customers who are california residents and who have provided cozi with “personal information” (as that term is defined in section 1798
+83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes
+if you are a california resident with questions regarding this, please contact us at https
+com/contact-us/ or by mail at the address listed above
+any california residents under the age of eighteen (18) who have registered to use the service and posted content or information on the service, can request that such information be removed from the service by visiting https
+com/contact-us/ and requesting assistance
+requests must state that the user personally posted such content or information and detail where the content or information is posted
+we will make reasonable good faith efforts to remove the post from prospective public view
+recipes & meal planner
+support & resources support
+using cozi with other calendars
+why families love cozi
+about us about us
+media & press kit
+eu data subject requests
+cozi is part of the parents network
+is a registered trademark of cozi inc

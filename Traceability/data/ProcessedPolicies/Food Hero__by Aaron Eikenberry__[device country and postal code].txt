@@ -1,0 +1,22 @@
+food hero terms and privacy
+by accessing the food hero skill, you are agreeing to be bound
+by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with
+any applicable local laws
+if you do not agree with any of these terms, you are prohibited from using or accessing this
+the materials contained in this website are protected by applicable copyright and trademark law
+permission is granted to access the alexa skill through the voice interface and official alexa mobile applications
+to use the food hero service outside of these means is forbidden
+the recommendations provided by food hero are made by a robot, and food hero will not be held responsible for any harm or damage
+resulting from a recommendation provided by food hero
+your privacy is important to us
+it is food hero's policy to respect your privacy regarding any information we collect to give you local search results
+accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose
+and otherwise make use of personal information
+we have outlined our privacy policy below
+we will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary
+purposes, unless we obtain the consent of the individual concerned or as required by law
+no personal information is retained by us or any third party
+your country and zip code will be collected at runtime from the alexa api's and never stored
+we are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality
+of personal information is protected and maintained
+food hero may change this privacy policy from time to time at food hero's sole discretion

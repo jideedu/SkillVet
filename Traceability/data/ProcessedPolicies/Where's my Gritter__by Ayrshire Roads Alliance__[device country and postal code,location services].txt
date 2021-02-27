@@ -1,0 +1,17 @@
+we do not disclose personal information including names, addresses, login details, projects, renders or any other information to any third parties
+we do store contact details for support and management and within our secure crm
+the trueviewvisuals app authenticates users and allocates appropriate access via user login
+use account details (registered email address and password) are securely verified with the portal to provide access (once a device is verified against an account, the next launch of the app does not require online access to ensure that it can be used when not connected to a web-enabled network)
+it uses the local file system on the device to cache project data for speed of access and offline use
+captures, renders and associated metadata are also stored in local file storage until securely uploaded to the
+local project edits (modified versions) are also stored as local updates
+we utilises raygun for automated error reporting
+on application crashing, or internal exception management, a report of the details will be sent to our raygun account next time the device is on a web-enabled network and the app is launched
+information sent to raygun is for error tracking and diagnosis only (device name and model, stack trace) and contains no per-company or project identification or private details
+any modifications to this privacy statement will be put in place on this webpage, which is accessible at any point through this website
+if you have any questions about our privacy statement, please email us at hello@trueviewvisuals
+get in touch give us a call
++44 141 374 2741 shoot us an email
+uk grab a coffee
+221 baltic chambers, 50 wellington street, glasgow g2 6hj
+© 2019 trueviewvisuals all rights reserved

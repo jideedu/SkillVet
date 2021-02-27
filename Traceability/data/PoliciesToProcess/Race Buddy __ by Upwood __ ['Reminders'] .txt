@@ -1,0 +1,18 @@
+racebuddy iracing voice app racebuddy iracing voice app about
+privacy privacy racebuddy privacy policy quite simply, racebuddy needs some information from you to be able to be useful
+when you use our racebuddy alexa or google assistant apps, we use the minimum amount of information to be able to process your request
+we don’t use your information to send spam or sell it to 3rd parties
+how does racebuddy use your information
+racebuddy uses the information you provide to do the following
+respond to you with the information you requested help us to improve racebuddy help us to resolve issues with racebuddy help us to prevent misuse/abuse of racebuddy for example
+we use the information the request “racebuddy, where is the skippy series racing this week
+” to provide you with information about the iracing skip barber series schedule we use information about requests that racebuddy doesn’t recognise to help us prioritize future improvements we use information about failed requests to help us resolve issues and bugs we use the information in requests to racebuddy to identify excessively high use intended to have a negative effect on racebuddy’s ability to serve other users racebuddy does not
+use your information to send marketing material sell your information to 3rd parties so they can send marketing material share more information than we need to with technical partners what information does racebuddy collect
+racebuddy collects the following information (either actively requesting it or because it’s passed automatically by amazon (for alexa devices) or google (for google assistant devices) with each request)
+requests for current race series in iracing user id (alexa devices) information about the device used (unique id, supported interfaces, language locale) time and date of requests and responses this information may be recorded in server logs and/or analytics dashboards
+information is held for a maximum of one year
+what information does racebuddy share
+occasionally, we may selectively share your request information with 3rd parties to allow us to filfill your request or resolve issues with the service
+we may send information to iracing’s servers so that they can respond with the correct information
+in order to resolve issues with the service, we may need to send selected requests to our service providers’ technical support staff (e
+hosting providers) © 2020 racebuddy iracing voice app arabica theme by sean lunsford

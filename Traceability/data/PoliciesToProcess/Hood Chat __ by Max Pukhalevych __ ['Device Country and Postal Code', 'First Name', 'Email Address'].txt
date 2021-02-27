@@ -1,0 +1,46 @@
+the easiest way to connect with your alexa neighbors
+be in touch with other alexa users near you
+share news, ask questions, & post announcements in your neighborhood
+email your message to post@hood
+post a message in your neighborhood by simply sending an email to post@hood
+alexa reads your message to your neighbors
+the message will be shared with other alexa users who are located no more than one mile from you
+start by saying "alexa open hood chat"
++ check neighbors activity by saying "get updates" + navigate between messages by saying
+"next", "previous" or "repeat" + say "help" if you are lost or confused + you can even say "alexa, ask hood chat what the neighbors say"
+for this skill to work users will need to permit access to
++ device country & postal code + first name + email address
+it's easy to use
+no need to create any accounts or use any apps
+use the email client at your choice to post a new message at your neighborhood
+hood chat skill works smoothly on any alexa devices with any screen size even if there is no such
+at hood chat, your privacy is a top priority and is at the core of the way we design and build our service, so that you can fully trust us
+the skill requires the permissions to access
+first name, email and zip code
+we use email as user id
+we display first name in the message
+we use zip code to calculate distance between users
+the skill is available for us users only
+we store all user data on us servers
+we never share your personal info with anyone
+messages are not indexed by search engines
+messages are shared with other alexa users who activated the skill and who are located no more than one mile from the message creator
+by enabling hood chat skill, you agree to become bound by the terms and conditions of this agreement
+if you do not agree to all the terms and conditions of this agreement, then you may not be able to use the skill and it's services
+to use the skill you must permit access to your first name, email and zip code
+to post a new message in the neighborhood - you must use the same email address which is used for your alexa account
+you are fully responsible for all activities that occur under the account
+show your neighbors respect with the content of your message
+in particular refrain from offending, flaming, insulting, abusing, taunting, racism, and other similar types of actions in your messages
+poor attitude and behavior are the most common ways a negative / unsafe environment is created
+as such that kind of behavior will not be allowed in this skill
+disregarding these rules will result in account termination and prohibiting access to the skill and it's services
+we have not reviewed, and cannot review, all of the messages posted by users, and cannot therefore be responsible for that content, use or effects
+posted messages may contain content that is indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors
+hood chat reserves the right, at its sole discretion, to modify or replace any part of this agreement
+it is your responsibility to check this agreement periodically for changes
+your continued use of the skill following the posting of any changes to this agreement constitutes acceptance of those changes
+hood chat may also, in the future, offer new services and/or features through the skill
+such new features and/or services shall be subject to the terms and conditions of this agreement
+you may terminate your account at any time by disabling the skill in alexa app
+hood chat may terminate your access to all or any part of the skill at any time, with or without cause, with or without notice, effective immediately

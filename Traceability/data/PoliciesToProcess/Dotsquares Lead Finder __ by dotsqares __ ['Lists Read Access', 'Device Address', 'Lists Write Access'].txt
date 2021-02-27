@@ -1,0 +1,131 @@
+to make this website work better ensure that blocked cookies are allowed
+show details know about cookies cookies are very small files that are stored in a user’s computer during net surfing
+these files store information of user's browsing data such as password, id, preference etc so that webpage loading becomes faster when a user visit the same pages next time
+according to new cookie law, you have to allow cookies to get the optimum surfing experience of this website
+for more information on the cookies stored by this website, click each category
+to remove this message and enable cookies, click allow cookies
+compliance cookie this cookie is placed if you click the allow button in this message
+it tells us you have given your consent to the use of cookies on our site and stops this message from displaying
+dscookiecompliance types of cookies analytical cookies
+with the help of these cookies we can find out traffic sources to our website along with page count, which facilitates us to measure the performance of our website at the same time, improvise on the sluggish areas
+this all is attained by means of a service offered by google analytics
+there are numerous social media tools that we utilize on our website to increase the visitor interaction
+by now if you use these platforms, their cookies possibly are set by means of our site
+the said data/information may then be gathered by the companies that permit them to display advertisements on any other websites that they believe are appropriate as per your field of interest
+our website will not position these cookies on any of your device, unless you do not use such platforms
+the vital site functionality is allowed by these ’functional cookies’
+these get erased automatically when the browser is closed by the visitor and also do not consist any private details
+how we do it
+tours & travel software
+system backup and restore
+security audit and testing
+request for an estimate
+deliver the right solution on time dotsquares has been delivering exceptional web and app solutions for international clients since 2002
+dotsquares understands that your privacy is important to you and that you care about how your information is used and shared online
+we will only collect and use information in ways that are useful to you and in a manner consistent with your rights and our obligations under the law
+this notice applies to our use of any and all data collected by us in relation to your use of our site
+please read this privacy notice carefully and ensure that you understand it
+your acceptance of our privacy notice is deemed to occur upon your first use of our site and/or you will be required to read and accept this privacy notice when signing up for an account or giving confirmation for your data to be used
+if you do not accept and agree with this privacy notice, you must stop using our site immediately
+definitions and interpretation in this notice the following terms shall have the following meanings
+“account” means an account required to access and/or use certain areas and features of our site, such as the dsprojects online project management system
+“cookie” means a small text file placed on your computer or device by our site when you visit certain parts of our site and/or when you use certain features of our site
+details of the cookies used by our site are set out in section 12, below
+“our site” means this website, www
+“uk and eu cookie law” means the relevant parts of the privacy and electronic communications (ec directive) regulations 2003 as amended in 2004, 2011 and 2015
+“we/us/our” means dotsquares ltd, a limited company registered in england under 4381390, whose registered address is unit 2, albourne court, henfield road, albourne, west sussex, bn6 9ff, uk
+com, is owned by dotsquares ltd, a limited company registered in england under 4381390, whose registered address is unit 2, albourne court, henfield road, albourne, west sussex, bn6 9ff, uk
+scope – what does this notice cover
+this privacy notice applies only to your use of our site
+this will apply to all dotsquares group websites also as referred to below
+it does not extend to any websites that are linked to from our site (whether we provide those links or whether they are shared by other users)
+we have no control over how your data is collected, stored or used by other websites and we advise you to check the privacy notices of any such websites before providing any data to them
+this privacy notice will only apply to www
+the notice does not extend to cover any site linked to or from this site
+we would strongly advise you to check if, how and why your data may be collected and /or stored by them
+what data do we collect
+data collected from the site will be done automatically (please see section on use of cookies), whilst other data will only be collected if you voluntarily submit it or opt in for it to be used (an example of this would be our security updates)
+to keep you informed we may collect some or all of the following data
+how do we use your data
+all personal data is stored securely in accordance with the principles of the general data protection regulation (gdpr) as approved by the eu parliament on 14 april 2016 and enforced from 25 may 2018
+for more details on security see section 6, below
+we use your data to provide the best possible service to you
+keeping you up to date on the progress of the enquiry you made to us
+keeping you up to date on services relating to this enquiry (such as security patches, core technology (eg php version) updates, newer plugins etc
+marketing that we feel is relevant to both your known technologies (that we may have worked on) and industry
+supplying our services to you
+personalising and tailoring our products and services for you
+supplying news on offers and discounts that may be available from time to time
+supplying you with email newsletters that you have subscribed to (you may unsubscribe or opt-out at any time)
+analysing your use of our site and gathering feedback to enable us to continually improve our site and your user experience
+with your permission and/or where permitted by law, we may also use your data for marketing purposes which may include contacting you by email and/or telephone and/or text message and/or post with information, news and offers on our products and/or services
+we will not, however, send you any unsolicited marketing or spam and will take all reasonable steps to ensure that we fully protect your rights and comply with our obligations under the data protection act 1998 and the privacy and electronic communications (ec directive) regulations 2003, as amended in 2004, 2011 and 2015
+how and where do we store your data
+we only keep your data for as long as we need to in order to use it as described above in section 5, and/or for as long as we have your permission to keep it
+you can request to review, edit or delete your data at any time
+your data will only be stored within the european economic area (“the eea”) (the eea consists of all eu member states, plus norway, iceland and liechtenstein)
+we value data security very seriously and to protect your data we have put in place several physical and electronic measures to safeguard data collected by the site whilst you are visiting
+do we share your data
+we may share your data with members of dotsquares group
+this includes teaminindia, 9perhour, smartmobiapps, appsquares & wetalkit, who are all members of the dotsquares group
+we take your security seriously so will be making every reasonable effort to ensure that if data needs to be shared with any third party, that the data will be handled safely, securely and in accordance with your rights
+we may compile statistics about the use of our site including data on traffic, usage patterns, user numbers, sales and other information
+all such data will be anonymised and will not include any personally identifying information
+we may from time to time share such data with third parties such as prospective investors, affiliates, partners and advertisers
+data will only be shared and used within the bounds of the law
+in certain circumstances we may be legally required to share certain data held by us, which may include your personal information, for example, where we are involved in legal proceedings, where we are complying with the requirements of legislation, a court order, or a governmental authority
+we do not require any further approval from you in order to share your data in such circumstances and will comply as required with any legally binding request that is made of us
+what happens if our business changes hands
+it is possible that we could expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of our business
+data provided by users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy notice, be permitted to use the data for the purposes for which it was originally collected by us
+in the event that any of your data is to be transferred in such a manner, you will not be contacted in advance and informed of the changes
+how can you control your data
+when your information is submitted through the site you may be given options on how to control or restrict your data
+our stated aim is to give you control over how we can use your data for direct marketing purposes (this includes the ability to opt out of receiving emails by the links provided)
+you may also wish to sign up to one or more of the preference services operating in the uk
+the telephone preference service (“the tps”), the corporate telephone preference service (“the ctps”), and the mailing preference service (“the mps”)
+these may help to prevent you receiving unsolicited marketing
+please note, however, that these services will not prevent you from receiving marketing communications that you have approved to receiving
+your right to withhold information
+most areas of the site are accessible without the need to submit any information at all
+however some areas of the site will be username and password protected and will require you to submit data
+you may restrict your internet browser’s use of cookies
+for more information, see section 12
+how can you access your data
+you have the legal right to ask for a copy of any of your personal data held by us
+to access, edit or delete your data please contact the links provided or email to data@dotsquares
+what cookies do we use and what for
+our site may place and access certain first party cookies on your computer or device
+first party cookies are those placed directly by us and are used only by us
+we use cookies to facilitate and improve your experience of our site and to provide and improve our products and services
+by using our site you may also receive certain third party cookies on your computer or device
+third party cookies are those placed by websites, services, and/or parties other than us
+we use third party cookies on our site for analytics services
+our site uses analytics services provided by google analytics, which also use cookies
+website analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how people use our site
+contacting us if you have any questions about our site or this privacy notice, please contact us by email at admin@dotsquares
+please ensure that your query is clear, particularly if it is a request for information about the data we hold about you (as under section 11, above)
+changes to our privacy notice we may change this privacy notice as we may deem necessary from time to time, or as may be required by law
+any changes will be immediately posted on our site and you will be deemed to have accepted the terms of the privacy notice on your first use of our site following the alterations
+we recommend that you check this page regularly to keep up-to-date
+the future of instagram
+social media giants instagram have a taken a huge stride towards changing the social media game by announcing a testing
+please leave this field empty
+would like to receive email updates from us
+unit 2, albourne court, henfield road, albourne, west sussex, bn6 9ff, uk
+unit 2 hobbs court, 2 jacob street, london se1 2bg
+dubai silicon oasis, dubai
+suite 300, bethesda,md 20817
++1 301 563 9488
+6-kha-9, jawahar nagar, jaipur, rajasthan - 302004,
+suite 20, 981 north road, murrumbeena vic 3163
++61 425 672 323
+nugues, 38430 st jean de moirans
++33 1 70 61 54 71
+submit your email address below, to receive latest news and updates from dotsquares
+© 2002 - 2019
+registered in england & wales no
+868 8581 51 dotsquares and the dotsquares logo are trademarks of dotsquares ltd
+, with the uk trademark number
+submit your email address below, to begin download
+you will also be subscribed for latest news and updates from dotsquares

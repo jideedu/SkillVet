@@ -1,0 +1,5 @@
+within radius (alexa skill)
+privacy policy no user data is collected or stored in this skill
+anonymous device geo-coordinates is sent to google api to fulfill user queries
+google api terms of service can be found here
+terms of use use at your own risk

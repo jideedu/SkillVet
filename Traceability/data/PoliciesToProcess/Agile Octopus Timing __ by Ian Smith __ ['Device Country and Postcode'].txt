@@ -1,0 +1,58 @@
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+21 lines (13 sloc) 2
+agile octopus timing – privacy policy
+this document is the privacy policy for the published version of the agile octopus timing alexa skill that can be accessed through the alexa platform
+it was last updated in may 2020
+ian smith provides the agile octopus timing alexa skill (“the skill”), as a free service that is made available without obligation
+it is made available in the hope that it will enable greener and more cost-effective electricity usage for customers of the agile octopus tariff provided by octopus energy
+the first time you invoke the skill, it will ask you to visit the alexa app to authorise it to access your country and postcode information
+your postcode is required in order to determine your electricity region, as different regions have different unit prices
+subsequently, each time you invoke the skill, it will request your postcode from amazon
+the skill does not store your postcode and instead requests it from amazon on each invocation
+you may rescind this authorisation at any time in the alexa app
+if you do so, the skill will seek permission from you again the next time you use it
+the skill communicates with octopus energy via the publicly available octopus energy api , which is a programming interface that allows the skill to retrieve information from octopus energy
+at this time, octopus energy does not require any identifying account information to access the data used by this skill
+therefore, no information specific to any account that you may hold with octopus energy is currently required or used
+on each invocation, your postcode is sent to octopus energy for the purpose mentioned above, of determining your electricity region
+the skill creates log entries, stored on amazon’s servers, that are designed to help highlight and then subsequently debug problems that may occur with the skill
+if there is a problem with postcode lookup when you use the skill, your postcode may appear in a log file
+these log entries cannot be connected back to you or your alexa device
+the logs are configured to be retained for 90 days and will then be automatically deleted
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+21 lines (13 sloc) 2
+agile octopus timing – privacy policy
+this document is the privacy policy for the published version of the agile octopus timing alexa skill that can be accessed through the alexa platform
+it was last updated in may 2020
+ian smith provides the agile octopus timing alexa skill (“the skill”), as a free service that is made available without obligation
+it is made available in the hope that it will enable greener and more cost-effective electricity usage for customers of the agile octopus tariff provided by octopus energy
+the first time you invoke the skill, it will ask you to visit the alexa app to authorise it to access your country and postcode information
+your postcode is required in order to determine your electricity region, as different regions have different unit prices
+subsequently, each time you invoke the skill, it will request your postcode from amazon
+the skill does not store your postcode and instead requests it from amazon on each invocation
+you may rescind this authorisation at any time in the alexa app
+if you do so, the skill will seek permission from you again the next time you use it
+the skill communicates with octopus energy via the publicly available octopus energy api , which is a programming interface that allows the skill to retrieve information from octopus energy
+at this time, octopus energy does not require any identifying account information to access the data used by this skill
+therefore, no information specific to any account that you may hold with octopus energy is currently required or used
+on each invocation, your postcode is sent to octopus energy for the purpose mentioned above, of determining your electricity region
+the skill creates log entries, stored on amazon’s servers, that are designed to help highlight and then subsequently debug problems that may occur with the skill
+if there is a problem with postcode lookup when you use the skill, your postcode may appear in a log file
+these log entries cannot be connected back to you or your alexa device
+the logs are configured to be retained for 90 days and will then be automatically deleted
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

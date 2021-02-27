@@ -1,0 +1,39 @@
+you need to enable javascript to run this app
+barkibu privacy policy updated
+december 5 th , 2018 welcome to the barkibu alexa skill
+at barkibu, (“barkibu pet health advisor”), we create alexa skills to enhance the human experience, and make life more enjoyable, and easier
+we provide these services to you subject to the following privacy policy (the “privacy policy”)
+please read these terms carefully
+these terms, as modified or amended from time to time, are a binding contract between barkibu (“we” and/or “us”, etc) and you ("you”)
+you may only use the service(s) operated by barkibu if you first accept this privacy policy
+what this privacy policy covers this policy covers how barkibu treats personal information that is collected or received through the services we provide
+personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and any information that is not otherwise publicly available
+this policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage
+companies such as our internet access and website and email hosting company, facebook, and others have their own privacy statements which can be viewed on their respective websites
+information collection and use barkibu collects personal information when you contract with us to use or purchase our services
+when you contract with us for a particular service, we will ask you to provide us with your name, email address, and a contact phone number
+the barkibu alexa skill may from time to time collect skill usage information such as the number of sessions, certain responses uttered, and session durtation to enhance your experience
+this information is stored on our server logs
+the information from the server logs is used anonymously and is not linked to any individual user and contains no personal identifiers accessible to us the developer
+barkibu uses the information that is collected for the following general purposes
+to provide updates to you regarding products and services, to fulfill your requests for products and services, improve products and services, contact you, conduct research, and to optimize and improve the website
+ownership of content you acknowledge and agree that
+(i) barkibu owns all rights, title and interest in and to all content posted, generated, or contributed (“the content”) to the alexa skill by you or other users
+and (ii) nothing in this agreement will confer you any right of ownership in the content or any license to any content other than the rights expressly granted in this agreement
+emails we will occasionally send e-mails to you
+this is required for certain uses of the alexa skill
+we may also send information to you regarding your account activity and purchases as well as updates about our products and promotional offers
+you may elect to opt-out of receiving promotional emails at any time
+{this section is if the user said not a children’s skill} children barkibu does not design any part of its alexa skill to attract anyone under age 13
+barkibu will not knowingly contact children under age 13 without a parent's permission
+barkibu does not knowingly ask a child under age 13 for any personal information
+{this section is if the user said not a children’s skill} children barkibu does not store any data on users under the age of 13
+temporary data collected by barkibu from users under age 13 is non-identifiable, anonymous, and immediately discarded following the service session
+information sharing and disclosure barkibu does not rent, sell or share personal information about you with other people or companies except under the following circumstances
+- we provide shipping information to our shippers so that they may deliver products to you
+- we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims
+- we share information with law enforcement agencies in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, suspected copyright infringement, situations involving potential threats to the physical safety of any person, or as otherwise required by law
+confidentiality and security we limit access to personal information about you to only those we believe reasonably need to come into contact with that information to provide our products or services to you
+we have physical, electronic, and procedural safeguards to protect personal information about you
+changes to this privacy policy this policy will be changed from time to time to adapt to the changing needs of the society and the law
+we will notify you about significant changes in the way we treat personal information by amending this privacy policy on the website

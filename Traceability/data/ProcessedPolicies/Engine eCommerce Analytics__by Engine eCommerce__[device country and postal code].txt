@@ -1,0 +1,3 @@
+the gods are wise, but do not know of the site which you seek
+please double-check that you are using the correct url
+if so, make sure it matches your dashboard's custom domain settings, and try again in 2 minutes

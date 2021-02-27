@@ -1,0 +1,677 @@
+mojio takes its obligation to protect the privacy of your personal information
+your personal information will be treated in a secure and confidential manner, in compliance with all
+applicable laws and regulations
+, its subsidiaries, owners, officers, directors, affiliates and agents (“mojio”, “we”, “us”, “our”) respect your
+privacy and are committed to transparency in the protection, collection, disclosure and use of your personal
+this privacy policy tells you about your privacy rights and how the law protects you, and describes how
+we look after, collect, disclose and use your personal data, and the circumstances under which we may share this
+this privacy policy applies to the privacy practices of
+(a) our websites located at www
+com (the “mojio websites”), (b) our platform (including apis required to access the platform) that
+provides connected-car services (the “mojio platform”), (c) our software development kit for development applications
+that interoperate with the mojio platform (the “mojio sdk”), (d) any mobile device software provided by us to you
+through the apple app store or google play, including, but not limited to, our mobile applications titled force by mojio
+and motion (the “mojio applications”), and (e) any hardware device provided for the vehicle (the “device”) (together
+with the mojio websites, mojio platform, mojio sdk and the mojio applications, the “mojio solution”)
+mojio is made up of different legal entities, with operations worldwide and offices in the us, canada, germany, and
+, a canadian company (parent)
+, a delaware limited company (sub)
+mojio eood, a bulgarian company (sub)
+and mojio gmbh, a german company (sub) (the “mojio group”)
+privacy notice is issued on behalf of the mojio group so when we mention “mojio”, “we”, “us” or “our” in this privacy
+notice, we are referring to the relevant company in the mojio group responsible for processing your data
+a canadian registered company, is the controller and responsible for the mojio websites
+collection of information mojio provides a connected-car service that allows authorized users to gain access to information on the use and
+operation of their vehicles
+the mojio solution is enabled by devices which plug into your vehicles and connect with
+the mojio sdk, the mojio applications and the mojio websites
+by using the device, the mojio sdk, the mojio
+applications and / or the mojio website, mojio may collect the following types of information (“user information”)
+to access and use certain features of the mojio solution (e
+the mojio sdk), authorized users need to register for a
+my mojio account (the “account”) through the available mojio solution interfaces, namely, the mojio websites or the
+during the registration process, authorized users may be asked to provide us with a full name,
+address, telephone number, email address, photograph, drivers license and the device number (or imei)
+users may also be asked to choose a username, password and security questions
+authorized users are individuals
+or entities that are permitted to use the mojio solution via an established account
+customers’ affiliates, employees, or contractors that customer authorizes and for whom customer has purchased a
+subscription to use the mojio solution on its behalf
+in some mojio applications, there are also different types of accounts with corresponding data use and protection
+terms depending on whether the authorized user is an owner (individual who accepts the terms of use to the mojio
+solution in the name of your entity), admin (individuals invited by the owner to help with daily operations), or driver
+(individuals invited to a fleet organization by either the owner or admin)
+an account owner has access to the
+information of other authorized users on the account
+owner may invite or revoke admins or drivers access
+admin cannot invite or revoke other admins but otherwise has access to the same features as the
+a driver may request that an admin or owner delete or erase the drivers’ data in certain jurisdictions
+in registering for an account (or after registration), you can choose to provide your social media login information and
+password through platforms such as facebook
+if you do so, you authorize us to access certain social media account
+information (consistent with your social media privacy settings), including but not limited to your profile information,
+full name, username, email address and full physical address
+all such information is provided directly by the social
+media platform, whose use of your personal information will be subject to its own privacy policy and terms of use
+it is important that the personal data, generally meaning data that relates to, describes, or is reasonably likely to be
+identified with or associated with a natural person or household, we hold about authorized users is accurate and
+please keep us informed if your personal data changes during your relationship with us
+if you fail to provide personal data when we need to collect personal data for registration, by law, or under our terms
+of use or a contract we have with you, we may not be able to register your account, or provide you with the mojio
+solution, or perform the contract we have or are trying to enter into with you
+information from the mojio hardware device we collect and use the information described below about the vehicle(s) in which you installed the mojio hardware
+we receive some of this information via a mobile service provider
+see section 3(b) “mobile services
+providers” for further information on how the mojio hardware device interacts with a mobile network
+vehicle related information we collect information about your vehicle’s operation to provide you with feedback on your driving habits
+example, we collect data on hard braking, hard acceleration, and speed
+to do so, we process information such as
+vehicle make/model/vin, vehicle details (license plate, fuel grade, odometer, engine description), location details like
+trip routes and parked locations (including those marked as business), geofences, history of alerts and notifications,
+glovebox documents, vehicle recall and maintenance reminders
+using this information, we can provide you with
+tailored feedback with insight into your driving style that can help you save on gas and vehicle wear and tear
+driver and owner information for mojio applications in some mojio applications, we collect different types of information depending on whether you are designated a
+see our page on
+understanding and controlling your personal information for the applicable mojio application
+where the online tool is not currently available for access requests in
+your region, you can exercise your rights by logging in to the mojio solution for verification and providing relevant
+if you access the platform by mobile device, you may be asked to share your geo-location in order to make use of our
+for some mojio applications like forcebymojio, you may also be asked to provide us with
+access to your mobile device’s contact book and phone number in order to use some of the features of the mojio
+to communicate the location of your vehicle to your contacts
+payment processing information most payments for mojio solution are through your wireless provider and mojio does not process or have access to
+any financial information like credit card numbers
+when you pay for some mojio applications like forcebymojio, you
+will be disclosing your payment information to a third-party payment processor (such as stripe, recurly, braintree,
+) depending on your location, whose use of your personal information will be subject to its own privacy policy and
+we do not have access to any payment processing information or any financial information such as
+information we collect automatically when you visit our website or use our applications when you install one of the mojio applications or use a computer, tablet, smartphone or other device to access the
+mojio websites, we may use automatic means to collect information about the device and how you use it
+information may include the type of device, your operating system, your browser (for example, whether you used
+internet explorer, edge, firefox, safari, chrome or another browser), your internet service provider, your domain
+name, your internet protocol (ip) address, your device identifier (or udid), the date and time that you accessed our
+service, the website that referred you to the mojio website, the web pages you requested, the date and time of those
+requests and your physical location
+see section 7 “cookies and other tracking technologies” for further information
+we do not intentionally gather personal information about individuals who are under the age of 18
+aware that we inadvertently hold or have access to personal information about anyone under 18, please let us know
+so we can delete it
+aggregated data we also collect, use and share aggregated data such as statistical or demographic data for any purpose
+aggregated data may be derived from your personal data but is not considered personal data in
+law as this data does not directly or indirectly reveal your identity
+for example, we may aggregate your usage data to
+calculate the percentage of users accessing a specific mojio solution feature
+however, if we combine or connect
+aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data
+as personal data which will be used in accordance with this privacy notice
+information we do not collect we do not collect any special categories of personal data about you (this includes details about your race or ethnicity,
+religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information
+about your health and genetic and biometric data)
+nor do we collect any information about criminal convictions and
+use of information we will only use your personal data when the law allows us to
+most commonly, we use the information described
+provide the mojio solution to you
+fix, maintain, enhance and modify the mojio solution
+communicate with you (e
+in response to your inquiries or comments)
+comply with legal and regulatory requirements
+promote our products and services
+provide you with offers by our business partners that might interest you in accordance with your
+for other purposes in accordance with your consent
+please note that we may use information for any purpose if we anonymize it so that it no longer will be able to identify
+you or your vehicle, process your personal data for more than one legal basis depending on the specific purpose for
+which we are using your data and access your personal data without your knowledge or consent, in compliance with
+the above rules, where this is required or permitted by law
+in addition, we strive to provide you with choices regarding certain personal data uses, particularly around marketing
+for example, we may use your personal, usage, and aggregated data to form a view on what we
+think you may want or need, or what may be of interest to you
+this is how we decide which products, services and
+offers may be relevant for you
+you will receive communications from us if you have requested information from us
+and, in each case, you have not opted out of receiving such communications
+you can ask us or third parties to stop
+sending you communications at any time by contacting us as set forth below
+where you opt out of receiving these
+marketing messages, this will not apply to personal data provided to us as a result of a service provided to you
+disclosure of information we require all third parties to respect the security of your personal data and to treat it in accordance with the law
+do not allow our third-party service providers to use your personal data for their own purposes and only permit them
+to process your personal data for specified purposes and in accordance with our instructions
+transfer or disclose information as follows
+service providers arrangements your information may be transferred (or otherwise made available) to our affiliates and other third parties who provide
+services on our behalf
+our service providers are given the information they need to perform their designated
+functions, and are not authorized to use or disclose personal information for their own marketing or other purposes
+mobile services providers for you to be able to access certain features using the mojio hardware device, the mojio hardware device needs to
+be connected to a mobile network through a mobile service provider (such as telus, t-mobile usa, at&t or
+when the mojio hardware device is connected to a mobile network, the mojio hardware device
+shares your information with the mobile service provider for the purposes of providing you with certain features of the
+the information will be shared in accordance with the mobile service provider’s privacy policy and
+legal and compliance we and our service providers may provide your personal information in response to a search warrant or other legally
+valid inquiry or order, or to another organization (e
+law enforcement) for the purposes of investigating a breach of
+an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise required or
+permitted by applicable european, canadian, us or other law or legal process
+your personal information may also
+be disclosed where necessary for the establishment, exercise or defense of legal claims and to investigate or prevent
+actual or suspected loss or harm to persons or property
+sale of business personal information may be provided to third parties in connection with a business transaction, including a merger or
+sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of mojio or as
+part of a corporate reorganization, or stock or asset sale, or other change in corporate control, including for the
+purpose of determining whether to proceed or continue with such transaction or business relationship
+anonymized data information that is anonymized so that it will not be able to identify you may be shared with or sold to third parties
+european economic area (eea) users — international transfers if you are located in the european economic area (eea), we share your personal data within the mojio group
+will at times, involve transferring your data outside the european economic area (eea)
+may be stored and processed by us, our affiliates and our third party service providers in canada, the united states,
+or other jurisdictions that may not have data protection or other laws that are as protective as in your country of
+in the event that personal information is transferred to canada, the united states, or other foreign
+jurisdiction, it will be subject to the laws of that jurisdiction and may be disclosed to or accessed by the courts, law
+enforcement and governmental authorities in accordance with those laws
+by using the mojio solution, you consent to
+the transfer, processing and storage of your personal information in countries outside of your country of residence,
+including canada, the united states, as described in this privacy policy
+many of our external third parties partners and service providers are based outside the european economic area
+(eea) so their processing of your personal data will involve a transfer of data outside the eea
+to ensure that your
+personal data is protected when transferred outside the eea, we enter into data transfer agreements incorporating
+the eu’s standard contractual clauses
+whenever we transfer your personal data to external third parties based outside of the eea, we ensure a similar
+degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented
+we will only transfer eu data subjects personal data to countries that have been deemed to provide an
+adequate level of protection for personal data by the european commission
+for further details, see european
+adequacy of the protection of personal data in non-eu countries
+where we use certain service providers, we may use specific contracts approved by the european
+commission which give personal data the same protection it has in europe
+for further details, see european
+model contracts for the transfer of personal data to third countries
+where we use providers based in the us, we may transfer data to them if they are part of the privacy shield
+which requires them to provide similar protection to personal data shared between europe and the us
+details, see european commission
+safeguarding and retention of personal information we will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for
+the purposes of satisfying any legal, accounting, or reporting requirements
+to determine the appropriate retention
+period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of
+harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal
+data and whether we can achieve those purposes through other means, and the applicable legal requirements
+some circumstances you can ask us to delete your data and in some circumstances we may anonymize your
+personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we
+may use this information indefinitely without further notice to you
+we have implemented reasonable administrative, technical and physical measures in an effort to safeguard the
+personal information in our custody and control against theft, loss and unauthorized access, use, modification and
+we restrict access to your personal information on a need-to-know basis to employees and authorized
+service providers who require access to fulfill their job requirements
+we have personal information retention processes designed to retain personal information for no longer than
+necessary for the purposes stated above or to otherwise meet legal requirements
+access to personal information in certain jurisdictions and for some mojio applications, you have the right to access, update and correct inaccuracies,
+request deletion/erasure, object to processing, request restriction, or request portability or transfer of your personal
+information in our control, subject to certain exceptions prescribed by law
+specifically, you may access, update and
+correct inaccuracies in personal information we have in our control or change the use of your personal information for
+direct marketing purposes by accessing the settings on the mojio solution you are using
+you may also request to
+erase/delete your personal data
+however, this will not affect the lawfulness of any processing carried out before your
+if you withdraw your consent or erase your personal information, we may not be able to
+provide the mojio solution or certain products or services to you
+we may request certain personal information for the
+purposes of verifying the identity of the individual seeking access to their personal information records
+have to pay a fee to access your personal data (or to exercise any of the other rights)
+however, we may charge a
+reasonable fee if your request is clearly unfounded, repetitive or excessive
+alternatively, we may refuse to comply
+with your request in these circumstances
+we try to respond to all legitimate requests within 45 days
+may take us longer if your request is particularly complex or you have made a number of requests
+in this case, we
+will notify you and keep you updated
+in addition, the california consumer privacy act provides california consumers with the right to obtain information
+about the personal information about you that we collect, use, and disclose
+see our page on
+controlling your personal information for the applicable mojio application
+the online tool is not currently available for access requests in your region, you can exercise your rights by logging in
+to the mojio solution for verification and providing relevant details to privacy@moj
+if you choose to exercise your
+privacy rights, you have the right to not to receive discriminatory treatment or a lesser degree of service from moj
+cookies and other tracking technologies we use cookies and other tracking technologies for the following purposes
+(i) to operate the mojio website (so-called
+“strictly necessary cookies”, which are essential in order to enable you to move around the website and use its
+features, such as accessing secure areas of the website)
+(ii) to provide you with offers that may interest you
+(including on third-party websites) (so-called “targeting cookies or advertising cookies”, which collect information
+about your browsing habits and are used to deliver adverts more relevant to you and your interests)
+personalize the content we present you on the mojio website (so called “functionality cookies”, which allow the
+website to remember choices you make and provide enhanced, more personal features), (iv) to understand how the
+mojio solution function and are used and to provide or improve the mojio solution (so-called “performance or
+analytical cookies”, which are used to collect information about your use of the mojio solution)
+only during a particular session and some are persistent over multiple sessions over time
+you may set your browser to notify you when you receive a cookie or to not accept certain cookies
+decide not to accept cookies from the mojio website, you may not be able to take advantage of all of the features on
+if you want to delete any cookies that may already be on your computer or device, please refer to
+the instructions for your file management software to locate the file or directory that stores cookies
+we also use in-app tracking technologies to understand how the mojio solution functions and is used
+all collection of data generated by the use of the mojio applications by uninstalling the mojio applications
+do not track most web browsers include a “do not track” setting
+however, there is a lack of certainty or consistency with respect
+to what impact that setting should have on the information collected or on a user’s browsing experience
+and consistently with respect to the operation of many websites, if you enable that setting, it will not change what
+information is exchanged with your computer, or how that information is used, when you visit the mojio website
+third party websites the mojio website may contain links to other websites that are not owned or controlled by us
+we have no control
+over, do not review and are not responsible for the privacy policies of or content displayed on such other websites
+when you click on such a link, you will leave our service and go to another site
+during this process, another entity
+may collect personal information from you
+when you leave our website, we encourage you to read the privacy notice
+of every website you visit
+updates to the privacy policy we may update this privacy policy to reflect changes to our privacy practices
+if we make changes to this privacy
+policy, they will be reflected in an updated privacy policy that will be posted on this page and, where appropriate,
+notified to you by email or via in-app message, and all changes will be effective upon such posting or, where
+appropriate, notification by email or in-app message, or at another specified time
+we encourage you to periodically
+review this page for the latest information on our privacy practices
+contact us mojio welcomes your comments and questions regarding this privacy policy and the protection, collection and use of
+to respond to your request, we may ask you for your full name, email address and phone
+we have appointed a data protection officer (dpo) who is responsible for overseeing questions in relation to this
+if you have any questions or requests, please contact the dpo using the details set out below
+11 th floor, 808 west hastings street
+vancouver, bc canada v6c 2x4 you also have the right to make a complaint at any time to your respective supervisory authority
+appreciate the chance to deal with your concerns before you approach the supervisory authority so please contact us
+in the first instance
+zásady ochrany osobních údajů společnosti mojio
+(“ mojio ”) respektuje vaše soukromí a zavázala se k transparentnosti při ochraně, shromažďování a používání vašich osobních údajů
+zásady ochrany osobních údajů uvedené níže vás informují o vašich právech na ochranu osobních údajů a o tom, jak vás chrání zákon, a popisují, jakým způsobem vaše osobní údaje opatrujeme, shromažďujeme a používáme a okolnosti, za kterých tyto informace sdílíme
+tyto zásady ochrany osobních údajů se týkají postupů ochrany osobních údajů
+(a) našich webových stránek na adrese www
+io („ webové stránky mojio “)
+(b) naší platformy (včetně rozhraní api potřebného pro přístup k platformě), která poskytuje služby vozidel s připojením k internetu („ platforma mojio “)
+(c) naší vývojové sady pro vývojové aplikace, která spolupracuje s platformou mojio („ mojio sdk “)
+(d) jakéhokoliv softwaru pro mobilní zařízení, který poskytujeme prostřednictvím aplikace apple app store nebo google play, včetně naší mobilní aplikace s názvem mojio cloak a mojio gauge (dále jen „ mobilní aplikace mojio “)
+a (e) hardwarové zařízení mojio pro vozidlo („ hardwarové zařízení mojio “) (spolu s webovými stránkami mojio, platformou mojio, mojio sdk a mobilními aplikacemi mojio, „ řešení mojio “)
+společnost mojio se skládá z různých právnických osob s celosvětovou působností a pobočkami v usa, kanadě, německu a bulharsku
+, kanadská společnost (mateřská)
+, společnost s ručením omezeným v delaware (dceřiná)
+mojio eood, bulharská společnost (dceřiná)
+a mojio gmbh, německá společnost (dceřiná) („ skupina mojio “)
+toto oznámení o ochraně osobních údajů je vydáno jménem skupiny mojio, takže uvádíme-li v tomto oznámení pojmy „mojio“, „my“, „nás“ nebo „naše“, mluvíme o příslušné společnosti ve skupině mojio odpovědné za zpracování vašich údajů
+mojio, registrovaná společnost v kanadě, je odpovědná za tuto webovou stránku
+společnost mojio poskytuje službu vozidel s připojením k internetu, která vám umožňuje získat přístup k informacím o používání a provozu vašeho vozidla, vylepšit zážitek z jízdy a zvýšit výkon vašeho vozidla
+řešení společnosti mojio je umožněno hardwarovým zařízením společnosti mojio, které se zapojí do vašeho vozidla a připojí se k sdk, aplikacím a webovým stránkám společnosti mojio
+společnost mojio může prostřednictvím hardwarového zařízení, sdk, aplikací nebo webových stránek společnosti shromažďovat následující typy informací
+chcete-li získat přístup k některým funkcím řešení společnosti mojio (např
+sdk) a použít je, možná si budete muset zaregistrovat účet moje mojio („ účet “) prostřednictvím dostupných rozhraní řešení mojio, jmenovitě webových stránek nebo aplikací společnosti mojio
+během procesu registrace můžete být požádáni o zadání celého jména, adresy, telefonního čísla, e-mailové adresy, fotografie a čísla zařízení hardwarového zařízení společnosti mojio (nebo imei)
+také můžete být požádání o výběr uživatelského jména, hesla a bezpečnostní otázky
+při registraci účtu (nebo po registraci) se můžete rozhodnout poskytnout své přihlašovací údaje a heslo na sociální média prostřednictvím platforem, jako je facebook
+pokud tak učiníte, udělíte nám oprávnění k přístupu k určitým informacím o účtu na sociálních médiích (v souladu s nastavením ochrany osobních údajů sociálních médií), včetně, nikoliv však výlučně, informací o vašem profilu, celého jména, uživatelského jména, e-mailové adresy a úplné fyzické adresy
+všechny tyto informace poskytuje přímo platforma sociálních médií, jejíž používání vašich osobních údajů podléhá jejich vlastím zásadám ochrany soukromí a podmínkám používání
+je důležité, aby osobní údaje, které o vás máme, byly přesné a aktuální
+pokud se vaše osobní údaje během vašeho vztahu s námi změní, informujte nás prosím
+pokud neposkytnete osobní údaje, které potřebujeme shromáždit pro registraci podle zákona nebo našich podmínek použití nebo smlouvy, kterou jste s námi uzavřeli, možná váš účet nebudeme moci zaregistrovat, ani poskytovat řešení společnosti mojio ani plnit smlouvu, kterou jsme s vámi uzavřeli nebo se snažíme uzavřít
+informace z hardwarového zařízení společnosti mojio
+shromažďujeme a používáme níže popsané informace o vozidle, do kterého jste nainstalovali hardwarové zařízení společnosti mojio
+některé z těchto informací získáváme prostřednictvím poskytovatele mobilních služeb
+viz část 3(b) „poskytovatelé mobilních služeb“, kde naleznete další informace o interakci hardwarového zařízení společnosti mojio s mobilní sítí
+informace o provozu vozidla shromažďujeme proto, abychom vám poskytli zpětnou vazbu ohledně vašich jízdních návyků
+shromažďujeme například údaje o prudkém brzdění, prudké akceleraci a rychlosti
+pomocí těchto informací vám poskytneme přehled o vašem stylu jízdy, který vám pomůže šetřit plyn a vozidlo
+abychom vám mohli poskytnout zpětnou vazbu na míru, požadujeme typ vozidla a identifikační číslo
+informace o umístění vozidla
+shromažďujeme informace o umístění vašeho vozidla, včetně trasy cesty a místě, kde vozidlo zaparkujete
+cesty trasy umožňují kontrolovat konkrétní projetou trasu, náklady na palivo spojené s touto trasou a délku trvání určité trasy
+pokud k platformě přistupujete pomocí mobilního zařízení, můžete být za účely využití našich služeb geolokace požádáni o sdílení vaší geografické polohy
+můžete být také požádáni o poskytnutí přístupu k seznamu kontaktů a telefonnímu číslu vašeho zařízení, abychom mohli využít některé funkce řešení společnosti mojio, např
+sdělení polohy vašeho vozu vašim kontaktům
+informace o zpracování plateb
+při placení služeb společnosti mojio zveřejníte své platební údaje společnosti stripe payments canada ltd
+, jejíž používání vašich osobních údajů bude záviset na jejích vlastních zásadách ochrany osobních údajů a smluvních podmínkách
+nemáme přístup k žádným informacím o zpracování plateb ani k finančním informacím, jako jsou čísla kreditních karet
+informace, které automaticky shromažďujeme při návštěvě našich webových stránek nebo použití našich aplikací
+při instalaci aplikace mojio nebo při použití počítače, tabletu, chytrého telefonu nebo jiného zařízení k přístupu na web společnosti mojio můžeme použít automatické prostředky k shromažďování informací o zařízení a způsobu jeho použití
+tyto informace mohou zahrnovat typ zařízení, operační systém, prohlížeč (například zda jste použili internet explorer, firefox, safari, chrome nebo jiný prohlížeč), poskytovatele internetových služeb, název domény, adresu internetového protokolu (ip), identifikátor vašeho zařízení (nebo udid), datum a čas, kdy jste naši službu navštívili, webové stránky, které vás na web společnosti mojio odkázaly, požadované webové stránky, datum a čas těchto žádostí a vaše fyzické umístění
+další informace naleznete v části 7 „soubory cookies a další technologie sledování“
+také shromažďujeme, používáme a sdílíme souhrnné údaje jako jsou statistické nebo demografické údaje pro jakékoliv účely
+souhrnné údaje mohou být odvozeny z vašich osobních údajů, ale nejsou právně považovány za osobní údaje, neboť tyto údaje přímo ani nepřímo neodhalují vaši totožnost
+například můžeme shromáždit údaje o vašem využití, abychom mohli vypočítat procento uživatelů, kteří přistupují ke konkrétní funkci řešení společnosti mojio
+pokud však spojíme nebo propojíme vaše souhrnné údaje s osobními údaji způsobem, který by přímo či nepřímo odhalil vaši totožnost, tyto kombinované údaje považujeme za osobní údaje, které budou použity v souladu s těmito zásadami ochrany osobních údajů
+neshromažďujeme žádné zvláštní kategorie osobních údajů (včetně podrobností o vaší rase nebo etnickém původu, náboženských nebo filozofických přesvědčeních, sexuálním životě, sexuální orientaci, politických názorech, členství v odborových organizacích, informace o vašem zdraví a genetických a biometrických údajů)
+neshromažďujeme ani informace o odsouzeních a trestných činech
+vaše osobní údaje použijeme pouze tehdy, pokud nám to dovoluje zákon
+nejčastěji používáme výše popsané informace pro následující účely
+oprava, údržba, vylepšení a úprava služeb mojio
+komunikace s vámi (např
+v reakci na vaše dotazy nebo připomínky)
+dodržování právních a regulačních požadavků
+propagace našich produktů a služeb
+poskytnutí nabídek našich obchodních partnerů, které by vás mohly zajímat, podle vašeho souhlasu
+pro jiné účely podle vašeho souhlasu
+vezměte prosím na vědomí, že informace můžeme použít pro jakýkoli účel, pokud provedeme jejich anonymizaci, takže už vás ani vaše vozidlo nebude možné identifikovat
+vaše osobní údaje můžeme také zpracovat pro účely více než jednoho právního základu v závislosti na konkrétním účelu, pro který vaše údaje používáme
+také k vašim osobním údajům můžeme přistupovat bez vašeho vědomí nebo souhlasu v souladu s výše uvedenými pravidly, pokud to zákon vyžaduje nebo povoluje
+kromě toho se snažíme poskytnout vám možnost výběru určitých způsobů využití osobních údajů, zejména v oblasti marketingu a reklamy
+například můžeme vaše osobní a souhrnné údaje a informace o využití použít k vytvoření názoru na to, co byste mohli chtít, potřebovat nebo co by vás mohlo zajímat
+takto rozhodujeme, které produkty, služby a nabídky mohou být pro vás relevantní
+pokud jste od nás žádali o informace a od tohoto způsobu komunikace jste se neodhlásili, budeme vám zasílat sdělení
+kdykoliv můžete nás nebo třetí strany požádat o to, abychom vám přestali posílat informace
+kontaktujte nás způsobem uvedeným níže
+odhlásíte-li se od přijímání marketingových zpráv, toto ohlášení se nebude týkat osobních údajů, které nám byly poskytnuty v důsledku poskytnuté služby
+požadujeme, aby všechny třetí strany respektovaly bezpečnost vašich osobních údajů a aby se s nimi zacházely v souladu se zákonem
+poskytovatelům služeb třetích stran nepovolujeme, aby vaše osobní údaje používali pro své vlastní účely
+povolujeme jim pouze, aby zpracovávali vaše osobní údaje pro určené účely a v souladu s našimi pokyny
+informace tedy můžeme předávat nebo zveřejňovat následovně
+vaše informace mohou být převedeny (nebo jinak zpřístupněny) našim pobočkám a dalším třetím osobám, které poskytují služby v našem zastoupení
+naši poskytovatelé služeb obdrží informace, které potřebují k výkonu svých určených funkcí, a nejsou oprávněni používat ani zveřejňovat osobní údaje pro své vlastní marketingové nebo jiné účely
+chcete-li mít přístup k určitým funkcím pomocí hardwarového zařízení společnosti mojio, zařízení společnosti mojio musí být prostřednictvím mobilního operátora (například telus, t-mobile usa, at&t nebo deutsche telekom) připojeno k mobilní síti
+když je hardwarové zařízení společnosti mojio připojeno k mobilní síti, sdílí vaše informace s poskytovatelem mobilních služeb za účelem zpřístupnění určitých funkcí řešení společnosti mojio
+informace budou sdíleny v souladu se zásadami ochrany osobních údajů a podmínkami používání poskytovatele mobilních služeb
+my a naši poskytovatelé služeb mohou poskytnout vaše osobní údaje jako odpověď na vyšetřovací příkaz nebo jiný zákonně platné vyšetřování nebo nařízení, nebo jiným orgánům (např
+pro vynucování práva) pro účely vyšetřování porušení smlouvy nebo porušení právních předpisů nebo zjištění, potlačení nebo předcházení podvodům, nebo jak je jinak požadováno nebo povoleno platným evropským, kanadským, americkým nebo jiným právem nebo právním postupem
+vaše osobní informace mohou být rovněž zpřístupněny, pokud je to nezbytné pro založení, výkon nebo obhajobu právních nároků a pro vyšetřování nebo předcházení zaznamenané ztráty nebo podezření ze ztráty nebo v případě poškození osob nebo majetku
+osobní údaje mohou být poskytnuty třetím stranám v souvislosti s obchodními transakcemi včetně fúze nebo prodeje (včetně převodů provedených v rámci insolvenčního nebo konkurzního řízení) celé společnosti mojio, její části nebo jako součást firemní reorganizace
+dále tyto transakce zahrnují akcie nebo aktiva prodeje nebo jiné změny v podnikové kontrole, a to i za účelem určení, zda v této transakci nebo obchodním vztahu pokračovat
+informace, které jsou anonymizovány, takže vás nebude možno identifikovat, mohou být sdíleny nebo prodávány třetím osobám
+vaše osobní údaje sdílíme v rámci skupiny společnosti mojio
+někdy to bude zahrnovat přenos údajů mimo evropský hospodářský prostor (ehp)
+konkrétně mohou být vaše údaje uchovávány a zpracovávány u nás, našich poboček a poskytovatelů služeb třetích stran v kanadě, spojených státech nebo v jiných jurisdikcích, které nemusí mít ochranu údajů nebo jiné zákony na stejné urovni jako ve vaší zemi pobytu
+v případě, že osobní informace budou převedeny do kanady, spojených států nebo jiné cizí jurisdikce, budou podléhat právním předpisům této jurisdikce a mohou být zpřístupněny soudem, orgánům činným v trestním řízení a vládním orgánům nebo v souladu s těmito zákony
+používáním řešení společnosti mojio souhlasíte s přenosem, zpracováním a ukládáním vašich osobních údajů v zemích mimo vaši zemi pobytu, včetně kanady, spojených států, jak je popsáno v těchto zásadách ochrany osobních údajů
+mnoho našich partnerů a poskytovatelů externích třetích stran sídlí mimo evropský hospodářský prostor (ehp), takže zpracování vašich osobních údajů bude zahrnovat přenos dat mimo ehp
+aby byla zajištěna ochrana vašich osobních údajů při převodu mimo ehp, uzavíráme dohody o přenosu dat, které zahrnují standardní smluvní doložky eu
+kdykoli předáme vaše osobní údaje externím třetím stranám sídlícím mimo ehp, zajistíme poskytnutí podobné úrovni ochrany tím, že zajistíme realizaci alespoň jedné z následujících záruk
+osobní údaje o subjektů údajů eu předáme pouze do zemí, u nichž se předpokládá, že evropská komise poskytuje odpovídající úroveň ochrany osobních údajů
+pro další podrobnosti viz evropská komise
+přiměřenost ochrany osobních údajů v zemích mimo eu
+pokud používáme určité poskytovatele služeb, můžeme použít konkrétní smlouvy schválené evropskou komisí, které poskytují osobním údajům stejnou ochranu, jakou mají v evropě
+pro další podrobnosti viz evropská komise
+vzorové smlouvy o předávání osobních údajů do třetích zemí
+pokud využíváme poskytovatele se sídlem v usa, můžeme jim údaje přenášet, pokud jsou součástí systému „privacy shield“, který vyžaduje, aby osobním údajům sdíleným mezi evropou a usa poskytovali podobnou ochranu
+pro další podrobnosti viz evropská komise
+zabezpečení a uchování osobních údajů
+vaše osobní údaje uchováváme pouze tak dlouho, dokud je to nezbytné pro splnění účelů, pro něž jsme je shromažďovali, a to i za účelem splnění jakýchkoli právních a účetních požadavků nebo požadavků na podávání zpráv
+při určování příslušné doby uchovávání osobních údajů bereme v potaz množství, povahu a citlivost osobních údajů, potenciální riziko poškození neoprávněným použitím nebo zveřejněním vašich osobních údajů, účely, pro které vaše osobní údaje zpracováváme, zda těchto účelů můžeme dosáhnout jinými způsoby a příslušné právní požadavky
+za určitých okolností můžete požádat o smazání údajů a za určitých okolností vaše osobní údaje můžeme anonymizovat (tak, aby s vámi již nemohly být spojeny) pro výzkumné nebo statistické účely
+v takovém případě můžeme tyto informace používat bez omezení a dalšího upozornění
+ve snaze chránit osobní informace a získat kontrolu nad krádeží, ztrátami a neoprávněným přístupem, používáním, úpravami a zveřejněním těchto údajů jsme zavedli jsme přiměřená administrativní, technická a fyzická opatření
+zákazníkům a autorizovaným poskytovatelům služeb, kteří potřebují přístup k vašim osobním údajům pro plnění svých zaměstnání, omezujeme přístup na základě „potřeby vědět“
+naše procesy uchovávání osobních informací jsou navrženy tak, aby uchovávaly osobní údaje po dobu nutnou pro výše uvedené účely nebo aby splňovaly zákonné požadavky
+přístup k osobním informacím
+máte právo na přístup, aktualizaci a opravu nepřesností, na žádost o vymazání, námitku proti zpracování, žádost o omezení přístupu nebo žádost o přenositelnost nebo přenos vašich osobních údajů pod naší kontrolou, s výhradou určitých výjimek stanovených zákonem
+konkrétně máte také právo vznést námitky proti zpracování vašich osobních údajů pro účely přímého marketingu
+podat žádost o přístup, aktualizaci a opravy nepřesností v osobních informacích, nad kterými máme kontrolu, nebo podat námitku proti použití vašich osobních údajů pro účely přímého marketingu můžete zasláním e-mailu nebo odesláním zprávy použitím níže uvedených kontaktních informací
+také můžete odvolat svůj souhlas se zpracováním nebo podat žádost o vymazání vašich osobních údajů
+to však neovlivní zákonnost žádného zpracování provedeného před odvoláním souhlasu nebo vymazáním údajů
+pokud odvoláte svůj souhlas nebo vymažete osobní údaje, možná vám nebudeme moci poskytnout řešení společnosti mojio nebo určité produkty či služby
+pro účely ověření identity osoby, která usiluje o přístup k záznamům o osobních informacích, můžeme požadovat určité osobní údaje
+za přístup k vašim osobním údajům (ani za výkon jakýchkoli jiných práv) nemusíte platit poplatek
+přiměřený poplatek však můžeme požadovat, pokud je vaše žádost zjevně neopodstatněná, opakovaná nebo nadměrná
+za těchto okolností také můžeme odmítnout vyhovět vaší žádosti
+na všechny legitimní požadavky se snažíme reagovat do jednoho měsíce
+občas nám reakce může trvat déle než měsíc, pokud je vaše žádost obzvláště složitá nebo jste podali více žádostí
+v takovém případě vás upozorníme a budeme vás informovat
+soubory cookies a další technologie sledování
+soubory cookies a další technologie pro sledování využíváme k těmto účelům
+(i) provoz webové stránky mojio (tzv
+„nezbytně nutné soubory cookies“), které jsou nutné k tomu, abyste se mohli pohybovat na webové stránce a používat její funkce, jako je přístup k zabezpečeným oblastem webových stránek)
+(ii) poskytování nabídek, které by vás mohly zajímat (včetně webových stránek třetích stran) (tzv
+„zaměřovací soubory cookies nebo reklamní soubory cookies“, které shromažďují informace o vašich zvycích při procházení a slouží k doručování reklam, které jsou relevantnější pro vás a vaše zájmy)
+(iii) přizpůsobení obsahu, který vám předkládáme na webových stránkách mojio (tzv
+„ soubory cookies funkčnosti“, které umožňují webovým stránkám pamatovat si volby, které uděláte, a poskytovat vylepšené, osobnější funkce), (iv) pochopení toho, jak řešení společnosti mojio fungují a jak jsou používány, a poskytnutí nebo vylepšení řešení společnosti mojio (tzv
+„výkonné nebo analytické soubory cookies“, které slouží ke shromažďování informací o vašem používání řešení společnosti mojio)
+některé soubory cookies existují pouze během určité relace a některé přetrvávají v průběhu většího množství návštěv
+svůj prohlížeč si můžete nastavit, aby vás upozorňoval, když obdržíte soubor cookies nebo aby určité soubory cookies nepřijímal
+pokud se však rozhodnete soubory cookies z webových stránek mojio nepřijmout, možná nebudete moci využívat všechny funkce těchto stránek
+pokud chcete odstranit všechny soubory cookies, které již ve vašem počítači nebo zařízení mohou být, přečtěte si prosím pokyny k softwaru pro správu souborů pro nalezení souboru nebo adresáře, do kterého jsou soubory cookies ukládány
+používáme také technologie pro sledování aplikací, abychom porozuměli tomu, jak řešení mojio fungují a jak jsou používána
+veškeré shromažďování údajů vygenerovaných použitím aplikací mojio můžete zastavit odinstalací aplikací mojio
+většina webových prohlížečů obsahuje nastavení „nesledovat“
+upozorňujeme však na nedostatek jistoty nebo konzistence v souvislosti s dopadem tohoto nastavení na shromážděné informace nebo na zážitek uživatelů při prohlížení
+pokud tedy povolíte toto nastavení, výměna informací mezi vaším počítačem a jejich použití při návštěvě webových stránek mojio se nezmění
+webové stránky třetích stran
+webová stránka společnosti mojio může obsahovat odkazy na jiné webové stránky, které nevlastníme ani nad nimi nemáme kontrolu
+za zásady ochrany osobních údajů nebo obsahu zobrazovaných na těchto jiných webových stránkách neodpovídáme a nemáme nad nimi kontrolu
+kliknete-li na jeden z těchto odkazů, opustíte naši službu a přejdete na jinou stránku
+během tohoto procesu od vás může jiný subjekt shromažďovat osobní údaje
+když opustíte naše webové stránky, doporučujeme přečíst si oznámení o ochraně osobních údajů jednotlivých webových stránek, které navštívíte
+aktualizace zásad ochrany osobních údajů
+tyto zásady ochrany soukromí můžeme aktualizovat tak, aby odrážely změny našich postupů ochrany osobních údajů
+pokud provedeme změny těchto zásad ochrany osobních údajů, promítnou se v aktualizovaných zásadách ochrany osobních údajů, které budou zveřejněny na této stránce a popřípadě vám budou sděleny e-mailem
+všechny změny vejdou v platnost při tomto zveřejnění nebo oznámením prostřednictvím e-mailu nebo v jiném určeném čase
+pro nejnovější informace o našich praktikách ochrany osobních údajů doporučujeme pravidelně kontrolovat tuto stránku
+společnost mojio vítá vaše komentáře a dotazy týkající se těchto zásad ochrany osobních údajů a ochrany, shromažďování a používání vašich osobních údajů
+abychom mohli odpovědět na vaši žádost, můžeme od vás žádat celé jméno, e-mailovou adresu a telefonní číslo
+zaměstnáváme úředníka ochrany údajů (dpo), který je zodpovědný za dohled nad otázkami ve vztahu k těmto zásadám ochrany osobních údajů
+máte-li jakékoli dotazy nebo žádosti, obraťte se na dpo pomocí níže uvedených kontaktních informací
+9 th floor, 1080 howe street
+vancouver, bc canada v6z 2t1 máte také právo kdykoliv podat stížnost vašemu příslušnému orgánu dohledu
+avšak než se záležitosti ujme orgán dozoru, ocenili bychom šanci vyřešit vaše obavy z naší strany
+nejdříve nás tedy prosím kontaktujte
+email this field is for validation purposes and should be left unchanged
+this iframe contains the logic required to handle ajax powered gravity forms
+© mojio 2020 terms of use
+mojio takes its obligation to protect the privacy of your personal information
+your personal information will be treated in a secure and confidential manner, in compliance with all
+applicable laws and regulations
+, its subsidiaries, owners, officers, directors, affiliates and agents (“mojio”, “we”, “us”, “our”) respect your
+privacy and are committed to transparency in the protection, collection, disclosure and use of your personal
+this privacy policy tells you about your privacy rights and how the law protects you, and describes how
+we look after, collect, disclose and use your personal data, and the circumstances under which we may share this
+this privacy policy applies to the privacy practices of
+(a) our websites located at www
+com (the “mojio websites”), (b) our platform (including apis required to access the platform) that
+provides connected-car services (the “mojio platform”), (c) our software development kit for development applications
+that interoperate with the mojio platform (the “mojio sdk”), (d) any mobile device software provided by us to you
+through the apple app store or google play, including, but not limited to, our mobile applications titled force by mojio
+and motion (the “mojio applications”), and (e) any hardware device provided for the vehicle (the “device”) (together
+with the mojio websites, mojio platform, mojio sdk and the mojio applications, the “mojio solution”)
+mojio is made up of different legal entities, with operations worldwide and offices in the us, canada, germany, and
+, a canadian company (parent)
+, a delaware limited company (sub)
+mojio eood, a bulgarian company (sub)
+and mojio gmbh, a german company (sub) (the “mojio group”)
+privacy notice is issued on behalf of the mojio group so when we mention “mojio”, “we”, “us” or “our” in this privacy
+notice, we are referring to the relevant company in the mojio group responsible for processing your data
+a canadian registered company, is the controller and responsible for the mojio websites
+collection of information mojio provides a connected-car service that allows authorized users to gain access to information on the use and
+operation of their vehicles
+the mojio solution is enabled by devices which plug into your vehicles and connect with
+the mojio sdk, the mojio applications and the mojio websites
+by using the device, the mojio sdk, the mojio
+applications and / or the mojio website, mojio may collect the following types of information (“user information”)
+to access and use certain features of the mojio solution (e
+the mojio sdk), authorized users need to register for a
+my mojio account (the “account”) through the available mojio solution interfaces, namely, the mojio websites or the
+during the registration process, authorized users may be asked to provide us with a full name,
+address, telephone number, email address, photograph, drivers license and the device number (or imei)
+users may also be asked to choose a username, password and security questions
+authorized users are individuals
+or entities that are permitted to use the mojio solution via an established account
+customers’ affiliates, employees, or contractors that customer authorizes and for whom customer has purchased a
+subscription to use the mojio solution on its behalf
+in some mojio applications, there are also different types of accounts with corresponding data use and protection
+terms depending on whether the authorized user is an owner (individual who accepts the terms of use to the mojio
+solution in the name of your entity), admin (individuals invited by the owner to help with daily operations), or driver
+(individuals invited to a fleet organization by either the owner or admin)
+an account owner has access to the
+information of other authorized users on the account
+owner may invite or revoke admins or drivers access
+admin cannot invite or revoke other admins but otherwise has access to the same features as the
+a driver may request that an admin or owner delete or erase the drivers’ data in certain jurisdictions
+in registering for an account (or after registration), you can choose to provide your social media login information and
+password through platforms such as facebook
+if you do so, you authorize us to access certain social media account
+information (consistent with your social media privacy settings), including but not limited to your profile information,
+full name, username, email address and full physical address
+all such information is provided directly by the social
+media platform, whose use of your personal information will be subject to its own privacy policy and terms of use
+it is important that the personal data, generally meaning data that relates to, describes, or is reasonably likely to be
+identified with or associated with a natural person or household, we hold about authorized users is accurate and
+please keep us informed if your personal data changes during your relationship with us
+if you fail to provide personal data when we need to collect personal data for registration, by law, or under our terms
+of use or a contract we have with you, we may not be able to register your account, or provide you with the mojio
+solution, or perform the contract we have or are trying to enter into with you
+information from the mojio hardware device we collect and use the information described below about the vehicle(s) in which you installed the mojio hardware
+we receive some of this information via a mobile service provider
+see section 3(b) “mobile services
+providers” for further information on how the mojio hardware device interacts with a mobile network
+vehicle related information we collect information about your vehicle’s operation to provide you with feedback on your driving habits
+example, we collect data on hard braking, hard acceleration, and speed
+to do so, we process information such as
+vehicle make/model/vin, vehicle details (license plate, fuel grade, odometer, engine description), location details like
+trip routes and parked locations (including those marked as business), geofences, history of alerts and notifications,
+glovebox documents, vehicle recall and maintenance reminders
+using this information, we can provide you with
+tailored feedback with insight into your driving style that can help you save on gas and vehicle wear and tear
+driver and owner information for mojio applications in some mojio applications, we collect different types of information depending on whether you are designated a
+see our page on
+understanding and controlling your personal information for the applicable mojio application
+where the online tool is not currently available for access requests in
+your region, you can exercise your rights by logging in to the mojio solution for verification and providing relevant
+if you access the platform by mobile device, you may be asked to share your geo-location in order to make use of our
+for some mojio applications like forcebymojio, you may also be asked to provide us with
+access to your mobile device’s contact book and phone number in order to use some of the features of the mojio
+to communicate the location of your vehicle to your contacts
+payment processing information most payments for mojio solution are through your wireless provider and mojio does not process or have access to
+any financial information like credit card numbers
+when you pay for some mojio applications like forcebymojio, you
+will be disclosing your payment information to a third-party payment processor (such as stripe, recurly, braintree,
+) depending on your location, whose use of your personal information will be subject to its own privacy policy and
+we do not have access to any payment processing information or any financial information such as
+information we collect automatically when you visit our website or use our applications when you install one of the mojio applications or use a computer, tablet, smartphone or other device to access the
+mojio websites, we may use automatic means to collect information about the device and how you use it
+information may include the type of device, your operating system, your browser (for example, whether you used
+internet explorer, edge, firefox, safari, chrome or another browser), your internet service provider, your domain
+name, your internet protocol (ip) address, your device identifier (or udid), the date and time that you accessed our
+service, the website that referred you to the mojio website, the web pages you requested, the date and time of those
+requests and your physical location
+see section 7 “cookies and other tracking technologies” for further information
+we do not intentionally gather personal information about individuals who are under the age of 18
+aware that we inadvertently hold or have access to personal information about anyone under 18, please let us know
+so we can delete it
+aggregated data we also collect, use and share aggregated data such as statistical or demographic data for any purpose
+aggregated data may be derived from your personal data but is not considered personal data in
+law as this data does not directly or indirectly reveal your identity
+for example, we may aggregate your usage data to
+calculate the percentage of users accessing a specific mojio solution feature
+however, if we combine or connect
+aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data
+as personal data which will be used in accordance with this privacy notice
+information we do not collect we do not collect any special categories of personal data about you (this includes details about your race or ethnicity,
+religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information
+about your health and genetic and biometric data)
+nor do we collect any information about criminal convictions and
+use of information we will only use your personal data when the law allows us to
+most commonly, we use the information described
+provide the mojio solution to you
+fix, maintain, enhance and modify the mojio solution
+communicate with you (e
+in response to your inquiries or comments)
+comply with legal and regulatory requirements
+promote our products and services
+provide you with offers by our business partners that might interest you in accordance with your
+for other purposes in accordance with your consent
+please note that we may use information for any purpose if we anonymize it so that it no longer will be able to identify
+you or your vehicle, process your personal data for more than one legal basis depending on the specific purpose for
+which we are using your data and access your personal data without your knowledge or consent, in compliance with
+the above rules, where this is required or permitted by law
+in addition, we strive to provide you with choices regarding certain personal data uses, particularly around marketing
+for example, we may use your personal, usage, and aggregated data to form a view on what we
+think you may want or need, or what may be of interest to you
+this is how we decide which products, services and
+offers may be relevant for you
+you will receive communications from us if you have requested information from us
+and, in each case, you have not opted out of receiving such communications
+you can ask us or third parties to stop
+sending you communications at any time by contacting us as set forth below
+where you opt out of receiving these
+marketing messages, this will not apply to personal data provided to us as a result of a service provided to you
+disclosure of information we require all third parties to respect the security of your personal data and to treat it in accordance with the law
+do not allow our third-party service providers to use your personal data for their own purposes and only permit them
+to process your personal data for specified purposes and in accordance with our instructions
+transfer or disclose information as follows
+service providers arrangements your information may be transferred (or otherwise made available) to our affiliates and other third parties who provide
+services on our behalf
+our service providers are given the information they need to perform their designated
+functions, and are not authorized to use or disclose personal information for their own marketing or other purposes
+mobile services providers for you to be able to access certain features using the mojio hardware device, the mojio hardware device needs to
+be connected to a mobile network through a mobile service provider (such as telus, t-mobile usa, at&t or
+when the mojio hardware device is connected to a mobile network, the mojio hardware device
+shares your information with the mobile service provider for the purposes of providing you with certain features of the
+the information will be shared in accordance with the mobile service provider’s privacy policy and
+legal and compliance we and our service providers may provide your personal information in response to a search warrant or other legally
+valid inquiry or order, or to another organization (e
+law enforcement) for the purposes of investigating a breach of
+an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise required or
+permitted by applicable european, canadian, us or other law or legal process
+your personal information may also
+be disclosed where necessary for the establishment, exercise or defense of legal claims and to investigate or prevent
+actual or suspected loss or harm to persons or property
+sale of business personal information may be provided to third parties in connection with a business transaction, including a merger or
+sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of mojio or as
+part of a corporate reorganization, or stock or asset sale, or other change in corporate control, including for the
+purpose of determining whether to proceed or continue with such transaction or business relationship
+anonymized data information that is anonymized so that it will not be able to identify you may be shared with or sold to third parties
+european economic area (eea) users — international transfers if you are located in the european economic area (eea), we share your personal data within the mojio group
+will at times, involve transferring your data outside the european economic area (eea)
+may be stored and processed by us, our affiliates and our third party service providers in canada, the united states,
+or other jurisdictions that may not have data protection or other laws that are as protective as in your country of
+in the event that personal information is transferred to canada, the united states, or other foreign
+jurisdiction, it will be subject to the laws of that jurisdiction and may be disclosed to or accessed by the courts, law
+enforcement and governmental authorities in accordance with those laws
+by using the mojio solution, you consent to
+the transfer, processing and storage of your personal information in countries outside of your country of residence,
+including canada, the united states, as described in this privacy policy
+many of our external third parties partners and service providers are based outside the european economic area
+(eea) so their processing of your personal data will involve a transfer of data outside the eea
+to ensure that your
+personal data is protected when transferred outside the eea, we enter into data transfer agreements incorporating
+the eu’s standard contractual clauses
+whenever we transfer your personal data to external third parties based outside of the eea, we ensure a similar
+degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented
+we will only transfer eu data subjects personal data to countries that have been deemed to provide an
+adequate level of protection for personal data by the european commission
+for further details, see european
+adequacy of the protection of personal data in non-eu countries
+where we use certain service providers, we may use specific contracts approved by the european
+commission which give personal data the same protection it has in europe
+for further details, see european
+model contracts for the transfer of personal data to third countries
+where we use providers based in the us, we may transfer data to them if they are part of the privacy shield
+which requires them to provide similar protection to personal data shared between europe and the us
+details, see european commission
+safeguarding and retention of personal information we will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for
+the purposes of satisfying any legal, accounting, or reporting requirements
+to determine the appropriate retention
+period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of
+harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal
+data and whether we can achieve those purposes through other means, and the applicable legal requirements
+some circumstances you can ask us to delete your data and in some circumstances we may anonymize your
+personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we
+may use this information indefinitely without further notice to you
+we have implemented reasonable administrative, technical and physical measures in an effort to safeguard the
+personal information in our custody and control against theft, loss and unauthorized access, use, modification and
+we restrict access to your personal information on a need-to-know basis to employees and authorized
+service providers who require access to fulfill their job requirements
+we have personal information retention processes designed to retain personal information for no longer than
+necessary for the purposes stated above or to otherwise meet legal requirements
+access to personal information in certain jurisdictions and for some mojio applications, you have the right to access, update and correct inaccuracies,
+request deletion/erasure, object to processing, request restriction, or request portability or transfer of your personal
+information in our control, subject to certain exceptions prescribed by law
+specifically, you may access, update and
+correct inaccuracies in personal information we have in our control or change the use of your personal information for
+direct marketing purposes by accessing the settings on the mojio solution you are using
+you may also request to
+erase/delete your personal data
+however, this will not affect the lawfulness of any processing carried out before your
+if you withdraw your consent or erase your personal information, we may not be able to
+provide the mojio solution or certain products or services to you
+we may request certain personal information for the
+purposes of verifying the identity of the individual seeking access to their personal information records
+have to pay a fee to access your personal data (or to exercise any of the other rights)
+however, we may charge a
+reasonable fee if your request is clearly unfounded, repetitive or excessive
+alternatively, we may refuse to comply
+with your request in these circumstances
+we try to respond to all legitimate requests within 45 days
+may take us longer if your request is particularly complex or you have made a number of requests
+in this case, we

@@ -1,0 +1,257 @@
+this tool is for informational purposes only, and is
+not intended as a substitute for professional medical advice
+seek input from a qualified health provider regarding any medical
+condition you may have
+in case of a medical emergency, seek
+vital signs has been submitted for certification
+on the google assistant platform under the name “welby’s vital
+signs” (google said the invocation “vital signs” by itself was
+too generic, so we’ll wait to see if the new name is acceptable
+pending successful outcome of google’s tests, you’ll soon be able
+to access the “action” – google’s equivalent name for alexa
+“skills” – on your google devices
+vital signs can now compute statistics for your
+various health metrics, e
+min value, max value, average, etc
+get stats for all of your data, simply ask the tool to “analyze
+the tool will generate stats for each health metric
+these metrics are stored under separate columns
+within your history file
+to get stats for just a particular metric,
+provide the column # for that field within your history file, e
+“analyze data for column two”, or simply “analyze column two”
+many thanks to all of you who are using vital signs, and providing
+as a result of your feedback, the following new features
+please keep those suggestions coming
+cases when you don’t know what value to enter in a particular
+field, or just want to leave the field blank, you can now say "skip"
+when prompted for input
+skill/action also recognizes utterances such as "blank",
+no value will be populated in
+csv file for that entry
+you are sharing a common device with others, you can now enter a
+first name as an input field within a custom script in order to
+differentiate among lines in your history
+for example, you can begin the script with
+you can now upload an arbitrary results file to replace the version
+currently stored in your account
+you do this the same way as
+uploading a new script or plot routine, i
+just send an email to welbydx@gmail
+"data" appears somewhere in the subject line, and the body
+of the email contains the new csv contents
+you can now specify what health metrics you’d like vital signs to
+track, and you can even make your own plots too
+when you enter data
+into the skill/action, vital signs follows a “script” to prompt
+here’s the default script
+what is your "temperature", in degrees fahrenheit
+what is your "respiration rate", in breaths per minute
+what is your "pulse", in beats per minute
+what is your "blood pressure"
+can now replace that script with one of your own, simply by sending
+an email to welbydx@gmail
+com and including the word “script” somewhere in the subject line
+for example, here’s an email that changes the script to one that
+tracks your current weight and how many calories you’ve recently
+new vital signs script
+what is your current "weight" in pounds
+what is your latest
+vital signs uses the words enclosed “in quotes” to build the
+confirmation message after you enter all of your data
+are also used as the column headings in your report
+you specify a header line at the end of the script starting with a
+in the example above you might end the script with the
+addition to specifying the health metrics you’d like vital signs to
+track, you can also design a custom plot for your data
+uses gnuplot to produce its
+you can replace the default gnuplot code in the same manner
+simply email a new version of the code to welbydx@gmail
+com , but this
+time specify the word “plot” somewhere in the subject line
+example, here’s an email that plots the pounds & calories data
+collected by the script above
+new vital signs plot code
+set datafile separator ","
+set timefmt "%b-%d-%y %h
+set xtics timedate format "%b\n%d"
+set key autotitle columnheader
+2 with linespoints, \
+3 axes x1y2 with linespoints getting started
+vital signs is an alexa
+skill – and soon to be a google action – that maintains a
+history of your primary
+vital signs – body temperature, respiration rate, pulse, and
+blood pressure – and emails you a file and chart of this data
+whenever you request it
+to use vital signs, do the following
+first, enable the skill/action on your amazon /google
+second, grant the skill/action permission to
+access your first name and the email address associated with your
+vital signs uses these to communicate with
+you during various dialogue interactions
+for alexa devices, open the alexa app – or
+com – then select
+manage permissions, and turn on the requested
+for google devices, the action will talk you
+through the steps to link your account
+finally, ask alexa/google to “talk to vital
+signs”, and create your account
+vital signs understands the following commands
+set up your initial vital signs account
+prompt you for your current vital signs
+your blood pressure (expressed as number “ over” number ),
+your pulse (in beats per minute), your respiration rate (in breaths
+per minute), and finally, your body temperature in degrees
+(expressed as number “ point” number )
+data” will provide stats on the data you've entered, one health metric at
+include the minimum and maximum values for the metric, the median,
+the average, and the standard deviation
+metrics are stored under
+separate columns within the history file
+to get stats for just a
+particular metric, provide the column # for the metric as part of
+“analyze data for column two”, or simply
+will email you a file (csv format) with your vital
+sign history, as well as a graph of the data
+samples of each of
+these are provided below
+in addition to your own data, you’ll
+also receive the vital sign history file and graph for any user who
+has identified you as their proxy
+see below for more information
+“ erase data” will clear out your
+entire vital sign history
+“ update proxies ” will email you
+instructions for how to add or delete a proxy on your account
+“ delete account” will completely
+remove your vital signs account, any data stored under the account,
+and all of your proxy assignments
+we’ve all been in situations where we’d like
+to know how someone is doing, but we can’t be around to check on
+the vital signs proxy feature is meant to handle this
+say mary is currently a vital signs user, and john – mary’s son –
+would like to access mary’s data
+here’s how john (with mary’s
+permission) can do this
+first, john needs to create his own vital
+john may not be interested in recording/tracking his
+own vital signs, but he still needs to have an account if he wants
+to read his mom’s data
+next, mary needs to give john permission to
+access her data, i
+she must designate john as a proxy
+this, mary opens vital signs, and tells the assistant she wants to
+update her proxy info
+the tool then sends mary an email message
+that lists her current proxies, and gives instructions for sending a
+reply that adds (or deletes) a proxy on her account
+submits a reply adding john as a proxy
+afterwards, mary can ask
+vital signs to resend her proxy info, so she can confirm that john
+has been added to her proxy list
+lastly, once john has been named as mary’s
+proxy, then whenever he asks vital signs to send a report, the tool
+will send john both his own data, as well has his mom’s
+there is no limit on the number of proxies a user
+can associate with his/her account
+thus, for example, if mary had
+other children she could make all of them proxies
+is no restriction on the number of times a single user can be named
+as a proxy for someone else
+so, for example, if john also wants to
+keep tabs on his dad, jim, then jim can also name john as a proxy on
+here are examples of the vital signs history file
+csv) and graph (report
+i’ve been interested in math and computer
+science ever since earning degrees in these fields almost 40 years
+later, i acquired an interest in medicine after being diagnosed
+with a condition called “ lynch
+syndrome ” which predisposes me to a whole assortment of
+vital signs is my attempt to integrate all of these diverse
+interests in the development of a modern voice assistant
+those of us who’ve been diagnosed with any sort
+of chronic medical condition like to keep close tabs on our health,
+and stay on the lookout for early warning signs of disease
+diagnostic tests require a doctor’s prescription, so they’re not
+directly accessible to patients
+hence, patients like myself try to
+make best use of tests and data that is within our reach
+data is generally termed “ patient-generated
+health data (pghd) ”
+unfortunately, health metrics that are
+readily available to patients oftentimes aren’t the most sensitive
+or specific indicators of complex disease
+it is my hope and belief,
+in artificial intelligence/machine learning (ai/ml) may start to
+change this, as new insights are gleaned from data that had
+previously been under analyzed
+not everyone may share my enthusiasm for tracking
+what portion of the population are interested in
+collecting and recording their health data
+what are the best metrics
+is voice assistant technology the right platform for
+if people do embrace voice assistants for this purpose, how
+well will they adhere to a regular reporting schedule
+questions that vital signs may help to answer
+this privacy notice applies to both the vital
+signs alexa skill and google action
+in general it covers
+what personally identifiable information
+(pii) is collected while using the skill/action, how it is used, and
+with whom it is shared
+the security controls in place to protect
+how you can administer your information
+information collection & sharing
+vital signs is intended for personal use
+information you share with the tool – your first name, email
+address, and vital sign data – is not sold or shared with any other
+public or private entity
+only you, your designated proxies, and
+myself (as system administrator) have access to the data
+a variety of security controls have been
+implemented to protect your data
+your vital sign information is stored on a
+virtual private server (vps) that is physically hosted and secured
+by amazon web services (aws)
+the vital signs account on the vps is locked
+down so it is only accessible to the system administrator (me)
+your name and email address are stored as
+clear text on the server, but your vital sign history file is
+encrypted on disk using the linux ccrypt utility
+the encryption key is not stored locally, but is passed to
+the server by the skill/action
+whenever your data is transmitted across a
+during http and smtp sessions), it is encrypted using
+the tool uses gmail to send/receive email
+all email folders associated with the administrator account are
+if at any time you’d like to remove your
+information from the system, simply ask the skill/action to erase
+your data, which removes just your history file, or to delete your
+account, which removes everything about you
+address, and vital sign history
+it’s worth saying a word about hipaa
+stands for the “health insurance portability and accountability
+it’s a law passed back in 1996 that mandates certain data
+privacy and security provisions to safeguard medical information
+does hipaa apply to information that a patient submits to a health
+app like vital signs, and if so, how
+thankfully, the department of
+health and human services has already considered this scenario, and published
+guidelines on their website to assist app developers
+to those guidelines, vital signs is not subject to hipaa regulations
+here’s an excerpt from the guidelines
+health app to her smartphone
+she populates it with her own
+for example, the consumer inputs blood glucose levels
+and blood pressure readings she obtained herself using home health
+based on the facts
+presented in the scenario, is app developer a hipaa business
+creating, receiving, maintaining or transmitting protected health
+information (phi) on behalf of a covered entity or another business
+the consumer is using the developer’s app to help her
+manage and organize her information without any involvement of her
+i’d appreciate your feedback on the tool
+free to email me your comments at welbydx@gmail
+for those who are interested, you can also take a look at the code
+that implements the skill/action on my github

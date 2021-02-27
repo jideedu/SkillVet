@@ -1,0 +1,17 @@
+privacy policy ​ this privacy policy describes the use of the software application waste guru (application) that was created by zabble inc
+for communication with amazon alexa on any alexa-enabled device
+user information, authorization and security the application has access to the "waste" item information that the user has provided in an anonymous and secure manner to ensure proper functioning of the application
+any communicaiton with the application is considered an authorization by the user including the information presented by the user
+this application does not collect any other information pertaining to the user
+however, please consult amazon's privacy policy and agreements regarding correct, secure and safe usage of your device and communication with the application using alexa
+third party access no third parties have access to any data obtained by the application
+opt-out to opt-out please uninstall/disable the application from your amazon device as described in amazon's support notes
+data retention zabble inc
+will retain user information for as long as is necessary to ensure proper functioning of the application
+com if you have questions about the longevity of your information
+some or all of the user information is required for proper functioning of the application
+changes to policy this page will be updated to reflect any changes to the privacy policy
+please check this page on a periodic basis for any updates
+we will notify you promptly if there are any significant changes to the policy
+contact us if you have any questions regarding this privacy policy or usage of the application, please contact us at team@zabbleinc
+© copyright 2017 - zabble inc

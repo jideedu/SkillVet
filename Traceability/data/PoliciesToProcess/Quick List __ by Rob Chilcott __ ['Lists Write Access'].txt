@@ -1,0 +1,11 @@
+the quick list skill (available in us and uk amazon alexa skill stores) allows you to add multiple items to your alexa shopping list with a single command
+it does this by linking to your alexa shopping list
+for quick list to work, you need to give the skill permission to add items to your list ("write permission")
+this only allows quick list to add items to your shopping list
+it cannot read items already on your list, nor does it log or store the names of items you add using quick list
+the quick list skill does not collect any personal data, nor personally identifiable data, even if you add personal information to your shopping list via the skill
+account linking is required, and nothing from the skill is stored in a database or retrieval system outside of amazon's own servers
+if the nature or funtionality of the quick list skill changes such that this privacy statement requires an update, users will be notified via the skill description in the alexa app,
+and also via the welcome message in the skill itself
+thank you for your interest in quick list, and in the alexa skills of alexaworks
+© rob chilcott alexaworks

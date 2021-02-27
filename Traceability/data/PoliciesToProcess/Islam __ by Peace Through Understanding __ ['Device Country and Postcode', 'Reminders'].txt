@@ -1,0 +1,25 @@
+islam alexa skill privacy policy this privacy policy has been compiled to better serve those who are concerned with how their 'personally identifiable information' (pii) is being used online
+pii, as described in us privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information
+what personal information do we collect from the people that visit our blog, website or app
+for full functionality of the skill, it requests your country and zip code to allow it to calculate the prayer times based on your current postal code
+when do we collect information
+we do not collect any of this information use skill how do we use your information
+we do not use any of your information
+how do we protect your information
+we do not use vulnerability scanning and/or scanning to pci standards
+we never ask for credit card numbers
+we do not use malware scanning
+because we do not collect any personal information there is no vulnerability of your information being shared with others
+do we use 'cookies'
+we do not use cookies for tracking purposes third-party disclosure we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information
+third-party links we do not include or offer third-party products or services on our website
+google we have not enabled google adsense on our alexa skill
+coppa (children online privacy protection act) when it comes to the collection of personal information from children under the age of 13 years old, the children's online privacy protection act (coppa) puts parents in control
+the federal trade commission, united states' consumer protection agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online
+we do not specifically market to children under the age of 13 years old
+do we let third-parties, including ad networks or plug-ins collect pii from children under 13
+can spam act the can-spam act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations
+we do not collect your email address an we are in full accordance with canspam
+contacting us if there are any questions regarding this privacy policy, you may contact us using the contact form on englishquran
+com prayer times skill last edited on 2019-01-01

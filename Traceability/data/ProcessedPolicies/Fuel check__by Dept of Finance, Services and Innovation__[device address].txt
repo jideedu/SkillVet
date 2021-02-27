@@ -1,0 +1,145 @@
+access keys, skip navigation=s skip to content
+pawnbrokers & second-hand dealers
+promotions, lotteries & fundraising
+property & real estate
+births deaths and marriages
+children's services & care
+home owners, building & renovation
+farming, agriculture & primary industries
+motor vehicle dealers, recyclers & repairers
+workplace & community safety
+work health and safety
+how to use this website
+the department of customer service operates onegov web site on behalf of nsw licensing authorities
+listed on the contact us page
+this privacy statement explains how your
+privacy is protected when
+you visit this web site
+you enter information into this web site
+somebody else uses this web site to make an inquiry about a licence you hold
+the department of customer service and each licensing authority
+that uses onegov web site must comply with the privacy and personal
+information protection act 1998
+you can obtain further information
+about this legislation from the nsw privacy commissioner
+each licensing authority that uses onegov web site has a separate
+you should read the policy for the applicable licensing
+purpose of web site
+onegov web site provides the nsw community with a common set of online
+services for business, occupational and recreational licences
+site is a gateway between the public and licensing authorities
+you can use onegov web site to carry out most of your business with a
+for example you may be able to apply for a
+licence, pay licence fees, renew your licence or submit information to a
+licensing authority – such as when you change your address
+also submit a complaint about a licence holder
+you can register with onegov web site and setup an online account
+you can link licences to this account and manage these licences as a
+for example you can submit one application to change your address
+for all your licences
+some licences have public registers
+a licensing authority may provide access to a public register through onegov web site
+role of the department of customer service
+as a service provider, the department of customer service operates onegov web site, onegov software and onegov database, and
+makes these facilities available to nsw licensing authorities
+information you enter into the web site is provided to the licensing
+authority that administers that licence
+the department does not access
+this information unless it is necessary when providing a technical
+service to a licensing authority
+backing up data and investigating
+system errors are examples of technical services
+information collected when you browse this web site
+when you browse onegov web site, the department of customer service logs the following information for statistical purposes – your server
+address, top level domain name (e
+uk etc), the date
+and time of your visit, the pages accessed, documents downloaded, the
+previous site visited and the type of browser used
+the department will not try to identify users or their browsing
+activities, except in the event of a lawful investigation by a licensing
+authority or a law enforcement agency
+information collected when you apply for a licence
+when you apply for a licence onegov provides you with a customer
+reference number and a transaction number
+these numbers are displayed
+you then enter information required for that licence
+this information is the same information that you provide
+if you submit a written application directly to the licensing authority
+the application information is saved in a database as you enter it
+you do not need to enter all the information in one session
+access a partially completed application by entering the customer
+reference number and the transaction number
+the department of customer service does not access your application while it is being entered
+when the application is being entered, all the information you are entering is available to that licensing authority
+information collected when you create a user account
+you can create a onegov user account to manage multiple licences or licence applications
+creating a user account is optional
+when you create the account, onegov issues a unique user id number
+which is displayed on screen
+you then set a password for the account
+you can link any licence to this account if you know the licence number
+and a current online access code
+optional use of government authentication services
+onegov offers business users the option of accessing secure government agency websites in a single sign-on session
+if you have an australian business account (aba) , you can opt to pre-fill your company or business registration, address and contact details on an aba-enabled onegov application form directly from your aba account
+onegov uses vanguard government authentication services (gas) to verify business users who want to take advantage of these secure options
+vanguard is a whole-of-government program delivered by the federal department of industry, innovation, science, research and tertiary education (diisrte) for business-to-government and government-to government secure online transactions
+use of secure single sign-on sessions and authentication through vanguard enables information to be passed from one government agency to another as part of a secure transaction
+information may be stored by onegov, vanguard and the licensing agency involved
+for further details, please see visit the vanguard privacy information page or the respective agency website
+access to and alteration of personal information
+each licensing authority has its own arrangements for accessing personal
+information it holds in onegov and for requesting alterations to that
+for further details, you should read the privacy statement
+for the agency that holds your personal information
+if you set up a onegov user account you are the only person with access
+to personal information associated with that account
+responsible for checking it and making any corrections
+use and disclosure of personal information
+the department of customer service, in its role as onegov web
+site service provider, does not use your personal information and it
+does not hold this information in its own right
+requests for access to personal information to the relevant licensing
+the department reserves the right to make disclosures to
+relevant licensing authorities or law enforcement agencies where this is
+required by law or is otherwise part of a lawful investigation
+the department of customer service provides a facility on onegov web site for publishing information from public registers
+authority that maintains a public register can make information in that
+register available on onegov web site
+you can search for information
+in a public register by entering a search request
+contact the licensing authority directly if you want to request that your personal information be suppressed from publication
+we welcome your feedback about this privacy statement and about the
+web site’s design and practices
+you can use the feedback button on the lower left of the screen
+the provision of personal
+you may provide personal details for the purposes
+of receiving a reply to your feedback comments
+requesting a review of privacy conduct
+you can ask the department of customer service to review its
+compliance with legal obligations to protect privacy if you are
+aggrieved by the department's conduct - for example if you believe that
+the department has contravened the information protection principles in
+the privacy and personal information protection act 1998
+an application for review can be lodged in writing at any office of
+the department of customer service or by mailing the application to
+programme office manager onegov department of customer service level 8
+mckell building 2–24 rawson place sydney nsw 2000 australia
+an application must be lodged within six months of the time that you first became aware of the department of customer service's conduct or alleged conduct
+you must include an address in australia, where the
+department can contact you
+the department will notify you about the outcome of the review
+can apply to the administrative decisions tribunal for a further review,
+if you are not satisfied with the findings of the review - or by the
+actions that the department takes in relation to your application
+you also have the right to ask a licensing agency to review its
+compliance with legal obligations to protect privacy - if you are
+aggrieved by the licensing agency's conduct
+you should contact the
+licensing agency directly to find out how to submit an application
+updates to this statement
+the department of customer service may modify this statement from
+this statement was last modified on 06 june 2011
+a to z index
+look up a record
+onegov © 2015 copyright onegov is not responsible for the content of external sites

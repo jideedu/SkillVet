@@ -1,0 +1,71 @@
+you need to enable javascript to run this app
+this website uses cookies to enhance the user experience
+terms of use decline accept 1
+terms and conditions for chatbot terms of service the following document outlines the terms of use of "obstacle rangers" bot
+before using the bot, you are required to read, understand, and agree to these terms
+if you use the application, you are agreeing to be bound by the terms of this license and the usage rules
+do not use the application if you do not agree to the terms of this license
+the bot provides you a easy to use solution to find obstacle course races
+the bot is provided for free
+we may stop providing services at any time
+you can stop using our bot at any time as well
+we will not collect personal data
+your data is your data
+you may need to visit this page regularly to see if these terms are changed
+new terms may be published on this page without any additional notice
+the bot was developed with microsoft bot framework and contains microsoft cognitive services
+the microsoft terms of service can be found here
+com/de-de/privacystatement this terms of service is effective as of february 1st, 2018
+privacy statement we know that you care about how your data is used, and we take your privacy very seriously
+by using the bot you are accepting the practices outlined in this policy
+we are not storing usernames, adresses or any other private data
+you can contact info@obstaclerangers
+de to report abuse & requests more information
+terms and conditions for alexa skill terms of service the following document outlines the terms of use of "obstacle rangers" alexa skill
+before using the skill, you are required to read, understand, and agree to these terms
+if you use the application, you are agreeing to be bound by the terms of this license and the usage rules
+do not use the application if you do not agree to the terms of this license
+the skill provides you a easy to use solution to find obstacle course races
+the bot is provided for free
+we may stop providing services at any time
+you can stop using our bot at any time as well
+we will not collect personal data
+your data is your data
+this terms of service is effective as of april 1st, 2018
+privacy statement you can contact info@obstaclerangers
+de to ask for informations about using data
+we are not collecting any personal data
+spoken texts are not stored by us
+any input is only validated by amazon alexa
+external tools and providers the skill was developed with amazon alexa and microsoft azure components
+privacy policy may change
+using the skill is subject to terms and privacy policy
+this privacy policy is effective as of april 1st, 2018
+terms and conditions for google home service terms of service the following document outlines the terms of use of "obstacle rangers" google home service
+before using the service, you are required to read, understand, and agree to these terms
+if you use the application, you are agreeing to be bound by the terms of this license and the usage rules
+do not use the application if you do not agree to the terms of this license
+the service provides you a easy to use solution to find obstacle course races
+the bot is provided for free
+we may stop providing services at any time
+you can stop using our service at any time as well
+we will not collect personal data
+your data is your data
+this terms of service is effective as of february 1st, 2020
+privacy statement you can contact info@obstaclerangers
+de to ask for informations about using data
+we are not collecting any personal data
+spoken texts are not stored by us
+any input is only validated by google
+external tools and providers the service was developed with google assistant, dialogflow and microsoft azure components
+privacy policy may change
+using the service is subject to terms and privacy policy
+this privacy policy is effective as of february 1st, 2020
+service content content delivered by chatbot and alexa skill service use of the services may require internet and/or wireless access and that you accept additional terms of service
+nevertheless, you agree to use the services at your sole risk and that the licensor shall not have any liability to you for content that may be found to be outdated, unprecise, offensive, indecent, or objectionable
+you understand that by using the services, you may encounter content that may be outdated or position data are not accurate
+the services may display, include or make available content, data, information, applications or materials from third parties (“third party materials”)
+the licensor does not warrant or endorse and does not assume and will not have any liability or responsibility for any third-party services, third party materials or web sites, or for any other materials, products, or services of third parties
+third party data are provided solely as a convenience
+© 2017 - obstaclerangers obstacle rangers impressum © 2017
+policies english german french powered by martin priebe

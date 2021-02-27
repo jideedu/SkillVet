@@ -1,0 +1,97 @@
+doppio privacy policy last updated
+5 april 2019 1
+introduction and who we are doppio sa (“doppio”) has as a company policy to respect your privacy regarding any personal information we may collect while using one of our amazon alexa skills, google assistant actions, or this website
+accordingly, doppio has developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information
+doppio encourages you to read this document carefully from beginning to end
+and if you have any questions, don't hesitate to contact doppio at privacy@doppiogames
+information doppio collects and what for 2
+1 skills for amazon alexa 2
+this is collected automatically when you enable the skill in your amazon alexa app
+this is used to connect your alexa account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to your in-skill purchases
+we collect information about the capabilities of the devices that you use to interact with our skills
+this includes informations such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+information about your interactions with our skills
+we record information about the various things that you do when interacting with our skills
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+2 actions on google assistant 2
+the first time that you interact with each of our actions on the google assistant, we randomly generate an identifier unique to your account
+this id is saved in the “user storage” associated with your google account for the action, and is provided back to doppio with each request you make during the course of normal gameplay
+we use this id to connect your google account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to any digital purchases you make in our actions
+we collect information about the capabilities of the devices that you use to interact with our actions
+this includes informations such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+information about your interactions with our actions
+we record information about the various things that you do when interacting with our actions
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+transcripts of what you say to our actions
+we record transcripts of the specific words that you say or type when interacting with our actions
+we use this information to identify and correct problems in our actions’ voice interface, so that we may continually provide you with better services
+push notifications user id
+this is only collected if you choose to enable push notifications from inside our actions
+we will use it to send those push notifications that you requested to your devices
+digital purchase order ids
+these are only collected if you choose to make a digital purchase from one of our actions
+we will use these to provide you with customer support if you have any issues with your purchase, and to service your requests for refunds
+3 this website 2
+ip address and url
+the ip address and url of each request is logged to allow doppio to monitor the availability of the website
+this is only collected if you choose to provide it to doppio by signing up for our email newsletter, and will be used to send you notifications about our products
+contact, careers, and support forms data
+this is only collected if you choose to provide it to doppio, and will be used to get back to you regarding relevant requests
+legal basis doppio has for processing your personal data by using doppio's services, you are giving doppio consent to process your personal data
+if you would like to withdraw this consent at any time, please contact doppio at privacy@doppiogames
+sharing of personal data with third parties doppio employs several third-party data processors to assist us in providing you with our products and services
+for our amazon alexa skills and google assistant actions, these data processors include the following
+amazon web services emea sarl google llc mongodb, inc
+for this website, these data processors include the following
+squarespace (squarespace ireland ltd) mailchimp (the rocket science group llc) 5
+data storage and processing location doppio stores your personal information in the united states of america
+doppio will strive to ensure that the data is always processed in accordance with this privacy policy and the local laws
+for residents of the european economic area
+all of doppio's data providers are eu-us privacy shield compliant, and therefore guarantee that customers' data have the same high levels of security, privacy and data protection that it would receive in the eu
+how doppio secures your personal data the game services and database run in a virtual private cloud (vpc) that restricts access from the public internet
+we have appropriate network restrictions in place so that the game database is only accessible to the game service infrastructure
+access to the game database is password-restricted, and the password is rotated on an appropriate schedule
+all communication between our game services and both your devices and first-party platform services (such as amazon alexa and the google assistant) is encrypted by industry-standard transport layer security (tls)
+additionally, all requests from first-party platform services to our game services are verified for authenticity using the best available means on each platform before being serviced
+how long doppio keeps you personal data for 7
+1 alexa skills alexa user id
+following amazon in-skill purchase requirements, we keep this information indefinitely, even if you disable the skill in your amazon alexa app, so that we can restore your purchases if you re-enable the skill
+this information is stored for one year and then purged
+information about your interactions with our skills
+this information is stored for one year and then purged
+2 actions on google assistant profile id
+this is retained in our system for up to one year from the date you last interacted with each action
+you may clear it from your user storage at any time from inside the google assistant settings, which will effectively break the association between your game profile and your google account, and render your game profile inaccessible
+this information is stored for one year and then purged
+information about your interactions with our actions
+this information is stored for one year and then purged
+transcripts of what you say to our actions
+transcript data is retained for one year and then purged
+push notifications user id
+this is retained in our system for up to one year from the date you last interacted with each action
+you can also invalidate this id by tapping “turn off” on any notification received from our action, or by asking the google assistant to “stop sending updates” from the name of the action (so, e
+from the vortex, you would ask “hey google, stop sending updates from the vortex by doppio”)
+digital purchase order ids
+these are retained indefinitely so that we can service any customer support requests
+3 this website ip address and url
+logs are retained for one month and then purged
+we store this until you unsubscribe from our mailing lists
+contact, careers and support form data
+this is retained for one year and then purged
+how can i access or update my personal data
+please contact us at privacy@doppiogames
+doppio will reply to all requests received within a reasonable timeframe
+use of automated decision-making and profiling doppio doesn't use your personal data for these purposes
+use of cookies/tracking technology doppio doesn't use these technologies
+third-party links doppio's services may include hyperlinks to other websites or content or resources
+doppio has no control or responsibility over the content or any information in those websites
+com doppio sa r
+alfredo allen, 455/461 4200-135 porto portugal
+news rss subscribe to our newsletter
+© 2019 doppio sa

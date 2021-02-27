@@ -1,0 +1,22 @@
+end user license for all android apps developed by sudhan technology solutions
+please read this document carefully before using this software
+this license provides important information concerning the software, provides you with a license to use the software and contains warranty and liability information
+by using the software, you are accepting the software "as is" and agreeing to be bound by the terms of this license agreement
+in no envent will the authors be held liable for any damages arising from the use of this software
+if you do not wish to do so, do not use the software
+this license allows you to
+(a) use the software on a multiple device
+unless sudhan technology solutions (sts) has authorized you to distribute the software, you shall not make or distribute copies of the software or transfer the software from one device to another
+you shall not decompile, reverse engineer, disassemble, include in other software, or translate the software, or use the software for any commercial purposes
+you shall not modify, alter, change or otherwise make any modification to the software or create derivative works based upon the software
+you shall not rent, lease, resell, sub-license, assign, distribute or otherwise transfer the software or this license
+any attempt to do so shall be void and of no effect
+this license provides you with limited rights to use the software
+the owner retains all ownership, right, title and interest in, to and of the software and all copies of it
+all rights not specifically granted in this license, including domestic and international copyrights, are reserved by the owner
+you agree that application provider may collect and use your personal data
+application provider may use this information to improve its products or to provide services or technologies to you
+the owner's logos, product names, manuals, documentation, and other support materials are either patented, copyrighted, trademarked, constitute valuable trade secrets (whether or not any portion of them may be copyrighted or patented) or are otherwise proprietary to the owner
+you shall not remove or obscure the owner's copyright, trade mark or other proprietary notices from any of the materials contained in this package or downloaded together with the software
+disclaimer of warranties and technical support
+the software is provided to you on an "as is" basis, without any technical support or warranty of any kind including, without limitation, any warranty or condition of merchantability, fitness for a particular purpose and non-infringement

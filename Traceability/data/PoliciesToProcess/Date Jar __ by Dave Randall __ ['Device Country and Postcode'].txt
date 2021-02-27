@@ -1,0 +1,33 @@
+no suggested jump to results
+all your code in one place
+github makes it easy to scale back on context switching
+documentation, see the history of any file, and collaborate with
+contributors on projects across github
+sign up for free
+see pricing for teams and enterprises
+cannot retrieve contributors at this time
+25 lines (19 sloc) 1
+the purpose of this privacy policy is to describe how date jar alexa skill collects and uses information about you
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information in accordance with our alexa skill
+our privacy policy explains
+information we collect and why we use it
+how we use your information
+security of your information
+questions and how contact us
+information we collect and why we use it
+alexa skill utilizes the zip code connected to your amazon account
+the skill may also manually request this information from you if you do not grant it account permissions in the app
+zipcodes are logged for debugging purposes only, no account information is collected and the skill does not log any association between zipcodes and specific users
+no street address information is logged or stored
+how we use your information
+the skill uses the zipcode information to query the yahoo weather and/or yelp apis to find tailored suggests for dates based on your geographical location
+security of your information
+we do not permenantly store your personal information collected in our skill
+question and how to contact us
+if you have any questions, concerns, or suggestions regarding our privacy policy please contact us
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

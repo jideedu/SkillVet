@@ -1,0 +1,349 @@
+home read plans videos sign in sign up sign in sign up
+last modified on april 2, 2020
+as noted in the policy below, the english language version of the privacy policy and terms of use will govern your relationship with youversion
+while the english version will govern, you can also use an automatic translation tool like google translate to view the documents in your language
+any further translation revisions will be posted on this page
+please read this first
+our lives are full with family, work, social commitments, and more
+most of us rely on smartphones and other digital devices to help us manage our daily responsibilities and to stay connected
+back in 2006, as a dynamic, active community of faith, life
+church began exploring ways that we could help people take advantage of emerging technologies to experience the bible in ways that would lead to life change
+that led us to create the youversion bible app, one of the first 200 free apps in apple’s app store when it launched in 2008
+as more and more people began using youversion, we recognised the value of helping people explore faith in a community with the shared purpose of growing their relationship with god in a safe and secure manner
+youversion is far more than just an electronic reader that allows you to read the bible on your phone
+every product and service that we provide, we craft with great care and intentionality, designing each feature to help you pursue a deeper relationship with god, and to explore your questions of faith in a safe space, all within the context of a trusted community of your choice
+so you choose what you access
+you choose what you share, and with whom
+your data is yours
+youversion does not sell your information, nor will we share it with others without your consent
+and, every aspect of youversion that we offer, we provide completely free, with no strings attached and no advertising
+free to individual users, and free to our bible and content partners
+how can we do this
+as a digital mission of life
+church, youversion is supported in large part out of life
+church's general budget and also through contributions from individual users who want to participate in our mission to help people utilise technology to experience the bible and to see lives changed
+please read this privacy policy carefully because it discusses how we will collect, use, share, and process your personal information
+information we collect and how we collect it
+automatic data collection technologies
+how we use your information
+disclosure of your information
+deleting, accessing, and correcting your information
+third party information collection
+users from outside the united states
+changes to our privacy policy
+by accessing youversion you agree to this privacy policy and its terms and consent to having your data transferred to and processed in the united states
+your use of youversion is also governed by our terms of use
+please read those terms carefully as well
+here’s a summary of what you can expect to find in our privacy policy, which covers all youversion-branded products and services
+how we use your data to make your youversion experience more personal
+this privacy policy outlines the types of data we collect from your interaction with youversion, as well as how we process that information to enhance your youversion experience
+when you create a youversion account or use any one of our applications or sites, the information we collect is for the purpose of offering a more personalised experience
+we take the privacy of the information you provide and that we collect seriously and we implement security safeguards designed to protect your data as discussed below
+we do not share your personally identifiable data with any third-party advertisers or ad networks for third-party advertising purposes
+you have choices about how your personal information is accessed, collected, shared, and stored by life
+church, which are discussed below
+you will make choices about our use and processing of your information when you first engage youversion and when you engage certain youversion functionality and may also make certain choices in the settings menu of your youversion member account or at https
+we welcome your questions and comments
+we welcome any questions or comments you may have about this privacy policy and our privacy practices
+if you have any questions or comments, you may contact us by mail at life
+youversion support, 4600 e
+, edmond, oklahoma 73034, or by email at help@youversion
+where youversion has provided you with a translation other than the english language version of the privacy policy, then you agree that the translation is provided for your convenience only and that the english language version of the privacy policy will govern your relationship with youversion
+if there is any contradiction between what the english language version of the privacy policy says and what a translation says, then the english language version shall take precedence
+to make this document easier to read, we’re going to use some shorthand throughout
+for example, when we say “youversion,” we’re talking about
+youversion mobile applications, such as
+bible app for kids
+youversion websites, such as
+other youversion applications on other platforms, such as
+youversion products are owned and operated by life
+church operations, llc, which we’ll refer to as “life
+church,” “us,” or “we” throughout this policy
+we allow use of youversion by unregistered users, which we’ll call “visitors,” as well as registered users, or “members
+” when we refer to both in this policy, we’ll use the term “users” or “you
+information we collect and how we collect it
+the information we collect depends on the services and functionality you request
+you may decline to submit personal information to us
+however, that may prohibit us from having the ability to provide you with certain youversion services or functionality
+the personal information we collect and the purpose for which we use that information is described below
+personal information you provide to us
+you do not need to sign up for a membership account to use youversion
+however, membership allows us to tailor youversion to be a more personalised experience
+to create a youversion membership account, we require that you provide a first name, last name, and a valid email address
+we will use this information to associate you with your specific youversion member account
+after you have created a youversion member account, you may also choose to provide your gender, age, website, description of your location, a brief biography, a profile picture, and other information you choose to provide
+all of these, if provided, will also be associated with your account
+beyond the personal information collected to create a member account, you have choices about what additional information you provide to us
+we collect personal data from you when you provide, post, or upload it to youversion
+you do not have to provide this information
+however, if you do not, it may limit our ability to personalise youversion and your ability to use youversion to its fullest extent
+specific youversion functionality for which you may provide and we may process your information is discussed below
+youversion allows users to publish, distribute, and display certain content (we refer to that as “posted” and the content as “posts”)
+posts may be made on public areas of youversion, websites, and social media accounts you access through youversion, or transmitted to other users of youversion or third parties you choose to connect with on other platforms or services
+for example, this would include commenting on a friend’s post or creating and sharing a verse image
+youversion also allows you to create certain content to be maintained in your account, such as a note or bookmark of a bible verse, some of which you can also post to provide to others
+we will call all of the content created by you, whether or not posted, “user contributions
+your user contributions are processed by us to facilitate your ability to use, store, and distribute the user contribution as you choose
+we will associate your user contributions with your account as long as you opt not to delete them
+please keep in mind that if you disclose personal information in a public manner, whether through collaborative postings, social media, message boards, or other public online forums, this information may be collected and used by others
+user contributions are posted and transmitted at your own risk
+we cannot control the actions of other users or third parties with whom you choose to share your user contributions
+therefore, we cannot and do not guarantee that your shared user contributions will not be viewed by or used in an unauthorised manner, nor do we accept any liability associated with your user contributions
+if you choose to provide a voluntary donation through youversion or a third-party website linked to youversion, then and only then will you be prompted and required to provide credit card, bank account, and other payment information necessary to process the transaction
+we will collect the designation for your donation, if you provide one, as well as personal information such as your name, address, phone number, and/or email address to ensure that your donation is used for the purpose you request and to provide you with an “annual giving statement” that itemises your donation(s) for tax purposes or your personal use
+we will not store or otherwise process financial information provided to us online for the purposes of making a donation
+as of the date of this policy, we use stripe or paypal to process your online donation payments
+for information on how these third parties process your information, please refer to their privacy policies, which may be found here
+communications from you to us
+we collect information about you when you send, receive, or engage with messages from us, including when you submit personal information or requests by emailing help@youversion
+com or through the website help
+we retain those communications to process your inquiries, respond to your requests, and improve youversion and our services
+automatic data collection technologies
+by agreeing to our privacy policy, you agree to the use of cookies and similar technologies (for example, web beacons, pixels, tags, and device identifiers which we collectively refer to as “cookies”) as described in this policy
+if you use youversion without changing your browser or device settings to disable cookies, we'll assume that you consent to receive all cookies provided through youversion
+cookies and other similar technologies
+we use cookies to recognise you and/or your device(s) on, off, and across the different applications of youversion
+cookies help to facilitate the best possible user experience of youversion as they allow us to recognise you and maintain your user preferences from session to session, help us keep your account safe, and generally improve the functionality of the products and services offered through youversion
+they also help us ensure that member information is used in association with the correct member account
+importantly, we do not use cookies or similar technologies to facilitate interest-based ads for third-party goods or services
+we use cookies to collect details of your use of youversion (including traffic data, ip location data, logs, browser type, browser language, the functionality requested, and the timing of your requests), and other communication data and the resources that you access, use, and create on or through youversion
+we use this information to provide a tailored youversion experience for you and to communicate with you more effectively
+the information is also collected to determine the aggregate number of unique devices using youversion and/or parts of youversion, track total usage, analyse usage data, and improve youversion functionality for all members and visitors
+we may combine this information to provide you with a better experience and to improve the quality of our service
+generally, we maintain the data we collect from cookies for 21 days but may save it for a longer period where necessary such as when required by law or for technical reasons
+although most internet browsers accept cookies by default, you can control these types of technology through your browser settings and similar tools and agree to refuse cookies altogether
+you may refuse to accept cookies by activating the appropriate setting on your browser or device, but if you do so, you may be unable to access certain parts of youversion, you will prohibit us from delivering the full capability of youversion, and you may prevent the use of certain features and services that require these technologies
+church cannot regulate other sites, content, or applications linked or provided from within youversion or our various other websites and services that are provided by third parties, including your device manufacturer, and your mobile service provider
+these third parties may place their own cookies or other files on your computer, collect data, or solicit personal information from you
+the information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps, and other online services
+these third parties may use this information to provide you with interest-based (behavioural) targeted content
+we do not control these third parties' tracking technologies or how they may be used
+if you have any questions about targeted content, you should contact the responsible provider directly
+we advertise youversion on third party sites such as facebook and google and use third-party software development kits (“sdks”) to attribute a download of youversion to the advertisement placed on the third-party site
+we may provide these third parties with aggregate, de-identified information concerning ads placed on their sites and youversion downloads that result from those ads
+we do not sell your personal information to any third parties nor allow our sdk service providers to sell your personal information to third parties or use your personal information to solicit the sale of third-party goods or services
+device id and location and network access
+when you access or leave youversion websites, we receive the url of both the site you came from and the one you go to next
+we also get information about your proxy server, operating system, web browser and add-ons, device identifier and features, and/or your isp or mobile carrier when you use youversion
+we also receive data from your devices and networks, including your ip address
+we use the ip addresses we collect from our users to process them with public latitude and longitude information related to your internet service provider or mobile service provider in order to determine and, in some instances, depict in an aggregate and de-identified manner the approximate geographic region for each instance of youversion use
+this latitude and longitude information is stored by us for approximately seven days for troubleshooting and diagnostic purposes, but is never associated with any information about you or that would identify you personally
+if you use youversion from a mobile device and if you desire to use the events feature, you will be prompted to grant permission for youversion to access and receive information from that device related to your gps location in order to find events near you, as outlined below
+we do not share any of your personally identifiable information along with your device identification or location without your explicit permission
+you do not have to provide this information
+however, if you do not, it may limit your ability to use events to its fullest extent
+we also collect and use the wireless (or “wifi”) permissions of your mobile device to determine if you are connected to a wifi or cellular network
+this information is used to provide an optimised user experience by providing higher resolution media to a user who is on a high-speed wifi connection rather than a cellular network
+wifi permissions are also used for casting content with chromecast and similar devices
+this information is not stored or shared by youversion
+how we use your information
+we use data that we collect about you and that you provide to us as well as the inferences we make from that information as follows
+to provide, support, and personalise youversion and the youversion functionality you request
+to create, maintain, customise, and secure your youversion account, if any
+to process your requests and respond to your inquiries
+to provide information on other youversion products or services
+to maintain the safety, security, and integrity of youversion and the infrastructure that facilitates use of youversion
+for internal development of youversion and our other products and services
+for internal analysis of use of youversion
+to fulfill any other purpose for which you provide it
+to carry out our obligations and enforce our rights under applicable law, including our rights and obligations under this privacy policy and our terms of use
+as described in this privacy policy
+in any other way we may describe when you provide the information
+for any other purpose with your consent
+we use the personal information you provide to create and maintain your membership account
+we also use this information to authorise and authenticate your access to your account
+we store this information and information pertaining to your use of youversion in connection with your membership account for so long as you are a member
+for example, your first and last name and email address will be stored and used by us in connection with your account name or auto-generated account id to authenticate you as the correct user of your account
+we will also store your user contributions in association with your member account to allow you to access, re-access, post, and otherwise utilise your user contributions as you choose
+youversion will allow you to communicate and connect with other youversion users to share bible verses, user contributions, and other content
+it is your choice whether to communicate or connect with another member and to share your information or user contributions
+to facilitate your connections with other youversion members, you will be given the choice of whether to share with us the contact information stored on your device
+you do not have to share this information to use youversion or to connect with any particular member
+if you decide to share this information with us, it will only be used to try and associate your contacts with other youversion members to create potential youversion connections and will only be stored by us for so long as you have a youversion member account
+when you grant access to your contacts on your device for the purpose of friend suggestions, notification of when a contact joins, or sending an invite to youversion, that information is stored on our servers in a hashed format for the purpose of offering you this functionality
+youversion events allows you to locate nearby churches, etc
+that have designated their services as an event, enabling you to follow along with the provided content, take notes, and save your own copy of content for future reference
+associating these events with your location requires access to and use of your gps location
+when you first choose to use our events feature, you will be provided the option to share your gps location with us, and if you opt to provide your gps location, we will use that information solely to provide a listing of events near you
+gps location information is stored by us for approximately seven days for troubleshooting and diagnostic purposes, but is never stored in our database in association with any particular youversion member account
+once your particular session of use of the events feature ends, we will cease to receive information related to your gps location unless you access the events feature again
+after you first use the events feature and consent to the use of your gps location, we will assume we have that consent during subsequent use of the events feature unless you revoke that consent through the settings of your device or in the events feature in the bible app
+if you choose not to share your gps location, you may still use the events feature, but you will need to search for an event manually by name, organization, city, country, or other distinguishing search terms
+we collect the manner in which you use youversion and its content, such as your prayer requests, the bible chapters and bible plans that you access, and the language in which you choose to utilise that content
+we also collect and store the user contributions you create, such as bookmarks, highlights, and notes
+we process this information to allow you to access and use content you create or wish to access through each youversion session
+you will have the choice of whether to download certain youversion content and user contributions to your device
+you will have the choice of whether to allow youversion access to your device’s storage to add and modify this downloaded content
+access to the storage of your device is only used by youversion for downloading this requested content to your device
+it is your choice whether to create, access, or store youversion information and content
+if you do, we will store it in association with your membership account
+we may use information about your use of youversion and the inferences we make from that use to provide recommendations to you of other youversion or life
+for example, based upon a bible plan you complete, we may suggest additional bible plans to you
+you may opt out of receiving these recommendations by email, as discussed below
+communications from us to you
+we communicate with you through push notification, email, or in-app messages
+if we communicate to you with email, you may generally unsubscribe to these messages via the unsubscribe link in the emails providing these messages
+you can also tailor your notification settings at any time within the settings menu of the youversion bible app or by visiting bible
+we use the data we have about you and inferences we make from that data to recommend certain content and functionality as well as additional products and services offered through youversion
+we may combine the information you provide us with information we collect through other life
+church services and products and the inferences we make from the same for our internal development to improve the overall quality of all services and products provided by life
+we may also make recommendations to you for other life
+church services and products based on the information you provide and we infer
+we may contact you through push notification, email, or in-app messages to discuss these recommendations, how to use youversion, and other youversion news messages
+polls and surveys are sometimes conducted by us through youversion
+you are not obligated to respond to polls or surveys, and you have choices about the information you provide
+because the purpose of these polls and surveys may vary, we will provide details related to the disclosure and use of personal information in relation to any poll or survey prior to you providing any information
+security, legal and technical issues
+we may use your personal information to investigate, respond to, and resolve legal, security, and technical issues and complaints concerning youversion and, as necessary, for security purposes or to investigate possible fraud, violations of law, violations of our terms of use or this privacy policy, or attempts to harm oneself or others
+we may use your information to contact you about account security, legal, and other service-related issues
+please be aware that you cannot opt-out of receiving such messages from us
+we may use your personal information to provide notice regarding a security incident or data breach, by
+(i) sending a message to the email address you provide (as applicable)
+(ii) posting to a publicly facing page of youversion or through an in-app message
+(iii) through major statewide media
+and/or (iv) telephonic means, including calls and/or text messages, even if sent via automated means including automated dialers
+standard text and data messaging rates may apply from your carrier
+notices sent by email will be effective when we send the email, notices we provide by posting will be effective upon posting and by in-app messaging when the message is made, and notices we provide through telephonic means will be effective when transmitted or dialed
+you consent to receiving electronic communications from life
+church relating to youversion and your use and access of the services provided through youversion
+it is your responsibility to keep your email address and any other contact information you provide to us current so that we may provide these communications to you
+we internally analyse the personal data available to us and the use of youversion content, as well as the inferences we make from that data, to observe social, economic, and geographic trends as they pertain to youversion content
+in some cases, we work with trusted third parties to perform this research, under controls that are designed to protect your privacy, as discussed below
+we may disclose use of youversion content in an aggregated manner with de-identified and anonymised information that does not disclose any particular user or that user’s personally-identifying information
+for example, we may use your data to generate statistics about overall usage of youversion worldwide or in specific geographic regions
+we also use de-identified and aggregate user data to market youversion, including communications that promote youversion membership and network growth, such as celebrating the total number of youversion installs
+when you see stats we share publicly such as global youversion engagement, we make sure to analyse and publish the data in an aggregated form, protecting your privacy and keeping your identity and personal information confidential
+we use data, including user provided personal information, aggregations of user data, data collected through the use of youversion, public feedback, and information inferred from this data to conduct internal research and development in order to provide a better overall youversion experience, measure the performance of youversion, and increase the use of youversion and its features
+this is done by making changes to youversion that are generally available, as well as sending users messages through youversion suggesting youversion functionality and content
+by downloading and using youversion, we do not assume that you are of any particular religious denomination or are expressing to us any particular religious belief
+we merely assume that you are interested in the content we provide
+we do not require that users provide information about such beliefs to us or provide any other sensitive data such as race, ethnicity, philosophical beliefs, or physical or mental health to use youversion or create or maintain a youversion member account
+you will have the option with certain youversion functionality to create, store, and share thoughts and messages related to youversion content, including the option to record and share prayers
+it is your choice whether to provide sensitive information within the user contributions you create, should it be an option to do so
+if you choose to provide any sensitive information, we may use that information with other non-sensitive information you provide to create a more personalised youversion experience for you and to perform the services and actions you request through youversion, such as sharing or storing content
+in any event, life
+church will only process sensitive data you provide to us for life
+church’s legitimate activities on your behalf and solely in accordance with the terms of this policy and any additional requests you make about the information
+we will also maintain your information subject to appropriate safeguards discussed in this policy and otherwise provided by life
+should you have any questions, feel free to contact us at help@youversion
+disclosure of your information
+we do not sell or share your personal data with any third-party advertisers or ad networks for their advertising purposes
+we may disclose your personal information to third parties in order to enable our ability to provide youversion, as discussed below
+disclosure on your behalf
+we may disclose personal information that we collect or you provide as described in this privacy policy to fulfill our obligations under our terms of use , to accomplish the purpose for which you provide it, for any other purpose you request when you provide the information, or for any other purpose for which we have your consent
+when you share information through youversion, that information is viewable by you and by anyone else you choose to share it with
+if you give access to your youversion account to other applications and services, based on your approval, those services would then have access to your shared information
+the use, collection, and protection of your data by such third-party services is subject to those third parties’ policies
+we will process your personal data internally within life
+church to help combine the personal information covered across the different aspects of youversion and our other products and services to help provide services to you in a manner that is personalised and useful to you and others
+we may disclose personal information that we collect or you provide as described in this privacy policy to contractors, service providers, and other third parties we use solely to support youversion (such as cloud hosting, cookie providers, maintenance, analysis, audit, payment, fraud detection, communication, and development)
+for example, some of the platforms used to send emails and notifications provided through youversion are built and managed by third parties, so some of your information is sent securely to those services to provide such functionality
+they will have access to your information only as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes
+we utilise certain third parties to provide certain youversion content, such as bible plans
+we do not share personal information of youversion users with these third parties
+we do, however, provide these third parties with aggregate analytics concerning the use of their content by country using de-identified and anonymised data
+our ability to provide different versions of the bible in different languages is a result of and subject to agreements among us and certain bible societies and publishers, which we’ll call “youversion bible providers
+” the license agreements we have with some youversion bible providers only allow us to provide youversion users the ability to download certain bible texts for offline use if we provide youversion bible providers with the user’s name, email address, and country for future communication
+if this is the case with a text you are seeking to download for offline use, we will (i) only share this information with the youversion bible provider for the offline version you request
+(ii) do so on a confidential basis and only if the youversion bible provider agrees to keep the information we share about you confidential
+and (iii) provide an additional prompt to you as a reminder of these terms, which you must agree to at that time in order to continue with your download
+if you do not agree to this additional prompt, you may continue to use the online version of the text
+no other personal information of yours will be shared with any youversion bible providers and no information will be shared until you grant approval to our prompt, which will then give you access to download that offline version
+your interactions with any youversion bible providers is solely among you and that youversion bible provider
+it is possible that we will need to disclose information about you when required by law, subpoena, or other legal process
+we attempt to notify users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency
+we may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague, or lack proper authority, but we do not promise to challenge every demand
+we may also disclose your information if we have a good faith belief that disclosure is reasonably necessary to (i) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies
+(ii) enforce our agreements with you
+(iii) investigate and defend ourselves against any third-party claims or allegations
+(iv) protect the security or integrity of youversion
+or (v) exercise or protect the rights and safety of life
+church, users, our personnel, or others
+we also reserve the right to confidentially disclose personal information we have about you in connection with a potential or actual merger or acquisition such as the sale of all or substantially all of our assets
+deleting, accessing, and correcting your information
+how to make your requests
+for personal data that we have about you, you may request the following
+you may ask us to erase or delete all or some of your personal data
+please note that doing so may limit your ability to use certain functionality of youversion
+please note that an email address is required to have a member account to ensure we can properly authenticate potential users of that account
+you may edit some of your personal data through your account or ask us to change, update, or fix your data in certain cases, including if it is inaccurate
+object to, or limit or restrict, use of data
+you can ask us to stop using all or some of your personal data or to limit our use of it
+right to access and/or take your data
+you can ask us for a copy of or disclosure concerning your personal data you provided to us
+certain laws may provide the right to make these and additional requests concerning your personal information
+if you have provided us with personal information and wish to make such a request under a specific region’s law, please send your request to help@youversion
+com and include the phrase “[your state/country] privacy request” in the subject line
+to make these or any other requests with respect to your personal information, you may send an email to help@youversion
+com or mail your request to life
+youversion support, 4600 e
+, edmond, oklahoma 73034
+we ask that individuals making requests identify themselves with at least their name, address, and email address and identify the information requested to be accessed, corrected, or removed before we process any requests
+we may decline to process requests if we cannot verify the requestor's identity, if we believe the request will jeopardise the privacy of others, if we believe the request would violate any law or legal requirement, if we believe the request would cause the information to be incorrect, or for a similar legitimate purpose
+we will not discriminate against you for exercising any of your rights under applicable law
+we do not charge a fee to process or respond to your verifiable request unless it is excessive, repetitive, or manifestly unfounded
+if we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request
+if you choose to close your account or ask that we modify or delete some or all of your personal information, we will retain your personal data if we have a legal right or obligation to maintain the information or to meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our rights, or fulfill any other requests from you (for example, to opt-out of further messages or for a copy of your data)
+otherwise, if you request that we close your account, we will delete your account and all the information we have that is associated with your account, except for aggregated statistics based on de-identified information and inferences we make from the same
+we will also retain our aggregate count of the number of total youversion applications downloaded, which would include the fact that you downloaded youversion, without maintaining personal information associated with that account
+we have no control of information you have shared with others through youversion after you close your account or asked to delete information or attempted to delete your account yourself
+your information and content you have shared may continue to be displayed in the services of others (for example, search engine results) until they refresh their cache
+we implement security safeguards designed to protect your data
+these include using encryption for your data while it is being transmitted between your device or browser and our servers and while it is at rest
+data provided to us through youversion is also stored in an iso 27017-certified infrastructure management system, meaning it has been audited and found in compliance with the requirements of the management system standards iso 27017, an internationally recognised code of practice for information security controls for cloud services
+however, given the nature of communications and information technology, and that the use of the internet has inherent risks, although we regularly monitor for possible vulnerabilities and attacks, we cannot warrant or guarantee that information provided to us through youversion or stored in our systems or otherwise will be absolutely free from unauthorised intrusion by others, nor can we warrant or guarantee that such data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards
+children under the age of 16
+we do not collect personal information from any person we actually know is under the age of 16 without the consent of the parent or legal guardian of that minor
+a parent or guardian may consent to the use of their youversion account by a minor on that parent or guardian’s primary profile or a secondary profile of the parent/guardian’s account in the platform known as the bible app for kids
+should you allow your minor child to use your account (whether through your profile or a bible app for kids profile), you shall be solely responsible for providing supervision of the minor’s use of youversion and assume full responsibility for the interpretation and use of any information or suggestions provided through youversion
+to create a secondary profile, you will be required to access your account with your user information and will have sole control over that bible app for kids profile
+we do not require that you disclose any personally-identifiable information about your minor child to us to create a bible app for kids profile
+when setting up a profile for your minor child, you are required to provide a “child’s name” to identify the account
+however, this name can be whatever you choose and you are not required to provide your minor child’s actual first or last name
+where you associate your minor child’s information with your account, we will assume you consent to our processing of that information in accordance with this policy and other privacy notices and terms we may provide to you from time to time
+if you allow your minor child to use youversion, we ask that you discuss the risks of sharing personal information on the internet with your children and require that they refrain from communicating with any third parties or share any personal information with youversion or youversion users
+if you believe we might have any information from or about a child under 16, please contact us at help@youversion
+we will only collect and process personal data about you where we have lawful bases
+lawful bases include consent (where you have given consent), contract, and other legitimate interests
+such legitimate interests include protection to you, us, other members, and third parties
+to comply with applicable law
+to enable and administer our business
+to manage corporate transactions
+to generally understand and improve our internal processes and user relationships
+and to enable us and other users of youversion to connect with you to exchange information, provided that the foregoing adequately protects your rights and freedoms
+where we rely on your consent to process personal data, you may withdraw or decline your consent and where we rely on legitimate interests, you may object
+if you have any questions about the lawful bases upon which we collect and use your personal data, please contact us at help@youversion
+third party information collection
+please keep in mind that youversion may contain links to other websites or apps
+you are responsible for reviewing the privacy statements and policies of those other websites you choose to link to or from youversion, so that you can understand how those websites collect, use, and store your information
+we are not responsible for the privacy statements, policies, or content of other websites or apps, including websites you link to or from youversion
+websites containing co-branding (referencing our name and a third party’s name) contain content delivered by the third party and not us
+if you choose to link youversion with other websites, applications, and services or profiles you have with third party applications, you will provide the personal data stored on those applications to life
+for example, you may start a new youversion membership account by linking your facebook account to youversion, providing personal information you have opted to share through facebook to life
+you may revoke the link with such accounts and third-party applications by modifying your settings with those applications
+users from outside the united states
+youversion is based out of oklahoma within the united states and your use of youversion and this privacy policy is governed by the laws of the united states and the state of oklahoma
+if you are using youversion from outside this state or country, please be aware that your information may be transferred to, stored, and processed in the united states where our servers are located and our central database is operated
+we process data both inside and outside of the united states and rely on contractual commitments between us and companies transferring personal data that require the protection and security of such data
+the data protection and other laws of the state of oklahoma, the united states, and other countries might not be as comprehensive as those in your state or country
+by using youversion, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it with, as described in this privacy policy
+changes to our privacy policy
+we may update our privacy policy from time to time to reflect changes in our practices
+church is consistently seeking new and improved ways to offer youversion and increase engagement
+as we improve youversion, this may mean the collection of new data or new ways to use data
+because youversion is dynamic, and we continuously seek to offer new features, we may require changes in our collection or processing of information
+if we collect materially different personal data or materially change how we use your data, we will update this privacy policy
+we will post any changes to our privacy policy on this page
+if we make material changes to how we process our users’ personal information, we will provide a notice that the privacy policy has been updated
+the date the privacy policy was last modified is identified at the beginning of the policy
+you are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this privacy policy to check for any changes
+to ask questions or comment about this privacy policy and our privacy practices, you may contact us at
+youversion support, 4600 e
+, edmond, oklahoma 73034
+versions (2,180) languages (1,488) help events social facebook twitter instagram youtube pinterest donate volunteer about jobs blog press privacy policy terms english (uk) choose your language english (uk) english (us) afrikaans (south africa) bahasa indonesia
+german (germany) english (uk) english (us) español (latinoamérica)
+spanish (latin america) español (españa)
+spanish (spain) filipino français (france)
+myanmar burmese (unicode) ျမန္မာေဇာ္ဂ်ီာ
+myanmar burmese (zawgyi) 한국어
+chinese hong kong versions (2,180) languages (1,488) help events donate volunteer about jobs blog press privacy policy terms facebook twitter instagram youtube pinterest

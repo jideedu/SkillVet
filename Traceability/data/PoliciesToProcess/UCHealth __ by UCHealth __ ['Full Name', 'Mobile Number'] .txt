@@ -1,0 +1,114 @@
+select language afrikaans shqip አማርኛ العربية հայերեն azərbaycan dili euskara беларуская мова বাংলা bosanski български català cebuano chichewa 简体中文 繁體中文 corsu hrvatski čeština‎ dansk nederlands english esperanto eesti filipino suomi français frysk galego ქართული deutsch ελληνικά ગુજરાતી kreyol ayisyen harshen hausa ōlelo hawaiʻi עִבְרִית हिन्दी hmong magyar íslenska igbo bahasa indonesia gaelige italiano 日本語 basa jawa ಕನ್ನಡ қазақ тілі ភាសាខ្មែរ 한국어 كوردی‎ кыргызча ພາສາລາວ latin latviešu valoda lietuvių kalba lëtzebuergesch македонски јазик malagasy bahasa melayu മലയാളം maltese te reo māori मराठी монгол ဗမာစာ नेपाली norsk bokmål پښتو فارسی polski português ਪੰਜਾਬੀ română русский samoan gàidhlig српски језик sesotho shona سنڌي සිංහල slovenčina slovenščina afsoomaali español basa sunda kiswahili svenska тоҷикӣ தமிழ் తెలుగు ไทย türkçe українська اردو o‘zbekcha tiếng việt cymraeg isixhosa יידיש yorùbá zulu
+select language afrikaans albanian amharic arabic armenian azerbaijani basque belarusian bengali bosnian bulgarian catalan cebuano chichewa chinese (simplified) chinese (traditional) corsican croatian czech danish dutch esperanto estonian filipino finnish french frisian galician georgian german greek gujarati haitian creole hausa hawaiian hebrew hindi hmong hungarian icelandic igbo indonesian irish italian japanese javanese kannada kazakh khmer kinyarwanda korean kurdish (kurmanji) kyrgyz lao latin latvian lithuanian luxembourgish macedonian malagasy malay malayalam maltese maori marathi mongolian myanmar (burmese) nepali norwegian odia (oriya) pashto persian polish portuguese punjabi romanian russian samoan scots gaelic serbian sesotho shona sindhi sinhala slovak slovenian somali spanish sundanese swahili swedish tajik tamil tatar telugu thai turkish turkmen ukrainian urdu uyghur uzbek vietnamese welsh xhosa yiddish yoruba zulu select language afrikaans albanian amharic arabic armenian azerbaijani basque belarusian bengali bosnian bulgarian catalan cebuano chichewa chinese (simplified) chinese (traditional) corsican croatian czech danish dutch esperanto estonian filipino finnish french frisian galician georgian german greek gujarati haitian creole hausa hawaiian hebrew hindi hmong hungarian icelandic igbo indonesian irish italian japanese javanese kannada kazakh khmer kinyarwanda korean kurdish (kurmanji) kyrgyz lao latin latvian lithuanian luxembourgish macedonian malagasy malay malayalam maltese maori marathi mongolian myanmar (burmese) nepali norwegian odia (oriya) pashto persian polish portuguese punjabi romanian russian samoan scots gaelic serbian sesotho shona sindhi sinhala slovak slovenian somali spanish sundanese swahili swedish tajik tamil tatar telugu thai turkish turkmen ukrainian urdu uyghur uzbek vietnamese welsh xhosa yiddish yoruba zulu powered by translate powered by translate
+select language afrikaans shqip አማርኛ العربية հայերեն azərbaycan dili euskara беларуская мова বাংলা bosanski български català cebuano chichewa 简体中文 繁體中文 corsu hrvatski čeština‎ dansk nederlands english esperanto eesti filipino suomi français frysk galego ქართული deutsch ελληνικά ગુજરાતી kreyol ayisyen harshen hausa ōlelo hawaiʻi עִבְרִית हिन्दी hmong magyar íslenska igbo bahasa indonesia gaelige italiano 日本語 basa jawa ಕನ್ನಡ қазақ тілі ភាសាខ្មែរ 한국어 كوردی‎ кыргызча ພາສາລາວ latin latviešu valoda lietuvių kalba lëtzebuergesch македонски јазик malagasy bahasa melayu മലയാളം maltese te reo māori मराठी монгол ဗမာစာ नेपाली norsk bokmål پښتو فارسی polski português ਪੰਜਾਬੀ română русский samoan gàidhlig српски језик sesotho shona سنڌي සිංහල slovenčina slovenščina afsoomaali español basa sunda kiswahili svenska тоҷикӣ தமிழ் తెలుగు ไทย türkçe українська اردو o‘zbekcha tiếng việt cymraeg isixhosa יידיש yorùbá zulu
+your privacy is important to us, and we go to great lengths to protect it
+please review our privacy practices
+notice of privacy practices
+aviso de las practicas de privacidad
+acuso de recibo de aviso conjunto de practicas de privacidad [listo en breve]
+certain uchealth healthcare facilities are required to comply with the health insurance portability and accountability act of 1996 and regulations adopted to carry out the act (“hipaa”)
+these facilities are called “covered entities” under hipaa
+hipaa allows covered entities under common ownership or control to join together to form a “single affiliated covered entity” for purposes of compliance with hipaa
+as a health care provider, uchealth has formed the uchealth affiliated covered entity or “uchealth ace” which includes the following uchealth owned or controlled healthcare facilities
+medical center of the rockies
+poudre valley medical group, llc d/b/a uchealth medical group
+uchealth ambulatory surgery center
+uchealth emergency physician services, llc
+uchealth highlands ranch hospital
+uchealth imaging services, llc
+uchealth pikes peak regional hospital
+university of colorado hospital authority
+yampa valley medical center d/b/a uchealth
+university of colorado health and its members, subsidiaries and affiliates (hereinafter “uchealth”) values your privacy and the confidentiality of the information you choose to share
+this statement pertains only to data collected via the uchealth website (“site”) and the uchealth mobile application (“app”)
+it does not govern or apply to the collection of data via the myhealth connection functionality accessible at the site or via the app
+what information does uchealth collect
+when you register for the site or the app, uchealth will collect certain personally identifiable information (“personal information”) including the following
+in addition, when you use the site or app, the following types of information may all be logged automatically (“usage information”)
+type of mobile device you use
+operating system of your mobile device
+number of visitors and page views
+website pages visited prior to visiting the site or app
+technical information about your device, system and app software, and peripherals
+how does uchealth use your information
+uchealth may use your personal information to help facilitate transactions into which you enter, including answering your questions, which may be shared with uchealth staff who are most able to address your concerns
+uchealth will archive your messages once we have made our best effort to provide you with a complete and satisfactory response
+uchealth uses a third-party vendor to help it manage some authorized email and text communications with you
+while uchealth does supply these vendors with email addresses of those individuals we wish to have them contact, they are not permitted to use your email address for any purpose other than to communicate with you on our behalf
+when you click on a link in an email, you may temporarily be redirected through one of the vendor’s servers (although this process will be invisible to you) which will register that you’ve clicked on that link, and have visited our website or utilized our mobile application
+when you provide your email address to uchealth by registering for the site or app, you agree to receive email communications directly from uchealth about uchealth products and services
+even if you have given uchealth permission to send emails to you, you may revoke that permission at any time by following the “unsubscribe” information at the bottom of the email
+uchealth may use usage information to facilitate the provision of software updates, product support and other services to you (if any), including by sending email or text messages to your wireless phone, tablet, or other mobile device (each a “device”)
+you also grant uchealth an irrevocable, perpetual, royalty-free right and license to use your usage information to enhance our products and services and to develop new products and services
+how do we use precise location information
+uchealth may use your precise geographical location information in order to provide you with information and otherwise provide services and functionality that you have requested
+you may choose not to have your location disclosed when prompted upon accessing the uchealth website or mobile application
+how do we disclose your information
+uchealth may disclose some of your registration information, such as your contact information, in order to complete a transaction initiated by you or without your authorization when necessary to provide for treatment, or in connection with payment or healthcare operations issues, as well as in emergency circumstances or when required to do so by law
+uchealth does not disclose any of your information with third parties other than as follows
+(i) to the extent necessary to comply with applicable law and our legal obligations, such as to comply with a subpoena or similar legal process
+(ii) when uchealth believes in good faith that disclosure is necessary to protect its rights, your safety or the safety of others, including persons with whom you have arranged meetings via the app
+(iii) with third party vendors, consultants and other service providers who work for us and need access to your information to do that work
+(iv) to investigate fraud, or respond to a government request
+(v) in connection with or during negotiation of any merger, financing, acquisition, or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company
+uchealth does not access your contact information or address book within your device
+nor does uchealth have any access to any of the personal information or credit card information that you have provided to uchealth in order to register for their services
+you should be familiar with the privacy practices of uchealth before providing such information
+uchealth may also share aggregated or de-identified information for any reason and at any time
+how do you opt-out
+you may opt-out of providing further information to uchealth at any time by uninstalling the app using the standard uninstall processes available on your mobile device or via the applicable application marketplace or store
+you may opt-out of providing precise geographic location information by choosing not to allow tracking when asked
+opting out of certain types of information collection may limit your ability to use certain features or functionality within the app
+you acknowledge and agree that uninstalling the app will not remove your information from uchealth’s servers without a separate request and you grant uchealth a royalty-free, unlimited right and license to maintain such information on our servers and in our archives until you request deletion in accordance with this section
+what about third party tracking or advertising
+sending email directly to an email address found on a uchealth website is not secure
+unsecured information transferred over the internet is similar to a postcard being sent through the mail
+it is recommended that you do not send sensitive personal health information to uchealth or anyone else using unsecured means
+should you choose to supply confidential information in this manner, you do so at your own risk
+uchealth is not responsible for the content or privacy statements of those links or the content of any third-party websites or third party mobile applications
+if you are asked to supply personal information to those websites or mobile applications, we suggest you read carefully through the privacy statements of those websites or mobile applications
+uchealth may include information on the site or app including social media features
+these social media features may collect your ip address, which page you are visiting on our site, and may set a cookie to enable the social media feature to function properly
+social media features are either hosted by a third party or hosted directly on the uchealth website or mobile application
+your interactions with these social media features are governed by the privacy statement of the company providing them
+uchealth may use your information to re-target or re-market to you via advertisements on the site or app
+uchealth partners with a third party ad network to manage our advertising on other sites
+our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on the site or app and to then provide you with uchealth advertising on other websites
+we may also place a persistent third-party cookie (provided by google) on your hard drive if you sign on to uchealth
+if you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by utilizing the google opt-out tool
+please note this does not opt you out of being served advertising
+you may continue to receive generic non-targeted ads featuring uchealth
+uchealth’s websites and mobile application are intended for adults and young adults age 13 and over, and they are not intended for persons under the age of 13
+any child under the age of 13 should not register to use any portion of the uchealth website and/or mobile application, or provide any personally identifiable information
+it is not uchealth’s desire or intent through its website and/or mobile application to collect and store any personally identifiable information from any person uchealth actually knows to be under the age of 13
+if uchealth is made aware of collecting information of a child under the age of 13, uchealth will delete this information
+uchealth takes commercially reasonable steps to help protect your information against loss, misuse and unauthorized access, or disclosure
+however, uchealth expressly disclaims any representation or warranty, whether express or implied, with respect to ensuring, guaranteeing or otherwise offering any definitive promise of security in connection with your information
+what are you consenting to
+by using the site or app, you are consenting to the use and processing of your information as set forth in this privacy notice, all of which activities will take place in the united states
+if you reside outside the u
+, your information will be transferred to the u
+, and processed and stored there under u
+by using the site or app and providing information to us, you consent to such transfer to, and processing in, the u
+who should you contact with questions
+if you have any questions about this online privacy notice, our policies, and practices concerning the websites or the mobile application, your rights under this notice, and your dealings with the uchealth website or mobile application, you can contact uchealth by telephone at (303) 752-7857 or by u
+mail at the address below
+vincent serio director, digital and emerging media uchealth marketing and communications 3513 brighton blvd
+7th floor denver, co 80216 united states
+inspiring stories delivered to your inbox
+subscribe to uchealth today
+soak, relax and recharge, even during the pandemic
+stroke gives 40-year-old father a new, and surprising, perspective
+download the uchealth app
+refer your patient now
+patient’s information first name * last name * name
+sex (legal) * choose from drop down female male other gender identity choose from drop down female male transgender female / male-to-female transgender male / female-to-male other choose not to disclose phone number * insurance * referring provider information first name * last name * name *
+specialty * location * phone number * fax number * referral (no radiology orders, please) department/specialty referred to * preferred location of consultation * diagnosis * priority * choose from drop down routine asap urgent priority *
+please send any pertinent, clinic records related to the dx to prl@uchealth
+org phone this field is for validation purposes and should be left unchanged
+if you are experiencing an emergency please call 911 immediately
+we use cookies to make interactions with our website easy and meaningful
+by continuing to use this site you are giving us your consent
+learn how cookies are used on our site
+original text contribute a better translation
+original text contribute a better translation

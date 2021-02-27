@@ -1,0 +1,193 @@
+this app works best with javascript enabled
+please read these terms carefully before you (a user, as defined below) use our service
+these terms tell you who we are, how we will provide the service to you, how you and we may change or end the contract, what to do if there is a problem and other important information
+if you think that there is a mistake in these terms, please contact us using the “contact” details on our site
+by using the service you agree to the terms of this licence which will bind you
+your attention is particularly drawn to clause 12 “our liability to you” & clause 13 “your liability to us”
+we are chatter ltd and our address is [maritime house, discovery quay, falmouth, tr11 3xa
+we are a company registered in england and our company number is 12157800
+the following words have the following meaning when we use them in these terms, on our site and in the provision of our services
+these are the terms on which we licence you to use the app and service
+a reference to “writing” or “written” includes email only
+the app and/or service is powered by chatter ltd whose company registration number is 12157800
+chatter ltd only use any personal data collected through your use of the app and/or service in the ways set out the privacy policy [link to your privacy policy]
+for the avoidance of doubt chatter ltd are not an agent
+we use our best endeavours to secure your data but please be aware that the transmission and/or storage of data may not always be completely private or secure and that any data sent or stored using the app and service (including data on your own device or held by third parties) may be read or intercepted by others, even if that particular transmission or storage method is encrypted or held out as secure
+by using the app and service, you agree to us collecting and using technical information about the devices you use the app and service on and related software to improve our products and to provide the app and service to you
+by using the app and service, you acknowledge that your personal data will be shared with third parties as set out in these terms
+if you want to learn more about the app and service or have any problems using it please contact us using the “contact” details on our app
+if you need to contact us, or you think the app and/or service is faulty or misdescribed, please contact us at support@chattervoice
+if we have to contact you about the app and/or service we will do so by email, using the contact details you have provided to us when you registered
+how you may use the services
+in return for you agreeing to comply with these terms, you may view, use and display the app and/or service on your device(s) for your personal purposes only
+you must be aged 18 or older to accept these terms to use the app and/or service
+you hereby warrant that by registering to use the app and/or service you are 18 or older
+we are giving you personally the right to use the app and/or service as set out above
+you may not transfer your account or the app and/or service itself to someone else, whether for money, for anything else or for free
+registering as a user
+in order to register as a user of the app and/or service, you must provide true and accurate details as requested by us through the app
+you may be required to provide additional information as requested by us from time to time
+all data you provide to us will be handled in accordance with our privacy policy
+acting at our sole discretion, and without providing a reason to you, we reserve the right to refuse to accept or decline your application to become a user of the app and/or service and may revoke permission to access all or part of the app and/or service at any time
+we accept no responsibility for the accuracy of user details as displayed in the app or provided by the service, or for any data or information you provide through your use of the app and/or service
+by registering as a user you acknowledge that you enter into a contract with us to provide the app and/or service in return for your compliance with these terms and any other obligations which may be agreed
+you acknowledge that you take sole responsibility for all activity carried out via your account and that you are responsible for ensuring that you keep your account login details safe
+if you wish to cancel the service, you may do so at any time via our site
+changes to these terms
+we may need to change these terms to reflect changes in law or best practice or to deal with additional features which we introduce
+we will give you notice in writing of any change either by notifying you of the change when you next use the app and/or service or via email, using the contact details you provided to us at registration
+your continued use of the app and/or service shall be deemed acceptance of the changes
+if you do not accept the notified changes you will not be permitted to continue to use the app and/or service
+updates to & changes to the app and service
+from time to time we may automatically update and/or change the app and/or service to improve performance, enhance functionality, reflect changes to the operating system or address security issues
+changes shall be automatically installed to the app and your continued use of the app and/or service shall be deemed acceptance of the changes
+if you do not wish to accept any change or update you should notify us using the contact details on our app
+you agree that you will not
+rent, lease, sub-license, loan, provide, or otherwise make available, the service in any form, in whole or in part to any person without prior written consent from us
+copy the app and/or service, except as part of the normal use of the app and/or service or where it is necessary for the purpose of back-up or operational security
+translate, merge, adapt, vary, alter or modify, the whole or any part of the app and/or service nor permit the app and/or service or any part of them to be combined with, or become incorporated in, any other programs, except as necessary to use the app and/or service on devices as permitted in these terms
+disassemble, de-compile, reverse engineer or create derivative works based on the whole or any part of the app and/or service nor attempt to do any such things
+use the app and/or service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with these terms, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, such as viruses, or harmful data, into the app and/or service or any operating system
+transmit or store any material that is defamatory, offensive or otherwise objectionable in relation to your use of the app and/or service
+use the app and/or service in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users
+collect or harvest any information or data from the app and/or service or our systems or attempt to decipher any transmissions to or from the servers running the app and/or service
+all intellectual property rights in the app and/or service throughout the world belong to us (or our licensors) and the rights in the app and/or service are licensed (not sold) to you
+you have no intellectual property rights in, or to, the app and/or service other than the right to use them in accordance with these terms
+our liability to you
+we do not exclude or limit in any way our liability to you where it would be unlawful to do so
+this includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors or for fraud or fraudulent misrepresentation
+to the extent permitted by law, we are not liable to you in any way for any act or omissions whether by us, our employees, subcontractors, agents or other users of the app and/or service
+this limitation applies regardless of whether a liability occurs in contract (by indemnity or otherwise), tort (including negligence), misrepresentation, or breach of statutory duty
+to the fullest extent permitted by law, we do not give any warranties or representations (either express or implied) regarding the access and use of the app and/or service, including, but not limited to
+(a) errors (b) defects (c) accuracy (d) adequacy (e) usefulness (f) reliability (g) operation (h) availability (i) security (j) viruses (k) offensive, threatening, defamatory, or unlawful content
+we are not liable for business losses
+if you use the app and/or service for any commercial, business or resale purpose we will have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity
+our total liability to you in respect of all other losses arising under or in connection with these terms, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall in no circumstances exceed the amount paid to us by you in connection with the app and/or service in the month preceding the date directly giving rise to such liability
+you acknowledge that the app and/or service does not offer any advice on which you should rely
+you acknowledge that the app and/or service is automated, although we make reasonable efforts to ensure the information provided by the app and/or service is up to date and accurate, we make no representations, warranties or guarantees, whether express or implied, that such information is accurate, complete or up to date
+you acknowledge that the app and/or service has not been developed to meet your individual requirements
+please check that the facilities and functions of the app and/or service meet your requirements
+if our provision of the app and/or service or support for the app and/or service is delayed by an event outside our control then we will contact you as soon as possible to let you know and we will take steps to minimise the effect of the delay
+for the avoidance of doubt, we do not have any responsibility or liability to you (other than outlined above) for any loss incurred as a result of any disruption (whether temporary or permanent) to the app and/or service
+your liability to us
+you shall indemnify us against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by us arising out of or in connection with any
+breach and/or enforcement of these terms
+claim arising from your use of the app and/or service
+this indemnity shall apply whether or not you have been negligent or at fault
+when we may end the contract
+we may cease or suspend providing you with access to the app and/or service if we believe you have committed a breach of these terms
+we may end your rights to use the app and/or service at any time by contacting you if you have breached these terms
+if, in our opinion, what you have done can be put right we will give you a reasonable opportunity to do so
+we reserve the right to terminate these terms and your access to the app and/or service at any time
+we may transfer our rights and obligations under these terms to another organisation
+we will always tell you in writing if this happens and we will ensure that the transfer will not affect your rights under the contract
+you may only transfer your rights or your obligations under these terms to another person if we agree in writing
+no rights for third parties
+these terms do not give rise to any rights for third parties under the contracts (rights of third parties) act 1999 to enforce any part of these terms
+each of the paragraphs of these terms operates separately
+if any court or relevant authority decides that any of them are unlawful, the remaining paragraphs will remain in full force and effect
+even if we delay in enforcing this contract, we can still enforce it later
+these terms are governed by the law of england and wales and you can bring legal proceedings in respect of the products in the courts of england and wales
+if you live in scotland you can bring legal proceedings in respect of the products in either the scottish courts or the courts of england and wales
+if you live in northern ireland you can bring legal proceedings in respect of the products in either the northern irish courts or the courts of england and wales
+alternative dispute resolution is a process where an independent body considers the facts of a dispute and seeks to resolve it, without you having to go to court
+if you are not happy with how we have handled any complaint, you can submit a complaint to centre for effective dispute resolution via their website at https
+in addition, please note that disputes may be submitted for online resolution to the european commission online dispute resolution platform at https
+privacy policy © 2019
+chatter voice product terms & conditionsthis app works best with javascript enabled
+please read these terms carefully before you (a user, as defined below) use our service
+these terms tell you who we are, how we will provide the service to you, how you and we may change or end the contract, what to do if there is a problem and other important information
+if you think that there is a mistake in these terms, please contact us using the “contact” details on our site
+by using the service you agree to the terms of this licence which will bind you
+your attention is particularly drawn to clause 12 “our liability to you” & clause 13 “your liability to us”
+we are chatter ltd and our address is [maritime house, discovery quay, falmouth, tr11 3xa
+we are a company registered in england and our company number is 12157800
+the following words have the following meaning when we use them in these terms, on our site and in the provision of our services
+these are the terms on which we licence you to use the app and service
+a reference to “writing” or “written” includes email only
+the app and/or service is powered by chatter ltd whose company registration number is 12157800
+chatter ltd only use any personal data collected through your use of the app and/or service in the ways set out the privacy policy [link to your privacy policy]
+for the avoidance of doubt chatter ltd are not an agent
+we use our best endeavours to secure your data but please be aware that the transmission and/or storage of data may not always be completely private or secure and that any data sent or stored using the app and service (including data on your own device or held by third parties) may be read or intercepted by others, even if that particular transmission or storage method is encrypted or held out as secure
+by using the app and service, you agree to us collecting and using technical information about the devices you use the app and service on and related software to improve our products and to provide the app and service to you
+by using the app and service, you acknowledge that your personal data will be shared with third parties as set out in these terms
+if you want to learn more about the app and service or have any problems using it please contact us using the “contact” details on our app
+if you need to contact us, or you think the app and/or service is faulty or misdescribed, please contact us at support@chattervoice
+if we have to contact you about the app and/or service we will do so by email, using the contact details you have provided to us when you registered
+how you may use the services
+in return for you agreeing to comply with these terms, you may view, use and display the app and/or service on your device(s) for your personal purposes only
+you must be aged 18 or older to accept these terms to use the app and/or service
+you hereby warrant that by registering to use the app and/or service you are 18 or older
+we are giving you personally the right to use the app and/or service as set out above
+you may not transfer your account or the app and/or service itself to someone else, whether for money, for anything else or for free
+registering as a user
+in order to register as a user of the app and/or service, you must provide true and accurate details as requested by us through the app
+you may be required to provide additional information as requested by us from time to time
+all data you provide to us will be handled in accordance with our privacy policy
+acting at our sole discretion, and without providing a reason to you, we reserve the right to refuse to accept or decline your application to become a user of the app and/or service and may revoke permission to access all or part of the app and/or service at any time
+we accept no responsibility for the accuracy of user details as displayed in the app or provided by the service, or for any data or information you provide through your use of the app and/or service
+by registering as a user you acknowledge that you enter into a contract with us to provide the app and/or service in return for your compliance with these terms and any other obligations which may be agreed
+you acknowledge that you take sole responsibility for all activity carried out via your account and that you are responsible for ensuring that you keep your account login details safe
+if you wish to cancel the service, you may do so at any time via our site
+changes to these terms
+we may need to change these terms to reflect changes in law or best practice or to deal with additional features which we introduce
+we will give you notice in writing of any change either by notifying you of the change when you next use the app and/or service or via email, using the contact details you provided to us at registration
+your continued use of the app and/or service shall be deemed acceptance of the changes
+if you do not accept the notified changes you will not be permitted to continue to use the app and/or service
+updates to & changes to the app and service
+from time to time we may automatically update and/or change the app and/or service to improve performance, enhance functionality, reflect changes to the operating system or address security issues
+changes shall be automatically installed to the app and your continued use of the app and/or service shall be deemed acceptance of the changes
+if you do not wish to accept any change or update you should notify us using the contact details on our app
+you agree that you will not
+rent, lease, sub-license, loan, provide, or otherwise make available, the service in any form, in whole or in part to any person without prior written consent from us
+copy the app and/or service, except as part of the normal use of the app and/or service or where it is necessary for the purpose of back-up or operational security
+translate, merge, adapt, vary, alter or modify, the whole or any part of the app and/or service nor permit the app and/or service or any part of them to be combined with, or become incorporated in, any other programs, except as necessary to use the app and/or service on devices as permitted in these terms
+disassemble, de-compile, reverse engineer or create derivative works based on the whole or any part of the app and/or service nor attempt to do any such things
+use the app and/or service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with these terms, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, such as viruses, or harmful data, into the app and/or service or any operating system
+transmit or store any material that is defamatory, offensive or otherwise objectionable in relation to your use of the app and/or service
+use the app and/or service in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users
+collect or harvest any information or data from the app and/or service or our systems or attempt to decipher any transmissions to or from the servers running the app and/or service
+all intellectual property rights in the app and/or service throughout the world belong to us (or our licensors) and the rights in the app and/or service are licensed (not sold) to you
+you have no intellectual property rights in, or to, the app and/or service other than the right to use them in accordance with these terms
+our liability to you
+we do not exclude or limit in any way our liability to you where it would be unlawful to do so
+this includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors or for fraud or fraudulent misrepresentation
+to the extent permitted by law, we are not liable to you in any way for any act or omissions whether by us, our employees, subcontractors, agents or other users of the app and/or service
+this limitation applies regardless of whether a liability occurs in contract (by indemnity or otherwise), tort (including negligence), misrepresentation, or breach of statutory duty
+to the fullest extent permitted by law, we do not give any warranties or representations (either express or implied) regarding the access and use of the app and/or service, including, but not limited to
+(a) errors (b) defects (c) accuracy (d) adequacy (e) usefulness (f) reliability (g) operation (h) availability (i) security (j) viruses (k) offensive, threatening, defamatory, or unlawful content
+we are not liable for business losses
+if you use the app and/or service for any commercial, business or resale purpose we will have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity
+our total liability to you in respect of all other losses arising under or in connection with these terms, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall in no circumstances exceed the amount paid to us by you in connection with the app and/or service in the month preceding the date directly giving rise to such liability
+you acknowledge that the app and/or service does not offer any advice on which you should rely
+you acknowledge that the app and/or service is automated, although we make reasonable efforts to ensure the information provided by the app and/or service is up to date and accurate, we make no representations, warranties or guarantees, whether express or implied, that such information is accurate, complete or up to date
+you acknowledge that the app and/or service has not been developed to meet your individual requirements
+please check that the facilities and functions of the app and/or service meet your requirements
+if our provision of the app and/or service or support for the app and/or service is delayed by an event outside our control then we will contact you as soon as possible to let you know and we will take steps to minimise the effect of the delay
+for the avoidance of doubt, we do not have any responsibility or liability to you (other than outlined above) for any loss incurred as a result of any disruption (whether temporary or permanent) to the app and/or service
+your liability to us
+you shall indemnify us against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by us arising out of or in connection with any
+breach and/or enforcement of these terms
+claim arising from your use of the app and/or service
+this indemnity shall apply whether or not you have been negligent or at fault
+when we may end the contract
+we may cease or suspend providing you with access to the app and/or service if we believe you have committed a breach of these terms
+we may end your rights to use the app and/or service at any time by contacting you if you have breached these terms
+if, in our opinion, what you have done can be put right we will give you a reasonable opportunity to do so
+we reserve the right to terminate these terms and your access to the app and/or service at any time
+we may transfer our rights and obligations under these terms to another organisation
+we will always tell you in writing if this happens and we will ensure that the transfer will not affect your rights under the contract
+you may only transfer your rights or your obligations under these terms to another person if we agree in writing
+no rights for third parties
+these terms do not give rise to any rights for third parties under the contracts (rights of third parties) act 1999 to enforce any part of these terms
+each of the paragraphs of these terms operates separately
+if any court or relevant authority decides that any of them are unlawful, the remaining paragraphs will remain in full force and effect
+even if we delay in enforcing this contract, we can still enforce it later
+these terms are governed by the law of england and wales and you can bring legal proceedings in respect of the products in the courts of england and wales
+if you live in scotland you can bring legal proceedings in respect of the products in either the scottish courts or the courts of england and wales
+if you live in northern ireland you can bring legal proceedings in respect of the products in either the northern irish courts or the courts of england and wales
+alternative dispute resolution is a process where an independent body considers the facts of a dispute and seeks to resolve it, without you having to go to court
+if you are not happy with how we have handled any complaint, you can submit a complaint to centre for effective dispute resolution via their website at https
+in addition, please note that disputes may be submitted for online resolution to the european commission online dispute resolution platform at https
+privacy policy © 2019
+chatter voice product terms & conditions

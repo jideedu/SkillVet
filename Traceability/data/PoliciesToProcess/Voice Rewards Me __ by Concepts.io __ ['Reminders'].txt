@@ -1,0 +1,108 @@
+voice rewards me ("voice rewards me," "we" or "us") is committed to protecting your privacy
+this privacy policy informs you how voice rewards me collects, uses, secures and shares your information
+it applies to information we receive both offline and through the platform we control
+by accessing our services, by transmitting information to us electronically or in hard copy ("services"), you agree to the terms of this privacy policy
+if you do not agree with the terms of this privacy policy, please do not access or use our website or use our services
+voice rewards me may revise this privacy policy from time to time
+all updates to this privacy policy will be posted on this web page
+if we make significant changes, voice rewards me will notify you by posting a notice on the websites
+please check the websites for the most current version of our privacy policy
+your continued use of the websites after we have posted a notice on the website constitutes your acceptance of such changes
+aggregate website data collection and use
+voice rewards me tracks visits to our websites and uses visitor logs to compile anonymous aggregate statistics
+this aggregate information is collected sitewide, and includes anonymous website statistics
+in addition, when you browse our websites, our system automatically collects information such as your web request, internet protocol ("ip") address, browser type, browser language, domain names, referring and exit pages and urls, platform type, pages viewed and the order of these page views, the amount of time spent on particular pages, the date and time of your request and one or more cookies that may uniquely identify your browser
+this information is used to analyze trends, administer the websites, improve the design of our website, and otherwise enhance the services we provide
+certain pages of the website and/or html email correspondence may use session cookies, persistent cookies or web beacons to anonymously track unique visitors, save website preferences and to allow us to recognize visits from the same computer and browser
+some cookies are essential for the operation of our site ("essential cookies")
+these cookies enable services you have specifically asked for
+these cookies remain on your device only until you close your browser after visiting our websites
+some cookies are used to collect anonymous information on the pages visited ("performance cookies")
+for example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages
+these cookies remain on your device only until you close your browser after visiting our website
+some cookies remember choices you make to improve your experience (functionality cookies")
+these functionality cookies remain on your device for an extended period of time
+when you revisit our websites we recognize functionality cookies and remember your preferences or can automatically log you on to the website
+personal information on our system may be associated with functionality cookies but the cookies themselves do not contain any of your personal information
+finally we may use "behaviorally targeting advertising cookies" which collect information about your browsing habits to make advertising relevant to you and your interests
+you have the option to reject the websites' cookies and still use the websites
+however, your access to the website may be limited
+further general information about cookies and how they work is available at www
+we may from time to time allow selected third parties to place cookies through the websites to provide us with better insights into the use of the websites or user demographics or to provide relevant advertising to you
+these third parties may collect information about a consumer's online activities over time and across different websites when he or she uses our websites
+we may also permit third party service providers to place cookies through our websites to perform analytic or marketing functions where you are notified of them and you have consented to the usage
+we do not control the use of such third party cookies or the resulting information and we are not responsible for any actions or policies of such third parties
+we do not use technology that recognizes a "do-not-track" signal from your web browser
+types of personal information collected
+voice rewards me may collect, store and use personally identifiable information that you provide or we receive from others, such as
+registration information when you create an account with us (such as name, email address, postal address, telephone number, demographic information and email preferences)
+in the registration form, you may have an opportunity to elect to receive certain communications from us
+information you submit when contacting us (such as your name, contact information and any other information you choose to submit)
+information you submit to voice rewards me via voice-enabled smart devices
+payment information if you make a payment through our websites (such as payment card, billing and shipping information in addition to your contact information)
+we may use third party services for processing payments or career applications through the websites
+information you provide may be linked to other information that we have about you including data we automatically collect when you visit our websites and information we have received from third parties
+use of personal information
+we may use your personal information for our general commercial purposes such as to improve our websites and to offer you information which voice rewards me believes may be of interest to you
+this may include the following purposes, for example
+to contact you about surveys you qualify for, to improve this site and expand our business, to provide you with information that you have requested, to respond to your inquiries, to provide you with technical support, to enforce our terms of service and other policies governing use of our website and services, to alert you to new features or enhancements to our services, to
+communicate with you about your transactions or potential transactions with us, to administer your account including processing of payments, to ensure that our website and our services function in an effective manner for you, to keep our websites safe and secure, and to measure or understand the effectiveness of advertising and outreach
+voice rewards me will not sell or rent your personally identifiable information to any other company or organization for direct marketing purposes without your consent
+we may reveal information about you to unaffiliated third parties
+if you request or authorize it
+if the information is provided to help complete a transaction for you
+if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our terms of use or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e
+, to a consumer reporting agency for fraud protection etc
+if the disclosure is done as part of a purchase, transfer or sale of services or assets (e
+, in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets)
+if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e
+, analyzing data, providing marketing assistance, providing customer service, processing orders, etc
+or as otherwise described in this privacy policy
+we require our agents, vendors, and service providers to limit their use of information but do not otherwise guarantee that any entity receiving such information in connection with one of these transactions will abide by this privacy policy
+agents, vendors, and service providers who may have access to protected health information are contractually obligated to protect the privacy and security of such information
+we may disclose aggregate statistical information to third parties for any purpose
+use and disclosure of de-identified information
+"de-identified" means that we have removed your personally-identifiable information, such as your name, address, or birthdate
+we may use de-identified information that we have obtained from our services for various purposes, including for example
+in accordance with regulatory requirements, we may de-identify, store and use patients' samples and information for internal quality control, validation, and research and development
+to share with third parties that commission market research studies using our proprietary voice activated survey platform
+we use reasonable technical, administrative, and physical measures to protect information contained in our system against misuse, loss or alteration
+information that you provide to voice rewards me through these websites is encrypted using industry standard secure sockets layer (ssl) technology, with the exception of information you send via email
+your information is processed and stored on controlled servers with restricted access
+unfortunately no method of electronic transmission is 100% secure, so we cannot ensure or warrant the security of any information you transmit to our websites, and you do so at your own risk
+please keep your user name, password, id numbers, or other special access credentials
+if we receive instructions using your log-in information we will consider that you have authorized the instructions
+we will never request your personal login, credit card, bank, or paypal information via any method unless communications is initiated by you
+access to your account is only provided through verification of your identity
+information access, updates, and choice
+you can update, amend or delete your account information and preferences at any time by visiting the my account page after logging in
+voice rewards me email correspondence will include instructions on how to update certain personal information and how to unsubscribe from our emails and postal mail correspondence
+please follow the instructions in the emails to notify voice rewards me of changes to your name, email address and preference information
+voice rewards me will take reasonable steps, such as confirmation emails, to verify your identity before granting access to your personal information
+if you choose to unsubscribe from our email and/or postal mail services, you will no longer receive this type of promotional correspondence
+we will still be able to communicate with you about your account and your transactions with us
+voice rewards me may retain your information for a period of time to resolve disputes, troubleshoot problems, or for other valid business or legal reasons
+you can choose to delete or block cookies by setting your browser to either reject all cookies or to allow cookies only from selected sites
+if you block cookies performance of the site may be impaired and certain features may not function at all
+you agree that you have provided notice to, and obtained consent from, any third party individuals whose personal information you supply to us, including with regard to
+(a) the purposes for which such third party's personal information has been collected
+(b) the intended recipients or categories of recipients of the third party's personal information
+(c) which of the third party's information is obligatory and which information, if any, is voluntary
+and (d) how the third party can access and, if necessary, rectify the information held about them
+our websites are controlled and operated by voice rewards me
+by choosing to visit our websites or otherwise provide information to voice rewards me, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the laws of the state of new jersey
+if you are accessing our websites from any location with regulations or laws governing personal data collection, use or disclosure that differ from united states laws or regulations, please note that through your continued use of our websites, which is governed by the laws of the state of new jersey and the united states of america and this privacy policy, you are transferring personal information to the united states of america and you consent to that transfer and to the collection and processing of such information in the united states
+you also consent to the adjudication of any disputes arising in connection with our websites in the federal and state courts of sussex county in the state of new jersey
+you also agree to a first attempt to mediate any such disputes
+the voice rewards me websites are directed toward adults
+if you are under the age of 18, you must obtain the authorization of a responsible adult (parent, legal custodian, or teacher) before using or accessing our websites
+we will not knowingly collect or use any personal information from any children under the age of 18
+if we become aware that we have collected any personal information from children under 18, we will promptly remove such information from our databases
+the voice rewards me websites may contain links to external websites
+voice rewards me does not maintain these sites and is not responsible for the privacy practices of sites that it does not operate
+please refer to the specific privacy policies posted on these sites
+these websites are owned and operated by concepts
+you can contact us using the contact us page, via twitter at http
+com/truereply, or by telephone at 888-310-0592, extension 704
+© copyright 2018 voicerewards
+me - all rights reserved - a service provided by concepts

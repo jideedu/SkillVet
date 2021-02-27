@@ -1,0 +1,63 @@
+last updated on 08/06/2019 at 3
+privacy policy for alexa skills this privacy policy governs your use of the software skills for amazon alexa and other similar platforms created by cygnus consulting
+user provided information the skills obtain the information you provide when you download and register the skills
+through the amazon alexa skills web site or any other licenced source
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications,
+or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking
+any future enhancements which deliver this capability will be notified at the
+time of delivery or upgrade, and you may consent or opt-out at will
+automatically collected information in addition, the skills may collect certain information automatically as part of normal
+operation within the context of the amazon alexa environment,
+including, but not limited to, your hardware device unique id, a unique user id,
+your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware
+device, though for details of information capture by the underlying platform each relevant
+terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software
+environment and services to help us improve the skills and our service
+we will share your
+information with third parties only in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights,
+protect your safety or the safety of others, investigate fraud, or respond to a government
+with our trusted services providers who work on our behalf, do not have an independent
+use of the information we disclose to them, and have agreed to adhere to the rules set
+forth in this privacy statement
+automatic data collection and advertising we may work with analytics companies to help us understand how the skills are being used,
+such as the frequency and duration of usage
+to protect the anonymity of this information,
+we use an encryption technology to help ensure that these third parties can’t identify you
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on
+your amazon alexa account
+you may use the
+standard uninstall processes as may be available as part of your device or amazon account
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+data retention policy, managing your information we will retain user provided data for as long as you use the skills and for a reasonable
+children we do not use the skills to knowingly solicit data from or market to children under the
+we recommend that if a child is using any of these skills, this is only done
+security we are concerned about safeguarding the confidentiality of your information
+physical, electronic, and procedural safeguards to protect information we process and
+for example, we limit access to this information to authorized employees and
+contractors who need to know that information in order to operate, develop or improve our
+please be aware that, although we endeavor to provide reasonable security for
+information we process and maintain, no security system can prevent all potential
+changes this privacy policy may be updated from time to time for any reason
+we will notify you of
+any changes to our privacy policy by posting the new privacy policy here and informing you
+via email, if such email has been volunteered by you at any time
+you are advised to
+consult this privacy policy regularly for any changes, as continued use is deemed approval
+you can check the history of this policy below
+your consent by using the skills, you are consenting to our processing of your information as set forth
+in this privacy policy now and as amended by us
+information collected by the skills or by the computer network faclities provided by amazon
+in any way, including, but not limited to, collecting, storing, deleting, using, combining
+and disclosing information, all of which activities will take place in the united states
+if you reside outside the united states your information will be
+transferred, processed and stored there under united states privacy standards
+contact us if you have any questions regarding privacy while using the skills, or have questions
+about our practices, please contact us via email at privacy@cygnusconsult

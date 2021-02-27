@@ -1,0 +1,43 @@
+© fx digital ltd
+91 - 95 brick lane, london e1 6ql
+interactive voice based game
+eco challenge is an interactive voice based amazon alexa game
+users are given missions encouraging them to make subtle changes in their daily routines, each mission has a positive impact on the planet
+complete missions to rank up and become an eco warrior
+there are plenty of useful skills for alexa, but there is not enough skill which is sensitive for ecology and environment friendly
+as fx digital, we took this case and decided to join alexa skill for good competition with a skill based on ecology
+at fx, we are always aware of improving environmental practices, for example, recycling according to the best practices and conserving energy with devices and machines at our workplace
+forming habits of being environmentally aware is important to the planet and our living space
+the platform of alexa allows us to design a natural and engaging way to help others to form the habits of being environmentally aware in a seamless way
+by performing and promoting eco-friendly daily habits, we can help to conserve and sustain our environment
+the eco challenge alexa skill uses the voice user interface to communicate with users in a natural and engaging way to encourage users to take extra environmentally conscious steps in daily basis
+voice interface make it quicker and easier to inform the user of concrete actions they can take, incorporate gaming elements and connect with user by digital communication
+it is aimed to form a larger community and encourage more people to take action which is beneficial to the environment
+read our instructions or view the privacy policy
+full list of voice commands
+help “what should i say”, “what should i do”, “how can i get a mission”, “help please”, “please help”, “help”
+stop “see you”, “good bye”, “bye”, “stop”
+ask a mission “what’s my mission”, “now”, “say it”, “tell it”, “say”, “tell”, “give me the mission”, “give my mission”, “may i have a mission”, “can i get a mission”, “say my mission”, “mission”, “mission please”, “daily mission”, “tell my mission”, “tell me my mission”
+yes/complete the mission “it is done”, “it s done”, “i did my mission”, “i completed my mission”, “mission accomplished”, “mission completed”, “i completed”, “yes man”, “i do”, “i have done”, “i ve done”, “i complete my mission”, “i had”, “i have”, “yeah”, “yep”, “yes i did”, “i did”, “yes”
+no/ not completed the mission “i am going to”, “i will”, “i havent”, “i have not”, “i don’t”, “maybe later”, “not yet”, “i did not”, “i didn’t”, “no”
+when enabling the alexa skill, you’re asked to give permission for your email address
+when this is completed, amazon allows us to access your email address that you use for amazon account we don’t collect or store your email data in persistent memory
+instead we access your email address instantly and send your badges
+amazon provides developers anonymised analytics data about the skill usage
+this doesn’t contain any account-specific content and we cannot use this to identify users of the skill
+as mentioned, we only transform your responds into a format that alexa understands
+web-based programming languages help us do this
+we don’t use this to serve you ads
+the data provided to us from amazon comes after you give permission to share your email address
+you can also remove our access by amazon app
+apart from sharing data from your amazon account to send your email, we don’t share your personal, or email data, with anyone – that would be evil, and we certainly don’t use the data to serve you targeted ads
+surge radio is the university of southampton’s student radio and has been operating from southampton since 1976
+we created an amazon alexa skill so users can stream surge’s live content…
+leeds parking spaces is an amazon alexa skill developed by fx using open data to help users find the best places to park in and around leeds city
+an amazon alexa game skill developed with support for the echo buttons
+race friends and family through word memory, trivia, and mind puzzle challenges to be the ultimate champion
+have a voice project you’d like to discuss
+let's see how we can help
+fx digital 91-95 brick lane, london e1 6ql
+name * email * message phone this field is for validation purposes and should be left unchanged
+91 - 95 brick lane, london e1 6ql

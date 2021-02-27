@@ -1,0 +1,488 @@
+mediante el siguiente comunicado, la associacion culturau institut aranés (institut aranés), pone en conocimiento de los consumidores y usuarios del sitio web https
+com y de sus subdominios su política de protección de datos de carácter personal, para los usuarios que libre y voluntariamente desean facilitar al institut aranés los datos persones que se les requiere para la prestación de servicios o, en su caso, la venta de productos y para la respuesta de consultas, registro o llenado de cualquier de nuestros formularios de datos en línea
+el institut aranés se reserva el derecho de modificar esta política de privacidad adaptada a la legislación vigente sobre protección de datos
+en estos casos, el institut aranés anunciará en el sitio web los cambios introducidos con antelación a su aplicación
+la visita de este sitio web no implica que el usuario esté obligado a facilitar ningún dato sobre si mismo
+en el supuesto que el usuario facilite alguna información de carácter personal, los datos recopilados en el sitio web serán tratados de forma leal y lícita respectando los derechos recogidos en la ley orgánica de protección de datos de carácter personal (lopd) , a su normativa de desarrollo (rlopd) y al rgpd de la unión europea
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+delegado de protección de datos / contacto dpd
+¿con qué finalidad tratamos sus datos personales
+en el institut aranés tratamos la información que nos facilitan las personas con el fin de gestionar el envío de la información que se nos solicita y facilitar a los insteresados ofertas de productos y servicios de su interés de acuerdo con los intereses, elaboramos un “perfil comercial”, de acuerdo con la información facilitada
+no se tomarán decisiones automatizadas de acuerdo con dicho perfil
+además de enviar comunicaciones comerciales por cualquier medio (postal o electrónico) sobre los distintos servicios y productos que presta el institut aranés, consentido usted de forma expresa
+¿cuál es la legitimación para el tratamiento de sus datos
+la base legal para el tratamiento de sus datos es la ejecución de la matriculación en alguno de los cursos que figuran en nuestro catálogo
+la oferta prospectiva de cursos y servicios está basada en el consentimiento de quien lo solicita, en el momento de proceder a la recogida de los datos se indicará el carácter voluntario o obligatorio de los datos objeto de la recogida
+la negativa a facilitar los datos cualificadas como obligatorias supondrá la imposibilidad de prestar el servicio solicitado o, en su caso, el producto contratado
+el usuario que facilite sus datos tendrá que comunicar al responsable del tratamiento cualquier cambio en sus datos
+el usuario que facilite datos personales sobre otra persona, tendrá que informar el titular de los datos el que establece la presente política de privacidad
+en consecuencia, los usuarios que faciliten datos de carácter personal en el sitio web consienten de forma inequívoca la incorporación de los mismos en el fichero automatizado gestió escolar de quien es responsable el institut aranés para los fines especificados anteriormente
+los datos del formulario de contacto y las respuestas realizadas a éstas por medio del correo electrónico no serán almacenadas ni tratadas
+sólo se usarán para dar respuesta a su consulta y borradas en finalizar el objetivo para las que fueran recogidas
+¿durante cuánto tiempo se conservan los datos
+la información académica y relacionada con los cursos que contiene datos de carácter personal se mantiene mientras la matrícula a un curso esté activa, destruyéndola en cuando la matrícula sea cancelada o finalizada
+excepción son los certificados definitivos emitidos, que se conservan con fines de confrontación ante terceros a los que se les haya presentado el certificado original, excepto si el usuario indica lo contrario
+la información financiera, de información tributaria y de seguridad se conservará según lo establecido por la legislación vigente
+¿a qué destinatarios se comunicarán sus datos
+conforme a la lopd le informamos que los datos suministrados por usted pasan a formar parte del fichero gestió escolar del institut aranés, siendo el único destinatario de la información suministrada, a excepción del departament d’educació de la generalitat de catalunya en el caso de los cursos reconocidos como formación continuada por el profesorado y el conselh generau d’aran en el caso de matrículas para las pruebas presenciales o confrontación de certificados
+el institut aranés contrata su infraestructura virtual según un modelo de “computación en la nube”
+¿cuáles son sus derechos cuando nos facilita sus datos
+cualquier persona tiene derecho a obtener confirmación sobre si al institut aranés estamos tratando datos personales que nos conciernen, o no
+las personas interesadas tienen derecho a acceder a sus datos personales, así como solicitar la rectificación de los datos inexactos o, si es de aplicación, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos
+en determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en el supuesto únicamente los conservaremos para el ejercicio o la defensa de reclamaciones
+en determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrás oponerse al tratamiento de sus datos
+el institut aranés dejará de tratar los datos, excepto por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones
+¿cómo hemos obtenido sus datos
+los datos personales que tratamos en el institut aranés proceden exclusivamente de la recogida de datos cuando se realiza la matrícula a alguno de nuestros cursos que se ofrecen, y aquellos datos recopilados a través de consultas realizadas a través de nuestra web o la skill de amazon alexa
+les categorías de datos que se tratarán son
+direcciones postales o electrónicas
+no se tratan datos especialmente protegidos
+envío de comunicaciones informativas
+respecto al envío de comunicaciones informativas vía correo electrónico u otros medios de comunicación electrónica equivalente, dado que la dirección de email del usuario es un dato de carácter personal, mediante su recogida en el formulario de datos en línea, el usuario autoriza expresamente al institut aranés su tratamiento para el envío de comunicaciones comerciales o promocionales de sus productos o servicios
+aún así, puede revocar en cualquier momento su consentimiento para la recepción de comunicaciones informativas con la simple notificación mediante el formulario de contacto que encontrará en la web
+gran parte de la inversión en internet se hace desde el sector de la publicidad en línea
+como sabe, una de las formas de publicidad en internet se lleva a cabo a través de las cookies
+son herramientas que tienen un papel esencial para la prestación de numerosos servicios de la sociedad de la información que concentran la mayor inversión en el campo publicitario, facilitando la nevegación del usuario y ofreciendo una publicidad basada en los hábitos de navegación
+¿qué son las cookies y como las utilizamos en el institut aranés
+una cookie es un fichero que se descarga en su ordenados cuando se accede a determinadas páginas web
+las cookies permiten a una página web, entre otras cosas, almacenar y recuperación información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contengan y de la forma en que se utilice en su equipo, se pueden usar para reconocer el usuario
+esta información recuperada tiene que respetar siempre la privacidad de los usuarios, por ello se ha realizado una reforma en el reglamento e la ley de privacidad, creando una nueva regulación comunitaria y nacional, para salvaguardar los intereses de las personas físicas o jurídica que usas un servicio de la socieda de la información
+en el institut aranés usamos las cookies…
+para que las páginas web puedan funcionar correctamente
+para almacenar sus preferencias
+para reconocer su experiencia de navegación
+recopilar información estadística anónima sobre las páginas que ha visto y el tiempo de navegación
+el uso de cookies nos permite optimizar su navegación, adaptando la información y los servicios ofrecidos a sus intereses, para proporcionar una mejor experiencia siempre que visite nuestra página web
+el institut aranés usa cookies para funcionas, adaptar y facilitar al máximo la navegación del usuario
+cookies que usamos en nuestra web
+instalamos esta cookie cuando un usuario acepta el uso de cookies en el institut aranés, la finalidad es no tener que mostrar otra vez el mensaje de aviso sobre cookies
+esta cookie tiene una duración de un año
+permite recordar el idioma que ha elegido el visitante para que no sea necesario volverlo a indicar
+permite recordar la pestaña que ha elegido el visitante para que no sea necesario volverla a pulsar y se muestre por defecto
+una herramiento del proveedor stripe
+su finalidad es facilitar la experiencia con el usuario cuando se realiza una matrícula a un curso o realizar donativos
+la finalidad de esta es conocer desde dónde proviene un usuario, cuánto tiempo permanece en la web y las páginas que visita
+es una cookie de seguimiento
+se puede obtener más información sobre el uso que google hace de las cookies aquí
+¿cómo eliminar las cookies
+cada navegador tiene una forma distinta de eliminar cookies, a continuación se muestras unos links que explican cómo borrar las cookies según el navegador
+eliminar las cookies de internet explorer
+eliminar las cookies de google crome
+eliminar las cookies del firefox
+eliminar las cookies del safari
+eliminar las cookies del opera
+puede obtener más información sobre el uso de las cookies accediendo a los enlaces siguientes
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+mitjançant el present comunicat l’associacion culturau institut aranés (institut aranés), posa en coneixement dels consumidors i usuaris del lloc web https
+com i els seus subdominis la seva política de protecció de dades de caràcter personal, per als usuaris determinen lliurement i voluntàriament si desitgen facilitar a l’institut aranés les dades personals que se’ls requereixi per a la prestació de serveis o en el seu cas la venda de productes i per a la contestació de consultes, registre o emplenament de qualsevol dels nostres formularis de dades en línia
+l’institut aranés es reserva el dret de modificar aquesta política de privacitat adaptada a la legislació vigent sobre protecció de dades
+en aquests casos, l’institut aranés anunciarà en aquest lloc web els canvis introduïts amb antelació a la seva posada en pràctica
+la visita a aquest lloc web no implica que l’usuari estigui obligat a facilitar cap informació sobre el mateix
+en el cas que l’usuari faciliti alguna informació de caràcter personal, les dades recollides en aquest lloc web seran tractats de forma lleial i lícita respectant els drets recollits a la llei orgànica de protecció de dades de caràcter personal (lopd) , a la seva normativa de desenvolupament (rlopd) i al rgpd de la unió europea
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+delegat de protecció de dades
+amb quina finalitat tractem les seves dades personals
+a l’institut aranés tractem la informació que ens faciliten les persones amb el fi de gestionar l’enviament de la informació que ens sol·liciten i facilitar als interessats ofertes de productes i serveis del seu interès d’acord amb els seus interessos, elaborarem un “perfil comercial”, d’acord amb la informació facilitada
+no es prendran decisions automatitzades d’acord amb dit perfil
+a més d’enviar comunicacions comercials per qualsevol mitjà (postal o electrònic) sobre els diversos serveis i productes que presta l’institut aranés, consentint vostè de forma expressa
+quina és la legitimació pel tractament de les seves dades
+la base legal pel tractament de les seves dades és l’execució de la matriculació d’algun dels cursos que figuren al nostre catàleg de cursos
+l’oferta prospectiva de cursos i serveis està basada en el consentiment que se li sol·licita, en el moment de procedir a la recollida de les dades s’indicarà el caràcter voluntari o obligatori de les dades objecte de recollida
+la negativa a facilitar les dades qualificades com a obligatòries suposarà la impossibilitat de prestar-li el servei sol·licitat o en el seu cas el producte contractat
+l’usuari que faciliti les seves dades haurà de comunicar al responsable del tractament qualsevol canvi en les seves dades
+l’usuari que faciliti dades personals sobre altra persona, hi haurà ell mateix, en el seu cas, informar el titular de les dades el que estableix la present política de privacitat
+en conseqüència, els usuaris que faciliten dades de caràcter personal en aquest lloc web consenten de forma inequívoca la incorporació dels mateixos al fitxer automatitzat gestió escolar de què és responsable l’institut aranés per a les finalitats especificades anteriorment
+les dades del formulari de contacte i les respostes realitzades a aquestes per mitjà del correu electrònic no seran emmagatzemades ni tractades
+només s’utilitzaran per donar resposta a la seva consulta i esborrades en finalitzar-ne l’objectiu per les quals foren recollides
+durant quant de temps es conserven les dades
+la informació acadèmica i relacionada amb els cursos que conté dades de caràcter personal es manté mentre la matrícula a un curs estigui activa, destruïnt-la així que la matrícula sigui cancel·lada o finalitzada
+excepció en són els certificats definitius emesos, que es conserven amb finalitats de confrontació vers tercers als que se’ls hagi presentat el certificat original, tret que l’usuari indiqui el contrari
+la informació financera, d’informació tributària i
+de seguretat es conservarà segons estableix la legislació vigent
+a quins destinataris es comunicaran les seves dades
+conforme a la lopd l’informem que les dades subministrades per vostè passen a formar part del fitxer gestió escolar de l’institut aranés, sent l’únic destinatari de la informació subministrada, a excepció del departament d’educació de la generalitat de catalunya en el cas dels cursos reconeguts com a formació continuada del professorat i del conselh generau d’aran en el cas de matrícules per a proves presencials o confrontació de certificats
+l’institut aranés contracta la seva infraestructura virtual segons un model de “computació al núvol”
+quins són els seus drets quan ens facilita les seves dades
+qualsevol persona té dret a obtenir confirmació sobre si a l’institut aranés estem tractant dades personals que ens concerneixin, o no
+les persones interessades tenen dret a accedir a les seves dades personals, així com sol·licitar la rectificació de les dades inexactes o, si escau, sol·licitar la seva supressió quan, entre altres motius, les dades ja no siguin necessaris per als fins que van ser recollides
+en determinades circumstàncies, els interessats podran sol·licitar la limitació del tractament de les seves dades, el cas únicament els conservarem per a l’exercici o la defensa de reclamacions
+en determinades circumstàncies i per motius relacionats amb la seva situació particular, els interessats podran oposar-se al tractament de les seves dades
+l’institut aranés deixarà de tractar les dades, llevat per motius legítims imperiós, o l’exercici o la defensa de possibles reclamacions
+com hem obtingut les seves dades
+les dades personals que tractem a l’institut aranés procedeixen exclusivament de la recollida de dades a l’hora de realitzar la matriculació a alguns dels nostres cursos oferits
+i aquelles dades recopilades a través de consultes realitzades a través dels nostres webs o de l’skill d’amazon alexa
+les categories de dades que es tractaran són
+adreces postals o electròniques
+no es tracten dades especialment protegides
+enviament de comunicacions informatives
+respecte a l’enviament de comunicacions informatives via correu electrònic o altres mitjans de comunicació electrònica equivalent, donat que l’adreça de correu electrònic de l’usuari és una dada de caràcter personal, mitjançant la seva recollida al formulari de dades en línia l’usuari autoritza expressament a l’institut aranés el seu tractament per a l’enviament de comunicacions comercials o promocionals dels seus productes i serveis
+tanmateix, vostè pot revocar en qualsevol moment el seu consentiment per a la recepció de comunicacions informatives amb la simple notificació per mitjà del formulari de contacte que trobarà en el web
+gran part de la inversió a internet es fa des del sector de la publicitat en línia
+com és sabut, una de les formes en que la publicitat a internet es porta a terme és a través de les cookies
+les cookies són eines que tenen un paper essencial per a la prestació de nombrosos serveis de la societat de la informació que concentren la major inversió en el camp publicitari, faciliten la navegació de l’usuari i ofereixen una publicitat basada en els hàbits de navegació
+què són les cookies i com les utilitzem a l’institut aranés
+una cookie és un fitxer que es descarrega al seu ordinador en accedir a determinades pàgines web
+les cookies permeten a una pàgina web, entre altres coses, emmagatzemar i recuperar informació sobre els hàbits de navegació d’un usuari o del seu equip i, depenent de la informació que continguin i de la forma en què utilitzi el seu equip, es poden utilitzar per reconèixer a l’usuario
+aquesta informació recuperada ha de respectar sempre la privadesa dels usuaris, per això s’ha volgut realitzar una reforma en el reglament de la llei de privadesa, creant una nova regulació comunitària i nacional, per salvaguardar els interessos de les persones físiques o jurídiques que utilitzen un servei de la societat de la informació
+a l’institut aranés utilitzem les cookies…
+perquè les pàgines web puguin funcionar correctament
+per emmagatzemar les vostres preferències
+per conèixer la vostra experiència de navegació
+recopilar informació estadística anònima sobre les pàgines que heu vist i el temps de navegació
+l’ús de cookies ens permet optimitzar la vostra navegació, adaptant la informació i els serveis oferts als vostres interessos, per proporcionar-vos una millor experiència sempre que visiteu la nostra pàgina web
+l’institut aranés utilitza cookies per funcionar, adaptar i facilitar al màxim la navegació de l’usuari
+cookies que utilitzem a la nostre web
+instal·lem aquesta cookie quan un usuari accepta l’ús de cookies a l’institut aranés, la finalitat d’aquesta cookie és la de no tornar a mostrar el missatge d’avís sobre l’ús de cookies
+aquesta cookie té una duració d’1 any
+permet recordar l’idioma que ha triat el visitant per tal que no calgui tornar-lo a indicar
+permet recordar la pestanya que ha triat el visitant per tal que no calgui tornar-la a prémer i es mostri per omissió
+aquesta eina es del proveïdor stripe
+la seva finalitat és facilitar l’experiència a l’usuari a l’hora de realitzar la matrícula dels cursos o realitzar donatius
+la finalitat d’aquesta és saber d’on ve un visitant, el temps que roman en el nostre web, les pàgines que visita, etc
+és una cookie de seguiment
+es pot obtenir més informació sobre l’ús que google fa de les cookies aquí
+com eliminar les cookies
+cada navegador té una manera diferent d’eliminar les cookies, a continuació es mostren uns links que expliquen com eliminar les cookies segons el navegador
+eliminar las cookies de internet explorer
+eliminar las cookies de google crome
+eliminar las cookies del firefox
+eliminar las cookies del safari
+eliminar las cookies del opera
+per obtenir més informació sobre l’ús de les cookies es pot accedir als següents enllaços
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+through the following statement, the associacion culturau institut aranés (institut aranés), informs consumers and users of the website https
+com and its subdomains its personal data protection policy, to users who freely and voluntarily wish to provide the institut aranés with the personal data required for the provision of services or, where appropriate, the sale of products and for the response of inquiries, registration or filling in any of our data forms online
+the institut aranés reserves the right to modify this privacy policy adapted to current legislation on data protection
+in these cases, the aranés institut will announce on the website the changes introduced in advance to its application
+visiting this website does not imply that the user is obliged to provide any information about himself
+in the event that the user provides some personal information, the data collected on the website will be treated in a fair and lawful manner respecting the rights contained in the organic law of protection of personal data (lopd), to its regulations of development (rlopd) and the gdpr of the european union
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+data protection delegate / dpd contact
+for what purpose do we treat your personal data
+at the institut aranés we treat the information that people provide us with in order to manage the sending of the information that is requested of us and to provide to the insensitive offers of products and services of their interest according to the interests, we elaborate a “commercial profile “, according to the information provided
+no automated decisions will be made according to that profile
+in addition to sending commercial communications by any means (postal or electronic) about the different services and products provided by the aranés institut, you expressly consent
+what is the legitimacy for the processing of your data
+the legal basis for the processing of your data is the execution of the enrollment in any of the courses listed in our catalog
+the prospective offer of courses and services is based on the consent of the person requesting it, at the time of proceeding to the collection of the data, the voluntary or mandatory nature of the data subject to the collection will be indicated
+the refusal to provide qualified data as mandatory will mean the impossibility of providing the requested service or, where appropriate, the contracted product
+the user who provides their data will have to notify the data controller of any change in their data
+the user who provides personal data about another person, will have to inform the owner of the data that establishes this privacy policy
+consequently, users who provide personal data on the website unequivocally consent to their incorporation into the automated gestió escolar file for which the aranés institut is responsible for the purposes specified above
+the contact form data and the responses made to them through email will not be stored or processed
+they will only be used to respond to your query and deleted in finalizing the objective for which they were collected
+how long is the data kept
+academic and course-related information containing personal data is maintained while enrollment in a course is active, destroying it when the registration is canceled or completed
+exception are the final certificates issued, which are kept for the purpose of confrontation with third parties to whom the original certificate has been submitted, unless the user indicates otherwise
+the financial, tax information and security information will be kept as established by current legislation
+to which recipients will your data be communicated
+according to the lopd, we inform you that the data provided by you becomes part of the gestió escolar file of the aranés institut, being the sole recipient of the information provided, with the exception of the department of education of the generalitat de catalunya in the case of courses recognized as continuing education by teachers and the conselh generau d’aran in the case of enrollments for face-to-face tests or certificate confrontation
+the institut aranés hires its virtual infrastructure according to a “cloud computing” model
+what are your rights when you provide us with your data
+anyone has the right to obtain confirmation about whether the institut aranés is treating personal data that concerns us, or not
+interested persons have the right to access their personal data, as well as request the rectification of inaccurate data or, if applicable, request its deletion when, among other reasons, the data is no longer necessary for the purposes that were collected
+in certain circumstances, the interested parties may request the limitation of the processing of their data, in the event we will only keep them for the exercise or defense of claims
+in certain circumstances and for reasons related to their particular situation, interested parties may object to the processing of their data
+the institut aranés will stop processing the data, except for compelling legitimate reasons, or the exercise or defense of possible claims
+how have we obtained your data
+the personal data that we process at the institut aranés comes exclusively from the collection of data when registration is made to any of our courses offered, and those data collected through queries made in our websites or through amazon alexa’s skill
+the categories of data to be processed are
+postal or electronic addresses
+specially protected data is not treated
+sending of informative communications
+regarding the sending of informative communications via email or other equivalent electronic means of communication, since the user’s email address is a personal data, through its collection in the online data form, the user expressly authorizes the institut aranés your treatment for sending commercial or promotional communications of your products or services
+even so, you can revoke your consent to receive informative communications at any time with the simple notification using the contact form you will find on the web
+much of the investment in the internet is made from the online advertising sector
+as you know, one of the forms of internet advertising is carried out through cookies
+they are tools that have an essential role for the provision of numerous information society services that concentrate the greatest investment in the advertising field, facilitating user denial and offering advertising based on browsing habits
+what are cookies and how do we use them at the institut aranés
+a cookie is a file that is downloaded in your order when you access certain web pages
+cookies allow a web page, among other things, to store and retrieve information about the browsing habits of a user or their equipment and, depending on the information they contain and the way it is used on their equipment, they can be use to recognize the user
+this recovered information must always respect the privacy of the users, so a reform has been carried out in the regulation and the privacy law, creating a new community and national regulation, to safeguard the interests of the natural or legal persons that you use a information society service
+at the institut aranés we use cookies …
+so that web pages can work correctly
+to store your preferences
+to recognize your browsing experience
+collect anonymous statistical information about the pages you have viewed and browsing time
+the use of cookies allows us to optimize your browsing, adapting the information and services offered to your interests, to provide a better experience whenever you visit our website
+the institut aranés uses cookies to function, adapt and facilitate user navigation
+cookies we use on our website
+we install this cookie when a user accepts the use of cookies at the institut aranés, the purpose is not to have to show the cookie warning message again
+this cookie has a duration of one year
+it allows you to remember the language that the visitor has chosen so that it is not necessary to indicate it again
+it allows to remember the tab that the visitor has chosen so that it is not necessary to press it again and it is shown by default
+a tooling of the stripe provider
+its purpose is to facilitate the experience with the user when a course registration or donations are made
+the purpose of this is to know where a user comes from, how long he stays on the web and the pages he visits
+it is a tracking cookie
+you can get more information about how google uses cookies here
+how to delete cookies
+each browser has a different way to delete cookies, below are some links that explain how to delete cookies according to the browser
+remove cookies in internet explorer
+remove cookies in google crome
+remove cookies in firefox
+remove cookies in safari
+remove cookies in opera
+you can obtain more information about the use of cookies by accessing the following links
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+© 2016-19 institut aranés - eth club aranés · campus virtual · alexa en aranès · contacte · privadesa
+aquest web utilitza cookies per millorar la vostra experiència
+assumim que hi esteu d'acord, però podeu rebutjar-ho, si voleu
+accepta privadesa i política de cookies
+this website uses cookies to improve your experience while you navigate through the website
+out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities
+necessary cookies are absolutely essential for the website to function properly
+this category only includes cookies that ensures basic functionalities and security features of the website
+these cookies do not store any personal information
+any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies
+it is mandatory to procure user consent prior to running these cookies on your website
+mediante el siguiente comunicado, la associacion culturau institut aranés (institut aranés), pone en conocimiento de los consumidores y usuarios del sitio web https
+com y de sus subdominios su política de protección de datos de carácter personal, para los usuarios que libre y voluntariamente desean facilitar al institut aranés los datos persones que se les requiere para la prestación de servicios o, en su caso, la venta de productos y para la respuesta de consultas, registro o llenado de cualquier de nuestros formularios de datos en línea
+el institut aranés se reserva el derecho de modificar esta política de privacidad adaptada a la legislación vigente sobre protección de datos
+en estos casos, el institut aranés anunciará en el sitio web los cambios introducidos con antelación a su aplicación
+la visita de este sitio web no implica que el usuario esté obligado a facilitar ningún dato sobre si mismo
+en el supuesto que el usuario facilite alguna información de carácter personal, los datos recopilados en el sitio web serán tratados de forma leal y lícita respectando los derechos recogidos en la ley orgánica de protección de datos de carácter personal (lopd) , a su normativa de desarrollo (rlopd) y al rgpd de la unión europea
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+delegado de protección de datos / contacto dpd
+¿con qué finalidad tratamos sus datos personales
+en el institut aranés tratamos la información que nos facilitan las personas con el fin de gestionar el envío de la información que se nos solicita y facilitar a los insteresados ofertas de productos y servicios de su interés de acuerdo con los intereses, elaboramos un “perfil comercial”, de acuerdo con la información facilitada
+no se tomarán decisiones automatizadas de acuerdo con dicho perfil
+además de enviar comunicaciones comerciales por cualquier medio (postal o electrónico) sobre los distintos servicios y productos que presta el institut aranés, consentido usted de forma expresa
+¿cuál es la legitimación para el tratamiento de sus datos
+la base legal para el tratamiento de sus datos es la ejecución de la matriculación en alguno de los cursos que figuran en nuestro catálogo
+la oferta prospectiva de cursos y servicios está basada en el consentimiento de quien lo solicita, en el momento de proceder a la recogida de los datos se indicará el carácter voluntario o obligatorio de los datos objeto de la recogida
+la negativa a facilitar los datos cualificadas como obligatorias supondrá la imposibilidad de prestar el servicio solicitado o, en su caso, el producto contratado
+el usuario que facilite sus datos tendrá que comunicar al responsable del tratamiento cualquier cambio en sus datos
+el usuario que facilite datos personales sobre otra persona, tendrá que informar el titular de los datos el que establece la presente política de privacidad
+en consecuencia, los usuarios que faciliten datos de carácter personal en el sitio web consienten de forma inequívoca la incorporación de los mismos en el fichero automatizado gestió escolar de quien es responsable el institut aranés para los fines especificados anteriormente
+los datos del formulario de contacto y las respuestas realizadas a éstas por medio del correo electrónico no serán almacenadas ni tratadas
+sólo se usarán para dar respuesta a su consulta y borradas en finalizar el objetivo para las que fueran recogidas
+¿durante cuánto tiempo se conservan los datos
+la información académica y relacionada con los cursos que contiene datos de carácter personal se mantiene mientras la matrícula a un curso esté activa, destruyéndola en cuando la matrícula sea cancelada o finalizada
+excepción son los certificados definitivos emitidos, que se conservan con fines de confrontación ante terceros a los que se les haya presentado el certificado original, excepto si el usuario indica lo contrario
+la información financiera, de información tributaria y de seguridad se conservará según lo establecido por la legislación vigente
+¿a qué destinatarios se comunicarán sus datos
+conforme a la lopd le informamos que los datos suministrados por usted pasan a formar parte del fichero gestió escolar del institut aranés, siendo el único destinatario de la información suministrada, a excepción del departament d’educació de la generalitat de catalunya en el caso de los cursos reconocidos como formación continuada por el profesorado y el conselh generau d’aran en el caso de matrículas para las pruebas presenciales o confrontación de certificados
+el institut aranés contrata su infraestructura virtual según un modelo de “computación en la nube”
+¿cuáles son sus derechos cuando nos facilita sus datos
+cualquier persona tiene derecho a obtener confirmación sobre si al institut aranés estamos tratando datos personales que nos conciernen, o no
+las personas interesadas tienen derecho a acceder a sus datos personales, así como solicitar la rectificación de los datos inexactos o, si es de aplicación, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos
+en determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en el supuesto únicamente los conservaremos para el ejercicio o la defensa de reclamaciones
+en determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrás oponerse al tratamiento de sus datos
+el institut aranés dejará de tratar los datos, excepto por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones
+¿cómo hemos obtenido sus datos
+los datos personales que tratamos en el institut aranés proceden exclusivamente de la recogida de datos cuando se realiza la matrícula a alguno de nuestros cursos que se ofrecen, y aquellos datos recopilados a través de consultas realizadas a través de nuestra web o la skill de amazon alexa
+les categorías de datos que se tratarán son
+direcciones postales o electrónicas
+no se tratan datos especialmente protegidos
+envío de comunicaciones informativas
+respecto al envío de comunicaciones informativas vía correo electrónico u otros medios de comunicación electrónica equivalente, dado que la dirección de email del usuario es un dato de carácter personal, mediante su recogida en el formulario de datos en línea, el usuario autoriza expresamente al institut aranés su tratamiento para el envío de comunicaciones comerciales o promocionales de sus productos o servicios
+aún así, puede revocar en cualquier momento su consentimiento para la recepción de comunicaciones informativas con la simple notificación mediante el formulario de contacto que encontrará en la web
+gran parte de la inversión en internet se hace desde el sector de la publicidad en línea
+como sabe, una de las formas de publicidad en internet se lleva a cabo a través de las cookies
+son herramientas que tienen un papel esencial para la prestación de numerosos servicios de la sociedad de la información que concentran la mayor inversión en el campo publicitario, facilitando la nevegación del usuario y ofreciendo una publicidad basada en los hábitos de navegación
+¿qué son las cookies y como las utilizamos en el institut aranés
+una cookie es un fichero que se descarga en su ordenados cuando se accede a determinadas páginas web
+las cookies permiten a una página web, entre otras cosas, almacenar y recuperación información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contengan y de la forma en que se utilice en su equipo, se pueden usar para reconocer el usuario
+esta información recuperada tiene que respetar siempre la privacidad de los usuarios, por ello se ha realizado una reforma en el reglamento e la ley de privacidad, creando una nueva regulación comunitaria y nacional, para salvaguardar los intereses de las personas físicas o jurídica que usas un servicio de la socieda de la información
+en el institut aranés usamos las cookies…
+para que las páginas web puedan funcionar correctamente
+para almacenar sus preferencias
+para reconocer su experiencia de navegación
+recopilar información estadística anónima sobre las páginas que ha visto y el tiempo de navegación
+el uso de cookies nos permite optimizar su navegación, adaptando la información y los servicios ofrecidos a sus intereses, para proporcionar una mejor experiencia siempre que visite nuestra página web
+el institut aranés usa cookies para funcionas, adaptar y facilitar al máximo la navegación del usuario
+cookies que usamos en nuestra web
+instalamos esta cookie cuando un usuario acepta el uso de cookies en el institut aranés, la finalidad es no tener que mostrar otra vez el mensaje de aviso sobre cookies
+esta cookie tiene una duración de un año
+permite recordar el idioma que ha elegido el visitante para que no sea necesario volverlo a indicar
+permite recordar la pestaña que ha elegido el visitante para que no sea necesario volverla a pulsar y se muestre por defecto
+una herramiento del proveedor stripe
+su finalidad es facilitar la experiencia con el usuario cuando se realiza una matrícula a un curso o realizar donativos
+la finalidad de esta es conocer desde dónde proviene un usuario, cuánto tiempo permanece en la web y las páginas que visita
+es una cookie de seguimiento
+se puede obtener más información sobre el uso que google hace de las cookies aquí
+¿cómo eliminar las cookies
+cada navegador tiene una forma distinta de eliminar cookies, a continuación se muestras unos links que explican cómo borrar las cookies según el navegador
+eliminar las cookies de internet explorer
+eliminar las cookies de google crome
+eliminar las cookies del firefox
+eliminar las cookies del safari
+eliminar las cookies del opera
+puede obtener más información sobre el uso de las cookies accediendo a los enlaces siguientes
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+mitjançant el present comunicat l’associacion culturau institut aranés (institut aranés), posa en coneixement dels consumidors i usuaris del lloc web https
+com i els seus subdominis la seva política de protecció de dades de caràcter personal, per als usuaris determinen lliurement i voluntàriament si desitgen facilitar a l’institut aranés les dades personals que se’ls requereixi per a la prestació de serveis o en el seu cas la venda de productes i per a la contestació de consultes, registre o emplenament de qualsevol dels nostres formularis de dades en línia
+l’institut aranés es reserva el dret de modificar aquesta política de privacitat adaptada a la legislació vigent sobre protecció de dades
+en aquests casos, l’institut aranés anunciarà en aquest lloc web els canvis introduïts amb antelació a la seva posada en pràctica
+la visita a aquest lloc web no implica que l’usuari estigui obligat a facilitar cap informació sobre el mateix
+en el cas que l’usuari faciliti alguna informació de caràcter personal, les dades recollides en aquest lloc web seran tractats de forma lleial i lícita respectant els drets recollits a la llei orgànica de protecció de dades de caràcter personal (lopd) , a la seva normativa de desenvolupament (rlopd) i al rgpd de la unió europea
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+delegat de protecció de dades
+amb quina finalitat tractem les seves dades personals
+a l’institut aranés tractem la informació que ens faciliten les persones amb el fi de gestionar l’enviament de la informació que ens sol·liciten i facilitar als interessats ofertes de productes i serveis del seu interès d’acord amb els seus interessos, elaborarem un “perfil comercial”, d’acord amb la informació facilitada
+no es prendran decisions automatitzades d’acord amb dit perfil
+a més d’enviar comunicacions comercials per qualsevol mitjà (postal o electrònic) sobre els diversos serveis i productes que presta l’institut aranés, consentint vostè de forma expressa
+quina és la legitimació pel tractament de les seves dades
+la base legal pel tractament de les seves dades és l’execució de la matriculació d’algun dels cursos que figuren al nostre catàleg de cursos
+l’oferta prospectiva de cursos i serveis està basada en el consentiment que se li sol·licita, en el moment de procedir a la recollida de les dades s’indicarà el caràcter voluntari o obligatori de les dades objecte de recollida
+la negativa a facilitar les dades qualificades com a obligatòries suposarà la impossibilitat de prestar-li el servei sol·licitat o en el seu cas el producte contractat
+l’usuari que faciliti les seves dades haurà de comunicar al responsable del tractament qualsevol canvi en les seves dades
+l’usuari que faciliti dades personals sobre altra persona, hi haurà ell mateix, en el seu cas, informar el titular de les dades el que estableix la present política de privacitat
+en conseqüència, els usuaris que faciliten dades de caràcter personal en aquest lloc web consenten de forma inequívoca la incorporació dels mateixos al fitxer automatitzat gestió escolar de què és responsable l’institut aranés per a les finalitats especificades anteriorment
+les dades del formulari de contacte i les respostes realitzades a aquestes per mitjà del correu electrònic no seran emmagatzemades ni tractades
+només s’utilitzaran per donar resposta a la seva consulta i esborrades en finalitzar-ne l’objectiu per les quals foren recollides
+durant quant de temps es conserven les dades
+la informació acadèmica i relacionada amb els cursos que conté dades de caràcter personal es manté mentre la matrícula a un curs estigui activa, destruïnt-la així que la matrícula sigui cancel·lada o finalitzada
+excepció en són els certificats definitius emesos, que es conserven amb finalitats de confrontació vers tercers als que se’ls hagi presentat el certificat original, tret que l’usuari indiqui el contrari
+la informació financera, d’informació tributària i
+de seguretat es conservarà segons estableix la legislació vigent
+a quins destinataris es comunicaran les seves dades
+conforme a la lopd l’informem que les dades subministrades per vostè passen a formar part del fitxer gestió escolar de l’institut aranés, sent l’únic destinatari de la informació subministrada, a excepció del departament d’educació de la generalitat de catalunya en el cas dels cursos reconeguts com a formació continuada del professorat i del conselh generau d’aran en el cas de matrícules per a proves presencials o confrontació de certificats
+l’institut aranés contracta la seva infraestructura virtual segons un model de “computació al núvol”
+quins són els seus drets quan ens facilita les seves dades
+qualsevol persona té dret a obtenir confirmació sobre si a l’institut aranés estem tractant dades personals que ens concerneixin, o no
+les persones interessades tenen dret a accedir a les seves dades personals, així com sol·licitar la rectificació de les dades inexactes o, si escau, sol·licitar la seva supressió quan, entre altres motius, les dades ja no siguin necessaris per als fins que van ser recollides
+en determinades circumstàncies, els interessats podran sol·licitar la limitació del tractament de les seves dades, el cas únicament els conservarem per a l’exercici o la defensa de reclamacions
+en determinades circumstàncies i per motius relacionats amb la seva situació particular, els interessats podran oposar-se al tractament de les seves dades
+l’institut aranés deixarà de tractar les dades, llevat per motius legítims imperiós, o l’exercici o la defensa de possibles reclamacions
+com hem obtingut les seves dades
+les dades personals que tractem a l’institut aranés procedeixen exclusivament de la recollida de dades a l’hora de realitzar la matriculació a alguns dels nostres cursos oferits
+i aquelles dades recopilades a través de consultes realitzades a través dels nostres webs o de l’skill d’amazon alexa
+les categories de dades que es tractaran són
+adreces postals o electròniques
+no es tracten dades especialment protegides
+enviament de comunicacions informatives
+respecte a l’enviament de comunicacions informatives via correu electrònic o altres mitjans de comunicació electrònica equivalent, donat que l’adreça de correu electrònic de l’usuari és una dada de caràcter personal, mitjançant la seva recollida al formulari de dades en línia l’usuari autoritza expressament a l’institut aranés el seu tractament per a l’enviament de comunicacions comercials o promocionals dels seus productes i serveis
+tanmateix, vostè pot revocar en qualsevol moment el seu consentiment per a la recepció de comunicacions informatives amb la simple notificació per mitjà del formulari de contacte que trobarà en el web
+gran part de la inversió a internet es fa des del sector de la publicitat en línia
+com és sabut, una de les formes en que la publicitat a internet es porta a terme és a través de les cookies
+les cookies són eines que tenen un paper essencial per a la prestació de nombrosos serveis de la societat de la informació que concentren la major inversió en el camp publicitari, faciliten la navegació de l’usuari i ofereixen una publicitat basada en els hàbits de navegació
+què són les cookies i com les utilitzem a l’institut aranés
+una cookie és un fitxer que es descarrega al seu ordinador en accedir a determinades pàgines web
+les cookies permeten a una pàgina web, entre altres coses, emmagatzemar i recuperar informació sobre els hàbits de navegació d’un usuari o del seu equip i, depenent de la informació que continguin i de la forma en què utilitzi el seu equip, es poden utilitzar per reconèixer a l’usuario
+aquesta informació recuperada ha de respectar sempre la privadesa dels usuaris, per això s’ha volgut realitzar una reforma en el reglament de la llei de privadesa, creant una nova regulació comunitària i nacional, per salvaguardar els interessos de les persones físiques o jurídiques que utilitzen un servei de la societat de la informació
+a l’institut aranés utilitzem les cookies…
+perquè les pàgines web puguin funcionar correctament
+per emmagatzemar les vostres preferències
+per conèixer la vostra experiència de navegació
+recopilar informació estadística anònima sobre les pàgines que heu vist i el temps de navegació
+l’ús de cookies ens permet optimitzar la vostra navegació, adaptant la informació i els serveis oferts als vostres interessos, per proporcionar-vos una millor experiència sempre que visiteu la nostra pàgina web
+l’institut aranés utilitza cookies per funcionar, adaptar i facilitar al màxim la navegació de l’usuari
+cookies que utilitzem a la nostre web
+instal·lem aquesta cookie quan un usuari accepta l’ús de cookies a l’institut aranés, la finalitat d’aquesta cookie és la de no tornar a mostrar el missatge d’avís sobre l’ús de cookies
+aquesta cookie té una duració d’1 any
+permet recordar l’idioma que ha triat el visitant per tal que no calgui tornar-lo a indicar
+permet recordar la pestanya que ha triat el visitant per tal que no calgui tornar-la a prémer i es mostri per omissió
+aquesta eina es del proveïdor stripe
+la seva finalitat és facilitar l’experiència a l’usuari a l’hora de realitzar la matrícula dels cursos o realitzar donatius
+la finalitat d’aquesta és saber d’on ve un visitant, el temps que roman en el nostre web, les pàgines que visita, etc
+és una cookie de seguiment
+es pot obtenir més informació sobre l’ús que google fa de les cookies aquí
+com eliminar les cookies
+cada navegador té una manera diferent d’eliminar les cookies, a continuació es mostren uns links que expliquen com eliminar les cookies segons el navegador
+eliminar las cookies de internet explorer
+eliminar las cookies de google crome
+eliminar las cookies del firefox
+eliminar las cookies del safari
+eliminar las cookies del opera
+per obtenir més informació sobre l’ús de les cookies es pot accedir als següents enllaços
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+through the following statement, the associacion culturau institut aranés (institut aranés), informs consumers and users of the website https
+com and its subdomains its personal data protection policy, to users who freely and voluntarily wish to provide the institut aranés with the personal data required for the provision of services or, where appropriate, the sale of products and for the response of inquiries, registration or filling in any of our data forms online
+the institut aranés reserves the right to modify this privacy policy adapted to current legislation on data protection
+in these cases, the aranés institut will announce on the website the changes introduced in advance to its application
+visiting this website does not imply that the user is obliged to provide any information about himself
+in the event that the user provides some personal information, the data collected on the website will be treated in a fair and lawful manner respecting the rights contained in the organic law of protection of personal data (lopd), to its regulations of development (rlopd) and the gdpr of the european union
+associacion culturau institut aranés
+rovira roure 38 8 2 – 25006 lleida
+data protection delegate / dpd contact
+for what purpose do we treat your personal data
+at the institut aranés we treat the information that people provide us with in order to manage the sending of the information that is requested of us and to provide to the insensitive offers of products and services of their interest according to the interests, we elaborate a “commercial profile “, according to the information provided
+no automated decisions will be made according to that profile
+in addition to sending commercial communications by any means (postal or electronic) about the different services and products provided by the aranés institut, you expressly consent
+what is the legitimacy for the processing of your data
+the legal basis for the processing of your data is the execution of the enrollment in any of the courses listed in our catalog
+the prospective offer of courses and services is based on the consent of the person requesting it, at the time of proceeding to the collection of the data, the voluntary or mandatory nature of the data subject to the collection will be indicated
+the refusal to provide qualified data as mandatory will mean the impossibility of providing the requested service or, where appropriate, the contracted product
+the user who provides their data will have to notify the data controller of any change in their data
+the user who provides personal data about another person, will have to inform the owner of the data that establishes this privacy policy
+consequently, users who provide personal data on the website unequivocally consent to their incorporation into the automated gestió escolar file for which the aranés institut is responsible for the purposes specified above
+the contact form data and the responses made to them through email will not be stored or processed
+they will only be used to respond to your query and deleted in finalizing the objective for which they were collected
+how long is the data kept
+academic and course-related information containing personal data is maintained while enrollment in a course is active, destroying it when the registration is canceled or completed
+exception are the final certificates issued, which are kept for the purpose of confrontation with third parties to whom the original certificate has been submitted, unless the user indicates otherwise
+the financial, tax information and security information will be kept as established by current legislation
+to which recipients will your data be communicated
+according to the lopd, we inform you that the data provided by you becomes part of the gestió escolar file of the aranés institut, being the sole recipient of the information provided, with the exception of the department of education of the generalitat de catalunya in the case of courses recognized as continuing education by teachers and the conselh generau d’aran in the case of enrollments for face-to-face tests or certificate confrontation
+the institut aranés hires its virtual infrastructure according to a “cloud computing” model
+what are your rights when you provide us with your data
+anyone has the right to obtain confirmation about whether the institut aranés is treating personal data that concerns us, or not
+interested persons have the right to access their personal data, as well as request the rectification of inaccurate data or, if applicable, request its deletion when, among other reasons, the data is no longer necessary for the purposes that were collected
+in certain circumstances, the interested parties may request the limitation of the processing of their data, in the event we will only keep them for the exercise or defense of claims
+in certain circumstances and for reasons related to their particular situation, interested parties may object to the processing of their data
+the institut aranés will stop processing the data, except for compelling legitimate reasons, or the exercise or defense of possible claims
+how have we obtained your data
+the personal data that we process at the institut aranés comes exclusively from the collection of data when registration is made to any of our courses offered, and those data collected through queries made in our websites or through amazon alexa’s skill
+the categories of data to be processed are
+postal or electronic addresses
+specially protected data is not treated
+sending of informative communications
+regarding the sending of informative communications via email or other equivalent electronic means of communication, since the user’s email address is a personal data, through its collection in the online data form, the user expressly authorizes the institut aranés your treatment for sending commercial or promotional communications of your products or services
+even so, you can revoke your consent to receive informative communications at any time with the simple notification using the contact form you will find on the web
+much of the investment in the internet is made from the online advertising sector
+as you know, one of the forms of internet advertising is carried out through cookies
+they are tools that have an essential role for the provision of numerous information society services that concentrate the greatest investment in the advertising field, facilitating user denial and offering advertising based on browsing habits
+what are cookies and how do we use them at the institut aranés
+a cookie is a file that is downloaded in your order when you access certain web pages
+cookies allow a web page, among other things, to store and retrieve information about the browsing habits of a user or their equipment and, depending on the information they contain and the way it is used on their equipment, they can be use to recognize the user
+this recovered information must always respect the privacy of the users, so a reform has been carried out in the regulation and the privacy law, creating a new community and national regulation, to safeguard the interests of the natural or legal persons that you use a information society service
+at the institut aranés we use cookies …
+so that web pages can work correctly
+to store your preferences
+to recognize your browsing experience
+collect anonymous statistical information about the pages you have viewed and browsing time
+the use of cookies allows us to optimize your browsing, adapting the information and services offered to your interests, to provide a better experience whenever you visit our website
+the institut aranés uses cookies to function, adapt and facilitate user navigation
+cookies we use on our website
+we install this cookie when a user accepts the use of cookies at the institut aranés, the purpose is not to have to show the cookie warning message again
+this cookie has a duration of one year
+it allows you to remember the language that the visitor has chosen so that it is not necessary to indicate it again
+it allows to remember the tab that the visitor has chosen so that it is not necessary to press it again and it is shown by default
+a tooling of the stripe provider
+its purpose is to facilitate the experience with the user when a course registration or donations are made
+the purpose of this is to know where a user comes from, how long he stays on the web and the pages he visits
+it is a tracking cookie
+you can get more information about how google uses cookies here
+how to delete cookies
+each browser has a different way to delete cookies, below are some links that explain how to delete cookies according to the browser
+remove cookies in internet explorer
+remove cookies in google crome
+remove cookies in firefox
+remove cookies in safari
+remove cookies in opera
+you can obtain more information about the use of cookies by accessing the following links
+guía sobre el uso de las cookies elaborada por la agencia española de protección de datos
+ley de servicios de la sociedad de la información
+© 2016-19 institut aranés - eth club aranés · campus virtual · alexa en aranès · contacte · privadesa
+aquest web utilitza cookies per millorar la vostra experiència
+assumim que hi esteu d'acord, però podeu rebutjar-ho, si voleu
+accepta privadesa i política de cookies
+this website uses cookies to improve your experience while you navigate through the website
+out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities
+necessary cookies are absolutely essential for the website to function properly
+this category only includes cookies that ensures basic functionalities and security features of the website
+these cookies do not store any personal information
+any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies
+it is mandatory to procure user consent prior to running these cookies on your website

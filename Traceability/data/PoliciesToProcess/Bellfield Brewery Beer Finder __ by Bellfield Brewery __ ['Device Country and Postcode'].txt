@@ -1,0 +1,66 @@
+section 1 - what do we do with your information
+when you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address
+when you browse our store, we also automatically receive your computer’s internet protocol (ip) address in order to provide us with information that helps us learn about your browser and operating system
+email marketing (if applicable)
+with your permission, we may send you emails about our store, new products and other updates
+section 2 - consent
+how do you get my consent
+when you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only
+if we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no
+how do i withdraw my consent
+if after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@bellfieldbrewery
+com or mailing us at
+bellfield brewery, 46 stanley place, edinburgh, united kingdom eh7 5tb
+section 3 - disclosure
+we may disclose your personal information if we are required by law to do so or if you violate our terms of service
+section 4 - shopify
+our store is hosted on shopify inc
+they provide us with the online e-commerce platform that allows us to sell our products and services to you
+your data is stored through shopify’s data storage, databases and the general shopify application
+they store your data on a secure server behind a firewall
+if you choose a direct payment gateway to complete your purchase, then shopify stores your credit card data
+it is encrypted through the payment card industry data security standard (pci-dss)
+your purchase transaction data is stored only as long as is necessary to complete your purchase transaction
+after that is complete, your purchase transaction information is deleted
+all direct payment gateways adhere to the standards set by pci-dss as managed by the pci security standards council, which is a joint effort of brands like visa, mastercard, american express and discover
+pci-dss requirements help ensure the secure handling of credit card information by our store and its service providers
+for more insight, you may also want to read shopify’s terms of service (https
+com/legal/terms) or privacy statement (https
+section 5 - third-party services
+in general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us
+however, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions
+for these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers
+in particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us
+so if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located
+as an example, if you are located in canada and your transaction is processed by a payment gateway located in the united states, then your personal information used in completing that transaction may be subject to disclosure under united states legislation, including the patriot act
+once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this privacy policy or our website’s terms of service
+links when you click on links on our store, they may direct you away from our site
+we are not responsible for the privacy practices of other sites and encourage you to read their privacy statements
+our store uses google analytics to help us learn about who visits our site and what pages are being looked at
+section 6 - security
+to protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed
+if you provide us with your credit card information, the information is encrypted using secure socket layer technology (ssl) and stored with a aes-256 encryption
+although no method of transmission over the internet or electronic storage is 100% secure, we follow all pci-dss requirements and implement additional generally accepted industry standards
+section 7 - cookies
+here is a list of cookies that we use
+we’ve listed them here so you that you can choose if you want to opt-out of cookies or not
+_session_id, unique token, sessional, allows shopify to store information about your session (referrer, landing page, etc)
+_shopify_visit, no data held, persistent for 30 minutes from the last visit, used by our website provider’s internal stats tracker to record the number of visits _shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, counts the number of visits to a store by a single customer
+cart, unique token, persistent for 2 weeks, stores information about the contents of your cart
+_secure_session_id, unique token, sessional storefront_digest, unique token, indefinite if the shop has a password, this is used to determine if the current visitor has access
+pref, persistent for a very short period, set by google and tracks who visits the store and from where
+section 8 - age of consent
+by using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site
+section 9 - changes to this privacy policy
+we reserve the right to modify this privacy policy at any time, so please review it frequently
+changes and clarifications will take effect immediately upon their posting on the website
+if we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it
+if our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you
+questions and contact information
+if you would like to
+access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our privacy compliance officer at info@bellfieldbrewery
+com or by mail at bellfield brewery [re
+privacy compliance officer] 46 stanley place, edinburgh, united kingdom
+opens external website in a new window
+opens in a new window
+customer information - bellfield brewery - checkout

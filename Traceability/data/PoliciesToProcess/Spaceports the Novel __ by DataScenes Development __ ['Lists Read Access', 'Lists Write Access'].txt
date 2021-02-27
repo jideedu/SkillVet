@@ -1,0 +1,310 @@
+privacy policy for datascenes development alexa skills, lex skill, facebook messenger apps, etc
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms
+created by datascenes development (skills)
+current skills are listed after the policy details, but new skills will be added from time to time
+the skills obtain the information you provide when you download and register the
+skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+registration with datascenes development is not required at this time, although future enhancements
+may possibly require registration
+in this latter case, please keep in mind that you may not be able
+to use some of the features offered by the skills unless you register with us
+information is not collected by any of these skills at this time
+you share with the online app store during purchase is held by that store and covered by
+its own privacy policy
+we will not normally use any information you provide to us to contact you
+information concerning required notices, upgrade and/or bug-fix
+notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking
+any future enhancements which deliver this capability will be notified at the
+time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation
+within the context of the amazon alexa or facebook messenger environment, including, but
+not limited to, your hardware device unique id, a unique user id, your prior usage of the skills,
+and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of
+information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon's software environment and services to help us
+improve the skills and our service
+we will share your information with third parties only
+in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights,
+protect your safety or the safety of others, investigate fraud,
+or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent
+use of the information we disclose to them, and have agreed to adhere to the rules set
+forth in this privacy statement
+if datascenes development is involved in a merger, acquisition, or sale of all or a
+portion of its assets, you will be notified via email and/or a prominent notice on our
+web site of any change in ownership or uses of this information, as well as any choices
+you may have regarding this information
+automatic data collection and advertising
+we may work with analytics companies to help us understand how the skills are being used,
+such as the frequency and duration of usage
+anonymity of this information, we use an encryption technology to help ensure that these
+third parties can’t identify you personally
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling
+the skills on your amazon alexa account, or the equivalent action in facebook messenger
+you may use the standard uninstall processes as may be available as part of
+your device, amazon account, or facebook account
+specific skills or upgraded versions of skills may have specific opt-out
+com to enquire about this
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a
+we will retain automatically collected information for up to
+24 months and thereafter may store it in aggregate
+if you’d like us to delete user provided
+data that you have provided via the skills, please contact us at apps@datascenesdev
+and we will respond in a reasonable time
+please note that some or all of the user provided data
+may be required in order for the skills to function properly
+we do not use the skills to knowingly solicit data from or market to children under
+the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+if a parent or guardian becomes aware that his or her child has provided us
+with information without their consent, he or she should contact us at apps@datascenesdev
+we will delete such information from our files within a reasonable time
+we are concerned about safeguarding the confidentiality of your information
+physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who
+need to know that information in order to operate, develop or improve our skills
+be aware that, although we endeavor to provide reasonable security for information we process
+and maintain, no security system can prevent all potential security breaches
+this privacy policy may be updated from time to time for any reason
+we will notify you
+of any changes to our privacy policy by posting the new privacy policy here and informing you
+via email, if such email has been volunteered by you at any time
+you are advised to consult
+this privacy policy regularly for any changes, as continued use is deemed approval
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as
+set forth in this privacy policy now and as amended by us
+information collected by the skills or by the computer network faclities provided by amazon in any way, including, but not
+limited to, collecting, storing, deleting, using, combining and disclosing information, all
+of which activities will take place in the united kingdom or ireland
+if you reside outside the
+united kingdom or ireland your information will be transferred, processed and stored there under
+united kingdom or ireland privacy standards
+if you have any questions regarding privacy while using the skills, or have questions
+about our practices, please contact us via email at apps@datascenesdev
+update including mention of lex and facebook messenger
+this skill combines alexa audio with visual images to present a series of short extracts from richard abbott's novels
+the readings have been produced with the help of polly, alexa's big sister,
+capable of multiple voices and accents
+other readings will be added from time to time
+this skill has been optimised
+for use on echo show or spot devices with a screen,
+as well as the regular echo or dot
+half sick of shadows
+a skill for finding out about the fantasy novella half sick of shadows
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the science fiction novel far from the spaceports
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the science fiction novel timing, far from the spaceports vol 2
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+hill country the novel
+a skill for finding out about the historical fiction novel in a milk and honeyed land
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the historical fiction novel scenes from a life
+users will be able to ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+the flame before us
+a skill for finding out about the historical fiction novel the flame before us
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+reports on recent weather conditions from elysium planitia, mars,
+thanks to a public data feed from nasa
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for finding out about lake view country house, a luxury bed and breakfast with private access to
+users can ask about the rooms, future availabilty, and the local area
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill which describes
+grasmere brewery - where we are, and the range of beers we make, together with a selection of
+fun and interesting facts
+we don't sell our beers through alexa, but you can find out how to buy them here
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+gives you a weather forecast for cumbria, england's lake district, including cloud cover and height
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for planning day trips in and around grasmere, cumbria, england’s lake district
+activities include eating and shopping as well as walks of different lengths
+a skill for finding out about upcoming events in cumbria, england’s lake district, by accessing the visitcumbria
+typically the available information covers the next few weeks and is updated at least daily
+a skill for finding out about upcoming events celebrating the life and work of william wordsworth, mostly in or near grasmere and rydal, cumbria, england’s lake district, by accessing the wordsworth
+typically the available information covers the next few months and is updated regularly
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for learning
+some interesting facts about the life and time of william wordsworth
+also, you can listen to short
+sections of some of his poems
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a series of experiential training courses in england's lake district
+analysts and trainers present core teaching sessions, which are then digested and personalised by
+reflective groups, social dreaming, and a group walk in the inspiring countryside near grasmere, cumbria,
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for accessing the titles and first few sentences of blog articles on a number of partner blog sites
+the content is automatically updated as new articles are posted
+true north (in preparation)
+a skill to promote the literary activities of the members of the true north writers and publishers
+users can hear about the cooperative members and their books
+comment on this using twitter
+privacy policy for datascenes development alexa skills, lex skill, facebook messenger apps, etc
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms
+created by datascenes development (skills)
+current skills are listed after the policy details, but new skills will be added from time to time
+the skills obtain the information you provide when you download and register the
+skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+registration with datascenes development is not required at this time, although future enhancements
+may possibly require registration
+in this latter case, please keep in mind that you may not be able
+to use some of the features offered by the skills unless you register with us
+information is not collected by any of these skills at this time
+you share with the online app store during purchase is held by that store and covered by
+its own privacy policy
+we will not normally use any information you provide to us to contact you
+information concerning required notices, upgrade and/or bug-fix
+notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking
+any future enhancements which deliver this capability will be notified at the
+time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation
+within the context of the amazon alexa or facebook messenger environment, including, but
+not limited to, your hardware device unique id, a unique user id, your prior usage of the skills,
+and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of
+information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon's software environment and services to help us
+improve the skills and our service
+we will share your information with third parties only
+in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights,
+protect your safety or the safety of others, investigate fraud,
+or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent
+use of the information we disclose to them, and have agreed to adhere to the rules set
+forth in this privacy statement
+if datascenes development is involved in a merger, acquisition, or sale of all or a
+portion of its assets, you will be notified via email and/or a prominent notice on our
+web site of any change in ownership or uses of this information, as well as any choices
+you may have regarding this information
+automatic data collection and advertising
+we may work with analytics companies to help us understand how the skills are being used,
+such as the frequency and duration of usage
+anonymity of this information, we use an encryption technology to help ensure that these
+third parties can’t identify you personally
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling
+the skills on your amazon alexa account, or the equivalent action in facebook messenger
+you may use the standard uninstall processes as may be available as part of
+your device, amazon account, or facebook account
+specific skills or upgraded versions of skills may have specific opt-out
+com to enquire about this
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a
+we will retain automatically collected information for up to
+24 months and thereafter may store it in aggregate
+if you’d like us to delete user provided
+data that you have provided via the skills, please contact us at apps@datascenesdev
+and we will respond in a reasonable time
+please note that some or all of the user provided data
+may be required in order for the skills to function properly
+we do not use the skills to knowingly solicit data from or market to children under
+the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+if a parent or guardian becomes aware that his or her child has provided us
+with information without their consent, he or she should contact us at apps@datascenesdev
+we will delete such information from our files within a reasonable time
+we are concerned about safeguarding the confidentiality of your information
+physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who
+need to know that information in order to operate, develop or improve our skills
+be aware that, although we endeavor to provide reasonable security for information we process
+and maintain, no security system can prevent all potential security breaches
+this privacy policy may be updated from time to time for any reason
+we will notify you
+of any changes to our privacy policy by posting the new privacy policy here and informing you
+via email, if such email has been volunteered by you at any time
+you are advised to consult
+this privacy policy regularly for any changes, as continued use is deemed approval
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as
+set forth in this privacy policy now and as amended by us
+information collected by the skills or by the computer network faclities provided by amazon in any way, including, but not
+limited to, collecting, storing, deleting, using, combining and disclosing information, all
+of which activities will take place in the united kingdom or ireland
+if you reside outside the
+united kingdom or ireland your information will be transferred, processed and stored there under
+united kingdom or ireland privacy standards
+if you have any questions regarding privacy while using the skills, or have questions
+about our practices, please contact us via email at apps@datascenesdev
+update including mention of lex and facebook messenger
+this skill combines alexa audio with visual images to present a series of short extracts from richard abbott's novels
+the readings have been produced with the help of polly, alexa's big sister,
+capable of multiple voices and accents
+other readings will be added from time to time
+this skill has been optimised
+for use on echo show or spot devices with a screen,
+as well as the regular echo or dot
+half sick of shadows
+a skill for finding out about the fantasy novella half sick of shadows
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the science fiction novel far from the spaceports
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the science fiction novel timing, far from the spaceports vol 2
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+hill country the novel
+a skill for finding out about the historical fiction novel in a milk and honeyed land
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+a skill for finding out about the historical fiction novel scenes from a life
+users will be able to ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+the flame before us
+a skill for finding out about the historical fiction novel the flame before us
+users can ask about the book,
+listen to some short extracts, and add the book to their alexa shopping list
+reports on recent weather conditions from elysium planitia, mars,
+thanks to a public data feed from nasa
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for finding out about lake view country house, a luxury bed and breakfast with private access to
+users can ask about the rooms, future availabilty, and the local area
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill which describes
+grasmere brewery - where we are, and the range of beers we make, together with a selection of
+fun and interesting facts
+we don't sell our beers through alexa, but you can find out how to buy them here
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+gives you a weather forecast for cumbria, england's lake district, including cloud cover and height
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for planning day trips in and around grasmere, cumbria, england’s lake district
+activities include eating and shopping as well as walks of different lengths
+a skill for finding out about upcoming events in cumbria, england’s lake district, by accessing the visitcumbria
+typically the available information covers the next few weeks and is updated at least daily
+a skill for finding out about upcoming events celebrating the life and work of william wordsworth, mostly in or near grasmere and rydal, cumbria, england’s lake district, by accessing the wordsworth
+typically the available information covers the next few months and is updated regularly
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for learning
+some interesting facts about the life and time of william wordsworth
+also, you can listen to short
+sections of some of his poems
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a series of experiential training courses in england's lake district
+analysts and trainers present core teaching sessions, which are then digested and personalised by
+reflective groups, social dreaming, and a group walk in the inspiring countryside near grasmere, cumbria,
+this skill includes support for use on echo show or spot devices with a screen, as well as the regular echo or dot
+a skill for accessing the titles and first few sentences of blog articles on a number of partner blog sites
+the content is automatically updated as new articles are posted
+true north (in preparation)
+a skill to promote the literary activities of the members of the true north writers and publishers
+users can hear about the cooperative members and their books
+comment on this using twitter

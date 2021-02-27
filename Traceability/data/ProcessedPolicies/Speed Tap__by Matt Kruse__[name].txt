@@ -1,0 +1,3 @@
+players of speed tap remain anonymous unless they choose to share their name
+no personal information is requested by or stored by the game unless requested
+users may clear all their user and game data by saying "reset my user data" while in a game session

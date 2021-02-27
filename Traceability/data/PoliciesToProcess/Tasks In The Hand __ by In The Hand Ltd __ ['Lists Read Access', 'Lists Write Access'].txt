@@ -1,0 +1,61 @@
+tasks for alexa privacy policy
+is designed to tell you about how we will collect and use information so that you can make an informed choice about using this alexa skill
+purpose of tasks in the hand is to connect your outlook tasks (and therefore microsoft to-do) with alexa
+please be advised that your use of this skill constitutes your acceptance of
+the provisions of this privacy policy
+if you do not agree to these provisions,
+you should immediately terminate your access to and not use the skill
+hand ltd reserves the right to change the provisions of this privacy policy at
+any time but will alert you that changes have been made by indicating on the
+privacy policy the date it was last updated
+your use of the skill following the
+posting of such changes or revised policy shall constitute your acceptance of
+we encourage you to review our privacy policy whenever you
+visit our web site to make sure that you understand how your information will be
+in the hand ltd, is a company incorporated in the united kingdom and controls
+this skill from its offices in the united kingdom, according to the laws of
+what information do we gather
+the tasks in the hand skill doesn't collect any personally identifiable information
+it stores a few tokens which provide the mapping between outlook and amazon accounts
+when activating the skill you consent to permission for the skill to modify your outlook tasks and amazon lists to enable synchronisation
+you can disable the skill at any time to remove this information and cancel all further synchronisation
+alexa manages the account linking process and tasks in the hand has no access to your amazon or microsoft email or passwords
+how do we use the information we collect
+we may collect the information you voluntarily submit to us and use it only for
+the purposes for which it was submitted
+if you have any questions now or at any time, please contact us via this website or at feedback@inthehand
+new and returning users may sign in
+i agree to the storage of my email address, name, and ip address
+this information and any feedback i provide may be used to inform product decisions and to notify me about product updates
+(you can opt-out at any time
+i agree to the terms of service
+signed in as ( sign out )
+how do i configure the app for my exchange service
+how can i test my exchange server settings
+what servers are supported
+how secure are my credentials
+tasks api for windows phone
+mailbox does not contain a tasks folder
+tasks for alexa terms of use
+tasks for alexa privacy policy
+feedback and knowledge base
+in the hand ltd
+uservoice terms of service & privacy policy
+your password has been reset
+we have made changes to increase our security and have reset your password
+we've just sent you an email to
+click the link to create a password, then come back here and sign in
+we are now required to have consent to store personal data
+since you already have data stored on this site, please select one of the following
+i agree to the storage of my email address, name, and ip address
+this information and any feedback i provide may be used to inform product decisions and to notify me about product updates
+(you can opt-out at any time
+i do not agree to the storage of my personal information, and i wish to delete my feedback profile and all personal data from this site
+please note that if you do not select an option, we will be required to delete your feedback profile and personal information
+i agree to the storage of my email address, name, and ip address
+this information and any feedback i provide may be used to inform product decisions and to notify me about product updates
+(you can opt-out at any time
+i agree to the terms of service
+all of your personal information, including email address, name, and ip address will be deleted from this site
+any feedback you have provided that others have supported will be attributed to "anonymous"
+all of your ideas without support will be deleted

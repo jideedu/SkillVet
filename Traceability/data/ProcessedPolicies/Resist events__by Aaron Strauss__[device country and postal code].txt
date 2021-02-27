@@ -1,0 +1,14 @@
+search this site resist events home about privacy policy resist events home about privacy policy more home about privacy policy privacy policy last update
+april 24, 2017 resist events is an amazon echo skill and stores users request in standard logs provided by amazon
+these logs are used only for skill development and analytics tracking
+no personally-identifiable information is stored (as it is not transmitted to resist events from amazon)
+skill requests sometimes include non-personally-identifiable information such as zip code or city
+none of the skill request information will ever be sold, lent, or transmitted outside of alexa skill logs
+aggregated data may distributed
+users opt-in to transmit their zip code to resist events
+this opt-in feature improves the skill's functionality, but is not mandatory for use of the skill
+if you have any questions please contact us
+google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

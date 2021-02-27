@@ -1,0 +1,5 @@
+this skill collects no personal information about its user
+it requests access to your alexa lists as a way to store a list of the friends and family whose status you'd like to check on
+while the skill will read the names and phone numbers of the people you enter into the "safe and well" list, it does so only to submit that information to the red cross safe and well system
+it does not retain, store, or transmit that information to any other party
+you may add or remove people from your safe and well contact list at any time

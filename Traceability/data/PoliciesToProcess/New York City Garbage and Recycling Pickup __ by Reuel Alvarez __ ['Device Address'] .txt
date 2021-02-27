@@ -1,0 +1,3 @@
+this application accesses, with your permission, the address information you've stored in your alexa companion app
+location information is maintained only as long as each service request and then deleted and never stored
+this information is never shared with third parties

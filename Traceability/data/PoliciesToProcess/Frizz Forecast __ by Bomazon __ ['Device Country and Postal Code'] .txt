@@ -1,0 +1,63 @@
+end to end testing
+we respect your privacy and the privacy of the software you write
+the following policies outline what data we track when using our website and services
+for the bst proxy service, we do not log the content of either the requests or the responses received by the service
+we only log metadata associated with the requests or responses
+this metadata includes non-personally identifying information such as date and time but also potentially personally identifiable information such as the ip address
+this information is collected to analyze how the service is being used and to ensure high quality performance of the service
+we do not capture the content of requests and responses to the alexa voice service or to the google assistance service
+all credentials and data are stored securely in our database
+we do not share this data with any third party, and we use the data and credentials only at your direction via the site
+io and subdomains collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request
+the purpose in collecting non-personally identifying information is to better understand how our visitors use its website
+from time to time, bespoken
+io may release non-personally-identifying information in the aggregate, e
+, by publishing a report on trends in website usage
+io also collects potentially personally-identifying information like internet protocol (ip) addresses
+bespoken does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below
+we use google analytics to monitor and analyze the usage of this website, this includes but is not limited to how you got to this website, how long you stay on a page, and how you navigate the site
+we have enabled the google ads remarketing campaigns to deliver relevant ads in the aim of promoting our software usage
+also demographics and interest reports feature have been enabled which means when available google analytics will provide us with information about a users demographics and interests
+google analytics stores information on how you use the site however that information cannot be used to identify who you are
+you can read more about the types of cookies used by google here and also about the available opt-outs here
+collection of personally identifying information
+we collect certain personal information from you when you sign up for our services that can be used to identify you, such as your name, email address, telephone number, company information, title, and any other information that we deem necessary for the purpose of providing you with our service or which you may provide to us voluntarily
+the information we collect from you, to the extent that it is private, is disclosed only in accordance with this privacy policy
+use of your information
+we may use your information to
+enhance or improve user experience, our website, or our services
+send e-mails about our website or respond to inquiries
+send e-mails and updates about bespoken tools, including our e-mail newsletter
+perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our website or services
+accessing, editing, and removing your information
+users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the website and editing their account
+although most changes may occur immediately, information may still be stored in a web browser’s cache
+we take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such
+in addition, we may, from time to time, retain residual information about you in our backup and/or database
+we use cookies to remember your preferences
+for this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system
+links to other websites
+bespoken tools may post links to third party websites
+these third party websites are not screened for privacy or security issues by bespoken, and you release us from any liability for the conduct of these third party websites
+these links are provided for your convenience and we encourage you to learn about their privacy and security practices before providing them with personal information
+release of your information for legal purposes
+at times it may become necessary or desirable for bespoken tools, for legal purposes, to release your information in response to a request from a government agency or a private litigant
+you agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter
+in the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either
+we may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities
+you release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants
+we may amend this policy from time to time
+when we amend this, we will update this page accordingly
+you will be notified of significant updates to our privacy policy on our blog
+we used the nmpjs privcay policy as a model for this policy and adapted some of its language
+this may be reused under a creative commons attribution-sharealike license
+we are the world’s leader in automated testing & monitoring tools for voice experiences
+we’ve made testing 10x faster and deeper
+have bug free, five-star voice experiences that people will love
+universal terms of service
+lima, peru seattle, usa dc, usa
+sign up for news thank you
+universal terms of service
+use of this site is subject to express terms of use
+by using this site, you signify that you agree to be bound by these universal terms of service
+dc, usa copyright © 1999 – 2020 bespoken, llc

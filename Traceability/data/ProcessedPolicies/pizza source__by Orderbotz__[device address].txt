@@ -1,0 +1,20 @@
+home about news consumers customer service terms of service privacy policy restaurants oem partners contact login register
+home about news consumers customer service terms of service privacy policy restaurants oem partners contact login register
+orderbotz requires certain personal and billing information from you for the sole purpose of billing you our $1
+75 service fee and allowing the restaurant you selected to fulfill your order
+we provide your billing information to our registered payments processor, beanstream (www
+they store this information on their secure server
+we do not store your billing information on our server
+we provide your delivery address to the restaurant you ordered from
+we do not provide these restaurants with your billing information
+we utilize the email address you provided to messages directly related to your order, including the bill for your order
+we may make use of your order data for our own statistical analysis, which we do not share with other parties
+other than the above cases, orderbotz neither utilizes nor makes available to third parties any of the information you provide to us when you register on our site or utilize our services
+orderbotz does not retain your credit card information on our server
+when you provide this to us, we immediately encrypt it and pass it to beanstream, which is our payment processor
+beanstream stores your credit card information on their secure server and processes your payment when you place an order with us
+beanstream utilizes the latest technology to ensure the security, reliability, and availability of our services
+these technologies include multiple layers of protection against all known attack vectors and methods
+beanstream is a pci level 1 (the highest level) certified service provider
+for more information, visit www
+© copyright 2017 - orderbotz

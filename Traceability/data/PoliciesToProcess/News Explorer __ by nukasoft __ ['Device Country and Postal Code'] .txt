@@ -1,0 +1,61 @@
+news explorer internet privacy notice
+news explorer knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly
+this privacy notice is a binding part of news explorer skill terms of use and end user license agreement (â€œagreementâ€) and explains the type of information news explorer collects through its skill and what news explorer does with it
+if you use news explorer skill, you will be bound by the terms of the agreement, including this privacy notice
+this notice may change from time to time, so you should check it frequently
+news explorer skill service collects and temporariry stores partial information about the request you do through the skill
+what personal information about users does news explorer gather
+the information we learn from users helps us personalize and continually improve your news explorer experience and provide information about internet trends, website popularity and traffic, and related content
+here are the types of information we gather
+information you give us
+we receive and temporarily store any information you give us while using the skill
+you can choose not to provide certain information, but then you might not be able to take advantage of some of our features
+we use the information you provide for such purposes as responding to your requests, customizing and improving our services
+automatic information we collect from the news explorer skill
+when you use news explorer, we collect and store certain information
+examples include the searches you perform using news explorer, the results of your searches, the ways in which you use various news explorer features
+although this information may contain some personally identifiable information, news explorer does not use it to determine the identity of individual users or correlate it to your personally identifiable information that you give us, except as may be required by subpoenas, court orders, or other legal requirements
+does news explorer share the information it receives
+we share user data with the alexa platform owner, amazon
+, and the subsidiaries it controls, and we may share personally identifiable information with third parties only as described in alexa privacy policy
+businesses we do not control
+we may make available to you services, products, or applications provided by third parties for use on or through news explorer services
+for example, if you use a third-party search engine offered through our skill service, we will transmit your search terms to that company so that it can provide you with the requested search results, the skill may display the third party's brand, and consequently that third party may receive information about your use of the news explorer
+you can tell when a third party is involved in your transactions, and if you choose to use such service, customer information related to those transactions may be shared with that third party
+as we continue to develop our business, we might sell or buy subsidiaries or business units
+in such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the user consents otherwise)
+also, in the event that news explorer or substantially all of its assets are acquired, user information will of course be one of the transferred assets
+protection of news explorer and others
+we release personally identifiable information when we believe release is appropriate to comply with the law
+enforce or apply our terms of use and other agreements
+or protect the rights, property, or safety of news explorer, our users, or others
+this may include exchanging information with other companies and organizations for fraud protection and credit risk reduction
+obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this privacy notice
+other than as set out above, you will receive notice when personally identifiable information about you might go to third parties, and you will have an opportunity to choose not to share the information
+how secure is information about me
+news explorer uses alexa platform's and amazon's commercially reasonable information security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data
+news explorer segregates certain personally identifiable and other information about your use of news explorer's services into separate databases, some of which can be accessed only by a limited number of employees
+what about third-party advertising and links to other websites
+we may work with advertising partners to display interest-based ads to you
+interest-based ads, also sometimes referred to as personalized or targeted ads, are displayed to you based on your interactions with our sites, content, or services
+for more information on interest-based advertising policy, please visit our interest-based ads page
+what choices do i have
+you may disable news explorer skill by uninstalling it
+are children allowed to use news explorer
+news explorer does not offer products or services for use by children
+if you are under 18, you may use news explorer skill only with the involvement of a parent or guardian
+conditions of use, notices, and revisions
+if you choose to visit news explorer or use the skill, any dispute with news explorer over privacy is subject to this privacy notice and our terms of use, including limitations on damages, resolution of disputes, and application of the law of the state of california
+if you have any concern about privacy at alnews explorerexa, please contact us with a thorough description and we will try to resolve it
+our business changes constantly, and our privacy notice will change also
+we stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers
+examples of information collected
+information you give us
+we may collect your name device id, address, zip code, country
+if you install news explorer skill, we collect any information voluntarily provided by you during the installation process, which can include your account id ar device id
+in addition, you might provide us with personally identifiable information when you communicate with us by phone, e-mail, or otherwise or complete a questionnaire or a contest entry form
+automatic information we collect from news explorer skill
+for every search you do while using news explorer, news explorer transmits partial search terms and the date and time the above information is logged
+news explorer also automatically collects information about the results of your searches
+all of this information may be logged together in a single data string for each search you do, along with strings received from our many other users
+alexa platform also collects all the information specified in its privacy policy and news explorer doesn't have access to this information and don't use it in any way other then allowed by alexa platform

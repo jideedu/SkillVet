@@ -1,0 +1,234 @@
+1 tenda 账号密码由您自行设定。您承诺您且仅有您，对保管您的tenda 账号与密码负有唯一的责任。
+3 除非您事先通知tenda您的tenda 账号遭受侵害，否则您对以您tenda 账号的名义进行的行为负有责任。您必须事先将超出您控制的、违反本协议条款使用服务的行为通过电子邮件(tenda@tenda
+如果您的tenda 账号密码遗忘导致无法正常登录，您可以在tenda的相关软件中重置tenda 账号密码。如果作为tenda 账号的手机号或电子邮箱已不再属于您使用，您将无法重置该tenda 账号密码。
+2 tenda 账号使用权仅属于初始申请创建人。未经tenda许可，您不得赠与、借用、租用、转让或售卖tenda 账号或者以其他方式许可非初始申请创建人使用tenda 账号。
+3 如果您当前使用的tenda 账号并不是您初始申请创建的或者通过tenda提供的其他途径获得的，但您却知悉该tenda 账号当前的密码，您不得用该tenda 账号登录或进行任何操作，并请您在第一时间通知tenda或者该tenda 账号的初始申请创建人。
+1 您理解并同意，作为tenda 账号的初始申请创建人和使用人，您应承担该tenda 账号下所有活动产生的全部责任。
+2 如果tenda发现您并非tenda 账号初始申请创建人，tenda有权在未经通知的情况下终止您使用该tenda 账号。
+3 为了充分利用tenda 账号资源，如果您存在创建tenda 账号后未及时进行初次登录使用，或长期未登录使用tenda 账号等情形，tenda有权终止该tenda 账号的使用。
+1 您申请或使用tenda 账号即视为您已阅读并同意受本协议的约束。tenda有权在必要时修改本协议条款。您可以在tenda相关页面查阅本协议的最新版本。本协议条款变更后，如果您继续使用tenda 账号，即视为您已接受修改后的协议。如果您不接受修改后的协议，应当停止使用tenda 账号。
+the services defined herein are provided by tenda technologies co
+, this document may refer to the service provider as “tenda technologies co
+,” “tenda,” “we,” “us,” or “our
+(1) tenda hardware products (“products”),
+(2) website(s) that may be accessed at [url] (“site”),
+(3) services accessible through the site(s) (“web apps”),
+(4) software that may be downloaded to your smartphone or tablet to access services (“mobile apps”),
+(5) subscription services, including services that can be accessed using the web apps and mobile apps (“subscription services”)
+the term “services” means the sites, web apps, mobile apps, and subscription services, which may be used in conjunction with products and in other ways provided by tenda
+some products and services of tenda can be used together or in ways that integrate with products and services from third parties
+these are the rules and restrictions that govern your use of our products and services
+please read these terms of use (the “terms”) carefully before using the services, because they affect your legal rights and obligations (e
+, requiring arbitration and no class action relief and limiting our liability)
+you acknowledge and agree that, except for physical tenda products that you may have purchased such as routers or switches, the services and the software embedded in the product (and any updates thereto) (“product software”) are licensed, not sold, to you
+you do not acquire any ownership interest in any service or product software under these terms, or any other rights thereto other than to use such service and product software in accordance with the license granted, and subject to all terms, conditions, and restrictions under these terms
+certain features of the services may be subject to additional guidelines, terms, or rules, which will be presented through the services in connection with such features (for example, additional terms of service for kasa care, see [link to service agreement for kasa care)
+you must review and agree to the additional guidelines, terms, or rules before using such services
+these terms are a binding contract between you and tenda
+if you do not agree to and accept all of the terms, you do not have the right to use the products or services
+by using the products or services in any way, you agree to the terms
+the terms shall remain in effect as long as you use the products or services
+the terms also incorporate tenda’s privacy policy
+the services are directed to a general audience for adults
+we will assume (and by using the services you warrant that) you have legal capacity to enter into these terms (i
+, that you are of sufficient age and mental capacity and are otherwise entitled to be legally bound in contract)
+if you are using the services on behalf of an organization or entity, you represent and warrant that you are authorized to agree to these terms on their behalf and bind them to these terms
+you may only use the services for your personal, non-commercial use
+your use must comply with all laws that apply to you
+you may not use these services if applicable laws prohibit such use
+please note that these terms may be revised and reissued, prospectively, by posting updated terms on this website (http
+you consent and agree to receive notices of updates of these terms through our posting of updated terms on this website
+you should visit this page regularly to review the current terms
+tenda may provide notifications to you as required by law or for marketing or other purposes via email (to the email address you provide our services), or by posting of such notice on the site(s)
+tenda is not responsible for any automatic filtering you or your network provider may apply to email notifications
+tenda recommends that you add suppor@tenda
+cn urls to your email address book to help ensure you receive email notifications from tenda
+your continued use of the services will be deemed as irrevocable acceptance of any updates to these terms
+in order to use the services, you may be required to sign up for an account
+to sign up for an account, you represent and warrant that
+(a) all required registration information you submit is truthful and accurate
+and (b) you will maintain the accuracy of such information
+we may require payment of fees for certain features of the services
+you may elect, but are not obligated, to subscribe to such features
+if you elect to subscribe to such features, you shall pay the fees described within such features
+we may change the prices and institute new charges after providing ten days prior notice to you
+this notice may be delivered by email to you or by posting it on the services
+your continued use of the features following such notification constitutes your acceptance of any change to the fees
+changes to the services
+the services may change over time, as we improve them
+at any time, we may temporarily or permanently modify, suspend, discontinue, or restrict access to all or part of the services and/or any related software, facilities, and services, with or without notice and/or to establish general guidelines and limitations on their use
+some such changes to the services may render certain hardware devices, third-party services, configurations, or software setups inoperable
+we may make such changes at our sole discretion and with or without notice
+(a) you acknowledge that all intellectual property rights, including without limitation patents, copyrights, trademarks, trade secrets and all other proprietary rights, in the products, product software, and services (i
+, the sites, web apps, and mobile apps) are owned by tenda or its affiliates, licensors, or suppliers (collectively, the “ip rights”)
+your possession, access, and use of the products, product software, and services do not transfer to you or any third party any rights, title, or interest in or to such ip rights
+tenda and its affiliates and licensors and suppliers reserve all rights not granted in these terms
+moreover, other than with respect to user contents (defined below), tenda retains full and complete title to all content on the services, including any downloadable software and all data that accompanies it
+(b) use of the services
+your right to make use of the services and any content appearing on it is subject to your compliance with these terms
+modification or use of the content on the services for any purpose not permitted by these terms may be a violation of the ip rights protected by law and these terms and is prohibited
+you are prohibited from using the ip rights except as specifically permitted in these terms
+subject to these terms, tenda grants you a limited, non-exclusive and non-transferable license to download, copy, install, and use the authorized parts of the services (including this site) on to your own device (e
+, your computer, smart device, etc
+) for your own personal use
+you may not use the content of the services in any other public or commercial way nor may you copy or incorporate any of the content of the services into any other work, including your own website without the prior written consent of tenda
+you must have a reseller or distribution license from us before you can copy or redistribute any portion of the services
+any authorization to copy content granted by us in any part of the services for any reason is subject to your keeping intact all copyright and other proprietary notices
+you must not copy, modify or in any way reproduce or damage the structure or presentation of the services or any content therein
+also, modifying, translating, adapting, or otherwise creating derivative works and improvements, decompiling, decoding, reverse engineering, disassembling, or otherwise reducing the code used in any software in connection with the services into a readable form in order to examine the source code or construction of such software and/or to copy or create other products based (in whole or in part) on such software, is prohibited
+certain items of independent, third party code may be included in the web apps and/or mobile apps that are subject to the gnu general public license (“gpl”) or other open source licenses (“open source software”)
+the open source software is licensed under the terms of the license that accompanies such open source software
+nothing in these terms limits your rights under, or grants you rights that supersede, the terms and conditions of any applicable end user license for such open source software
+in particular, nothing in these terms restricts your right to copy, modify, and distribute such open source software that is subject to the terms of the gpl
+the materials, information and opinions included and/or expressed in or on user forums, bulletin boards, comment sections, community pages, or other forums on the services (“forums”) are not necessarily those of tenda, its subsidiaries, affiliated companies, parents, shareholders, officers, directors, agents, employees, contractors, representatives, and partners (collectively, “the tenda group”)
+the tenda group does not undertake to monitor or review forums, and the content of forums is not the responsibility of tenda group
+the tenda group may remove or modify any content without notice or liability at any time in the tenda group’s sole discretion
+any use of the forums will be at your own risk and will be subject to the disclaimers and limitations on liability set out below
+submissions, postings and emails
+tenda is interested in hearing from you regarding your questions or comments about our services
+however, the tenda group does not accept or consider unsolicited submissions of any kind (e
+, ideas, treatments, concepts, or any other materials) in any format, by any means of transmission (including email)
+any such submissions are either returned to the sender without being reviewed or deleted or discarded without being reviewed
+therefore, please do not send any unsolicited submissions to any member of the tenda group
+from time to time, areas on the services may expressly request submissions of concepts, stories, or other potential content from you (“invited submissions”)
+where this is the case, please carefully read any specific rules or other terms and conditions which appear elsewhere on the services to govern those submissions (“additional terms”), as they will affect your legal rights
+if no additional terms govern those submissions, then these terms will apply in full to any invited submissions you make
+in any event, any material you send to us will not be treated as confidential
+our use of content
+tenda will consider anything you provide to us and/or contribute to the services as available for our use free of any obligations to you (including any payment), except where invited submissions are expressly governed by additional terms appearing elsewhere on the services, in which event those additional terms will determine how we will treat your invited submissions
+regardless of any industry custom or practice, we will not pay you for the use of any content that you submit to the services
+you are solely responsible for all content, including, without limitation, reviews, responses, profile entries, posts, questions, videos, images, and audios that you upload, post, email, transmit, or otherwise disseminate using, or in connection with, our services
+you represent and warrant that you have all rights necessary to do so
+you acknowledge that your contents may or may not be able to be deleted once uploaded
+for some of our services’ features, other users may be able to request email notifications of your new public content or publish their own comments to your comments
+we may use this public content to develop aggregate ratings, personalize site views, market products, identify or feature popular users, protect you, improve our products and services, and/or develop new products and services
+by posting or uploading any content to the services (including, without limitation, posts, responses, videos, images, and audios) and/or providing any communication or material to tenda (collectively, “user content”), you automatically and irrevocably
+grant and assign to tenda a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to any and all rights in the user content including without limitation copyright, together with all consents (if any) necessary to enable its reproduction, distribution, modification, publishing, and/or other exploitation by tenda and/or by any person authorized by tenda, by any means and in all media now known or hereafter devised, without payment or other reference to you or any other person, and to advertise and promote such exploitation, for the full period of all such rights (together with any extensions and renewals) and insofar as possible in perpetuity
+waive all moral rights in the user content which may be available to you in any part of the world and confirm that no such rights have been asserted
+appoint tenda as your agent with full power to enter into any document and/or do any act tenda may consider appropriate to confirm the grant and assignment, consent and waiver set out above
+warrant that you have the rights to and are the owner of the user content and entitled to enter into these terms
+confirm that no such user content will be subject to any obligation, of confidence or otherwise, to you or any other person, and that tenda shall not be liable for any use or disclosure of such user content
+acknowledge and agree that tenda may access, use, preserve and/or disclose the user content to law enforcement authorities, government officials, and/or third parties, if legally required to do so or if we have a good faith belief that such access, use, preservation, or disclosure is reasonably necessary to
+(a) comply with legal process or request
+(b) enforce these terms, including investigation of any potential violation thereof
+(c) detect, prevent or otherwise address security, fraud or technical issues
+or (d) protect the rights, property or safety of tenda, its users, a third party, or the public as required or permitted by law
+tenda also reserves the right, but shall not be obligated, to remove any user content from our servers at any time in its sole and absolute
+claims of copyright infringement
+if you believe that any content appearing on the services infringes your copyright rights, we want to hear from you
+please forward the following information in writing to the below identified copyright agent at the address listed below
+your name, address, telephone number, and email address
+a description of the copyrighted work that you claim has been infringed
+the exact url or a description of each place where alleged infringing material is located
+a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law
+your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf
+a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner's behalf
+this shall confirm that tenda seeks to preserve any and all exemptions from liability that may be available under the copyright law, but does not necessarily stipulate that it is a service provider as defined in usc section 512(c) or elsewhere
+during your use of the services, you may create connections between our hardware devices, third-party hardware devices, our services, and/or third-party services
+you agree that you will not connect to the services any hardware devices or third-party services in a manner that could be dangerous to any person(s), or which could cause damage to or loss of any property
+your use of the services is subject to the following additional restrictions
+you may not use the services or interact with the services in a manner that
+infringes or violates the intellectual property rights or any other rights of anyone else
+violates any law or regulation
+is harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable
+jeopardizes the security of your account or anyone else's
+attempts, in any manner, to obtain the password, account, or other security information from any other user
+violates the security of any computer network, or cracks any passwords or security encryption codes or otherwise incorporates any disabling code designed to permit improper use, access, deletion or modification of software or hardware programs or systems or improperly to disable, deactivate, damage or shut down such programs or systems
+sends, creates, or replies to so called “mailbombs” (i
+, emailing copies of a single message to many users, or sending large or multiple files or messages to a single user with malicious intent) or engages in “spamming” (i
+, unsolicited emailing for business or other purposes)
+“crawls,” “scrapes,” or “spiders” any page or portion of the services (through use of manual or automated means)
+introduce any viruses, trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful
+copies or stores any significant portion of the content
+decompiles, reverse engineers, or otherwise attempts to obtain the source code of the services
+undertake any other activity which may adversely affect the operation or enjoyment of the services by any other person, including placing malware on the services
+you accept that tenda is not responsible for the risks you take associated with links or connections to third-party applications or services
+you understand that such third-party services may or may not carry their own terms, conditions, privacy policies or other policies that may or may not be related to the services
+we encourage you to be aware of such agreements when you connect third-party services to the services
+we cannot and do not have control over, nor do we assume any responsibility or risk for content, accuracy, practices, opinions, or policies of any third-party applications or services that you may be exposed to when you interact with the services
+your interactions with third-party organizations and/or individuals found on or through the services are solely between you and such organizations and/or individuals
+you agree that we shall not be responsible for any liability for any loss or damage associated with any such interactions
+the services may link you to other sites on the internet
+these sites may contain information or material that some people may find inappropriate or offensive
+these other sites are not under the control of tenda, and you acknowledge that (whether or not such sites are affiliated in any way with tenda) the tenda group is not responsible for the accuracy, copyright compliance, legality, decency, or any other aspect of the content of such sites
+the inclusion of such a link does not imply endorsement of any site by tenda group or any association with its operators
+tenda cannot ensure that you will be satisfied with any products or services that you purchase from any third-party site that links to or from tenda since the third-party sites are owned and operated by independent retailers
+tenda does not endorse any of the merchandise purchased from any third-party site, nor has tenda taken any steps to confirm the accuracy or reliability of any of the information contained on such third-party sites
+tenda does not make any representations or warranties as to the security of any information (including, without limitation, credit card and other personal information) you might be requested to give any third-party, and you irrevocably waive any claim against us with respect to such sites
+we strongly encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third-parties
+you are free to stop using the services at any time
+you understand and agree that we may or may not delete your user content in the event that you stop using the services
+at any time, tenda may (a) suspend or terminate your rights to access or use the services if tenda in good faith believes that you have used the services in violation of these terms, including any incorporated guidelines, terms, or rules
+if you transfer a product to a new owner, your right to use the services with respect to that product automatically terminates
+the new owner will have no right to use the product or services under your account and will need to register for a separate account with tenda unless the new owner already has an account with tenda that can be connected to that product or service
+you understand and agree that we may retain copies of such user content indefinitely
+in the event that we elect to terminate your account, we will try to provide advance notice to you prior to termination so that you are able to retrieve any important user content stored in your account
+you understand and agree that we may provide no advanced notice for any reason, but usually because it would be impractical, illegal, not in the interest of someone's safety or security, or otherwise harmful to the rights or property of tenda
+product specifications, pricing, typographical errors
+we do our best to describe every product or service offered on the services as accurately as possible
+however, we are human, and therefore we do not warrant that product specifications, pricing, or other content on the services is complete, accurate, reliable, current, or error-free
+in the event of any errors relating to the pricing or specifications, tenda shall have the right to refuse or cancel any orders in its sole discretion
+if we charged your credit card or other account prior to cancellation, we will issue a credit to your account in the amount of the charge
+additional terms may apply
+if a product you purchased from tenda is not as described, your sole remedy is to return it in unused condition, complete and undamaged, in the original packaging
+any usernames and passwords used for the services are for individual use only
+you shall be responsible for the security of your username and password (if any)
+tenda shall be entitled to monitor your username and password and, at its discretion, require you to change it
+if you use a username and password that tenda considers insecure, tenda will be entitled to require your username or password to be changed and/or terminate your account
+however, tenda cannot guarantee that unauthorized third parties will never be able to defeat our security measures or use your personal information for improper purposes
+you acknowledge that you provide your personal information at your own risk
+you agree to immediately notify tenda of any unauthorized use, or suspected unauthorized use, of your account or any other breach of security of which you become aware
+tenda is not liable to you for any loss or damage arising from your failure to comply with the above requirements
+tenda may from time to time in its sole discretion develop and provide updates to its services and/or product software, which may include upgrades, bug fixes, patches, other error corrections, security fixes and/or new features (collectively, including related documentation, if any, “updates”)
+updates may also modify or delete in their entirety certain features and functionality
+you agree that we have no obligation to provide any updates or to continue to provide or enable any particular features or functionality
+based on your device settings, when your device is connected to the internet either
+a) the services will automatically download and install all available updates
+or b) you may receive notice of or be prompted to download and install available updates
+you shall promptly download and install all updates and acknowledge and agree that the services or portions thereof may not properly operate should you fail to do so
+you further agree that all updates will be deemed part of the services and be subject to all terms and conditions of these terms
+updates to the product software may be automatically installed without providing any additional notices or receiving any additional consent
+you consent to such automatic updates
+if you do not want such automatic updates, your remedy is to terminate your account and to stop using the product software and applicable products
+if you do not terminate a previously created account, you will receive updates automatically
+limitations of services and product software
+you acknowledge and agree that services and product software are not intended to be 100% reliable or available 24 hours a day, 7 days a week
+the services/product software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances
+you agree that you will not be entitled to any refund or rebate for such suspensions
+tenda does not offer any specific uptime guarantee for the services/product software
+you may not assign, delegate, or transfer these terms or your rights or obligations hereunder, or your services account, in any way (by operation of law or otherwise) without tenda’s prior written consent
+we may transfer, assign, or delegate these terms and our rights and obligations without consent
+additional terms and conditions
+the following additional terms apply to our applications available via the apple, inc
+(“apple”) app store (the “apple application”)
+the apple application is licensed to you on a limited, non-exclusive, non-transferrable, non-sub-licensable basis, solely to be used in connection with the services for your private, personal, non-commercial use, subject to all the terms as they are applicable to the services
+both you and tenda acknowledge that the terms are concluded between you and tenda only, and not with apple, and that apple is not responsible for the apple application or the content
+you will only use the apple application in connection with an apple device that you own or control
+you acknowledge and agree that apple has no obligation whatsoever to furnish any maintenance and support services with respect to the apple application
+in the event of any failure of the apple application to conform to any applicable warranty, including those implied by law, you may notify apple of such failure
+upon notification, apple’s sole warranty obligation to you will be to refund to you the purchase price, if any, of the apple application
+and to the maximum extent permitted by applicable law, apple will have no other warranty obligation whatsoever with respect to the apple application
+you acknowledge and agree that tenda, and not apple, is responsible for addressing any claims you or any third-party may have in relation to the apple application
+you acknowledge and agree that, in the event of any third-party claim that the apple application or your possession and use of the apple application infringes that third-party’s intellectual property rights, tenda, and not apple, will be responsible for the investigation, defense, settlement, and discharge of any such infringement claim
+you represent and warrant that you are not located in a country subject to a u
+government embargo, or that has been designated by the u
+government as a “terrorist supporting” country, and that you are not listed on any u
+government list of prohibited or restricted parties
+both you and tenda acknowledge and agree that, in your use of the apple application, you will comply with any applicable third-party terms of agreement which may affect or be affected by such use
+both you and tenda acknowledge and agree that apple and apple’s subsidiaries are third-party beneficiaries of these terms, and that upon your acceptance of these terms, apple will have the right (and will be deemed to have accepted the right) to enforce these terms against you as the third-party beneficiary hereof
+the following additional terms apply to our applications available via the google inc
+(“google”) google play store (the “android application”)
+notwithstanding anything to the contrary in these terms, if you use the android application you hereby acknowledge and agree that (i) the android application relies in part on functionality provided by google (the “google functionality”), (ii) any information provided by you via the android application may be shared with google in connection with your use of the google functionality, and (iii) all such information shall be handled by google in accordance with the then-current google privacy policy (currently available athttp
+html), as may be amended by google from time to time
+you acknowledge and agree that google has no obligation whatsoever to furnish any maintenance and support services with respect to the android application
+in the event of any failure of the android application to conform to any applicable warranty, including those implied by law, you acknowledge that google has no warranty obligation whatsoever with respect to the android application
+you acknowledge and agree that tenda, and not google, is responsible for addressing any claims you or any third-party may have in relation to the android application and that google will not be liable to you for any claims, losses, liabilities, damages, costs or expenses attributable to any failure of the android application
+you will be responsible for withholding, filing, and reporting all taxes, duties, and other governmental assessments associated with your activity in connection with the services
+the failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder
+you and tenda agree that the terms and the privacy policy incorporated herein are the complete set of understanding between both parties and that they supersede and cancel all previous written and oral agreements, communications, and other understandings relating to the subject matter of these terms
+it being understood that the terms of express warranties accompanying the purchase of tenda products are in addition to such terms
+no agency, partnership, joint venture, or employment is created as a result of these terms and you do not have any authority of any kind to bind tenda in any respect whatsoever
+except as expressly set forth in the sections above regarding the apple application and android application, you and tenda agree there are no third-party beneficiaries intended under these terms
+if any provision of these terms is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that these terms shall otherwise remain in full force and effect and enforceable
+how to contact us
+please forward any comments or complaints about the services to support@tenda

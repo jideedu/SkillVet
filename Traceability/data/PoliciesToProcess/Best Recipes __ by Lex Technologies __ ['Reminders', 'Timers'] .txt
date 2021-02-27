@@ -1,0 +1,148 @@
+home budget master reviews services contact us more home budget master reviews services contact us home budget master reviews services contact us
+privacy policy last updated april 13, 2020 introduction oscorp technologies srl, doing business as lex technologies" lex technologies ", “ we ”, “ us ”, or “ our ”) respects the privacy of our users (“user” or “you”)
+this privacy policy explains how we collect, use, disclose, and safeguard your information when you visit our website lexvoice
+com and use our mobile and voice applications, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “site”)
+please read this privacy policy carefully
+if you do not agree with the terms of this privacy policy, please do not access the site
+we reserve the right to make changes to this privacy policy at any time and for any reason
+we will alert you about any changes by updating the “last updated” date of this privacy policy
+any changes or modifications will be effective immediately upon posting the updated privacy policy on the site, and you waive the right to receive specific notice of each such change or modification
+you are encouraged to periodically review this privacy policy to stay informed of updates
+you will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised privacy policy by your continued use of the site after the date such revised privacy policy is posted
+collection of your information we collect personal data that you share with us when you contact us, subscribe or interact with us in person, through our website, email, phone or otherwise
+you do not have to share personal data with us, but without it, we would be unable to respond to your questions, and offer solutions
+we ask for the following information during our process
+other information you voluntarily provide through the process of using the site or the mobile and vocal applications
+personal data personally identifiable information, such as your name, email address, and telephone number, and demographic information, such as your age, gender, hometown, and interests, that you voluntarily give to us when you register to our mobile or vocal applications or when you choose to participate in various activities related to the site and our mobile and vocal application, such as online chat, message boards, surveys
+you are under no obligation to provide us with personal information of any kind, however your refusal to do so may prevent you from using certain features of the site and our mobile and vocal applications
+derivative data information our servers automatically collect when you access the site, such as your ip address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the site
+if you are using our mobile or vocal applications, this information may also include your device name and type, your operating system, your phone number, your country, your likes and replies to a post, and other interactions with the application and other users via server log files, as well as any other information you choose to provide
+financial data we store only very limited, if any, financial information that we collect
+otherwise, all financial information is stored by our payment processor, amazon payments, and plaid and you are encouraged to review their privacy policy and contact them directly for responses to your questions
+the site and our mobile and vocal application may by default access your facebook basic account information, including your name, email, gender, birthday, current city, and profile picture url, as well as other information that you choose to make public
+we may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission
+for more information regarding facebook permissions, refer to the facebook permissions reference page
+data from social networks user information from social networking sites, such as facebook, instagram, pinterest, twitter, including your name, your social network username, location, gender, birth date, email address, profile picture, and public data for contacts, if you connect your account to such social networks
+mobile or vocal device data device information, such as your mobile device id, model, and manufacturer, and information about the location of your device, if you access the site from a mobile or vocal device
+third-party data information from third parties, such as personal information or network friends, if you connect your account to the third party and
+grant the site permission to access this information
+data from contests, giveaways, and surveys personal and other information you may provide when entering contests or giveaways and/or responding to surveys
+mobile and vocal application information if you connect using our mobile application
+we may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services
+if you wish to change our access or permissions, you may do so in your device’s settings
+we may request access or permission to certain features from your mobile device, including your mobile device’s [bluetooth, calendar, camera, contacts, microphone, reminders, sensors, sms messages, social media accounts, storage,] and other features
+if you wish to change our access or permissions, you may do so in your device’s settings
+we may collect device information (such as your mobile device id, model and manufacturer), operating system, version information and ip address
+we may request to send you push notifications regarding your account or the application
+if you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings
+use of your information
+having accurate information about you permits us to provide you with a smooth, efficient, and customized experience
+specifically, we may use information collected about you via the site or our mobile or vocal application to
+administer sweepstakes, promotions, and contests
+assist law enforcement and respond to subpoena
+compile anonymous statistical data and analysis for use internally or with third parties
+create and manage your account
+deliver targeted advertising, coupons, newsletters, and other information regarding promotions and the site and our mobile or vocal application to you
+email you regarding your account or order
+fulfill and manage purchases, orders, payments, and other transactions related to our mobile and vocal applications
+generate a personal profile about you to make future visits to the site and our mobile and vocal application more personalized
+increase the efficiency and operation of the site and our mobile or vocal applications
+monitor and analyze usage and trends to improve your experience with the site and our mobile or vocal applications
+notify you of updates to the site and our mobile or vocal applications
+offer new products, services, mobile and vocal applications, and/or recommendations to you
+perform other business activities as needed
+prevent fraudulent transactions, monitor against theft, and protect against criminal activity
+process payments and refunds
+request feedback and contact you about your use of the site and our mobile and vocal applications
+resolve disputes and troubleshoot problems
+respond to product and customer service requests
+send you a newsletter
+solicit support for the site and our mobile and vocal applications
+communicate with you throughout the process
+run recruitment and promotion processes (including an applicant tracking system)
+create quotes for your projects
+inform you of any changes to oscorp technologies’ policies or other matters important to you as a user of our site and amazon alexa skills
+disclosure of your information we may share information we have collected about you in certain situations
+your information may be disclosed as follows
+by law or to protect rights if we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation
+this includes exchanging information with other entities for fraud protection and credit risk reduction
+third-party service providers we may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance
+marketing communications with your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law
+interactions with other users if you interact with other users of the site and our mobile or vocal application, those users may see your name, profile photo, and descriptions of your activity, including sending invitations to other users, chatting with other users, liking posts, following blogs
+online postings when you post comments, contributions or other content to the site or our mobile or voice applications, your posts may be viewed by all users and may be publicly distributed outside the site and our mobile or voice application in perpetuity
+third-party advertisers we may use third-party advertising companies to serve ads when you visit the site or our mobile or vocal applications
+these companies may use information about your visits to the site or our mobile or vocal applications and other websites that are contained in web cookies in order to provide advertisements about goods and services of interest to you
+affiliates we may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy
+affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us
+business partners we may share your information with our business partners to offer you certain products, services or promotions
+other third parties we may share your information with advertisers and investors for the purpose of conducting general business analysis
+we may also share your information with such third parties for marketing purposes, as permitted by law
+if we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity
+if we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party
+you acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this privacy policy
+we are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations
+if you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly
+cookies and web beacons we may use cookies, web beacons, tracking pixels, and other tracking technologies on the site and our mobile application to help customize the site and our mobile application and improve your experience
+when you access the site or our mobile application, your personal information is not collected through the use of tracking technology
+most browsers are set to accept cookies by default
+you can remove or reject cookies, but be aware that such action could affect the availability and functionality of the site or our mobile application
+you may not decline web beacons
+however, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis
+for more information on how we use cookies, please refer to our cookie policy posted on the site, which is incorporated into this privacy policy
+by using the site, you agree to be bound by our cookie policy
+internet-based advertising additionally, we may use third-party software to serve ads on the site and our mobile application, implement email marketing campaigns, and manage other interactive marketing initiatives
+this third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us
+for more information about opting-out of interest-based ads, visit the network advertising initiative opt-out tool or digital advertising alliance opt-out tool
+website analytics we may also partner with selected third-party vendors, such as google analytics , heap analytics , inspectlet,
+piwik, and others, to allow tracking technologies and remarketing services on the site through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the site, determine the popularity of certain content and better understand online activity
+by accessing the site, you consent to the collection and use of your information by these third-party vendors
+you are encouraged to review their privacy policy and contact them directly for responses to your questions
+we do not transfer personal information to these third-party vendors
+however, if you do not want any information to be collected and used by tracking technologies, you can visit the third-party vendor or the network advertising initiative opt-out tool or digital advertising alliance opt-out tool
+you should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings
+third-party websites the site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us
+once you have used these links to leave the site, any information you provide to these third parties is not covered by this privacy policy, and we cannot guarantee the safety and privacy of your information
+before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information
+we are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the site
+security of your information we use administrative, technical, and physical security measures to help protect your personal information
+while we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse
+any information disclosed online is vulnerable to interception and misuse by unauthorized parties
+therefore, we cannot guarantee complete security if you provide personal information
+policy for children we do not knowingly solicit information from or market to children under the age of 13
+if you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below
+controls for do-not-track features most web browsers and some mobile operating systems include a do-not-track (“dnt”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected
+no uniform technology standard for recognizing and implementing dnt signals has been finalized
+as such, we do not currently respond to dnt browser signals or any other mechanism that automatically communicates your choice not to be tracked online
+if a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy
+/most web browsers and some mobile operating systems include a do-not-track (“dnt”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected
+if you set the dnt signal on your browser, we will respond to such dnt browser signals
+options regarding your information
+emails and communications if you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by
+unsubscribing from the email you received
+contacting us using the contact information provided below
+if you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly
+california privacy rights california civil code section 1798
+83, also known as the “shine the light” law, permits our users who are california residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year
+if you are a california resident and would like to make such a request, please submit your request in writing to us using the contact information provided below
+if you are under 18 years of age, reside in california, and have a registered account with the site or our mobile or vocal application, you have the right to request removal of unwanted data that you publicly post on the site or our mobile and vocal applications
+to request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in california
+we will make sure the data is not publicly displayed on the site or our mobile or vocal applications, but please be aware that the data may not be completely or comprehensively removed from our systems
+how long your data is kept we only keep your personal data for as long as we are legally required and your in skill details will be removed after 12 months of inactivity on your profile
+we hang onto your data for two main reasons
+in case we face a legal challenge
+you choose to become a client again and continue the projects we started
+if you want your details taken out of the our database, you can chat with us
+your rights it’s important that you know your legal rights on how we use your personal data
+you are legally entitled to
+ask for a copy of the personal data we hold about you
+ask us to correct or update inaccurate data that we hold about you
+ask us to delete your data – where legal reasons would be the only thing preventing us from doing that right away
+stop us using your data for research and statistical purposes
+withdraw any consent you’ve previously given us about your personal data
+contact us if you have questions or comments about this privacy policy, please contact us at
+oscorp technologies srl str bethlen gabor nr 3 ap
+com we will review and update this privacy policy from time to time and will note the date it was last updated
+copyright © 2020 lex technologies - all rights reserved
+privacy policy terms of use cookie policy this website uses cookies
+by continuing to use this site, you accept our use of cookies
+privacy policy accept & close

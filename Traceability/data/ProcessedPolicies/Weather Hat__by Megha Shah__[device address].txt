@@ -1,0 +1,14 @@
+weather hat / weather cat
+weather hat / weather cat uses the user’s location (if enabled) to retrieve the weather data
+it does not store user’s location
+user’s locations are not mapped to any user’s id or email
+weather hat / weather cat uses location data only to retrieve weather information for the user’s location
+if location permissions are not granted, user may name a city to retrieve weather data
+twitter facebook like this
+weather hat/weather cat , blog at wordpress
+weather hat / weather cat
+create your website at wordpress
+this site uses cookies
+by continuing to use this website, you agree to their use
+to find out more, including how to control cookies, see here
+%d bloggers like this

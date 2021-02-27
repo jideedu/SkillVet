@@ -1,0 +1,38 @@
+metalsmith helper alexa skill
+this privacy policy describes how metalsmith helper (susan
+birtha) (“metalsmith helper”, “us” or “we”) protects your (“you”, “the user”)
+privacy and your data
+before using any of
+our alexa skills (“our skills”),
+please read this policy and our alexa skills terms of use , as well as the alexa terms of use and the privacy policies by the
+amazon digital services llc (with its affiliates, “amazon”)
+regarding amazon, “alexa” means their alexa voice service
+which includes third party services (like our skills) and other related
+if you use one of our skills you fully agree to this privacy
+when you use our skills you have to talk to alexa
+voice input is sent to amazon and us where we use it to understand what our
+skill should do for you
+necessary for our service to give
+you an appropriate answer
+we do collect some of your data with the skill but will not
+share any of your personal data
+to improve our services, we analyze how often utterances are
+spoken and other analytics
+this is done automatically by amazon in the amazon
+for this skill it is necessary to save data about you in our
+this data is connected to your alexa- userid (to make you unique to the skill)
+it does not save
+your other amazon account
+we save a name that you tell metalsmith helper to call,
+along with a count of the different types of things asked for
+track which random metal information we
+have already given you so we don't
+tell you again, unless you've already heard all of the information we have
+then we can reset it
+our skills or parts of it may change or be updated at any time
+this privacy policy might change
+you can find a link to this policy on the
+the skill in the alexa app or in the alexa store
+your continued use of our
+skill after changes of the privacy policy or the skill itself will be seen as
+your acceptance of both

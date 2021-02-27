@@ -1,0 +1,21 @@
+this privacy policy discloses the privacy practices for
+â€¢ location enabled alexa skills by conner fullerton
+this privacy policy applies solely to information collected by this software
+it will notify you of the following
+what personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+the security procedures in place to protect the misuse of your information
+information collection, use, and sharing
+we are the sole owners of the information collected by this skill
+we only have access to/collect information that you voluntarily give us via the use of this skill or other direct contact from you
+we will not sell or rent this information to anyone
+we will use your information to respond to you, regarding the reason you contacted us
+we will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e
+to ship an order
+your access to and control over information
+you have the choice of whether to share this information when you enable the skill
+if you do not share location information the skill will use the weather from a default location
+we do not actively store device ids or location information
+location information (zip code) is used exclusively for the purpose of determining local weather
+our privacy policy may change from time to time and all updates will be posted on this page
+if you feel that we are not abiding by this privacy policy, you should contact us immediately via email at conner@connerfullerton

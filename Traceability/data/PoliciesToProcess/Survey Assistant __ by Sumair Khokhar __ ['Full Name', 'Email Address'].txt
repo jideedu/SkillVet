@@ -1,0 +1,29 @@
+survey assistant privacy policy
+this privacy policy describes how survey assistant (“survey assistant”, “us” or “we”) protects your (“you”, “the user”) privacy and your data
+before using our alexa skill (“our skill”), please read this policy and our terms and conditions (link to terms of use), as well as the alexa terms of use ( https
+nodeid=201809740 ) and the privacy policies ( https
+nodeid=468496 ) by the amazon digital services llc (with its affiliates, “amazon”)
+regarding amazon, “alexa” means their alexa voice service which includes third party services (like our skill) and other related software
+if you use our skill, you fully agree to this privacy policy
+when you use survey assistant, you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand which company you want to give feedback to
+this is absolutely necessary for our service to give you an appropriate answer
+we must process certain information about you, in order to give you the full experience of using our skill
+we collect information about how you use our skill such as the feedback you give and the companies you wish to give feedback to
+your name would be recorded in our customer data for when the company would want to contact you back regarding your feedback
+the feedback you will give would be transcribed and sent to the specific companies
+after you’ve submitted your feedback, we will send you a confirmation email regarding the feedback and the company name, and also if you want to remove your feedback
+your contact number would be recorded in our customer data for when the company would want to contact you back regarding your feedback
+we’ll collect your location information to see where the feedback is coming from
+information we share with third-parties
+certain information would be sent to companies who you want to give feedback to
+such information includes your name, contact number, email address, location and feedback
+notification of changes to this policy
+our skill or parts of it may change or be updated at any time
+further, this privacy policy might change
+you can find a link to this policy on the description page of the skill in the alexa app or in the alexa store
+your continued use of our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of both
+contact survey assistant with questions
+if you have questions about this policy, you can contact us as described below
+we may resolve disputes you have with us in connection with our privacy policies
+you can contact us through our skill or by mail at

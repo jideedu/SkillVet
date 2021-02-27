@@ -1,0 +1,51 @@
+javascript isn't enabled in your browser, so this file can't be opened
+some word features can't be displayed in google docs and will be lost if you make changes view details give food voice app privacy policy
+share sign in file edit view tools help accessibility debug see new changes
+give food - voice app - privacy policy/
+● what information do we collect
+we ask for your location details for the sole purpose of being able to show you
+the food banks that are nearest to you
+we do not store this information outside
+the voice app itself, and do not share it with anyone else
+the voice apps themselves (alexa and google assistant) will log anonymous
+usage data which we use for troubleshooting and problem fixing only
+will not share this data with anyone
+● how do you use the information
+if you provide us with the location of your device, we will use this only in order to
+find the nearest food banks to you, using the ​ give food api​
+we do not store this
+location information anywhere outside the voice app itself
+● what information do you share
+other than using your location information in requests to the give food api (see
+bullet point above), we do not share any data
+the give food api receives the
+location information only, without any additional data, so neither give food nor
+the developers of the give food voice app will ever be able to link the location
+data to any of your other personal data (in other words, we do not know who you
+are, we only know the location of your voice device, if you decide to share this
+toggle screen reader supportjavascript isn't enabled in your browser, so this file can't be opened
+some word features can't be displayed in google docs and will be lost if you make changes view details give food voice app privacy policy
+share sign in file edit view tools help accessibility debug see new changes
+give food - voice app - privacy policy/
+● what information do we collect
+we ask for your location details for the sole purpose of being able to show you
+the food banks that are nearest to you
+we do not store this information outside
+the voice app itself, and do not share it with anyone else
+the voice apps themselves (alexa and google assistant) will log anonymous
+usage data which we use for troubleshooting and problem fixing only
+will not share this data with anyone
+● how do you use the information
+if you provide us with the location of your device, we will use this only in order to
+find the nearest food banks to you, using the ​ give food api​
+we do not store this
+location information anywhere outside the voice app itself
+● what information do you share
+other than using your location information in requests to the give food api (see
+bullet point above), we do not share any data
+the give food api receives the
+location information only, without any additional data, so neither give food nor
+the developers of the give food voice app will ever be able to link the location
+data to any of your other personal data (in other words, we do not know who you
+are, we only know the location of your voice device, if you decide to share this
+toggle screen reader support

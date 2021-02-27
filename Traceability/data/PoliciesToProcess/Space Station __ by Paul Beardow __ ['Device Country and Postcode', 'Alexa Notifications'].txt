@@ -1,0 +1,27 @@
+mobile, internet and games software consultancy
+privacy es it de fr
+privacy policy for international space station pass times
+this privacy policy discloses the privacy practices for
+the international space station passes alexa skill and google action
+this privacy policy applies solely to information collected by this software
+it will notify you of the following
+what personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+the security procedures in place to protect the misuse of your information
+how you can correct any inaccuracies in the information
+information collection, use, and sharing
+the international space station pass time skill uses both device information and location information when it calculates the next pass of the iss over a specific location
+if you have chosen to share your device location information, postcode and country information from your account is used to generate the name of the nearest town and a latitude and longitude pair for the the ephemeris calculus
+the nearest town and latitude and longitude pair may also be cached for future calculations, and in this case are linked to one way hashed version of the device id such that they cannot be traced back to any specific device
+the actual postcode and country information supplied by your device is never stored
+the server cannot identity any particular device or customer from the data it stores, it can only detect that the same device has made a request
+location data may be sent to 3rd party apis to generate the latitude and longitude pair and obtain weather forecasts
+no information that could identify any particular device or customer is ever shared with 3rd parties
+your access to and control over information
+you can opt out of information sharing at any time by de-listing the alexa skill or google action from all of your devices
+we take precautions to protect your information
+when you submit sensitive information via the alexa or google service, your information is protected both online and offline
+data is one-way encrypted so that it cannot be associated with your device outside of the skill or action
+no other personal information is stored on the server
+our privacy policy may change from time to time and all updates will be posted on this page
+if you feel that we are not abiding by this privacy policy, you should contact me immediately via email at paul

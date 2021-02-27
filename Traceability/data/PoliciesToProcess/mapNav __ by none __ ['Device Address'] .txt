@@ -1,0 +1,42 @@
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+25 lines (15 sloc) 2
+map navigation (mapnav) operates as an amazon alexa skill
+it is mapnav policy to respect your privacy regarding any information we may collect while operating
+we use your personal information only to provide a personalized user experience
+by enabling the skill, you agree to use of information in accordance with this policy
+gathering of personally-identifying information
+certain users to mapnav’s skill choose to interact with mapnav in ways that require mapnav to gather personally-identifying information
+the amount and type of information that mapnav gathers depends on the nature of the interaction
+for example, we use the provided access token to fetch information about the openid of an user from google
+mapnav collects such information only insofar as is necessary or appropriate to fulfill the purpose of the users' interaction with mapnav
+mapnav does not disclose personally-identifying information other than as described below
+and users can always refuse to supply personally-identifying information by disabling the skill or by removing the permissions granted
+information we collect from other sources
+with your authorization, we also obtain information about you from other sources
+when you link your account to google, we will receive information from that service (such as your address) via an api call to that service
+we will not retain any user provided data
+to be able to investigate issues with the skill, mapnav stores logs with amazon cloudwatch
+these logs may included personally-identifying information as well, which are not exposed, sold or used besides the tracking of issues
+protection of certain personally-identifying information
+mapnav will not rent or sell potentially personally-identifying and personally-identifying information to anyone
+although most changes are likely to be minor, mapnav may change its privacy policy from time to time, and in mapnav’s sole discretion
+mapnav encourages visitors to frequently check this page for any changes to its privacy policy
+your continued use of this skill after any change in this privacy policy will constitute your acceptance of such change
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+you can always update your selection by clicking cookie preferences at the bottom of the page
+for more information, see our privacy statement
+we use essential cookies to perform essential website functions, e
+they're used to log you in
+we use analytics cookies to understand how you use our websites so we can make them better, e
+they're used to gather information about the pages you visit and how many clicks you need to accomplish a task

@@ -1,0 +1,144 @@
+introduction and who we are
+we have a policy to respect your privacy regarding any personal information we may collect while using one of our amazon alexa skills
+accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information
+we encourage you to read this document carefully from beginning to end
+information we collect for alexa skills
+this is collected automatically when you enable the skill in your amazon alexa app
+this is used to connect your alexa account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to your in-skill purchases
+we collect information about the capabilities of the devices that you use to interact with our skills
+this includes informations such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+information about your interactions with our skills
+we record information about the various things that you do when interacting with our skills
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+this is only collected if you choose to provide it to us inside the skill
+it will be used to send you the game manual or relevant information about the game
+information we collect for actions on google assistant
+the first time that you interact with each of our actions on the google assistant, we randomly generate an identifier unique to your account
+this id is saved in the “user storage” associated with your google account for the action, and is provided back to us with each request you make during the course of gameplay
+we use this id to connect your google account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to any digital purchases you make in our actions
+we collect information about the capabilities of the devices that you use to interact with our actions
+this includes information such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+information about your interactions with our actions
+we record information about the various things that you do when interacting with our actions
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+transcripts of what you say to our actions
+we record transcripts of the specific words that you say or type when interacting with our actions
+we use this information to identify and correct problems in our actions’ voice interface, so that we may continually provide you with better services
+push notifications user id
+this is only collected if you choose to enable push notifications from inside our actions
+we will use it to send those push notifications that you requested to your devices
+digital purchase order ids
+these are only collected if you choose to make a digital purchase from one of our actions
+we will use these to provide you with customer support if you have any issues with your purchase
+information that out website collects
+ip address and url
+the ip address and url of each request is logged to allow us to monitor the availability of the website
+this is collected when you register on our website
+it will be used to send you notifications about our products and your account status
+sharing of personal data with third parties
+we do not share personal data with third parties
+data storage and processing location
+we store your personal information in the united states of america
+we will strive to ensure that the data is always processed in accordance with this privacy policy and the local laws
+for residents of the european economic area
+our computing service providers are eu-us privacy shield compliant, and therefore guarantee that customers' data have the same high levels of security, privacy and protection that it would receive in the eu
+for our amazon alexa skills and google assistant actions, the service providers include the following
+for this website, these the computing service provider is
+all services related to our amazon alexa skills run on amazon web services
+how we secure your personal data
+the game services and database run in a virtual private cloud (vpc) that restricts access from the public internet
+we have appropriate network restrictions in place so that the game database is only accessible to the game service infrastructure
+access to the game database is password-restricted, and the password is rotated on an appropriate schedule
+all communication between our game services and both your devices and first-party platform services (such as amazon alexa) is encrypted by industry-standard transport layer security (tls)
+additionally, all requests from first-party platform services to our game services are verified for authenticity using the best available means on each platform before being serviced
+how long we keep your personal data
+following amazon in-skill purchase requirements, we keep this information indefinitely, even if you disable the skill in your amazon alexa app, so that we can restore your purchases if you re-enable the skill
+this information is stored for one year and then purged
+information about your interactions with our skills
+this information is stored for one year and then purged
+digital purchase order ids
+these are retained indefinitely so that we can service any customer support requests
+use of automated decision-making and profiling
+we don't use your personal data for these purposes
+use of cookies/tracking technology
+we don't use these technologies in our alexa skills
+© 2020 - voice gaming
+amazon, alexa and all related logos are trademarks of amazon
+introduction and who we are
+we have a policy to respect your privacy regarding any personal information we may collect while using one of our amazon alexa skills
+accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information
+we encourage you to read this document carefully from beginning to end
+information we collect for alexa skills
+this is collected automatically when you enable the skill in your amazon alexa app
+this is used to connect your alexa account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to your in-skill purchases
+we collect information about the capabilities of the devices that you use to interact with our skills
+this includes informations such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+information about your interactions with our skills
+we record information about the various things that you do when interacting with our skills
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our skills, as well as to monitor the availability of all of our skills’ functionality
+this is only collected if you choose to provide it to us inside the skill
+it will be used to send you the game manual or relevant information about the game
+information we collect for actions on google assistant
+the first time that you interact with each of our actions on the google assistant, we randomly generate an identifier unique to your account
+this id is saved in the “user storage” associated with your google account for the action, and is provided back to us with each request you make during the course of gameplay
+we use this id to connect your google account to your game profile, so you can resume your game later or play on multiple devices
+it is also used to link your profile to any digital purchases you make in our actions
+we collect information about the capabilities of the devices that you use to interact with our actions
+this includes information such as whether or not a device has a screen
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+information about your interactions with our actions
+we record information about the various things that you do when interacting with our actions
+the interactions that we monitor include things such as adding or removing something from your in-game inventory, or purchasing an item from the in-game store
+we use this information to learn more about how players are interacting with our actions, as well as to monitor the availability of all of our actions’ functionality
+transcripts of what you say to our actions
+we record transcripts of the specific words that you say or type when interacting with our actions
+we use this information to identify and correct problems in our actions’ voice interface, so that we may continually provide you with better services
+push notifications user id
+this is only collected if you choose to enable push notifications from inside our actions
+we will use it to send those push notifications that you requested to your devices
+digital purchase order ids
+these are only collected if you choose to make a digital purchase from one of our actions
+we will use these to provide you with customer support if you have any issues with your purchase
+information that out website collects
+ip address and url
+the ip address and url of each request is logged to allow us to monitor the availability of the website
+this is collected when you register on our website
+it will be used to send you notifications about our products and your account status
+sharing of personal data with third parties
+we do not share personal data with third parties
+data storage and processing location
+we store your personal information in the united states of america
+we will strive to ensure that the data is always processed in accordance with this privacy policy and the local laws
+for residents of the european economic area
+our computing service providers are eu-us privacy shield compliant, and therefore guarantee that customers' data have the same high levels of security, privacy and protection that it would receive in the eu
+for our amazon alexa skills and google assistant actions, the service providers include the following
+for this website, these the computing service provider is
+all services related to our amazon alexa skills run on amazon web services
+how we secure your personal data
+the game services and database run in a virtual private cloud (vpc) that restricts access from the public internet
+we have appropriate network restrictions in place so that the game database is only accessible to the game service infrastructure
+access to the game database is password-restricted, and the password is rotated on an appropriate schedule
+all communication between our game services and both your devices and first-party platform services (such as amazon alexa) is encrypted by industry-standard transport layer security (tls)
+additionally, all requests from first-party platform services to our game services are verified for authenticity using the best available means on each platform before being serviced
+how long we keep your personal data
+following amazon in-skill purchase requirements, we keep this information indefinitely, even if you disable the skill in your amazon alexa app, so that we can restore your purchases if you re-enable the skill
+this information is stored for one year and then purged
+information about your interactions with our skills
+this information is stored for one year and then purged
+digital purchase order ids
+these are retained indefinitely so that we can service any customer support requests
+use of automated decision-making and profiling
+we don't use your personal data for these purposes
+use of cookies/tracking technology
+we don't use these technologies in our alexa skills
+© 2020 - voice gaming
+amazon, alexa and all related logos are trademarks of amazon

@@ -1,0 +1,22 @@
+press enter to begin your search
+aiqudo q actions alexa skill
+privacy and security statement
+our aiqudo skill allows you to use your alexa-enabled device (e
+, amazon echo) to access and use applications on your mobile device
+a third party may be able to use the skill to interact with your mobile device
+also, in order to use the skill, you will have to speak commands and questions aloud to amazon’s alexa service (“alexa”), and you will receive responses aloud
+a third party may be able to overhear your communications
+our aiqudo skill uses the public internet, third party networks, and inside wiring in customers’ premises to transmit communications
+we have engineered our skill to minimize the risk of any loss in privacy when using such systems
+you acknowledge, however, that we cannot guarantee that your communications are completely secure
+we respect your privacy and treat the content of all communications as private, except as may be required by law
+any information that we collect is used to use our skill or only for analytics purposes to provide you with a better user experience
+please refer to the aiqudo privacy policy for additional information
+a voice success story
+erica from bank of america
+what if cars could understand all voice commands
+do more with voice
+0 now available on google play
+q actions – complex tasks through compound commands
+q actions – voice feedback from apps using talkback™
+all rights reserved, aiqudo inc

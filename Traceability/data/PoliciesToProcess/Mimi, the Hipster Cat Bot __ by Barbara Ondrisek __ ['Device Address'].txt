@@ -1,0 +1,52 @@
+mica, the hipster cat bot
+discover the best places worldwide
+the following document outlines the terms of use of the mica, the hipster cat bot
+before using mica, the hipster cat bot , you are required to read, understand, and agree to these terms
+we develop mica, the hipster cat bot to send you the best venue recommendations directly to your facebook messenger , skype or telegram chat
+we will develop more features in the future
+at times things can go wrong and the service may be interrupted
+unlikely, but sometimes things can go really wrong
+we are not liable if something goes really wrong
+to use mica, the hipster cat bot you should have a facebook messenger , skype or telegram account
+mica, the hipster cat bot is provided for free
+you have to be over fourteen to use this bot
+please respect our mica, the hipster cat bot ‘s name
+we may stop providing services at any time
+you can stop using our bot at any time as well
+you may need to visit this page regularly to see if these terms are changed
+new terms may be published on this page without any additional notice
+your data is your data
+we will not collect this data and hence will not sell it to anyone without your permission
+people who use mica, the hipster cat bot must have the consent of the people whose data (i
+images, voice, text) this bot will process and we adhere to all applicable laws and regulations
+this terms of service is effective as of may 23, 2016
+we develop mica, the hipster cat bot to send you the best venue recommendations directly to your facebook messenger , skype or telegram chat
+we know that you care about how your data is used, and we take your privacy very seriously
+by using mica, the hipster cat bot , you are accepting the practices outlined in this policy
+we don’t store any user specific data except the public username
+this is the only information we keep
+please contact us under office@hipstercatbot
+com to report abuse & requests to access or delete personal information
+our servers also collect log information used to identify bugs in our code
+the information includes data sent to and from microsoft skype
+the old data is automatically deleted once log is full
+since we don’t know your email, we communicate with you only thru your skype account
+but we don’t initiate discussion ourselves – we always wait for you to start
+we do not sell your information to anyone
+we don’t encrypt the data stored on our servers, but still it is safe
+our mica, the hipster cat bot is enabled by microsoft bot framework
+the microsoft bot framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize
+as a service provider, microsoft will transmit content you provide to our bot in order to enable the service
+for more information about microsoft privacy policies please see their privacy statement here
+in addition, your interactions with this bot are also subject to the conversational channel’s applicable terms of use, privacy and data collection policies
+to report abuse when using a bot that uses the microsoft bot framework to microsoft, please visit the microsoft bot framework website at botframework
+com and use the “report abuse” link in the menu to contact microsoft
+privacy policy may change
+using mica, the hipster cat bot is subject to terms and privacy policy
+this privacy policy is effective as of may 23, 2016
+twitter facebook whatsapp telegram skype like this
+this site uses cookies
+by continuing to use this website, you agree to their use
+to find out more, including how to control cookies, see here
+mica, the hipster cat bot
+%d bloggers like this

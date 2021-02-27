@@ -1,0 +1,120 @@
+this privacy policy governs your use of our amazon alexa skill including flash briefings (the 'skills') on the amazon alexa platform
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+we do not store or process your amazon alexa registration information, name, address etc
+unless you have provided us with consent to do so
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information or cookies from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at that point
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymised data is transmitted to amazonâ€™s software environment and services to help us improve the skills and our service, this may include, for example, how often the skill is used, how many people are using the skill and how long the skill is used
+we do not share any individual identifiable personal data that may be collected by us with third parties but may share aggregated and anonymised data to help improve or promote our service
+we may disclose user provided and automatically collected information
+as required by law
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+use of personal information
+if we collect personal information from you such as an email address we will only do so with your consent
+we will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so
+we will not sell, trade, rent or otherwise pass on your personal information to others, including any personal information that we collect except as described here or with your prior consent
+we may share personal information with service providers who perform functions and services on our behalf
+such third parties will be provided with personal information necessary to perform the services on our behalf but are not authorised to use such information for any other purposes
+we will use your personal information for a number of purposes including the following
+to provide, administer and communicate with you about our services and promotions 2
+to contact you about a submission to us, including any content you may provide
+to analyse and improve the services we offer
+to send you marketing communications about content, products, events and promotions by us, that you might be interested in
+we may also use your personal information in other ways but will ensure that we notify you of this
+only where you have agreed to receive marketing communications from third parties, will we pass on your personal information for this purpose
+we may disclose personal information about you to comply with applicable laws and when requested to do so by law enforcement agencies or government bodies
+we reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets
+should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our privacy policy
+following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information
+use of aggregate information
+we may share anonymous aggregate statistics about our users, sales and traffic patterns with other third parties
+however, it will not be possible to identify you from this information
+you have certain rights to the personal information we process about you
+you have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you
+you can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us
+you can also do this by contacting us at
+you may also request access to the personal information we hold about you
+if you would like to submit a request please contact us at
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account
+you may use the standard uninstall processes as may be available as part of your device or amazon account
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter including for marketing purposes where you have consented to receive such communications from us
+we do not use the skills to knowingly solicit data from or market to children under the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorised employees and contractors who need to know that information in order to operate, develop or improve our skills
+this privacy policy may be updated from time to time for any reason
+we will notify you of any changes to our privacy policy by posting the new privacy policy here and where appropriate through the skill
+you are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as set out in this privacy policy now and as amended by us
+'processing' means using information collected by the skills or by the computer network facilities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of these activities will take place within the european economic area ('eea')
+if you reside outside the eea your information will be transferred, processed and stored there under eea privacy standards
+we will ensure that your data is not transferred outside the european economic area, except to a country with equivalent protection to the data protection legislation or under arrangements approved by the information commissioner
+if you have any questions regarding this privacy policy please contact us via email at
+this privacy policy governs your use of our amazon alexa skill including flash briefings (the 'skills') on the amazon alexa platform
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+we do not store or process your amazon alexa registration information, name, address etc
+unless you have provided us with consent to do so
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information or cookies from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at that point
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymised data is transmitted to amazonâ€™s software environment and services to help us improve the skills and our service, this may include, for example, how often the skill is used, how many people are using the skill and how long the skill is used
+we do not share any individual identifiable personal data that may be collected by us with third parties but may share aggregated and anonymised data to help improve or promote our service
+we may disclose user provided and automatically collected information
+as required by law
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+use of personal information
+if we collect personal information from you such as an email address we will only do so with your consent
+we will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so
+we will not sell, trade, rent or otherwise pass on your personal information to others, including any personal information that we collect except as described here or with your prior consent
+we may share personal information with service providers who perform functions and services on our behalf
+such third parties will be provided with personal information necessary to perform the services on our behalf but are not authorised to use such information for any other purposes
+we will use your personal information for a number of purposes including the following
+to provide, administer and communicate with you about our services and promotions 2
+to contact you about a submission to us, including any content you may provide
+to analyse and improve the services we offer
+to send you marketing communications about content, products, events and promotions by us, that you might be interested in
+we may also use your personal information in other ways but will ensure that we notify you of this
+only where you have agreed to receive marketing communications from third parties, will we pass on your personal information for this purpose
+we may disclose personal information about you to comply with applicable laws and when requested to do so by law enforcement agencies or government bodies
+we reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets
+should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our privacy policy
+following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information
+use of aggregate information
+we may share anonymous aggregate statistics about our users, sales and traffic patterns with other third parties
+however, it will not be possible to identify you from this information
+you have certain rights to the personal information we process about you
+you have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you
+you can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us
+you can also do this by contacting us at
+you may also request access to the personal information we hold about you
+if you would like to submit a request please contact us at
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account
+you may use the standard uninstall processes as may be available as part of your device or amazon account
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter including for marketing purposes where you have consented to receive such communications from us
+we do not use the skills to knowingly solicit data from or market to children under the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorised employees and contractors who need to know that information in order to operate, develop or improve our skills
+this privacy policy may be updated from time to time for any reason
+we will notify you of any changes to our privacy policy by posting the new privacy policy here and where appropriate through the skill
+you are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as set out in this privacy policy now and as amended by us
+'processing' means using information collected by the skills or by the computer network facilities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of these activities will take place within the european economic area ('eea')
+if you reside outside the eea your information will be transferred, processed and stored there under eea privacy standards
+we will ensure that your data is not transferred outside the european economic area, except to a country with equivalent protection to the data protection legislation or under arrangements approved by the information commissioner
+if you have any questions regarding this privacy policy please contact us via email at

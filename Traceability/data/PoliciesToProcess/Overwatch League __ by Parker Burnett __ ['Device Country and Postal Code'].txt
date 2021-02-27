@@ -1,0 +1,21 @@
+the overwatch league is a trademark and brand of blizzard entertainment
+we are not affiliated with them in any way
+we would like to thank blizzard and the overwatch league developers for providing/allowing the use of their api
+it has been a fun project working on this
+this privacy policy discloses the privacy practices for
+overwatch league alexa skill this privacy policy applies solely to information collected by this software/alexa skill
+it will notify you of the following
+what personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+the security procedures in place to protect the misuse of your information
+how you can correct any inaccuracies in the information
+information collection, use, and sharing
+we are the sole owners of any information collected by this skill
+the only information we collect is information that you voluntarily give us via the use of this skill or other direct contact from you
+we will not sell or distribute any information to any third party
+we will not share your information with any third party outside of our organization, other than as necessary to fulfill your request for alexa to respond with the correct time zone
+your access to and control over information
+you may opt out of any future correspondence from us at any time
+you can do so at any time by disabling the alexa skill from all of your registered devices from the alexa app or amazon website
+our privacy policy may change from time to time and all updates will be posted on this page or on the github repo
+if you feel that we are not abiding by this privacy policy, or should you have any other concerns you should contact us immediately via email at parker@parkerburnett

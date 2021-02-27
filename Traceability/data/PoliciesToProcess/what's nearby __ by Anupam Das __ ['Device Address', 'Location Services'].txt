@@ -1,0 +1,36 @@
+the personalized privacy assistant project
+last updated on february 22, 2019
+we do not use cookies or collect your usage data on this website
+if you subscribe to our mailing list or contact us directly , your contact information will be stored and only used to communicate with you and manage your membership in our mailing list
+we do not share personally identifiable information with third parties , unless required to fulfill your request or required by law
+collection and use of information
+the personalized privacy assistant project website collects and uses the following types of information for the purposes described below
+normal web traffic contains the ip address of the requester, which in some jurisdictions is considered personally identifiable
+we collect ip addresses for security logging purposes
+ip addresses are retained for the duration of 4 weeks, after which they are deleted permanently
+we do not link collected ip addresses with any other information
+we provide you the opportunity to subscribe to a mailing list to receive news about the personalized privacy assistant project
+if you subscribe to the mailing list, your email address and optionally your name (if you choose to provide it) will be stored on a secure server operated by carnegie mellon university
+contact information will only be used to send you news about the personalized privacy assistant project and related activities, and manage your mailing list preferences
+if you contact project members directly, your email address and personal information provided in individual correspondence may be used to communicate with you
+we do not share personally identifiable information with third parties, unless required to fulfill your request or required by law
+we embed videos from our youtube channel using youtube’s privacy-enhanced mode
+usage of these embedded videos is subject to the terms and conditions of youtube’s privacy policy, which can be found here​
+under these terms, and with respect to our website, youtube will not store information about you unless you play the video, in which case youtube may store information about your viewing of the video and may place cookies on your computer
+learn more about youtube’s privacy-enhanced mode here​
+to access, change or delete information related to your mailing list subscription, login to the subscription management page here​
+the personalized privacy assistant project website is not directed to, and we do not knowingly collect any information from, anyone under the age of thirteen (13)
+if you are under thirteen (13), please do not use this website
+if you learn that your minor child has provided us with personal information without your consent, please contact us
+changes to this privacy policy
+this privacy policy may be updated to ensure consistency with data collection, use and sharing practices and legal or regulatory requirements
+if changes become necessary, they will be posted here
+the most recent update date is shown at the top of this privacy policy
+the policy update will also be announced on the website’s homepage if it alters collection, use or sharing practices
+the privacy policy pertains to the website operated by the personalized privacy assistant project
+if you have questions or requests concerning data practices, please contact us
+personalized privacy assistant project
+norman sadeh institute for software research school of computer science carnegie mellon university 5000 forbes ave
+pittsburgh, pa 15213, usa
+© copyright 2019 personalized privacy assistant project - all rights reserved
+privacy policy (updated on feb 22, 2019)

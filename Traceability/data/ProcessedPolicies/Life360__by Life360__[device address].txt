@@ -1,0 +1,25 @@
+skip to main content
+learn more about privacy in life360
+we know that for life360 families, protecting your loved ones is your number one priority
+so it’s only natural that you would want to know how we use the data you provide to us
+we get that, so we have outlined how we use your data below
+in order for life360 to provide you the most accurate and best experience, life360 will collect and use your location and other data in three possible ways
+to provide you accurate and timely information about your circle
+to deliver location services such as driving behavior, crash detection and roadside assistance
+for marketing purposes, which may include either life360 offering you new services and/ or 3rd party advertising
+information that we provide to third parties for advertising services is aggregated or otherwise stripped of data of all personally identifying characteristics of our data
+for example,we may share de-identified location data with third parties that analyze location and movement trends
+one of the 3rd parties who we share data with is arity
+arity is an insights technology company that helps power the driving features that you will use in our application
+arity collects the following via the app and/or your mobile device
+some of the information they may collect includes
+geolocation and geospatial data
+mobile device information and application analytics, including ip address and referral url
+and information provided by you during the life360 registration or during the use of the life360 service
+arity may use this data to
+provide services to you enhance the services, including by using your personal data in product development and statistical analysis
+for us users only, provide and service insurance products, including using personal data to perform profiling activities and to provide you with relevant and personalized advertising
+feel free to review life360’s privacy policy in more detail click here
+if you would like to exercise your rights under the general data protection act, such as the right to access, rectification or erasure of personal data or restriction of processing or to object to processing as well as the right to data portability, you may contact life360 at any time at privacy@life360
+arity stores your personal data for as long as necessary to provide product and services to life360, its end-users, and others
+just keep in mind that if you opt-out of arity’s data processing, you will not be able to utilize the arity enabled driving pattern location-based features which includes the driving behavior info you see in the life360 app

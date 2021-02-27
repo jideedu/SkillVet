@@ -1,0 +1,118 @@
+what is the purpose of this document
+tata consultancy services limited ("tata consultancy services", "tcs" or "we") is committed to protecting the privacy and security of your personal data
+this privacy notice describes how we collect and use personal data about you during and after the usage of this tcs perspective mobile app ("mobile app") in accordance with the general data protection regulation (gdpr)
+tcs is a "data controller"
+this means that we are responsible for deciding how we hold and use personal data about you
+we are required under data protection legislation to notify you of the information contained in this privacy notice
+this notice applies to all the users who have installed and are using this mobile app
+it is important that you read this notice, together with any other privacy notice we may provide on specific occasions when we are collecting or processing personal data about you, so that you are aware of how and why we are using such information
+we will comply with applicable data protection laws
+this means that the personal data we hold about you must be
+used lawfully, fairly and in a transparent way
+collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes
+relevant to the purposes we have told you about and limited only to those purposes
+accurate and kept up to date
+kept only as long as necessary for the purposes we have told you about
+the kind of information we hold about you
+personal data means any information about an individual from which that person can be identified
+it does not include data where the identity has been removed (aka anonymous data)
+there are "special categories" of more sensitive personal data, which require a higher level of protection
+we will collect, store, and use the following categories of personal data about you
+we collect name and email
+we collect your message to us
+device id your industries and topics preferences we do not collect, store and use "special categories" of more sensitive personal data
+how is your personal data collected
+we collect personal data about the user of the application through the form placed inside the application and the navigation through it, directly from you
+how we will use information about you
+we will only use your personal data when the law allows us to
+most commonly, we will use your personal data in the following circumstances
+where we need to reply to the query you submitted through the application
+where we need to comply with a legal obligation
+where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests
+we may also use your personal data in the following situations, which are likely to be rare
+where we need to protect your interests (or someone else's interests)
+where it is needed in the public interest or for official purposes
+situations in which we will use your personal data
+we need all the categories of information in the list above primarily to reply to the query you submitted through the application and to enable us to comply with legal obligations
+in some cases we may use your personal data to pursue legitimate interests of our own or those of third parties, provided your interests and fundamental rights do not override those interests
+the situations in which we will process your personal data are listed below
+reply to your query
+we use data to reply to the query you have submitted through the form in the mobile app
+we use your industries and topics preferences to provide you with specific content that you may be interested in
+we use data to protect the security and safety of our mobile app
+some of the above grounds for processing will overlap and there may be several grounds, which justify our use of your personal data
+if you fail to provide personal data
+if you fail to provide certain information when requested, we may not be able to answer to your query, or we may be prevented from complying with our legal obligations
+we will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose
+if we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so
+please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law
+we may have to share your data with third parties, including third-party service providers and other entities in the group
+we require third parties to respect the security of your data and to treat it in accordance with the law
+we may transfer your personal data outside the eu/eea
+if we do, you can expect a similar degree of protection in respect of your personal data
+why might you share my personal data with third parties
+we will share your personal data with third parties where required by law, where it is necessary to provide our services to you or where we have another legitimate interest in doing so
+which third-party service providers process my personal data
+"third parties" includes third-party service providers (including contractors and designated agents) and other entities within our group
+our third-party vendor for hosting the application data is microsoft (located in the us)
+how secure is my information with third-party service providers and other entities in our group
+all our third-party service providers and other entities in the group are required to take appropriate security measures to protect your personal data in line with our policies
+we do not allow our third-party service providers to use your personal data for their own purposes
+we only permit them to process your personal data for specified purposes and in accordance with our instructions
+when might you share my personal data with other entities in the group
+we will share your personal data with other entities in our group as part of our regular reporting activities on company performance, in the context of a business reorganisation or group restructuring exercise, for system maintenance support and hosting of data
+what about other third parties
+we may share your personal data with other third parties
+we may also need to share your personal data with a regulator or to otherwise comply with the law
+transferring information outside the eu/eea
+we will transfer the personal data we collect about you to us and india outside the eu/eea in order to perform our contract with you
+there is not an adequacy decision by the european commission in respect of those countries
+this means that the countries to which we transfer your data are not deemed to provide an adequate level of protection for your personal data
+however, to ensure that your personal data does receive an adequate level of protection we have put in place the following appropriate measure/s to ensure that your personal data is treated by those third parties in a way that is consistent with and which respects the eu/eea laws on data protection such as data transfer agreements based on standard contractual clauses and privacy shield framework
+if you require further information about these protective measure/s, you can request it from our data protection officer (please see contact details below)
+we have put in place measures to protect the security of your information
+details of these measures are available upon request
+third parties will only process your personal data on our instructions and where they have agreed to treat the information confidentially and to keep it secure
+we have put in place appropriate technical, organizational and security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed
+in addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know
+they will only process your personal data on our instructions and they are subject to a duty of confidentiality
+we have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so
+data retention how long will you use my information for
+we will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements
+details of retention periods for different aspects of your personal data are available in our retention policy
+to determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements
+in some circumstances we may anonymize your personal data so that it can no longer be associated with you, in which case we may use such information without further notice to you
+data subject rights your duty to inform us of changes
+it is important that the personal data we hold about you is accurate and current
+please keep us informed if your personal data changes during your relationship with us
+your rights in connection with personal data
+under certain circumstances, by law you have the right to
+request access to your personal data (commonly known as a "data subject access request")
+this enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it
+request correction of the personal data that we hold about you
+this enables you to have any incomplete or inaccurate information we hold about you corrected
+request erasure of your personal data
+this enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it
+you also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below)
+object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground
+you also have the right to object where we are processing your personal data for direct marketing purposes
+request the restriction of processing of your personal data
+this enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it
+request the transfer of your personal data to another party
+if you want to exercise a data subject right please contact our data protection officer (please see contact details below)
+what we may need from you
+we may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights)
+this is another appropriate security measure to ensure that personal data is not disclosed to any person who has no right to receive it
+right to withdraw consent
+in the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal data for a specific purpose, you have the right to withdraw your consent for that specific processing at any time
+to withdraw your consent, please contact our data protection officer (please see contact details below)
+once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law
+tcs has appointed internal data protection officers who can be contacted for any questions or concerns about tcs' privacy policies or practices
+depending on your location, you can refer to
+data protection officer for uk and ireland dpo
+data protection officer for continental europe dpo
+data protection supervisory authority
+under gdpr, you have the right to make a complaint at any time to the relevant data protection supervisory authority
+changes to this privacy notice
+we reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates
+we may also notify you in other ways from time to time about the processing of your personal data

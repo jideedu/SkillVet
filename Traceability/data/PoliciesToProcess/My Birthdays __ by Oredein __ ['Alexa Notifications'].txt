@@ -1,0 +1,26 @@
+bei dem alexa skill meine geburtstage handelt es sich um einen sogennaten "custom skill"
+mit diesem skill ist es möglich, die geburtstage von familie, freunden und verwandten über eine web-anwendung zu verwalten und über alexa sprachgesteuert abzufragen
+"alexa, starte meine geburtstage
+"alexa, wann hat {vorname}
+"alexa, wer hat als nächstes geburtstag
+funktionsumfang ( web-anwendung )
+konto erstellen, durch aktivierung des alexa skills
+anmelden (mit 6-stelligen code)
+geburtstagsliste als textdatei (
+geburtstagsliste als textdatei (
+konto und daten löschen
+erhobene daten und deren verwendung
+um die anwendung im vollem umfang nutzen zu können, werden folgende daten erhoben
+wird bei start des skills erhoben und dient dem mapping
+der 6-stellige code ist erforderlich, um sich bei der web-anwendung anmelden zu können
+die in der datenbank persistierten geburtstage sind essentiell für die volle funktionsfähigkeit des skills
+wird von alexa zur persönlichen ansprache beim starten des skills verwendet
+keine der angegebenen daten werden an dritte weitergegeben
+die daten des anwenders bleiben solange bestehen, bis diese über die funktion „konto löschen“ über die web-anwendung unwiderruflich entfernt werden
+darüber hinaus besteht die möglichkeit den administrator
+com ) aufzufordern alle daten ohne angabe von gründen zu löschen
+importierte geburtstagslisten, welche temporär auf dem server abgelegt werden, werden automatisch von der anwendung oder vom adiministrator gelöscht
+der skill meine geburtstage ist und bleibt kostenlos
+php5, html5, css3, javascript, jquery
+diese seite beinhaltet die datenschutzbeschreibung für den skill meine geburtstage
+© 2018 oredein • all rights reserved

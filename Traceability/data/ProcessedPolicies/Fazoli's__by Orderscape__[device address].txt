@@ -1,0 +1,145 @@
+privacy and terms of use
+please note that your use of and access to our services (defined below) are subject to the following terms
+if you do not agree to all of the following, you may not use or access the services in any manner
+orderscape is a conversational commerce chatbot that allows consumers to order food from major restaurant chains across multiple chat platforms
+please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “services”)
+if you have any questions, comments, or concerns regarding these terms or the services, please contact us at support@orderscape
+these terms of use (the “terms”) are a binding contract between you and orderscape, inc, d/b/a orderscape
+(“orderscape,” “we” and “us”)
+you must agree to and accept all of the terms, or you don’t have the right to use the services
+your use of orderscape services in any way means that you agree to all of these terms, and these terms will remain in effect while you use the services
+these terms include the provisions in this document, as well as those in the privacy policy and copyright dispute policy
+will these terms ever change
+we are constantly trying to improve our services, so these terms may need to change along with the services
+we reserve the right to change the terms at any time, but if we do, we will bring it to your attention by placing a notice on the orderscape
+com website, by sending you an email, and/or by some other means
+if you don’t agree with the new terms, you are free to reject them
+unfortunately, that means you will no longer be able to use the services
+if you use the services in any way after a change to the terms is effective, that means you agree to all of the changes
+except for changes by us as described here, no other amendment or modification of these terms will be effective unless in writing and signed by both you and us
+what about my privacy
+orderscape takes the privacy of its users very seriously
+for the current orderscape privacy policy, please click here
+the children’s online privacy protection act (“coppa”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13
+we do not knowingly collect or solicit personally identifiable information from children under 13
+if you are a child under 13, please do not attempt to register for the services or send any personal information about yourself to us
+if we learn we have collected personal information from a child under 13, we will delete that information as quickly as possible
+if you believe that a child under 13 may have provided us personal information, please contact us at support@orderscape
+what are the basics of using orderscape
+you may be required to sign up for an account and login to orderscape through your facebook messenger or other third party account, and select a password and username (“orderscape user id”)
+you promise to provide us with accurate, complete, and updated registration information about yourself
+you may not transfer your account to anyone else without our prior written permission
+you represent and warrant that you are of legal age to form a binding contract (or if not, you’ve received your parent’s or guardian’s permission to use the services and gotten your parent or guardian to agree to these terms on your behalf)
+if you’re agreeing to these terms on behalf of an organization or entity, you represent and warrant that you are authorized to agree to these terms on that organization or entity’s behalf and bind them to these terms (in which case, the references to “you” and “your” in these terms, except for in this sentence, refer to that organization or entity)
+you will only use the services for your own internal, non-commercial use, and only in a manner that complies with all laws that apply to you
+if your use of the services is prohibited by applicable laws, then you aren’t authorized to use the services
+we can’t and won’t be responsible for your using the services in a way that breaks the law
+you will not share your account or password with anyone, and you must protect the security of your account and your password
+you’re responsible for any activity associated with your account
+your use of the services is subject to the following additional restrictions
+you represent, warrant, and agree that you will not use the services in a manner that
+(a) violates any law or regulation, including any applicable export control laws
+(b) is harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable
+(c) jeopardizes the security of your orderscape account or anyone else’s (such as allowing someone else to log in to the services as you)
+(d) attempts, in any manner, to obtain the password, account, or other security information from any other user
+(e) violates the security of any computer network, or cracks any passwords or security encryption codes
+(f) runs maillist, listserv, any form of auto-responder or “spam” on the services, or any processes that run or are activated while you are not logged into the services, or that otherwise interfere with the proper working of the services (including by placing an unreasonable load on the services’ infrastructure)
+(g) “crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the services or content (through use of manual or automated means)
+(h) copies or stores any significant portion of the content
+(i) decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the services
+a violation of any of the foregoing is grounds for termination of your right to use or access the services
+what are my rights in orderscape
+the materials displayed or performed or available on or through the services, including, but not limited to, text, graphics, data, articles, photos, images, illustrations, user submissions, and so forth (all of the foregoing, the “content”) are protected by copyright and/or other intellectual property laws
+you promise to abide by all copyright notices, trademark rules, information, and restrictions contained in any content you access through the services, and you won’t use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any content not owned by you, (i) without the prior consent of the owner of that content or (ii) in a way that violates someone else’s (including orderscape’s) rights
+you understand that orderscape owns the services
+you won’t modify, publish, transmit, participate in the transfer or sale of, reproduce (except as expressly provided in this section), create derivative works based on, or otherwise exploit any of the services
+the services may allow you to copy or download certain content
+please remember that just because this functionality exists, doesn’t mean that all the restrictions above don’t apply – they do
+do i have to grant any licenses to orderscape or to other users
+anything you post, upload, share, store, or otherwise provide through the services, is your “user submission
+” some user submissions are viewable by other users
+in order to display your user submissions on the services, and to allow other users to enjoy them (where applicable), you grant us certain rights in those user submissions
+please note that all of the following licenses are subject to our privacy policy to the extent they relate to user submissions that are also your personally-identifiable information
+for all user submissions, you hereby grant orderscape a license to translate, modify (for technical purposes, for example making sure your content is viewable on an iphone as well as a computer) and reproduce and otherwise act with respect to such user submissions, in each case to enable us to operate the services, as described in more detail below
+this is a license only – your ownership in user submissions is not affected
+if you store a user submission in your own personal orderscape account, in a manner that is not viewable by any other user except you (a “personal user submission”), you grant orderscape the license above, as well as a license to display, perform, and distribute your personal user submission for the sole purpose of making that personal user submission accessible to you and providing the services necessary to do so
+if you share a user submission only in a manner that only certain specified users can view (for example, a private message to a chatbot)(a “limited audience user submission”), then you grant orderscape the licenses above, as well as a license to display, perform, and distribute your limited audience user submission for the sole purpose of making that limited audience user submission accessible to such other specified users, and providing the services necessary to do so
+also, you grant such other specified users a license to access that limited audience user submission, and to use and exercise all rights in it, as permitted by the functionality of the services
+if you share a user submission publicly on the services and/or in a manner that more than just you or certain specified users can view, or if you provide us (in a direct email or otherwise) with any feedback, suggestions, improvements, enhancements, and/or feature requests relating to the services (each of the foregoing, a “public user submission”), then you grant orderscape the licenses above, as well as a license to display, perform, and distribute your public user submission for the purpose of making that public user submission accessible to all orderscape users and providing the services necessary to do so, as well as all other rights necessary to use and exercise all rights in that public user submission in connection with the services for any purpose
+also, you grant all other users of the services a license to access that public user submission, and to use and exercise all rights in it, as permitted by the functionality of the services
+you agree that the licenses you grant are royalty-free, perpetual, sublicenseable, irrevocable, and worldwide
+finally, you understand and agree that orderscape, in performing the required technical steps to provide the services to our users (including you), may need to make changes to your user submissions to conform and adapt those user submissions to the technical requirements of connection networks, devices, services, or media, and the foregoing licenses include the rights to do so
+what if i see something on the services that infringes my copyright
+you may have heard of the digital millennium copyright act (the “dmca”), as it relates to online service providers, like orderscape, being asked to remove material that allegedly violates someone’s copyright
+we respect others’ intellectual property rights, and we reserve the right to delete or disable content alleged to be infringing, and to terminate the accounts of repeat alleged infringers
+to review our complete copyright dispute policy and learn how to report potentially infringing content, click here
+to learn more about the dmca, click here
+who is responsible for what i see and do with the services
+any information or content publicly posted or privately transmitted through the services, are the sole responsibility of the person from whom such content originated, and you access all such information and content at your own risk, and we aren’t liable for any errors or omissions in that information or content or for any damages or loss you might suffer in connection with it
+we cannot control and have no duty to take any action regarding how you may interpret and use the content or what actions you may take as a result of having been exposed to the content, and you hereby release us from all liability for you having acquired or not acquired content through the services
+we can’t guarantee the identity of any users with whom you interact in using the services and are not responsible for which users gain access to the services
+you are responsible for all content you contribute, in any manner, to the services, and you represent and warrant you have all rights necessary to do so, in the manner in which you contribute it
+you will keep all your registration information accurate and current
+you are responsible for all your activity in connection with the services
+the services may contain links or connections to third party websites or services that are not owned or controlled by orderscape
+when you access third party websites or use third party services, you accept that there are risks in doing so, and that orderscape is not responsible for such risks
+we encourage you to be aware when you leave the services and to read the terms and conditions and privacy policy of each third party website or service that you visit or utilize
+orderscape has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third party websites or by any third party that you interact with through the services
+in addition, orderscape will not and cannot monitor, verify, censor or edit the content of any third party site or service
+by using the services, you release and hold us harmless from any and all liability arising from your use of any third party website or service
+your interactions with organizations and/or individuals found on or through the services, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and/or individuals
+you should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of these third parties
+you agree that orderscape shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings
+if there is a dispute between participants on this site, or between users and any third party, you agree that orderscape is under no obligation to become involved
+in the event that you have a dispute with one or more other users, you release orderscape, its officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our services
+if you are a california resident, you shall and hereby do waive california civil code section 1542, which says
+“a general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which, if known by him or her must have materially affected his or her settlement with the debtor
+will orderscape ever change the services
+we’re always trying to improve the services, so they may change over time
+we may suspend or discontinue any part of the services, or we may introduce new features or impose limits on certain features or restrict access to parts or all of the services
+we’ll try to give you notice when we make a material change to the services that would adversely affect you, but this isn’t always practical
+similarly, we reserve the right to remove any content from the services at any time, for any reason (including, but not limited to, if someone alleges you contributed that content in violation of these terms), in our sole discretion, and without notice
+what if i want to stop using orderscape
+you’re free to stop using the services at any time
+please refer to our privacy policy, as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our services
+orderscape is also free to terminate (or suspend access to) your use of the services or your account, for any reason in our discretion, including your breach of these terms
+orderscape has the sole right to decide whether you are in violation of any of the restrictions set forth in these terms
+account termination may result in destruction of any content associated with your account, so keep that in mind before you decide to terminate your account
+we will try to provide advance notice to you prior to our terminating your account so that you are able to retrieve any important user submissions you may have stored in your account (to the extent allowed by law and these terms), but we may not do so if we determine it would be impractical, illegal, not in the interest of someone’s safety or security, or otherwise harmful to the rights or property of orderscape
+provisions that, by their nature, should survive termination of these terms shall survive termination
+by way of example, all of the following will survive termination
+any obligation you have to pay us or indemnify us, any limitations on our liability, any terms regarding ownership or intellectual property rights, and terms regarding disputes between us
+what else do i need to know
+neither orderscape nor its licensors or suppliers makes any representations or warranties concerning any content contained in or accessed through the services, and we will not be responsible or liable for the accuracy, copyright compliance, legality, or decency of material contained in or accessed through the services
+we (and our licensors and suppliers) make no representations or warranties regarding suggestions or recommendations of services or products offered or purchased through the services
+the services and content are provided by orderscape (and its licensors and suppliers) on an “as-is” basis, without warranties of any kind, either express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or that use of the services will be uninterrupted or error-free
+some states do not allow limitations on how long an implied warranty lasts, so the above limitations may not apply to you
+to the fullest extent allowed by applicable law, under no circumstances and under no legal theory (including, without limitation, tort, contract, strict liability, or otherwise) shall orderscape (or its licensors or suppliers) be liable to you or to any other person for (a) any indirect, special, incidental, or consequential damages of any kind, including damages for lost profits, loss of goodwill, work stoppage, accuracy of results, or computer failure or malfunction, or (b) any amount, in the aggregate, in excess of the greater of (i) $100 or (ii) the amounts paid by you to orderscape in connection with the services in the twelve (12) month period preceding this applicable claim, or (c) any matter beyond our reasonable control
+some states do not allow the exclusion or limitation of certain damages, so the above limitation and exclusions may not apply to you
+to the fullest extent allowed by applicable law, you agree to indemnify and hold orderscape, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to (a) your use of the services (including any actions taken by a third party using your account), and (b) your violation of these terms
+in the event of such a claim, suit, or action (“claim”), we will attempt to provide notice of the claim to the contact information we have for your account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations hereunder)
+you may not assign, delegate or transfer these terms or your rights or obligations hereunder, or your services account, in any way (by operation of law or otherwise) without orderscape’s prior written consent
+we may transfer, assign, or delegate these terms and our rights and obligations without consent
+these terms are governed by and will be construed under the laws of the state of california, without regard to the conflicts of laws provisions thereof
+any dispute arising from or relating to the subject matter of these terms shall be finally settled in santa clara county, california, in english, in accordance with the streamlined any arbitration under these terms will take place on an individual basis
+class arbitrations and class actions are not permitted
+you understand and agree that by entering into these terms, you and orderscape are each waiving the right to trial by jury or to participate in a class action
+arbitration rules and procedures of judicial arbitration and mediation services, inc
+(“jams”) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of jams arbitrators in accordance with such rules
+judgment upon the award rendered by such arbitrator may be entered in any court of competent jurisdiction
+notwithstanding the foregoing obligation to arbitrate disputes, each party shall have the right to pursue injunctive or other equitable relief at any time, from any court of competent jurisdiction
+for all purposes of this agreement, the parties consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, santa clara county, california
+you will be responsible for paying, withholding, filing, and reporting all taxes, duties, and other governmental assessments associated with your activity in connection with the services, provided that the orderscape may, in its sole discretion, do any of the foregoing on your behalf or for itself as it sees fit
+the failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder
+if any provision of these terms is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that these terms shall otherwise remain in full force and effect and enforceable
+you and orderscape agree that these terms are the complete and exclusive statement of the mutual understanding between you and orderscape, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of these terms
+you hereby acknowledge and agree that you are not an employee, agent, partner, or joint venture of orderscape, and you do not have any authority of any kind to bind orderscape in any respect whatsoever
+you and orderscape agree there are no third party beneficiaries intended under these terms
+atkinson privacy and terms of use 08
+we're passionate entrepreneurs building the industry's food-centric, voice-first, full-menu ordering portal for the 21st century
+orderscape voice marketplace is coming soon on google assistant
+© 2020 orderscape, all rights reserved, privacy & terms
+this website uses cookies to improve your experience
+we'll assume you're ok with this, but you can opt-out if you wish
+read more privacy & cookies policy
+contact us 774 mays blvd, suite 10-666, incline village, nv 89451 usa +1 (650) 206-8405 info@orderscape

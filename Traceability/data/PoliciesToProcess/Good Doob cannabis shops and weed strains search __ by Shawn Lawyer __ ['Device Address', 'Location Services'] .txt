@@ -1,0 +1,120 @@
+last updated november 21, 2019
+thank you for choosing to be part of our community at shawn lawyer (“ company ”, “ we ”, “ us ”, or “ our ”)
+we are committed to protecting your personal information and your right to privacy
+if you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at shawnlawyer@gmail
+when you visit our website uberdoob
+com, mobile application, and use our services, you trust us with your personal information
+we take your privacy very seriously
+in this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it
+we hope you take some time to read through it carefully, as it is important
+if there are any terms in this privacy notice that you do not agree with, please discontinue use of our sites or apps and our services
+this privacy notice applies to all information collected through our website (such as uberdoob
+com), mobile application, (" apps "), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy notice as the " services ")
+please read this privacy notice carefully as it will help you make informed decisions about sharing your personal information with us
+what information do we collect
+how do we use your information
+will your information be shared with anyone
+how do we handle your social logins
+how long do we keep your information
+how do we keep your information safe
+do we collect information from minors
+what are your privacy rights
+controls for do-not-track features
+do california residents have specific privacy rights
+do we make updates to this policy
+how can you contact us about this policy
+what information do we collect
+some information – such as ip address and/or browser and device characteristics – is collected automatically when you visit our services or apps
+we automatically collect certain information when you visit, use or navigate the services or apps
+this information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your ip address, browser and device characteristics, operating system, language preferences, referring urls, device name, country, location, information about how and when you use our services or apps and other technical information
+this information is primarily needed to maintain the security and operation of our services or apps, and for our internal analytics and reporting purposes
+information collected through our apps
+we may collect information regarding your geo-location, when you use our apps
+if you use our apps, we may also collect the following information
+we may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services
+if you wish to change our access or permissions, you may do so in your device’s settings
+how do we use your information
+we process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent
+we use personal information collected via our services or apps for a variety of business purposes described below
+we process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations
+we indicate the specific processing grounds we rely on next to each purpose listed below
+we use the information we collect or receive
+to facilitate account creation and logon process
+if you choose to link your account with us to a third party account (such as your google or facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract
+see the section below headed " how do we handle your social logins " for further information
+to deliver services to the user
+we may use your information to provide you with the requested service
+for other business purposes
+we may use your information for other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our services or apps, products, marketing and your experience
+we may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information
+we will not use identifiable personal information without your consent
+will your information be shared with anyone
+we only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations
+we may process or share data based on the following legal basis
+we may process your data if you have given us specific consent to use your personal information in a specific purpose
+we may process your data when it is reasonably necessary to achieve our legitimate business interests
+performance of a contract
+where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract
+we may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements)
+we may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved
+more specifically, we may need to process your data or share your personal information in the following situations
+vendors, consultants and other third-party service providers
+we may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work
+payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts
+we may allow selected third parties to use tracking technology on the services or apps, which will enable them to collect data about how you interact with the services or apps over time
+this information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity
+unless described in this policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes
+we may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company
+we may use third-party advertising companies to serve ads when you visit the services or apps
+these companies may use information about your visits to our website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you
+how do we handle your social logins
+if you choose to register or log in to our services using a social media account, we may have access to certain information about you
+our services or apps offer you the ability to register and login using your third party social media account details (like your facebook or twitter logins)
+where you choose to do this, we will receive certain profile information about you from your social media provider
+the profile information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public
+we will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the services or apps
+please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider
+we recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps
+how long do we keep your information
+we keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law
+we will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements)
+no purpose in this policy will require us keeping your personal information for longer than 90 days
+when we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible
+how do we keep your information safe
+we aim to protect your personal information through a system of organizational and technical security measures
+we have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process
+however, please also remember that we cannot guarantee that the internet itself is 100% secure
+although we will do our best to protect your personal information, transmission of personal information to and from our services or apps is at your own risk
+you should only access the services within a secure environment
+do we collect information from minors
+we do not knowingly collect data from or market to children under 18 years of age
+we do not knowingly solicit data from or market to children under 18 years of age
+by using the services or apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the services or apps
+if we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records
+if you become aware of any data we have collected from children under age 18, please contact us at shawnlawyer@gmail
+what are your privacy rights
+you may review, change, or terminate your account at any time
+if you are resident in the european economic area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority
+you can find their contact details here
+controls for do-not-track features
+most web browsers and some mobile operating systems and mobile applications include a do-not-track (“dnt”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected
+no uniform technology standard for recognizing and implementing dnt signals has been finalized
+as such, we do not currently respond to dnt browser signals or any other mechanism that automatically communicates your choice not to be tracked online
+if a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice
+do california residents have specific privacy rights
+yes, if you are a resident of california, you are granted specific rights regarding access to your personal information
+california civil code section 1798
+83, also known as the “shine the light” law, permits our users who are california residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year
+if you are a california resident and would like to make such a request, please submit your request in writing to us using the contact information provided below
+if you are under 18 years of age, reside in california, and have a registered account with the services or apps, you have the right to request removal of unwanted data that you publicly post on the services or apps
+to request the removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in california
+we will make sure the data is not publicly displayed on the services or apps, but please be aware that the data may not be completely or comprehensively removed from our systems
+do we make updates to this policy
+yes, we will update this policy as necessary to stay compliant with relevant laws
+we may update this privacy notice from time to time
+the updated version will be indicated by an updated “revised” date and the updated version will be effective as soon as it is accessible
+if we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification
+we encourage you to review this privacy notice frequently to be informed of how we are protecting your information
+how can you contact us about this policy
+if you have questions or comments about this policy, you may email us at shawnlawyer@gmail
+com or by post to

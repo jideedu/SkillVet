@@ -1,0 +1,6 @@
+journey planner - alexa skill - privacy policy
+this alexa skill requests permission to access your country and postal code
+this is used only for the purposes of calculating your journey time to your destination
+your country and postal code are not stored anywhere by the skill
+you can prevent the skill from accessing your country and postal code by disabling the location permission for the journey planner skill in your alexa app
+for more info, please email contact@andymsmith

@@ -1,0 +1,80 @@
+filtrete™ smart air privacy policy
+3m understands that privacy is important to you
+please read the following to learn more about how we use and disclose information collected through the filtrete™ smart app ("app") and paired filtrete™ smart air filters, including personal information
+by using the app, you consent to the collection, use, and sharing of information as described in this privacy policy
+this privacy policy is incorporated into and subject to our end user license agreement
+about the filtrete™ smart app
+the filtrete™ smart app, along with the filtrete™ smart air filter(s) paired to it via bluetooth, gathers information about the types of air filters you use, the air passing through those air filters, the life of those air filters, and information you choose to provide about your home
+this allows the app to
+recommend when to change your air filters
+recommend types of air filters to buy and where to buy them
+provide you indoor air quality data, and, if you choose, outdoor air quality data
+what information does the app collect
+the filtrete™ smart app collects the following types of information
+information you give us , including information you provide us so we can identify you (such as your email address, password, name, and profile picture), which you can provide us directly in the app or when you log into the app via a social media or other third party account (such as your facebook or google account)
+information about your home that you choose to provide us when you create or update your profile (such as number of air filters in your home, the presence of pets or smokers, and whether anyone in your home has allergies or respiratory conditions)
+you give us this information when you provide it to us in the app
+please understand that if you choose not to provide all of the information requested by the app, the app may not be able to provide full functionality
+for example, if you choose not to provide all of the optional information about your home requested by the app, the app may provide less precise information about the life of your filtrete™ smart air filter and outdoor air quality, and the app may provide tips and alerts less relevant to you and your home
+sensor data , meaning data collected through the sensor on your filtrete™ smart air filter
+sensor data may include information about air pressure and temperature, filter type and size, and when a filter was paired with the app
+please understand that if you choose not to enable bluetooth settings on your device, keep the app open in the background, or bring your device within range of the sensor-or if you otherwise choose not to provide all or some of the sensor data requested by the app by limiting certain data collection (if such options are offered)-the app may not be able to provide full functionality
+for example, if you choose not to provide all of the sensor data requested by the app, the app may provide less precise information about the life of your filtrete™ smart air filter
+location information , meaning precise real-time location information collected using your device's gps technology, or postal code, if you choose to provide it
+the app uses location information to provide you information about outdoor air quality and send relevant tips and alerts
+please note that we will not access precise location information from your device unless you grant the app permission to do so
+if you choose to grant the app permission to access precise location information, we may also use that information to initiate communication with the filtrete™ smart air filter sensor when you are near your home to provide sensor data to the app more frequently and help provide more precise information about the life of your filtrete™ smart air filter
+if you would like to receive outdoor air quality information without providing precise location information, you can provide your postal code to receive outdoor air quality information for your postal code
+please note that, if you do not provide your postal code or grant the app permission to access precise location information, the app may not provide relevant outdoor air quality information (unless you later add a location for outdoor air quality information)
+data from connected products or services , meaning data from other apps, products, or services that you choose to connect to the app (such as data from a paired indoor air quality monitor)
+we collect data from other apps, products, or services only with your permission, and you can revoke your permission at any time through the app, or by request by contacting us using one of the methods on the filtrete
+when you choose to connect an indoor air quality monitor, we collect information about the location of that monitor to identify it and to distinguish between monitors if multiple monitors are connected to the app
+technical data , such as information about your usage of the app (e
+, features used, content viewed, dates and times of interactions) and technical data about your device, such as operating system, model, device identifier, and ip address
+the app collects this technical data automatically when you download the app and as you use it
+we may also collect information from you directly outside of the app if you provide it to us, for example, based on an inquiry you make associated with the app
+in addition, we may collect information about you from third parties and combine it with the information we have collected from you
+will 3m share any of the information it receives
+3m may share any information it collects with
+service providers or business partners who work on our behalf or partner with 3m to provide or improve the app or related products, services or events, provided that such service providers or business partners may not use any personal information we share with them for their own independent purposes
+our affiliates and subsidiaries
+other entities, to the extent that 3m has a good faith belief that such disclosure is necessary to (a) comply with law, regulatory requirement, judicial proceeding, court order, or other legal process served on us, (b) protect the safety, rights, or property of 3m, you, others or public welfare, or (c) detect, prevent, or respond to fraud, intellectual property infringement, violations of our end user license agreement
+we may also otherwise share information we collect with your permission
+we may also sell, assign, lease, exchange, or publish your information in conjunction with a corporate sale, merger, dissolution, or acquisition of all or part of our assets, in which case, a surviving or acquiring company will be authorized to use your personal information subject to their own privacy policy
+we may share aggregate or de-identified information (i
+, information that does not identify you personally) with third parties for any purpose
+how does 3m secure my information
+3m takes steps to protect information collected through the app
+unfortunately, the internet and any technical system cannot be guaranteed to be 100% secure or error-free, and we cannot ensure or warrant the security of any information you provide to us
+where is this information processed
+all information collected by the app will be processed in and subject to the laws of the united states, which, if you are not located in the united states, may not provide the same level of protection for your information as your home country
+this information may be available to the united states government or its agencies under a lawful order made in the united states
+in addition, we may transfer your information outside the united states to our affiliates, business partners, and service providers located in other countries
+by using the app and providing us your information, you consent to such transfer of your information to, and processing of your information in, the united states and these other countries
+what choices do i have
+you may choose not to install the app
+you may choose not to provide certain information requested by the app
+please keep in mind that withholding this information may prevent the app from providing full functionality, as described above
+you may choose to receive or stop push notifications at any time
+"push notifications" are messages that are sent to your mobile device to alert you about, for example, air quality or the life of your filtrete™ smart air filter, or to remind you to take certain actions
+you can choose to turn push notifications on or off in the settings of your device
+through the app, you may access, and in some cases, edit or delete certain information stored locally in the app
+the information you can view and update may change as the app undergoes further development
+if you have any questions about viewing or updating your information, please contact us using one of the methods on the filtrete
+if you choose to receive marketing communications from us, you may opt out of receiving marketing emails by using the unsubscribe information available in any marketing email, or you may submit a request using one of the methods on the filtrete
+please note that you will continue to receive non-promotional email messages regarding programs or events you have registered for or certain administrative, technical, or safety notices about the app or our products or services
+this app is not directed to or intended for use by children under the age of 13
+we will not knowingly collect information from children under the age of 13
+if you become aware that a child under your care has provided us with information without your consent, please contact us using one of the methods on the filtrete
+links to other websites or third party services
+the app may contain links to external websites or third party services (such as retailer websites)
+we are not responsible for the privacy policies and/or practices on websites or third party services that may be accessed through these links
+when following a link to another website or third party service, you should read the privacy policy for that website or service
+data retention and deletion
+we will retain your information for our legitimate business purposes, such as to maintain your account and to comply with our legal obligations, resolve disputes, and enforce our agreements
+we also may retain and use any aggregate or de-identified information (i
+, information that does not identify you personally) for any purpose
+if you no longer wish to use the app and wish to deactivate or delete your account, please delete the app and contact us using one of the methods on the filtrete
+changes to this privacy policy
+when we make changes to the privacy policy, we will post an updated policy on this page and change the effective date listed at the top of the policy
+if you have any questions or concerns regarding the topics addressed in this privacy policy, please contact us using one of the methods on the filtrete

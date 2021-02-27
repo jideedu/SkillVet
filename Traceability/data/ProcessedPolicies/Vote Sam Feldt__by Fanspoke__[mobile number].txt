@@ -1,0 +1,198 @@
+privacy policy effective date
+november 18, 2018 at storyflow, inc
+, (hereinafter, “voiceflow,” “company,” “us,” or “we”), we respect and protect the privacy of visitors to our website, www
+com, and the other websites under the getvoiceflow
+com domain (collectively, the “sites”), and our customers who use our saas product, web design software, tools, and related services (together with the sites, the “service”)
+‍ this global privacy policy (“policy”) explains how we collect, use, disclose, and protect visitors’ and users’ information as part of the service
+any discussion of your use of the service in this policy is meant to include your visits and other interactions with the sites and services, whether or not you are a user of voiceflow’s saas product
+‍ by accessing and using our service, you signify your acceptance to the terms of this privacy policy
+if you do not agree with or you are not comfortable with any aspect of this privacy policy, you should immediately discontinue access or use of our services
+what “personal information” means ‍ in this policy, “personal information” means information or an information set that identifies or could be used to identify an individual directly or indirectly
+except as described in this policy, voiceflow will not give, sell, rent, or loan any personal information to any third party
+personal information does not include “usage data” which we define as encoded or anonymized information or aggregated data we collect about a group or category of services, features, or users which does not contain personally identifying information
+usage data helps us understand trends in usage of the service so that we can better consider new features or otherwise tailor the service
+in addition to collecting and using usage data ourselves, we may share usage data with third parties, including our customers, partners and service providers, for various purposes, including to help us better understand our customers’ needs and improve the service as well as for advertising and marketing purposes
+how we collect, use, and share your personal information and other information
+information you provide to us ‍ when you register for the service, we may ask for personal information such as your name, email address, or credit card or other billing information
+you may also provide at your own discretion certain related information like your personal website name, social media websites, your employment information, the date you started using the service, and a description of yourself
+additionally, as you employ the sites to create voice apps, the software continuously saves changes made by you with the server and will document items such as when you are working and saving changes, when you last opened the services, when voice apps are published, or when you perform certain tasks
+‍ we may also retain the contents of any messages you send to us or through the service, and we may collect information you provide in user content that you post or upload to the service (“user content”)
+‍ voiceflow may use personal information provided to operate, improve upon, and personalize the service, for billing identification and authentication, to contact and communicate with you about the service and your use of the service, to support use of the service, to send marketing materials for research purposes, and to generally improve the content and functionality of the service
+‍ we may also combine your personal information with third-party analytics information to build a broader profile of our individual users so that we can serve you better and provide custom, personalized content and information
+additionally, we may use the personal information we collect for identification and authentication and fraud prevention, to analyze site usage and improve the service, for internal market research, troubleshooting problems, and as otherwise set forth in this policy
+‍ note that we will never email you to ask for your account information
+if you ever receive such an email, please forward it to contact@getvoiceflow
+we use financial information solely as authorized by you in accordance with the service
+while voiceflow does not store your credit card information and will use commercially reasonable efforts to ensure the security of all credit card and all other personal information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold voiceflow harmless for any damages that may result therefrom
+information we may receive from and share with third parties ‍ we may now or in the future receive personal information about you from third parties
+for example, if you access our site or service through a third-party connection or log-in or connect an application to voiceflow, that third party you connected with may pass certain information about your use of its service to voiceflow
+this information could include, but is not limited to, the user id associated with your account, an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that third-party service
+you should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the service
+voiceflow may also share personal information with its third-party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other service we use to operate the service and maintain a high-quality user experience
+we do not permit our service providers to use the personal information we share for their marketing purposes
+application integration ‍ to facilitate the exchange of data between third-party saas applications, we may need to store certain information (“app credentials”) that helps us access these third-party saas application accounts on your behalf
+we store your app credentials in an encrypted form
+when we access these third-party applications on your behalf, the third-party application provides us with access to certain data
+we will use, store, and disclose this data in accordance with this policy
+‍ you should note that voiceflow shall have no liability or responsibility for the privacy practices or other actions of any third-party applications for which you provide us with app credentials
+other information sharing ‍ we may be required to disclose personal information to respond to subpoenas, court orders, and law enforcement or governmental requests or investigations, or to establish or exercise our legal rights or defend against legal claims
+we may also share personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our terms of service, or as otherwise required by law
+‍ we use or may use information collected by cookies, log files, device identifiers, and clear gifs information to
+(a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site(b) provide custom, personalized content and information(c) to provide and monitor the effectiveness of our service(d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns(e) diagnose or fix technology problems(f) help you efficiently access your information after you sign in(g) to provide advertising to your browser or device, and(h) automatically update the voiceflow service on your mobile devices
+‍ we may share personal information with any member of the voiceflow team, which includes any entity that controls, is controlled by, or under common control with voiceflow
+links to other websites ‍ the service contains links to websites and applications other than the service, including websites and applications operated by affiliates and other third parties
+this policy applies only to information collected by the service
+‍ voiceflow does not endorse and is not responsible for the practices of third parties or their websites or applications
+we do not determine and are not responsible for the privacy practices or the content of websites or applications operated by third parties
+your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies
+we are not responsible for and we do not control any third parties that you authorize to access your user content
+if you are using a third-party website or service and you allow such a third-party access to your user content, you do so at your own risk
+public forums ‍ our service offers publicly accessible blogs and community forums
+if you elect to post something in a public area of our service, any personal information or content that you voluntarily disclose for posting to the service, becomes available to the public, as controlled by any applicable privacy settings
+if you remove information that you posted to the service, copies may remain viewable in cached and archived pages of the service, or if other users have copied or saved that information
+to request removal of your personal information from our blog or community forum, contact us at contact@getvoiceflow
+in some cases, we may not be able to remove all your personal information
+customer testimonials / comments / reviews ‍ from time to time, we post customer testimonials on the sites which may contain personal information
+we always obtain the customers’ consent prior to posting their names along with their testimonials
+protection of information ‍ voiceflow is committed to ensuring the security of your personal information
+we use commercially reasonable technological, physical, and administrative security safeguards, such as firewalls and carefully developed security features, to protect the confidentiality and security of your personal information within the service and the sites
+when you enter confidential information (such as login credentials or information submitted from within the service) we encrypt the transmission of that information using secure socket layer technology (ssl)
+these technologies, procedures, and other measures are used in an effort to ensure that your data is safe, secure, and only available to you and to those you authorized to access your data
+however, no internet, email, or other electronic transmission is ever fully secure or error-free, so you should take care in deciding what information you send to us in this way
+voiceflow is not responsible for the functionality or security measures of any third party
+hosting and data transfer ‍ we are based in canada, but, unless we expressly agree otherwise, we may host, transfer, and process data, including personal information, in canada and in other countries through voiceflow and third parties that we use to operate and manage the service
+these countries may have data protection laws that are different from those of your country of residence
+voiceflow takes appropriate measures to ensure such transfers are in compliance with applicable laws
+choice ‍ we process and store information on behalf of our customers
+you may decline to submit any personal information through the service, in which case we may not be able to provide certain services to you
+please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools
+note that disabling cookies on your mobile device or browser may prevent us or our business partners from tracking your browser’s activities in relation to the service
+however, doing so may disable many of the features available through the service
+correcting and updating your information ‍ customer may update, delete, or change your personal information you have provided voiceflow by logging in to the service and providing such additional information or deleting such information where applicable
+if you are not our customer and would like to gain access to, or request deletion of, information we have collected, please contact us at contact@getvoiceflow
+we will use commercially reasonable efforts to respond to such queries within a reasonable time
+voiceflow has no direct relationship with the individuals or companies (“end users”) with whom you may interact using the service
+any such end users seeking access to, or who would like to correct, amend, or delete data which may be stored in the service should direct their query to the applicable voiceflow customer acting as the data controller for such information
+data retention ‍ voiceflow will retain personal information we process on behalf of our customers or collect directly from our customers for as long as needed to provide service to our customers, subject to our compliance with this policy, or as required or permitted under the applicable law
+we may further retain and use this personal information as necessary to comply with our legal obligations
+maintain accurate accounting, financial, and other operational records
+and enforce our agreements
+we have established internal policies for the deletion of data from customer accounts following termination of a customer’s subscription to the service
+children's personal information ‍ voiceflow does not knowingly collect any personal information from children under the age of 13
+if you are under the age of 13, please do not submit any personal information through our service
+we encourage parents and legal guardians to monitor their children’s internet usage and to help enforce our policy by instructing their children never to provide personal information on our service without their permission
+if you have reason to believe that a child under the age of 13 has provided personal information to voiceflow through our service, please contact us, and we will use commercially reasonable efforts to delete that information from our databases
+your california privacy rights ‍ under california civil code sections 1798
+84, california residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties
+if you are a california resident and would like a copy of this notice, please submit a written request to
+com or storyflow, inc
+, 410 adelaide st w suite 610, toronto, on m5v 1s8
+changes to the privacy policy ‍ we may, in our sole discretion, modify or update this policy from time to time
+if we make any material changes to this policy, we will endeavor to notify you by email or by posting a prominent notice on the sites prior to the change becoming effective
+we encourage you to periodically review this page for the latest information on our privacy practices
+your continued use of the service constitutes your acceptance to such changes to this policy
+if you do not accept the terms of this policy, you should immediately discontinue use of the service
+business transactions ‍ voiceflow may assign or transfer this policy, and your user account and related personal information, to any person or entity that acquires all or substantially all of the business, stock or assets of, or is merged with voiceflow
+we may also transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, or similar transactions or proceedings, provided that the recipient of such information will continue to be bound by the terms of this privacy policy
+contact us ‍ if you have questions regarding this policy or about the privacy practices of voiceflow, please contact us by email at privacy@getvoiceflow
+com , or at
+410 adelaide st w suite 610toronto, on m5v 1s8
+privacy policy effective date
+november 18, 2018 at storyflow, inc
+, (hereinafter, “voiceflow,” “company,” “us,” or “we”), we respect and protect the privacy of visitors to our website, www
+com, and the other websites under the getvoiceflow
+com domain (collectively, the “sites”), and our customers who use our saas product, web design software, tools, and related services (together with the sites, the “service”)
+‍ this global privacy policy (“policy”) explains how we collect, use, disclose, and protect visitors’ and users’ information as part of the service
+any discussion of your use of the service in this policy is meant to include your visits and other interactions with the sites and services, whether or not you are a user of voiceflow’s saas product
+‍ by accessing and using our service, you signify your acceptance to the terms of this privacy policy
+if you do not agree with or you are not comfortable with any aspect of this privacy policy, you should immediately discontinue access or use of our services
+what “personal information” means ‍ in this policy, “personal information” means information or an information set that identifies or could be used to identify an individual directly or indirectly
+except as described in this policy, voiceflow will not give, sell, rent, or loan any personal information to any third party
+personal information does not include “usage data” which we define as encoded or anonymized information or aggregated data we collect about a group or category of services, features, or users which does not contain personally identifying information
+usage data helps us understand trends in usage of the service so that we can better consider new features or otherwise tailor the service
+in addition to collecting and using usage data ourselves, we may share usage data with third parties, including our customers, partners and service providers, for various purposes, including to help us better understand our customers’ needs and improve the service as well as for advertising and marketing purposes
+how we collect, use, and share your personal information and other information
+information you provide to us ‍ when you register for the service, we may ask for personal information such as your name, email address, or credit card or other billing information
+you may also provide at your own discretion certain related information like your personal website name, social media websites, your employment information, the date you started using the service, and a description of yourself
+additionally, as you employ the sites to create voice apps, the software continuously saves changes made by you with the server and will document items such as when you are working and saving changes, when you last opened the services, when voice apps are published, or when you perform certain tasks
+‍ we may also retain the contents of any messages you send to us or through the service, and we may collect information you provide in user content that you post or upload to the service (“user content”)
+‍ voiceflow may use personal information provided to operate, improve upon, and personalize the service, for billing identification and authentication, to contact and communicate with you about the service and your use of the service, to support use of the service, to send marketing materials for research purposes, and to generally improve the content and functionality of the service
+‍ we may also combine your personal information with third-party analytics information to build a broader profile of our individual users so that we can serve you better and provide custom, personalized content and information
+additionally, we may use the personal information we collect for identification and authentication and fraud prevention, to analyze site usage and improve the service, for internal market research, troubleshooting problems, and as otherwise set forth in this policy
+‍ note that we will never email you to ask for your account information
+if you ever receive such an email, please forward it to contact@getvoiceflow
+we use financial information solely as authorized by you in accordance with the service
+while voiceflow does not store your credit card information and will use commercially reasonable efforts to ensure the security of all credit card and all other personal information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold voiceflow harmless for any damages that may result therefrom
+information we may receive from and share with third parties ‍ we may now or in the future receive personal information about you from third parties
+for example, if you access our site or service through a third-party connection or log-in or connect an application to voiceflow, that third party you connected with may pass certain information about your use of its service to voiceflow
+this information could include, but is not limited to, the user id associated with your account, an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that third-party service
+you should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the service
+voiceflow may also share personal information with its third-party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other service we use to operate the service and maintain a high-quality user experience
+we do not permit our service providers to use the personal information we share for their marketing purposes
+application integration ‍ to facilitate the exchange of data between third-party saas applications, we may need to store certain information (“app credentials”) that helps us access these third-party saas application accounts on your behalf
+we store your app credentials in an encrypted form
+when we access these third-party applications on your behalf, the third-party application provides us with access to certain data
+we will use, store, and disclose this data in accordance with this policy
+‍ you should note that voiceflow shall have no liability or responsibility for the privacy practices or other actions of any third-party applications for which you provide us with app credentials
+other information sharing ‍ we may be required to disclose personal information to respond to subpoenas, court orders, and law enforcement or governmental requests or investigations, or to establish or exercise our legal rights or defend against legal claims
+we may also share personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our terms of service, or as otherwise required by law
+‍ we use or may use information collected by cookies, log files, device identifiers, and clear gifs information to
+(a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site(b) provide custom, personalized content and information(c) to provide and monitor the effectiveness of our service(d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns(e) diagnose or fix technology problems(f) help you efficiently access your information after you sign in(g) to provide advertising to your browser or device, and(h) automatically update the voiceflow service on your mobile devices
+‍ we may share personal information with any member of the voiceflow team, which includes any entity that controls, is controlled by, or under common control with voiceflow
+links to other websites ‍ the service contains links to websites and applications other than the service, including websites and applications operated by affiliates and other third parties
+this policy applies only to information collected by the service
+‍ voiceflow does not endorse and is not responsible for the practices of third parties or their websites or applications
+we do not determine and are not responsible for the privacy practices or the content of websites or applications operated by third parties
+your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies
+we are not responsible for and we do not control any third parties that you authorize to access your user content
+if you are using a third-party website or service and you allow such a third-party access to your user content, you do so at your own risk
+public forums ‍ our service offers publicly accessible blogs and community forums
+if you elect to post something in a public area of our service, any personal information or content that you voluntarily disclose for posting to the service, becomes available to the public, as controlled by any applicable privacy settings
+if you remove information that you posted to the service, copies may remain viewable in cached and archived pages of the service, or if other users have copied or saved that information
+to request removal of your personal information from our blog or community forum, contact us at contact@getvoiceflow
+in some cases, we may not be able to remove all your personal information
+customer testimonials / comments / reviews ‍ from time to time, we post customer testimonials on the sites which may contain personal information
+we always obtain the customers’ consent prior to posting their names along with their testimonials
+protection of information ‍ voiceflow is committed to ensuring the security of your personal information
+we use commercially reasonable technological, physical, and administrative security safeguards, such as firewalls and carefully developed security features, to protect the confidentiality and security of your personal information within the service and the sites
+when you enter confidential information (such as login credentials or information submitted from within the service) we encrypt the transmission of that information using secure socket layer technology (ssl)
+these technologies, procedures, and other measures are used in an effort to ensure that your data is safe, secure, and only available to you and to those you authorized to access your data
+however, no internet, email, or other electronic transmission is ever fully secure or error-free, so you should take care in deciding what information you send to us in this way
+voiceflow is not responsible for the functionality or security measures of any third party
+hosting and data transfer ‍ we are based in canada, but, unless we expressly agree otherwise, we may host, transfer, and process data, including personal information, in canada and in other countries through voiceflow and third parties that we use to operate and manage the service
+these countries may have data protection laws that are different from those of your country of residence
+voiceflow takes appropriate measures to ensure such transfers are in compliance with applicable laws
+choice ‍ we process and store information on behalf of our customers
+you may decline to submit any personal information through the service, in which case we may not be able to provide certain services to you
+please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools
+note that disabling cookies on your mobile device or browser may prevent us or our business partners from tracking your browser’s activities in relation to the service
+however, doing so may disable many of the features available through the service
+correcting and updating your information ‍ customer may update, delete, or change your personal information you have provided voiceflow by logging in to the service and providing such additional information or deleting such information where applicable
+if you are not our customer and would like to gain access to, or request deletion of, information we have collected, please contact us at contact@getvoiceflow
+we will use commercially reasonable efforts to respond to such queries within a reasonable time
+voiceflow has no direct relationship with the individuals or companies (“end users”) with whom you may interact using the service
+any such end users seeking access to, or who would like to correct, amend, or delete data which may be stored in the service should direct their query to the applicable voiceflow customer acting as the data controller for such information
+data retention ‍ voiceflow will retain personal information we process on behalf of our customers or collect directly from our customers for as long as needed to provide service to our customers, subject to our compliance with this policy, or as required or permitted under the applicable law
+we may further retain and use this personal information as necessary to comply with our legal obligations
+maintain accurate accounting, financial, and other operational records
+and enforce our agreements
+we have established internal policies for the deletion of data from customer accounts following termination of a customer’s subscription to the service
+children's personal information ‍ voiceflow does not knowingly collect any personal information from children under the age of 13
+if you are under the age of 13, please do not submit any personal information through our service
+we encourage parents and legal guardians to monitor their children’s internet usage and to help enforce our policy by instructing their children never to provide personal information on our service without their permission
+if you have reason to believe that a child under the age of 13 has provided personal information to voiceflow through our service, please contact us, and we will use commercially reasonable efforts to delete that information from our databases
+your california privacy rights ‍ under california civil code sections 1798
+84, california residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties
+if you are a california resident and would like a copy of this notice, please submit a written request to
+com or storyflow, inc
+, 410 adelaide st w suite 610, toronto, on m5v 1s8
+changes to the privacy policy ‍ we may, in our sole discretion, modify or update this policy from time to time
+if we make any material changes to this policy, we will endeavor to notify you by email or by posting a prominent notice on the sites prior to the change becoming effective
+we encourage you to periodically review this page for the latest information on our privacy practices
+your continued use of the service constitutes your acceptance to such changes to this policy
+if you do not accept the terms of this policy, you should immediately discontinue use of the service
+business transactions ‍ voiceflow may assign or transfer this policy, and your user account and related personal information, to any person or entity that acquires all or substantially all of the business, stock or assets of, or is merged with voiceflow
+we may also transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, or similar transactions or proceedings, provided that the recipient of such information will continue to be bound by the terms of this privacy policy
+contact us ‍ if you have questions regarding this policy or about the privacy practices of voiceflow, please contact us by email at privacy@getvoiceflow
+com , or at
+410 adelaide st w suite 610toronto, on m5v 1s8

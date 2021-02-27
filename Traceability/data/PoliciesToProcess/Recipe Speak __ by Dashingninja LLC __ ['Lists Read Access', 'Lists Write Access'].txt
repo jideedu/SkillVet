@@ -1,0 +1,200 @@
+last updated dec 21 2017
+this dashingninja privacy policy (this "policy") explains how personal information is collected, used, and disclosed by dashingninja, llc ("dashingninja" or "we")
+this policy applies to consumer users (individually referred to as "you") of dashingninja’s websites, applications, alexa skills like recipespeak and other online services (collectively, our "sites")
+other third parties, such as amazon, the provider of the alexa platform, that you use in connection with our sites, may also collect, use, and share information about you
+this policy does not cover such third parties or their services
+for information about third-party privacy practices, please consult with them directly
+we collect information about you in various ways when you use our sites
+we use this information to, among other things, provide the functionality and improve the quality of our sites and personalize your experience
+for example, we may collect your name, email address, postal address, phone number (including your mobile phone number), billing information, survey responses, demographics, passwords, and other information you provide on our sites
+if you use our mobile application, we may also collect your mobile device id, your precise location data
+for certain services on our sites, from time to time, credit or debit card account information may be required
+we may also obtain information from other sources, such as third-party websites, applications, and services (each, a "third-party platform"), through which you connect with our sites and combine that with information we collect on our sites
+when you visit our sites, some information is automatically collected
+for example, when you visit our sites, we may automatically collect your location, computer operating system, internet protocol (ip) address, access times, browser type and language, and the website you visited before our sites
+we also collect information about your usage and activity on our sites using certain technologies, such as
+we may automatically collect information using "cookies" and similar technology
+cookies are small data files that may have unique identifiers and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages
+among other things, cookies help us improve our sites and your experience
+we use cookies to see which areas and features of our sites are popular and to count visits to our sites
+we may access information contained in cookies placed on your device by a third-party platform as permitted by the terms of your agreement and privacy settings with such third-party platform
+we may share this information with the third-party platform for its use as permitted by the terms of your agreement and privacy settings with such third-party platform
+we may collect information using web beacons
+web beacons are electronic images that may be used on our sites or in our emails
+we use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness, and tell whether you open an email and act upon it
+we currently do not employ technology that recognizes "do-not-track" signals from your browser
+we may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our sites
+how we use information we collect
+we use personal information collected through our sites for the purposes described in this policy or disclosed to you on our sites or otherwise in connection with our services
+for example, we may use your information to
+make and change your restaurant reservations or place takeout orders on your behalf through our sites
+offer you, or provide you with, products and services
+email dashingninja confirmations to designated recipients
+operate and improve our sites, products, and services
+understand you and your preferences to enhance, personalize, and customize your experience and enjoyment using our sites, products, and services, such as understanding your dining history to make recommendations about other restaurants you may like
+respond to your comments and questions and provide customer service
+send you information relating to our products and services, including reservation confirmations, receipts, technical notices, updates, security alerts, and support and administrative messages
+communicate with you about contests, offers, promotions, rewards, upcoming events, and other news about products and services offered by dashingninja, our subsidiaries, and affiliates
+and our other selected partners
+link or combine with other personal information we get from third parties to help understand your needs and provide you with better service
+authenticate your credit or debit card account information
+and protect, investigate, and deter against fraudulent, unauthorized, or illegal activity
+by providing your mobile phone number, you expressly consent to receive direct dial calls, autodialed and prerecorded message calls, and text messages from us relating to our product and services at that number
+dashingninja may store and process personal information in the united states and other countries
+to use certain services on our sites, we may require credit or debit card account information
+by submitting your credit or debit card account information through our sites, you expressly consent to the sharing of your information with third-party payment processors, and other third-party service providers (including but not limited to vendors who provide fraud detection services to us and other third parties), and you further agree to the following terms
+for information about the security of your credit or debit card account information, see section called "security of your personal information" below
+information you share socially
+our sites may allow you to connect and share your actions, comments, content, and information publicly or with friends
+our sites may also allow you to connect with us on, share on, and use third-party platforms, including those on which dashingninja has a presence
+please be mindful of your personal privacy needs and the privacy needs of others as you choose whom to connect with and what to share and make public
+we cannot control the privacy or security of information you choose to make public or share with others
+dashingninja also does not control the privacy practices of third-party platforms
+please contact those sites and services directly if you want to learn about their privacy practices
+we do not share your personal information with third parties other than as described above and as follows
+we may share personal information when you authorize us to share your information with other third parties (such as other businesses you connect with through our sites) for their own marketing purposes, which are subject to the separate privacy policies of such third parties
+we may share personal information with affiliates, third-party vendors, consultants, and other service providers who work for us
+such third-party vendors may include vendors who provide fraud detection services to us and other third parties
+we may share your credit or debit card account information with third parties as described in the section called "payment card information" above
+we may share aggregate statistical data for the improvement of services offered by our sites
+we share personal information with third parties who provide services to us, such as data collection, reporting, ad response measurement, and site analytics, as well as assistance with delivery of relevant marketing messages and advertisements
+these third parties may view, edit, or set their own cookies
+we and our third-party service providers, advertisers, and/or partners may also place web beacons for these third parties
+the use of these technologies by these third parties is subject to their own privacy policies and is not covered by this policy
+we may disclose your personal information (i) to comply with laws and to respond to lawful requests and legal process, (ii) to protect the rights and property of dashingninja, our agents and customers, and others, including to enforce our agreements, policies, and terms of use, and (iii) in an emergency to protect the personal safety of dashingninja, its customers, or any person
+we may disclose or transfer your personal information to a third party if we sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding
+we may also share aggregated or de-identified information with third parties in our discretion
+security of your personal information
+dashingninja takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction
+to be clear, dashingninja does not itself store your credit or debit card account information, and we do not have direct control over or responsibility for your credit or debit card account information
+our contracts with third parties that receive your credit or debit card account information require them to keep it secure and confidential
+nonetheless, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by dashingninja or our third-party service providers
+we assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control
+you play an important role in keeping your personal information secure
+you should not share your personal, financial, and security information related to your dashingninja activity with anyone
+if we receive instructions, related to the above matters, we will consider that you have authorized the instructions
+your information choices and changes
+you may opt out of receiving promotional emails from dashingninja by following the instructions in those emails
+if you opt out, we may still send you non-promotional emails, such as emails about your dashingninja/recipespeak account or our ongoing business relations
+you may also send requests about your contact preferences or changes to your information, including requests to opt out of sharing your personal information with third parties, to our contact information below
+most web browsers are set to accept cookies by default
+if you prefer, you can usually choose to set your browser to remove cookies and to reject cookies
+if you choose to remove cookies or reject cookies, this could affect certain features or services of our sites
+most mobile devices allow you to turn off location services
+for more information about how to do this, please contact your mobile service carrier or your device manufacturer
+if you choose to turn off location services, this could affect certain features or services of our sites
+for questions about accessing, changing, or deleting your personal information, please contact info@dashingninja
+com for questions or opinions on this policy, please contact dashingninja via email at info@dashingninja
+notice to california residents
+your california privacy rights (as provided by california civil code section 1798
+83) a california resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (a "california customer") may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes, subject to certain exceptions
+in general, again, subject to certain exceptions, if the business has made such a disclosure of personal information, upon receipt of a request by a california customer, the business is required to provide a list of all third parties to whom it disclosed personal information in the preceding calendar year, as well as a list of the categories of personal information that were disclosed
+one of the exceptions allows dashingninja to provide california customers a cost-free means to opt out of these disclosures instead of providing such list
+any customer may request to opt out of these disclosures by contacting dashingninja as described above
+california customers may also request further information about our compliance with this law by contacting us at our address above
+changes to this policy
+dashingninja may update or revise this policy from time to time
+you agree that you will review this policy periodically
+if we make any changes to this policy, we will change the "last updated" date above
+you are free to decide whether or not to accept a modified version of this policy, but accepting this policy, as modified, is required for you to continue using our sites
+if you do not agree to the terms of this policy or any modified version of this policy, your sole recourse is to terminate your use of our sites
+last updated dec 21 2017
+this dashingninja privacy policy (this "policy") explains how personal information is collected, used, and disclosed by dashingninja, llc ("dashingninja" or "we")
+this policy applies to consumer users (individually referred to as "you") of dashingninja’s websites, applications, alexa skills like recipespeak and other online services (collectively, our "sites")
+other third parties, such as amazon, the provider of the alexa platform, that you use in connection with our sites, may also collect, use, and share information about you
+this policy does not cover such third parties or their services
+for information about third-party privacy practices, please consult with them directly
+we collect information about you in various ways when you use our sites
+we use this information to, among other things, provide the functionality and improve the quality of our sites and personalize your experience
+for example, we may collect your name, email address, postal address, phone number (including your mobile phone number), billing information, survey responses, demographics, passwords, and other information you provide on our sites
+if you use our mobile application, we may also collect your mobile device id, your precise location data
+for certain services on our sites, from time to time, credit or debit card account information may be required
+we may also obtain information from other sources, such as third-party websites, applications, and services (each, a "third-party platform"), through which you connect with our sites and combine that with information we collect on our sites
+when you visit our sites, some information is automatically collected
+for example, when you visit our sites, we may automatically collect your location, computer operating system, internet protocol (ip) address, access times, browser type and language, and the website you visited before our sites
+we also collect information about your usage and activity on our sites using certain technologies, such as
+we may automatically collect information using "cookies" and similar technology
+cookies are small data files that may have unique identifiers and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages
+among other things, cookies help us improve our sites and your experience
+we use cookies to see which areas and features of our sites are popular and to count visits to our sites
+we may access information contained in cookies placed on your device by a third-party platform as permitted by the terms of your agreement and privacy settings with such third-party platform
+we may share this information with the third-party platform for its use as permitted by the terms of your agreement and privacy settings with such third-party platform
+we may collect information using web beacons
+web beacons are electronic images that may be used on our sites or in our emails
+we use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness, and tell whether you open an email and act upon it
+we currently do not employ technology that recognizes "do-not-track" signals from your browser
+we may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our sites
+how we use information we collect
+we use personal information collected through our sites for the purposes described in this policy or disclosed to you on our sites or otherwise in connection with our services
+for example, we may use your information to
+make and change your restaurant reservations or place takeout orders on your behalf through our sites
+offer you, or provide you with, products and services
+email dashingninja confirmations to designated recipients
+operate and improve our sites, products, and services
+understand you and your preferences to enhance, personalize, and customize your experience and enjoyment using our sites, products, and services, such as understanding your dining history to make recommendations about other restaurants you may like
+respond to your comments and questions and provide customer service
+send you information relating to our products and services, including reservation confirmations, receipts, technical notices, updates, security alerts, and support and administrative messages
+communicate with you about contests, offers, promotions, rewards, upcoming events, and other news about products and services offered by dashingninja, our subsidiaries, and affiliates
+and our other selected partners
+link or combine with other personal information we get from third parties to help understand your needs and provide you with better service
+authenticate your credit or debit card account information
+and protect, investigate, and deter against fraudulent, unauthorized, or illegal activity
+by providing your mobile phone number, you expressly consent to receive direct dial calls, autodialed and prerecorded message calls, and text messages from us relating to our product and services at that number
+dashingninja may store and process personal information in the united states and other countries
+to use certain services on our sites, we may require credit or debit card account information
+by submitting your credit or debit card account information through our sites, you expressly consent to the sharing of your information with third-party payment processors, and other third-party service providers (including but not limited to vendors who provide fraud detection services to us and other third parties), and you further agree to the following terms
+for information about the security of your credit or debit card account information, see section called "security of your personal information" below
+information you share socially
+our sites may allow you to connect and share your actions, comments, content, and information publicly or with friends
+our sites may also allow you to connect with us on, share on, and use third-party platforms, including those on which dashingninja has a presence
+please be mindful of your personal privacy needs and the privacy needs of others as you choose whom to connect with and what to share and make public
+we cannot control the privacy or security of information you choose to make public or share with others
+dashingninja also does not control the privacy practices of third-party platforms
+please contact those sites and services directly if you want to learn about their privacy practices
+we do not share your personal information with third parties other than as described above and as follows
+we may share personal information when you authorize us to share your information with other third parties (such as other businesses you connect with through our sites) for their own marketing purposes, which are subject to the separate privacy policies of such third parties
+we may share personal information with affiliates, third-party vendors, consultants, and other service providers who work for us
+such third-party vendors may include vendors who provide fraud detection services to us and other third parties
+we may share your credit or debit card account information with third parties as described in the section called "payment card information" above
+we may share aggregate statistical data for the improvement of services offered by our sites
+we share personal information with third parties who provide services to us, such as data collection, reporting, ad response measurement, and site analytics, as well as assistance with delivery of relevant marketing messages and advertisements
+these third parties may view, edit, or set their own cookies
+we and our third-party service providers, advertisers, and/or partners may also place web beacons for these third parties
+the use of these technologies by these third parties is subject to their own privacy policies and is not covered by this policy
+we may disclose your personal information (i) to comply with laws and to respond to lawful requests and legal process, (ii) to protect the rights and property of dashingninja, our agents and customers, and others, including to enforce our agreements, policies, and terms of use, and (iii) in an emergency to protect the personal safety of dashingninja, its customers, or any person
+we may disclose or transfer your personal information to a third party if we sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding
+we may also share aggregated or de-identified information with third parties in our discretion
+security of your personal information
+dashingninja takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction
+to be clear, dashingninja does not itself store your credit or debit card account information, and we do not have direct control over or responsibility for your credit or debit card account information
+our contracts with third parties that receive your credit or debit card account information require them to keep it secure and confidential
+nonetheless, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by dashingninja or our third-party service providers
+we assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control
+you play an important role in keeping your personal information secure
+you should not share your personal, financial, and security information related to your dashingninja activity with anyone
+if we receive instructions, related to the above matters, we will consider that you have authorized the instructions
+your information choices and changes
+you may opt out of receiving promotional emails from dashingninja by following the instructions in those emails
+if you opt out, we may still send you non-promotional emails, such as emails about your dashingninja/recipespeak account or our ongoing business relations
+you may also send requests about your contact preferences or changes to your information, including requests to opt out of sharing your personal information with third parties, to our contact information below
+most web browsers are set to accept cookies by default
+if you prefer, you can usually choose to set your browser to remove cookies and to reject cookies
+if you choose to remove cookies or reject cookies, this could affect certain features or services of our sites
+most mobile devices allow you to turn off location services
+for more information about how to do this, please contact your mobile service carrier or your device manufacturer
+if you choose to turn off location services, this could affect certain features or services of our sites
+for questions about accessing, changing, or deleting your personal information, please contact info@dashingninja
+com for questions or opinions on this policy, please contact dashingninja via email at info@dashingninja
+notice to california residents
+your california privacy rights (as provided by california civil code section 1798
+83) a california resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (a "california customer") may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes, subject to certain exceptions
+in general, again, subject to certain exceptions, if the business has made such a disclosure of personal information, upon receipt of a request by a california customer, the business is required to provide a list of all third parties to whom it disclosed personal information in the preceding calendar year, as well as a list of the categories of personal information that were disclosed
+one of the exceptions allows dashingninja to provide california customers a cost-free means to opt out of these disclosures instead of providing such list
+any customer may request to opt out of these disclosures by contacting dashingninja as described above
+california customers may also request further information about our compliance with this law by contacting us at our address above
+changes to this policy
+dashingninja may update or revise this policy from time to time
+you agree that you will review this policy periodically
+if we make any changes to this policy, we will change the "last updated" date above
+you are free to decide whether or not to accept a modified version of this policy, but accepting this policy, as modified, is required for you to continue using our sites
+if you do not agree to the terms of this policy or any modified version of this policy, your sole recourse is to terminate your use of our sites

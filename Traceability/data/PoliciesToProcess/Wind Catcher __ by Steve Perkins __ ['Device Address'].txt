@@ -1,0 +1,23 @@
+search this site redalexa wind catcher ask alexa how windy it is
+the wind catcher skill for alexa tells you if it's windy out today - with a little personality
+runners, boaters, quadcopter pilots, and kite-flyers in the united states who want to know if it's windy before heading out can use this skill to find out, or just stand outside for a minute instead
+"alexa, open wind catcher" wind speed is a boring number but an important factor when you're getting ready to do something outside
+hear the wind speed near you in 90+ different ways based on the current wind level in your zip code
+"alexa, ask wind catcher if my hair will be okay" not just for quadcopter pilots anymore, wind catcher lets you get to the important things
+now you can get an informed opinion of whether you should wear a hat, scrap your pontoon boat plans, or go fly a kite right now
+it's like having a magic crystal ball that only does one thing, but has a random chance of bringing a smile to your face
+"alexa, ask wind catcher 'will i hate running'" wind catcher requires access to your postal code in order to determine how windy it is near your location
+weather data is provided by http
+"alexa, ask wind catcher 'should i go jogging'" wind catcher does the same thing (report wind in your zip code) no matter what you ask it, but here are just some of the 90+ ways you can launch it
+alexa, ask wind catcher how windy it is alexa, tell wind catcher to get wind alexa, ask wind catcher for wind alexa, open wind catcher alexa, ask wind catcher to get windy alexa, tell wind catcher to search for wind alexa, ask wind catcher for the weather, alexa, ask wind catcher what it's like out there alexa, ask wind catcher if it's windy alexa, ask wind catcher if it's windy out alexa, ask wind catcher if it's windy today alexa, ask wind catcher what it's like today alexa, ask wind catcher how's the wind today alexa, ask wind catcher how windy is it alexa, ask wind catcher how fast is the wind alexa, ask wind catcher if it's windy right now alexa, ask wind catcher for the wind alexa, tell wind catcher to test the wind alexa, ask wind catcher for wind alexa, ask wind catcher do i need a hat
+alexa, ask wind catcher will my hat survive
+alexa, ask wind catcher to get me an accurate forecast alexa, ask wind catcher is it okay to go outside alexa, ask wind catcher is it okay to run alexa, ask wind catcher should i go running
+alexa, ask wind catcher should i go jogging
+privacy policy another boring but important part
+although the wind catcher alexa skill gets your zip code from amazon, it's only ever used to get weather data for your location
+no other information about you or your alexa echo, tap, dot, show, or look device is used or stored, and of course nothing is ever shared with third parties
+your data is yours and there's no super-secret plot to create a list of zip codes of alexa device owners who have an interest in the wind
+google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

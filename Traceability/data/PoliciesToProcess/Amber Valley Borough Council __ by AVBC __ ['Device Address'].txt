@@ -1,0 +1,360 @@
+this website uses cookies we use cookies to analyse our traffic, personalise content and ads, and to provide social media features
+we also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+you consent to our cookies if you continue to use our website
+learn more about how we process personal data in our privacy policy
+[#ooi_personal_information#] use necessary cookies only allow all cookies show details ok use necessary cookies only allow selection allow all cookies necessary preferences statistics marketing show details cookie declaration [#iabsettings#] [#iabv2settings#] about cookies
+unclassified (3) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type __lc_cid livechat necessary for the functionality of the website's chat-box function
+3 years http __lc_cst livechat necessary for the functionality of the website's chat-box function
+3 years http __lc2_cid livechat stores a unique id string for each chat-box session
+this allows the website-support to see previous issues and reconnect with the previous supporter
+3 years http __lc2_cst livechat stores a unique id string for each chat-box session
+this allows the website-support to see previous issues and reconnect with the previous supporter
+3 years http __oauth_redirect_detector livechat allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+1 day http __requestverificationtoken amber valley county council helps prevent cross-site request forgery (csrf) attacks
+session http _ga google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http asp
+net_sessionid amber valley county council preserves the visitor's session state across page requests
+session http cookieconsent cookiebot stores the user's cookie consent state for the current domain 1 year http casid livechat allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+session http consent google used to detect if the visitor has accepted the marketing category in the cookie banner
+this cookie is necessary for gdpr-compliance of the website
+6375 days http rc
+a google this cookie is used to distinguish between humans and bots
+this is beneficial for the website, in order to make valid reports on the use of their website
+c google used in context with video-advertisement
+the cookie limits the number of times a visitor is shown the same advertisement-content
+the cookie is also used to ensure relevance of the video-advertisement to the specific visitor
+session html __livechat livechat used to hide the user's personal customisation of livechat
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+we do not use cookies of this type
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type _gat google tag manager used by google analytics to throttle request rate 1 day http _gid google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http collect google used to send data to google analytics about the visitor's device and behavior
+tracks the visitor across devices and marketing channels
+session pixel _livechat_has_visited livechat identifies the visitor across devices and visits, in order to optimize the chat-box function on the website
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type ide google used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http test_cookie google used to check if the user's browser supports cookies
+1 day http 1p_jar google collects information on visitor behaviour on multiple websites
+this information is used on the website, in order to optimize the relevance of advertisement
+29 days http ads/ga-audiences google used by google adwords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+session pixel nid google registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+6 months http gps youtube registers a unique id on mobile devices to enable tracking based on geographical gps location
+1 day http visitor_info1_live youtube tries to estimate the users' bandwidth on pages with integrated youtube videos
+179 days http ysc youtube registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube stores the user's video player preferences using embedded youtube video session html
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type @@lc_auth_token
+5092731 livechat pending persistent html 5092731
+state livechat pending persistent html side_storage_5092731 livechat pending persistent html
+[#iabv2_label_partners#] [#iabv2_body_purposes#] [#iabv2_body_features#] [#iabv2_body_partners#] cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+you can at any time change or withdraw your consent from the cookie declaration on our website
+learn more about who we are, how you can contact us and how we process personal data in our privacy policy
+cookie declaration last updated on 18/07/2020 by cookiebot
+rubbish, waste and recycling
+if you cannot see the search box you will need to amend your cookie consent to allow marketing cookies
+with coronavirus (covid-19) now affecting many areas of our services to the residents and businesses of amber valley, we are keen to keep you right up-to-date with the changes we are being forced to make
+read more about your council services
+your privacy – keeping your personal information safe
+amber valley borough council is committed to protecting your privacy when you use our services
+the privacy notice below explains how we use information about you and how we protect your privacy
+we have a data protection officer who makes sure we respect your rights and follow the law
+if you have any concerns or questions about how we look after your personal information, please contact the data protection officer – email
+or by calling 01773 841430
+personal information can be anything that identifies and relates to a living person
+this can include information that when put together with other information can then identify a person
+for example, this could be your name and contact details
+some of your personal information is classed as ‘special information’
+some information is ‘special’ and needs more protection due to its sensitivity
+it is often information you would not want widely known and is very personal to you
+this is likely to include anything that can reveal your
+sexuality and sexual health
+religious or philosophical beliefs
+physical or mental health
+why do we need your personal information
+we may need to use some information about you to
+deliver services and support to you
+manage those services we provide to you
+help investigate any worries or complaints you have about your services
+keep track of spending on services
+check the quality of services
+to help with research and planning of new services
+how the law allows us to use your personal information
+there are a number of legal reasons why we need to collect and use your personal information
+each service area will have a privacy notice if it is necessary to collect and use your personal information in providing that service
+generally we collect and use personal information where
+you or your legal representative have given consent
+you have entered into a contract with us
+it is necessary to perform our statutory duties
+it is necessary to protect someone in an emergency
+it is required by law
+it is necessary for employment purposes
+you have made your information publicly available
+it is necessary for legal cases
+it is to the benefit of society as a whole
+it is necessary to protect public health
+it is necessary for archiving, research, or statistical purposes
+if we have consent to use your personal information, you have the right to remove it at any time
+if you want to remove your consent, please contact
+and tell us which service you are using so we can deal with your request
+we only use what we need
+we will only collect and use personal information if we need it to deliver a service or meet a requirement
+your rights as a data subject - what you can do with your information
+the law gives you a number of rights to control what personal information is used by us and how it is used by us
+subject access requests – the right of access
+if we are processing your personal information you can ask for a copy that information – this is known as a subject access request
+requests should be made in writing and you will be asked to fill in a request form
+you are only entitled to your own personal data, and not to information about other people
+before you are provided with your personal information you will be asked to provide two forms of identity to enable us to ensure that we are giving the information to the right person
+there is usually no charge for providing this information, however a reasonable fee to cover administrative costs may be charged if the work involved in providing the information is excessive
+in certain circumstances the law exempts organisations from providing personal data requested as part of a subject access request, for example if the data has been processed for the prevention and detection of crime, the prosecution of offenders or the assessment of tax then it may not be disclosed to you following a subject access request if disclosure is likely to prejudice any of the above purposes
+you can ask us to change information you think is inaccurate – the right of rectification
+if you think that the information we hold about you is inaccurate or incomplete you can ask us to put things right or provide us with additional information to make the data complete – this is called the right of rectification
+we may not always be able to change or remove that information but we will correct factual inaccuracies and may include your comments in the record to show that you disagree with it
+you can ask us to delete information – the right to erasure
+in certain circumstances you may have the right to have your personal data erased
+this is sometimes known as the “right to be forgotten
+” this is not an automatic right
+you cannot simply request that the council, or any other organisation, deletes all your personal data and expect it to automatically comply with your request as this right only applies in certain circumstances
+this right applies to information held by the council if
+it is no longer needed for the purpose for which it was initially collected
+you initially gave consent for your information to be used and you withdraw that consent
+it did not have a legal basis for processing your information in the first place
+the law says that certain information should be erased
+the right to have data erased will not apply in all cases
+for example, it will not apply if there is a legal obligation to continue to process the data, if it is necessary for the collection of local taxation, or if it is needed for legal proceedings, or for certain other duties undertaken by a public authority
+you can ask to limit what we use your personal data for - the right to restrict processing
+in addition to your right to ask for your data to be erased you also have the right to ask that the council stops processing your data on a temporary basis
+your data won’t be erased, but instead we will not process it further until we have considered your request
+you can ask us to temporarily restrict processing if
+you think that there may be an inaccuracy with the personal information the council holds about you and you want the council to check this out
+the council did not have a legal basis for processing your information in the first place, but you don’t want us to erase your data
+the council no longer needs to keep your data, but you want us to as it is needed for legal proceedings
+you have objected to the council processing your data and it is investigating whether its legitimate grounds for doing so override your rights as an individual
+like the right to erasure, the right to ask us to restrict processing will not be applied in all cases
+we may not comply with your request if we need to process your information as part of legal proceedings, to protect the rights of another person, or for reasons of important public interest, or if the request is unfounded or excessive
+the right to object
+in certain circumstances you have the right to object to the council processing your personal data
+this right only applies in certain circumstances
+you should explain why you think processing of your personal information is causing you substantial damage or distress, giving as much information as possible to enable the council to make a decision on your request
+your right to object will not be applied if your data is being processed as part of legal proceedings or if legitimate grounds for processing outweigh the rights and interest of you as an individual or if the request is unfounded or excessive
+who do we share your information with
+we work with other organisations to help deliver our services to you
+where we have these arrangements, there is always an agreement in place to make sure that the organisation complies with data protection law
+sometimes we have a legal duty to provide personal information to other organisations
+we may also share your personal information when we feel there is a good reason that is more important than protecting your privacy
+this doesn’t happen often, but we may share your information in order to find and stop crime and fraud
+or if there are serious risks to the public, our staff or to other professionals
+to protect those who are thought to be at risk, for example if they are frail, confused or cannot understand what is happening to them
+for all of these reasons the risk must be serious before we can override your right to privacy
+how do we protect your information
+we make sure we hold records about you (on paper and electronically) in a secure way, and we will only make them available to those who have a right to see them
+examples of our security include
+encryption, meaning that information is hidden so that it cannot be read without special knowledge (such as a password)
+controlling access to systems and networks allows us to stop people who are not allowed to view your personal information from getting access to it
+training for our staff allows us to make them aware of how to handle information and how and when to report when something goes wrong
+regular testing of our technology and ways of working including keeping up to date on the latest security updates
+how long do we keep your personal information
+there is often a legal reason for keeping your personal information for a set period of time, we include all of these in our retention schedule
+for each service the schedule lists how long your information may be kept for
+where can i get advice
+if you have any worries or questions about how your personal information is handled please contact our data protection officer at
+or by calling 01773 841430
+for independent advice about data protection, privacy and data sharing issues, you can contact the information commissioner’s office (ico) at
+information commissioner's office, wycliffe house, water lane, wilmslow, cheshire sk9 5af
+0303 123 1113 (local rate) or 01625 545 745 if you prefer to use a national rate number
+need further help or information
+contact the team directly on 01773 841430 or email dpo@ambervalley
+pages in data protection
+how to get in touch
+did this page help you with your query or service request
+to help us improve our site please give a brief explanation of your rating
+if you have a general comment or complaint about the council's services, please visit our comments or complaints page
+© amber valley borough council 2020
+this website uses cookies we use cookies to analyse our traffic, personalise content and ads, and to provide social media features
+we also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+you consent to our cookies if you continue to use our website
+learn more about how we process personal data in our privacy policy
+[#ooi_personal_information#] use necessary cookies only allow all cookies show details ok use necessary cookies only allow selection allow all cookies necessary preferences statistics marketing show details cookie declaration [#iabsettings#] [#iabv2settings#] about cookies
+unclassified (3) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type __lc_cid livechat necessary for the functionality of the website's chat-box function
+3 years http __lc_cst livechat necessary for the functionality of the website's chat-box function
+3 years http __lc2_cid livechat stores a unique id string for each chat-box session
+this allows the website-support to see previous issues and reconnect with the previous supporter
+3 years http __lc2_cst livechat stores a unique id string for each chat-box session
+this allows the website-support to see previous issues and reconnect with the previous supporter
+3 years http __oauth_redirect_detector livechat allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+1 day http __requestverificationtoken amber valley county council helps prevent cross-site request forgery (csrf) attacks
+session http _ga google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http asp
+net_sessionid amber valley county council preserves the visitor's session state across page requests
+session http cookieconsent cookiebot stores the user's cookie consent state for the current domain 1 year http casid livechat allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+session http consent google used to detect if the visitor has accepted the marketing category in the cookie banner
+this cookie is necessary for gdpr-compliance of the website
+6375 days http rc
+a google this cookie is used to distinguish between humans and bots
+this is beneficial for the website, in order to make valid reports on the use of their website
+c google used in context with video-advertisement
+the cookie limits the number of times a visitor is shown the same advertisement-content
+the cookie is also used to ensure relevance of the video-advertisement to the specific visitor
+session html __livechat livechat used to hide the user's personal customisation of livechat
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+we do not use cookies of this type
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type _gat google tag manager used by google analytics to throttle request rate 1 day http _gid google tag manager registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http collect google used to send data to google analytics about the visitor's device and behavior
+tracks the visitor across devices and marketing channels
+session pixel _livechat_has_visited livechat identifies the visitor across devices and visits, in order to optimize the chat-box function on the website
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type ide google used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http test_cookie google used to check if the user's browser supports cookies
+1 day http 1p_jar google collects information on visitor behaviour on multiple websites
+this information is used on the website, in order to optimize the relevance of advertisement
+29 days http ads/ga-audiences google used by google adwords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+session pixel nid google registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+6 months http gps youtube registers a unique id on mobile devices to enable tracking based on geographical gps location
+1 day http visitor_info1_live youtube tries to estimate the users' bandwidth on pages with integrated youtube videos
+179 days http ysc youtube registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube stores the user's video player preferences using embedded youtube video session html
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type @@lc_auth_token
+5092731 livechat pending persistent html 5092731
+state livechat pending persistent html side_storage_5092731 livechat pending persistent html
+[#iabv2_label_partners#] [#iabv2_body_purposes#] [#iabv2_body_features#] [#iabv2_body_partners#] cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+you can at any time change or withdraw your consent from the cookie declaration on our website
+learn more about who we are, how you can contact us and how we process personal data in our privacy policy
+cookie declaration last updated on 18/07/2020 by cookiebot
+rubbish, waste and recycling
+if you cannot see the search box you will need to amend your cookie consent to allow marketing cookies
+with coronavirus (covid-19) now affecting many areas of our services to the residents and businesses of amber valley, we are keen to keep you right up-to-date with the changes we are being forced to make
+read more about your council services
+your privacy – keeping your personal information safe
+amber valley borough council is committed to protecting your privacy when you use our services
+the privacy notice below explains how we use information about you and how we protect your privacy
+we have a data protection officer who makes sure we respect your rights and follow the law
+if you have any concerns or questions about how we look after your personal information, please contact the data protection officer – email
+or by calling 01773 841430
+personal information can be anything that identifies and relates to a living person
+this can include information that when put together with other information can then identify a person
+for example, this could be your name and contact details
+some of your personal information is classed as ‘special information’
+some information is ‘special’ and needs more protection due to its sensitivity
+it is often information you would not want widely known and is very personal to you
+this is likely to include anything that can reveal your
+sexuality and sexual health
+religious or philosophical beliefs
+physical or mental health
+why do we need your personal information
+we may need to use some information about you to
+deliver services and support to you
+manage those services we provide to you
+help investigate any worries or complaints you have about your services
+keep track of spending on services
+check the quality of services
+to help with research and planning of new services
+how the law allows us to use your personal information
+there are a number of legal reasons why we need to collect and use your personal information
+each service area will have a privacy notice if it is necessary to collect and use your personal information in providing that service
+generally we collect and use personal information where
+you or your legal representative have given consent
+you have entered into a contract with us
+it is necessary to perform our statutory duties
+it is necessary to protect someone in an emergency
+it is required by law
+it is necessary for employment purposes
+you have made your information publicly available
+it is necessary for legal cases
+it is to the benefit of society as a whole
+it is necessary to protect public health
+it is necessary for archiving, research, or statistical purposes
+if we have consent to use your personal information, you have the right to remove it at any time
+if you want to remove your consent, please contact
+and tell us which service you are using so we can deal with your request
+we only use what we need
+we will only collect and use personal information if we need it to deliver a service or meet a requirement
+your rights as a data subject - what you can do with your information
+the law gives you a number of rights to control what personal information is used by us and how it is used by us
+subject access requests – the right of access
+if we are processing your personal information you can ask for a copy that information – this is known as a subject access request
+requests should be made in writing and you will be asked to fill in a request form
+you are only entitled to your own personal data, and not to information about other people
+before you are provided with your personal information you will be asked to provide two forms of identity to enable us to ensure that we are giving the information to the right person
+there is usually no charge for providing this information, however a reasonable fee to cover administrative costs may be charged if the work involved in providing the information is excessive
+in certain circumstances the law exempts organisations from providing personal data requested as part of a subject access request, for example if the data has been processed for the prevention and detection of crime, the prosecution of offenders or the assessment of tax then it may not be disclosed to you following a subject access request if disclosure is likely to prejudice any of the above purposes
+you can ask us to change information you think is inaccurate – the right of rectification
+if you think that the information we hold about you is inaccurate or incomplete you can ask us to put things right or provide us with additional information to make the data complete – this is called the right of rectification
+we may not always be able to change or remove that information but we will correct factual inaccuracies and may include your comments in the record to show that you disagree with it
+you can ask us to delete information – the right to erasure
+in certain circumstances you may have the right to have your personal data erased
+this is sometimes known as the “right to be forgotten
+” this is not an automatic right
+you cannot simply request that the council, or any other organisation, deletes all your personal data and expect it to automatically comply with your request as this right only applies in certain circumstances
+this right applies to information held by the council if
+it is no longer needed for the purpose for which it was initially collected
+you initially gave consent for your information to be used and you withdraw that consent
+it did not have a legal basis for processing your information in the first place
+the law says that certain information should be erased
+the right to have data erased will not apply in all cases
+for example, it will not apply if there is a legal obligation to continue to process the data, if it is necessary for the collection of local taxation, or if it is needed for legal proceedings, or for certain other duties undertaken by a public authority
+you can ask to limit what we use your personal data for - the right to restrict processing
+in addition to your right to ask for your data to be erased you also have the right to ask that the council stops processing your data on a temporary basis
+your data won’t be erased, but instead we will not process it further until we have considered your request
+you can ask us to temporarily restrict processing if
+you think that there may be an inaccuracy with the personal information the council holds about you and you want the council to check this out
+the council did not have a legal basis for processing your information in the first place, but you don’t want us to erase your data
+the council no longer needs to keep your data, but you want us to as it is needed for legal proceedings
+you have objected to the council processing your data and it is investigating whether its legitimate grounds for doing so override your rights as an individual
+like the right to erasure, the right to ask us to restrict processing will not be applied in all cases
+we may not comply with your request if we need to process your information as part of legal proceedings, to protect the rights of another person, or for reasons of important public interest, or if the request is unfounded or excessive
+the right to object
+in certain circumstances you have the right to object to the council processing your personal data
+this right only applies in certain circumstances
+you should explain why you think processing of your personal information is causing you substantial damage or distress, giving as much information as possible to enable the council to make a decision on your request
+your right to object will not be applied if your data is being processed as part of legal proceedings or if legitimate grounds for processing outweigh the rights and interest of you as an individual or if the request is unfounded or excessive
+who do we share your information with
+we work with other organisations to help deliver our services to you
+where we have these arrangements, there is always an agreement in place to make sure that the organisation complies with data protection law
+sometimes we have a legal duty to provide personal information to other organisations
+we may also share your personal information when we feel there is a good reason that is more important than protecting your privacy
+this doesn’t happen often, but we may share your information in order to find and stop crime and fraud
+or if there are serious risks to the public, our staff or to other professionals
+to protect those who are thought to be at risk, for example if they are frail, confused or cannot understand what is happening to them
+for all of these reasons the risk must be serious before we can override your right to privacy
+how do we protect your information
+we make sure we hold records about you (on paper and electronically) in a secure way, and we will only make them available to those who have a right to see them
+examples of our security include
+encryption, meaning that information is hidden so that it cannot be read without special knowledge (such as a password)
+controlling access to systems and networks allows us to stop people who are not allowed to view your personal information from getting access to it
+training for our staff allows us to make them aware of how to handle information and how and when to report when something goes wrong
+regular testing of our technology and ways of working including keeping up to date on the latest security updates
+how long do we keep your personal information
+there is often a legal reason for keeping your personal information for a set period of time, we include all of these in our retention schedule
+for each service the schedule lists how long your information may be kept for
+where can i get advice
+if you have any worries or questions about how your personal information is handled please contact our data protection officer at
+or by calling 01773 841430
+for independent advice about data protection, privacy and data sharing issues, you can contact the information commissioner’s office (ico) at
+information commissioner's office, wycliffe house, water lane, wilmslow, cheshire sk9 5af
+0303 123 1113 (local rate) or 01625 545 745 if you prefer to use a national rate number
+need further help or information
+contact the team directly on 01773 841430 or email dpo@ambervalley
+pages in data protection
+how to get in touch
+did this page help you with your query or service request
+to help us improve our site please give a brief explanation of your rating
+if you have a general comment or complaint about the council's services, please visit our comments or complaints page
+© amber valley borough council 2020

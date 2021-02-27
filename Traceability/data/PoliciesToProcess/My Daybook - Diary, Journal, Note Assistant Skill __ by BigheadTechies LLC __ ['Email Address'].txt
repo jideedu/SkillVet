@@ -1,0 +1,360 @@
+sign in open in app get started privacy policy and term’s of service daybook follow apr 1, 2019
+15 min read the bighead techies llp (“we” or “us” or “company”) is passionate about you, and your privacy and security
+as part of our commitment to you, below is our privacy policy (“policy”) that ensures the information that you enter in the daybook, our mobile application, always belongs to you and is kept as safe and secure as reasonably possible
+this policy also applies to any other products, services, or platforms we may provide or make available to you from time to time, as well as your general dealings with us — including through our website and any other online or mobile platforms (“services”)
+here at bighead techies, we take your privacy and the processing of your personal data very seriously
+therefore, we have prepared this privacy notice where we describe our contact details, information regarding what personal data we process, and what rights you have towards us and how you may defend them
+always feel free to contact our customer support ( refer contact details to the controller) if you have any questions about our processing of personal data or this privacy notice
+accepting privacy policy and the terms of service
+by using our daybook app or any of our other services, you agree to this policy
+once agreed, this policy is legally binding on both parties
+changing our privacy policy and terms of service
+occasionally we may need to change this policy and terms of services
+by continuing to use our daybook app or the services after that date, you agree to the revised policy
+otherwise, you are free to close your daybook account(see “closing your account” below)
+what is personal data
+“personal data” is any information relating to an identifiable or identified person (you as a user)
+an identifiable person is someone who can be identified, directly or indirectly, for example by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity
+the processing of special categories of data, defined as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, and data concerning health or sex life, is prohibited, subject to certain exceptions
+personal data which we handle your personal data may only be processed by us with your given consent, when it is necessary for the performance of a contract to which you are a party, or when it is necessary for our compliance with a legal obligation
+the processing of the personal data, the specific purposes for the processing, the legal basis for the processing, and for how long we store your personal data, is described below
+name your name may be processed by us when you sign up to the app
+it may also be stored by us when you write it in your diary posts
+the processing is based on your consent and will be kept by us for as long as you have an account and 180 days thereafter, or when you erase such diary posts containing your name
+email address to enable login and for creating an identity in our system, we process your email address , which may also be used for support and marketing purposes when you explicitly consent to such processing
+signing up is optional for our app, which means that any processing of your email address is based on your consent
+your email address will be kept with us until you delete your account and 180 days thereafter
+phone number for further authentication and login purposes, as well as for support purposes, we may process your phone number
+as it is optional for you to provide your phone number, the processing is based on your consent
+your phone number will be kept with us until you delete your account and 180 days thereafter
+home address and location you as a user can optionally toggle whether to map locations of your diary entries
+if you chose to activate such mapping, we may, based on your consent, process your location, whereby your home address might become visible depending on your usage
+your approximate location will also be processed by us on an anonymous basis for analytic purposes
+such personal data will be stored by us until you withdraw your consent, or until 180 days after you delete your account
+payment details if you chose to upgrade your account's subscription, we may process your payment details as it is necessary for our performance of a contract where you are a party
+such payment details will be kept with us until you terminate your upgraded subscription
+date of birth for analytics purposes, we will on an anonymous basis process your age , as it is necessary for legitimate interests for us
+your age will then be kept securely by us until your account is deleted and 180 days thereafter
+other information in diary entries depending on if you decide to include any personal data in your diary entries, such personal data will be processed by us by being stored on our cloud database
+we will not share such information with any third party
+this processing is based solely on your consent
+the personal data will be kept until you delete the diary entry or 180 days after you delete your account
+this information will include the below, and any other categories of personal data which you will write about
+professional and work details profiling details (including level of education, occupation, photos and images, annual/monthly income, gender, marital status, and physical characteristics) criminal convictions and offense trade union membership religious or philosophical belief sex life sexual orientation race/ethnicity political opinion health status day to day life deletion after inactivity we keep your information for no longer than necessary for the purposes for which it is processed
+the length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws
+- — — — — — — — — — — — — — — — — — — — — — — — — — — - summary of your rights towards us
+you as a user have the possibility to claim several rights towards us
+such rights are listed here and thereafter described in detail below
+you find our contact details at the top of this privacy notice
+right to be forgotten right to withdraw consent right to access right to rectification right to restriction of processing right to data portability right to object right to be forgotten you have the right to request that we delete any personal data that we process about you
+we will delete the data as soon as possible, but at least within one month’s time
+if the personal data is needed for fulfillment of our contractual duties towards you or to preserve it with legal ground, we will however not delete the information until the data is no longer needed
+we will also, without your explicit demand, delete such personal data that we have collected but do not longer have a lawful right to process
+we will inform you about this, if it would occur
+right to withdraw consent you have the right to withdraw your given consent at any time
+if you do so, we will erase such personal data which is not subject to any other legal ground than your given consent
+the erasure will be done as soon as possible
+please note that your withdrawal of consent does not oblige us to erase personal data which is processed based on a contractual relationship or any other legal ground
+right of access you have, at any time, the right to receive confirmation from us as to whether personal data concerning you are being processed
+you have also the right to access that personal data and to receive the following information
+the purposes of the processing the categories of personal data concerned the recipients or categories of recipients to whom personal data have been or will be disclosed the envisaged period for which the personal data will be stored or the criteria used to determine that period the existence of automated decision-making and profiling right to rectification you have, at any time, the right to demand us to correct any inaccurate personal data within a month’s time
+you have also the right to complete incomplete personal data, taking into account our purposes of the processing, by the means of providing a supplementary statement
+right to restriction of processing you have, instead of demanding us to delete any data, the right to demand us to restrict our processing of your personal data
+this may be achieved if you have reason to believe that the accuracy of the personal data is not correct, and the restriction shall be in place during a period that allows us to verify the accuracy of the personal data the processing is unlawful but you don’t want us to delete the personal data we no longer need the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims you have objected to processing concerning profiling or automated decision-making, whereby a restriction shall be obtained during the period when we assess whether our legitimate ground for the processing override your legitimate ground
+data portability you have the right to retrieve the personal data which we process about you and that you have provided to us
+you have also the right to demand that we transmit such personal data to another data controller if the personal data is collected based on your consent or if the processing of the personal data is carried out by automated means by us, if we deem it technically feasible
+right to object you have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you
+this can be done when the personal data is processed as part of automated decision-making, including profiling, and direct marketing, if such processing would be carried out (see “personal data that we process” above)
+by setting up account, you represent that you have either reached the age of 16
+wif you do not know whether you have reached the age of 16 or where you live or do not understand this section, please ask your parent or legal guardian for help before you create an account
+please refer children’s privacy
+you can create a daybook dairy account for others only where you are the authorized individual-representative (a parent, guardian, or legal representative establishing a subscription for a diary)
+by setting up such an account you automatically certify and agree that (i) you have this authority, (ii) we are entitled to rely of your certification as true, and (iii) you will hold us harmless from any claim by such others that you did not have authority to create a diary for them
+subject to an agreement with our company, we will permit organizations (including not-for-profit entities) and individuals to create diaries, set up accounts for others and encourage them to use a diary or other services
+whether you set up your own diary account or one is set up for you and you agree to become a diary user, these terms shall apply to you and govern your relationship with us
+we reserve the right to restrict in our sole discretion who is eligible to use the diary or our services or set up an account, and to reject a request to create a diary account or close an account at any time without liability
+we will only do this where we believe we have a reasonable concern or issue
+how we share and disclose your information
+daybook share your information in the following ways
+we provide access to or share your information with operations and maintenance contractors and other third parties who perform services on our behalf
+they have access to perform these services but are prohibited from using your information for other purposes
+they provide a variety of services to us, including billing, sales, marketing, test proctoring, product content and features, advertising, analytics, research, customer service, data storage, security, fraud prevention, payment processing, and legal services aggregate/anonymous information
+from time to time, daybook may share aggregate/anonymous information about use of the services, such as, but not limited to, publishing a report on usage trends or survey results, and other demographic information provided to us by our users
+the sharing of such data is unrestricted protection of daybook and others
+by using the website or app, you acknowledge and agree that we may access, retain and disclose the information we collect and maintain about you if required to do so by law or in a good faith belief that such access, retention or disclosure is reasonably necessary to
+(a) comply with legal process (e
+a subpoena or court order) or law
+(b) enforce our terms of use , this privacy policy, or other contracts with you, including investigation of potential violations thereof
+© respond to claims that any content violates the rights of third parties
+(d) respond to your requests for customer service
+and/or (e) protect the rights, property or personal safety of daybook, its agents and affiliates, its users and/or the public
+this includes exchanging information with other companies and organizations for fraud protection, compliance with applicable law, and spam/malware prevention, and similar purposes
+as we continue to develop our business, we may buy, merge, partner with other companies
+in such transactions, (including in contemplation of such transactions) user information may be among the transferred assets
+if a portion or all of the assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets
+if such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions
+related entities and affiliates
+we may share information with our affiliated companies that are under the common ownership or control of bighead techies llp ads on daybook
+we may also share certain information such as your location, browser and cookie data and other data relating to your use of our service with our business partners to deliver advertisements (“ads”) that may be of interest to you
+we may allow third-party ad servers or ad networks to serve advertisements on the service
+these third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the service, and will automatically receive your ip address when they do so
+they may also use other technologies (such as cookies, javascript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the service, and to measure the effectiveness of their ads and to personalize the advertising content
+we do not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes
+parties with whom you share your data may have very different privacy policies and terms of use from ours
+you understand and accept that it is your responsibility, prior to sharing your data, to review and choose to accept the privacy policy and terms and conditions of any parties with whom you share your data and the implications of such sharing
+you agree not to hold us responsible for any use or publication of your data which you have chosen to share from your diary or account
+except as we state in this policy, we will not make your data available to anyone with whom you have not instructed or permitted us to distribute or share your data
+where we believe in good faith that we have a legal obligation to make that data available to the authorities, or if the threat of physical harm or other damage exists to you, our company, or someone else, we reserve the right to provide any information to the proper authorities and as needed to protect those parties from harm
+prior to us stopping business for any reason, we will notify you where we can, in advance, and allow you to delete your data
+if we are acquired, purchased, merged, or operated by another company, that company could change this policy or our terms of use, including provisions governing how it treats your data
+you may be notified of any changes to this policy and, if changes are objectionable to you, your options include the export of your data, closing your account, and deletion of its contents (as described below)
+we take security very seriously and use security to ensure that your data is protected when it is in your diary
+when you opt to use services that require our employees or service providers to have access to your data to perform the services, we agree to implement procedures to protect your security and privacy
+however, we cannot and do not guarantee that a breach will never occur or that your data will be secure and will never be misused, and you acknowledge and agree that we cannot be held responsible for any breach or unauthorized access to or use of your data
+in case of a breach, we will notify users using email or other means available
+we provide you with multiple ways to share your data, including, but not limited to, email, text, media other apps, social media, etc
+, which will not encrypt or protect your data during transmission
+you agree that when you share your data using tools which do not provide the necessary encryption and other appropriate protections, that you do so knowingly, at your own risk
+and we cannot be held responsible for any breach, hack, or unauthorized access to or use of your data
+to prevent access to your diary by people with malicious intent, we strongly encourage you to follow best practices for a safe password, identity, and personal health information management, and to not share your diary credentials or your data with anyone with whom you do not have a high level of trust
+processes and systems / service providers
+from time to time, we may establish business relationships with other businesses whom we believe are trustworthy, and who have confirmed that their privacy practices are consistent with ours (“service providers”)
+this may include certain services, such as hosting and maintenance, and data storage and management
+we only provide our service providers with the information necessary for them to perform these services for us or carry out a service or transaction requested by you
+each service provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your data from unauthorized access, use, or disclosure
+service providers are prohibited from using your data other than in compliance with our privacy policy and as specified by us
+we use the following processors/ service providers
+google firebase (google llc)
+for utilizing storage, analytics, cloud messaging, authentication, realtime database, storage, hosting, remote config, test lab, crash reporting, notifications, app indexing, dynamic links, invites elastic search & kibana
+for providing search functionally and providing analytics fabric and crashlytics(google llc)
+for analytics and for troubleshooting crashes facebook — for providing login service and for using facebook graph api explorer onesignal — for providing push notifications/for marketing aws (amazon web services ) -cloud provider for storing data data flow
+your diary and all of its content belong to you
+you have control over your diary and how much of your data you share with others
+you are solely responsible for verifying the identity of those you have invited to your diary, organizations which have created and invited you to use a diary, and monitoring the access to and use of your diary by those whom you, authorized others and/or organizations have invited to your diary
+we are not responsible nor liable for anyone you allow to access your diary or use your data
+with regard to the general data protection regulation (eu) 2016/679 (“gdpr”), we must disclose what personal data we collect and process about you, and for what purposes
+in this privacy notice, you find all such information that we are obliged to inform you
+the regulation in its entirety in your language may be accessed by following this link
+toc would you like to defend your rights, which are listed in this privacy notice, you may contact us using the contact information listed below
+once you establish a diary account it will continue to exist until closed by you or us
+you can stop using your diary/daybook and close your account with us at any time
+you simply need to notify us by email at daybook
+we can suspend or close your account for lack of use, violation of this privacy policy or our terms and condition s, or other reasons which we deem sufficient in our discretion
+we will notify you in advance of suspending or closing your account and allow you a right of appeal to us to be reinstated
+the form of the appeal and final decision shall be in our sole and absolute discretion
+when your account is closed, we will provide you, by a means to be determined by us in our discretion, with an electronic copy of your data as it then exists in your diary
+except where you have agreed to share your data as set out below, we will delete all of your data within a reasonable period (around 60–90 days)
+note that once your data is deleted it cannot be retrieved
+we will retain system logs in relation to your diary tracking the deletion, but not retain your data
+where you have chosen to give access to your data to any third parties (including other diary users) for analytical and other purposes in both anonymous and/or personally identified formats with the requirement that some or all of your data will not be deleted in the future, then your data will continue to be stored, shared and used as you have agreed
+the daybook and our services are intended for users who are 16 years of age and older
+if we become aware that we have inadvertently received information relating to a child who is younger than 16, we will promptly delete that information from our records
+open source library used
+following open source libraries are used for building daybook
+com/license contact details to the controller name of the company
+national company registration number
+aae-8393 country of operation
+214, plamoottil, mammood, changanacherry, kerala, india — 686553 daybook daybook is a cloud-based journal, diary, and note app… follow 64 64 claps written by daybook follow never miss a beautiful memory with daybook
+follow daybook follow daybook is a cloud-based journal, diary, and note app designed to record activities, experiences, thoughts, and ideas throughout a day
+daybook is avalible in android, ios, web & alexa
+never miss a beautiful memory with daybook
+app follow written by daybook follow never miss a beautiful memory with daybook
+daybook follow daybook is a cloud-based journal, diary, and note app designed to record activities, experiences, thoughts, and ideas throughout a day
+daybook is avalible in android, ios, web & alexa
+never miss a beautiful memory with daybook
+app write the first response more from medium ‘switch-the-flip risk’ is a threat to all internet users dean patrick
+the startup the return of the crypto wars tyler elliot bettilyon
+teb’s lab cidr addressing and subnet masking on ip networks (part i) vince tabora
+high-definition pro the song remains the same
+a story of unencrypted data, a 50-year-old web infrastructure, a lack… prof bill buchanan obe
+when bob met alice an introduction to firebase authentication leovanny fernandez practical privacy — rocket
+chat kelly rush how does bob the taxgather find out total profits, without revealing any of them
+prof bill buchanan obe
+coinmonks why do people still trust cheetah mobile in 2018
+melon pancakes 🍉🥞 discover medium welcome to a place where words matter
+on medium , smart voices and original ideas take center stage - with no ads in sight
+watch make medium yours follow all the topics you care about, and we’ll deliver the best stories for you to your homepage and inbox
+explore become a member get unlimited access to the best stories on medium — and support writers while you’re at it
+upgrade about help legal get the medium app
+to make medium work, we log user data
+by using medium, you agree to our privacy policy , including cookie policy
+sign in open in app get started privacy policy and term’s of service daybook follow apr 1, 2019
+15 min read the bighead techies llp (“we” or “us” or “company”) is passionate about you, and your privacy and security
+as part of our commitment to you, below is our privacy policy (“policy”) that ensures the information that you enter in the daybook, our mobile application, always belongs to you and is kept as safe and secure as reasonably possible
+this policy also applies to any other products, services, or platforms we may provide or make available to you from time to time, as well as your general dealings with us — including through our website and any other online or mobile platforms (“services”)
+here at bighead techies, we take your privacy and the processing of your personal data very seriously
+therefore, we have prepared this privacy notice where we describe our contact details, information regarding what personal data we process, and what rights you have towards us and how you may defend them
+always feel free to contact our customer support ( refer contact details to the controller) if you have any questions about our processing of personal data or this privacy notice
+accepting privacy policy and the terms of service
+by using our daybook app or any of our other services, you agree to this policy
+once agreed, this policy is legally binding on both parties
+changing our privacy policy and terms of service
+occasionally we may need to change this policy and terms of services
+by continuing to use our daybook app or the services after that date, you agree to the revised policy
+otherwise, you are free to close your daybook account(see “closing your account” below)
+what is personal data
+“personal data” is any information relating to an identifiable or identified person (you as a user)
+an identifiable person is someone who can be identified, directly or indirectly, for example by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity
+the processing of special categories of data, defined as personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, and data concerning health or sex life, is prohibited, subject to certain exceptions
+personal data which we handle your personal data may only be processed by us with your given consent, when it is necessary for the performance of a contract to which you are a party, or when it is necessary for our compliance with a legal obligation
+the processing of the personal data, the specific purposes for the processing, the legal basis for the processing, and for how long we store your personal data, is described below
+name your name may be processed by us when you sign up to the app
+it may also be stored by us when you write it in your diary posts
+the processing is based on your consent and will be kept by us for as long as you have an account and 180 days thereafter, or when you erase such diary posts containing your name
+email address to enable login and for creating an identity in our system, we process your email address , which may also be used for support and marketing purposes when you explicitly consent to such processing
+signing up is optional for our app, which means that any processing of your email address is based on your consent
+your email address will be kept with us until you delete your account and 180 days thereafter
+phone number for further authentication and login purposes, as well as for support purposes, we may process your phone number
+as it is optional for you to provide your phone number, the processing is based on your consent
+your phone number will be kept with us until you delete your account and 180 days thereafter
+home address and location you as a user can optionally toggle whether to map locations of your diary entries
+if you chose to activate such mapping, we may, based on your consent, process your location, whereby your home address might become visible depending on your usage
+your approximate location will also be processed by us on an anonymous basis for analytic purposes
+such personal data will be stored by us until you withdraw your consent, or until 180 days after you delete your account
+payment details if you chose to upgrade your account's subscription, we may process your payment details as it is necessary for our performance of a contract where you are a party
+such payment details will be kept with us until you terminate your upgraded subscription
+date of birth for analytics purposes, we will on an anonymous basis process your age , as it is necessary for legitimate interests for us
+your age will then be kept securely by us until your account is deleted and 180 days thereafter
+other information in diary entries depending on if you decide to include any personal data in your diary entries, such personal data will be processed by us by being stored on our cloud database
+we will not share such information with any third party
+this processing is based solely on your consent
+the personal data will be kept until you delete the diary entry or 180 days after you delete your account
+this information will include the below, and any other categories of personal data which you will write about
+professional and work details profiling details (including level of education, occupation, photos and images, annual/monthly income, gender, marital status, and physical characteristics) criminal convictions and offense trade union membership religious or philosophical belief sex life sexual orientation race/ethnicity political opinion health status day to day life deletion after inactivity we keep your information for no longer than necessary for the purposes for which it is processed
+the length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws
+- — — — — — — — — — — — — — — — — — — — — — — — — — — - summary of your rights towards us
+you as a user have the possibility to claim several rights towards us
+such rights are listed here and thereafter described in detail below
+you find our contact details at the top of this privacy notice
+right to be forgotten right to withdraw consent right to access right to rectification right to restriction of processing right to data portability right to object right to be forgotten you have the right to request that we delete any personal data that we process about you
+we will delete the data as soon as possible, but at least within one month’s time
+if the personal data is needed for fulfillment of our contractual duties towards you or to preserve it with legal ground, we will however not delete the information until the data is no longer needed
+we will also, without your explicit demand, delete such personal data that we have collected but do not longer have a lawful right to process
+we will inform you about this, if it would occur
+right to withdraw consent you have the right to withdraw your given consent at any time
+if you do so, we will erase such personal data which is not subject to any other legal ground than your given consent
+the erasure will be done as soon as possible
+please note that your withdrawal of consent does not oblige us to erase personal data which is processed based on a contractual relationship or any other legal ground
+right of access you have, at any time, the right to receive confirmation from us as to whether personal data concerning you are being processed
+you have also the right to access that personal data and to receive the following information
+the purposes of the processing the categories of personal data concerned the recipients or categories of recipients to whom personal data have been or will be disclosed the envisaged period for which the personal data will be stored or the criteria used to determine that period the existence of automated decision-making and profiling right to rectification you have, at any time, the right to demand us to correct any inaccurate personal data within a month’s time
+you have also the right to complete incomplete personal data, taking into account our purposes of the processing, by the means of providing a supplementary statement
+right to restriction of processing you have, instead of demanding us to delete any data, the right to demand us to restrict our processing of your personal data
+this may be achieved if you have reason to believe that the accuracy of the personal data is not correct, and the restriction shall be in place during a period that allows us to verify the accuracy of the personal data the processing is unlawful but you don’t want us to delete the personal data we no longer need the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims you have objected to processing concerning profiling or automated decision-making, whereby a restriction shall be obtained during the period when we assess whether our legitimate ground for the processing override your legitimate ground
+data portability you have the right to retrieve the personal data which we process about you and that you have provided to us
+you have also the right to demand that we transmit such personal data to another data controller if the personal data is collected based on your consent or if the processing of the personal data is carried out by automated means by us, if we deem it technically feasible
+right to object you have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you
+this can be done when the personal data is processed as part of automated decision-making, including profiling, and direct marketing, if such processing would be carried out (see “personal data that we process” above)
+by setting up account, you represent that you have either reached the age of 16
+wif you do not know whether you have reached the age of 16 or where you live or do not understand this section, please ask your parent or legal guardian for help before you create an account
+please refer children’s privacy
+you can create a daybook dairy account for others only where you are the authorized individual-representative (a parent, guardian, or legal representative establishing a subscription for a diary)
+by setting up such an account you automatically certify and agree that (i) you have this authority, (ii) we are entitled to rely of your certification as true, and (iii) you will hold us harmless from any claim by such others that you did not have authority to create a diary for them
+subject to an agreement with our company, we will permit organizations (including not-for-profit entities) and individuals to create diaries, set up accounts for others and encourage them to use a diary or other services
+whether you set up your own diary account or one is set up for you and you agree to become a diary user, these terms shall apply to you and govern your relationship with us
+we reserve the right to restrict in our sole discretion who is eligible to use the diary or our services or set up an account, and to reject a request to create a diary account or close an account at any time without liability
+we will only do this where we believe we have a reasonable concern or issue
+how we share and disclose your information
+daybook share your information in the following ways
+we provide access to or share your information with operations and maintenance contractors and other third parties who perform services on our behalf
+they have access to perform these services but are prohibited from using your information for other purposes
+they provide a variety of services to us, including billing, sales, marketing, test proctoring, product content and features, advertising, analytics, research, customer service, data storage, security, fraud prevention, payment processing, and legal services aggregate/anonymous information
+from time to time, daybook may share aggregate/anonymous information about use of the services, such as, but not limited to, publishing a report on usage trends or survey results, and other demographic information provided to us by our users
+the sharing of such data is unrestricted protection of daybook and others
+by using the website or app, you acknowledge and agree that we may access, retain and disclose the information we collect and maintain about you if required to do so by law or in a good faith belief that such access, retention or disclosure is reasonably necessary to
+(a) comply with legal process (e
+a subpoena or court order) or law
+(b) enforce our terms of use , this privacy policy, or other contracts with you, including investigation of potential violations thereof
+© respond to claims that any content violates the rights of third parties
+(d) respond to your requests for customer service
+and/or (e) protect the rights, property or personal safety of daybook, its agents and affiliates, its users and/or the public
+this includes exchanging information with other companies and organizations for fraud protection, compliance with applicable law, and spam/malware prevention, and similar purposes
+as we continue to develop our business, we may buy, merge, partner with other companies
+in such transactions, (including in contemplation of such transactions) user information may be among the transferred assets
+if a portion or all of the assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets
+if such transfer is subject to additional mandatory restrictions under applicable laws, we will comply with such restrictions
+related entities and affiliates
+we may share information with our affiliated companies that are under the common ownership or control of bighead techies llp ads on daybook
+we may also share certain information such as your location, browser and cookie data and other data relating to your use of our service with our business partners to deliver advertisements (“ads”) that may be of interest to you
+we may allow third-party ad servers or ad networks to serve advertisements on the service
+these third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the service, and will automatically receive your ip address when they do so
+they may also use other technologies (such as cookies, javascript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the service, and to measure the effectiveness of their ads and to personalize the advertising content
+we do not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes
+parties with whom you share your data may have very different privacy policies and terms of use from ours
+you understand and accept that it is your responsibility, prior to sharing your data, to review and choose to accept the privacy policy and terms and conditions of any parties with whom you share your data and the implications of such sharing
+you agree not to hold us responsible for any use or publication of your data which you have chosen to share from your diary or account
+except as we state in this policy, we will not make your data available to anyone with whom you have not instructed or permitted us to distribute or share your data
+where we believe in good faith that we have a legal obligation to make that data available to the authorities, or if the threat of physical harm or other damage exists to you, our company, or someone else, we reserve the right to provide any information to the proper authorities and as needed to protect those parties from harm
+prior to us stopping business for any reason, we will notify you where we can, in advance, and allow you to delete your data
+if we are acquired, purchased, merged, or operated by another company, that company could change this policy or our terms of use, including provisions governing how it treats your data
+you may be notified of any changes to this policy and, if changes are objectionable to you, your options include the export of your data, closing your account, and deletion of its contents (as described below)
+we take security very seriously and use security to ensure that your data is protected when it is in your diary
+when you opt to use services that require our employees or service providers to have access to your data to perform the services, we agree to implement procedures to protect your security and privacy
+however, we cannot and do not guarantee that a breach will never occur or that your data will be secure and will never be misused, and you acknowledge and agree that we cannot be held responsible for any breach or unauthorized access to or use of your data
+in case of a breach, we will notify users using email or other means available
+we provide you with multiple ways to share your data, including, but not limited to, email, text, media other apps, social media, etc
+, which will not encrypt or protect your data during transmission
+you agree that when you share your data using tools which do not provide the necessary encryption and other appropriate protections, that you do so knowingly, at your own risk
+and we cannot be held responsible for any breach, hack, or unauthorized access to or use of your data
+to prevent access to your diary by people with malicious intent, we strongly encourage you to follow best practices for a safe password, identity, and personal health information management, and to not share your diary credentials or your data with anyone with whom you do not have a high level of trust
+processes and systems / service providers
+from time to time, we may establish business relationships with other businesses whom we believe are trustworthy, and who have confirmed that their privacy practices are consistent with ours (“service providers”)
+this may include certain services, such as hosting and maintenance, and data storage and management
+we only provide our service providers with the information necessary for them to perform these services for us or carry out a service or transaction requested by you
+each service provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your data from unauthorized access, use, or disclosure
+service providers are prohibited from using your data other than in compliance with our privacy policy and as specified by us
+we use the following processors/ service providers
+google firebase (google llc)
+for utilizing storage, analytics, cloud messaging, authentication, realtime database, storage, hosting, remote config, test lab, crash reporting, notifications, app indexing, dynamic links, invites elastic search & kibana
+for providing search functionally and providing analytics fabric and crashlytics(google llc)
+for analytics and for troubleshooting crashes facebook — for providing login service and for using facebook graph api explorer onesignal — for providing push notifications/for marketing aws (amazon web services ) -cloud provider for storing data data flow
+your diary and all of its content belong to you
+you have control over your diary and how much of your data you share with others
+you are solely responsible for verifying the identity of those you have invited to your diary, organizations which have created and invited you to use a diary, and monitoring the access to and use of your diary by those whom you, authorized others and/or organizations have invited to your diary
+we are not responsible nor liable for anyone you allow to access your diary or use your data
+with regard to the general data protection regulation (eu) 2016/679 (“gdpr”), we must disclose what personal data we collect and process about you, and for what purposes
+in this privacy notice, you find all such information that we are obliged to inform you
+the regulation in its entirety in your language may be accessed by following this link
+toc would you like to defend your rights, which are listed in this privacy notice, you may contact us using the contact information listed below
+once you establish a diary account it will continue to exist until closed by you or us
+you can stop using your diary/daybook and close your account with us at any time
+you simply need to notify us by email at daybook
+we can suspend or close your account for lack of use, violation of this privacy policy or our terms and condition s, or other reasons which we deem sufficient in our discretion
+we will notify you in advance of suspending or closing your account and allow you a right of appeal to us to be reinstated
+the form of the appeal and final decision shall be in our sole and absolute discretion
+when your account is closed, we will provide you, by a means to be determined by us in our discretion, with an electronic copy of your data as it then exists in your diary
+except where you have agreed to share your data as set out below, we will delete all of your data within a reasonable period (around 60–90 days)
+note that once your data is deleted it cannot be retrieved
+we will retain system logs in relation to your diary tracking the deletion, but not retain your data
+where you have chosen to give access to your data to any third parties (including other diary users) for analytical and other purposes in both anonymous and/or personally identified formats with the requirement that some or all of your data will not be deleted in the future, then your data will continue to be stored, shared and used as you have agreed
+the daybook and our services are intended for users who are 16 years of age and older
+if we become aware that we have inadvertently received information relating to a child who is younger than 16, we will promptly delete that information from our records
+open source library used
+following open source libraries are used for building daybook
+com/license contact details to the controller name of the company
+national company registration number
+aae-8393 country of operation
+214, plamoottil, mammood, changanacherry, kerala, india — 686553 daybook daybook is a cloud-based journal, diary, and note app… follow 64 64 claps written by daybook follow never miss a beautiful memory with daybook
+follow daybook follow daybook is a cloud-based journal, diary, and note app designed to record activities, experiences, thoughts, and ideas throughout a day
+daybook is avalible in android, ios, web & alexa
+never miss a beautiful memory with daybook
+app follow written by daybook follow never miss a beautiful memory with daybook
+daybook follow daybook is a cloud-based journal, diary, and note app designed to record activities, experiences, thoughts, and ideas throughout a day
+daybook is avalible in android, ios, web & alexa
+never miss a beautiful memory with daybook
+app write the first response more from medium ‘switch-the-flip risk’ is a threat to all internet users dean patrick
+the startup the return of the crypto wars tyler elliot bettilyon
+teb’s lab cidr addressing and subnet masking on ip networks (part i) vince tabora
+high-definition pro the song remains the same
+a story of unencrypted data, a 50-year-old web infrastructure, a lack… prof bill buchanan obe
+when bob met alice an introduction to firebase authentication leovanny fernandez practical privacy — rocket
+chat kelly rush how does bob the taxgather find out total profits, without revealing any of them
+prof bill buchanan obe
+coinmonks why do people still trust cheetah mobile in 2018
+melon pancakes 🍉🥞 discover medium welcome to a place where words matter
+on medium , smart voices and original ideas take center stage - with no ads in sight
+watch make medium yours follow all the topics you care about, and we’ll deliver the best stories for you to your homepage and inbox
+explore become a member get unlimited access to the best stories on medium — and support writers while you’re at it
+upgrade about help legal get the medium app
+to make medium work, we log user data
+by using medium, you agree to our privacy policy , including cookie policy

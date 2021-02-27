@@ -1,0 +1,150 @@
+covid-19 overview hospitals senior living product hospitals senior living works with aiva request a demo covid-19 overview hospitals senior living product hospitals senior living works with aiva request a demo aiva care team app privacy policy effective date
+december 29, 2017 last updated september 21, 2018
+(“aiva”, the “company,” “we”, “our” or “us”) has partnered with your healthcare provider-employer (“provider” or “employer”) to provide our careteam app to help careteam app users care for the patients they serve
+this privacy policy explains how the careteam app uses and collects data to better connect patients with their caregivers
+aiva offers a communication service system (“the aiva communication system”) which is designed to improve communication between patients and their caregivers
+the aiva communication system makes use of voice-controlled, internet-connected devices (“voice assistants”) installed at the facilities of healthcare providers, as well as mobile applications, to receive requests made by patients (or their caregivers) and direct them to appropriate caregivers or systems
+caregivers receive the requests through the careteam app
+caregivers may use the careteam app to receive, review, respond to, and monitor requests
+information we collect about users of the aiva communication system we collect certain information about users of the aiva communication system in order to operate the aiva communication system and to improve it
+users include anyone who sends or receives requests using the aiva communication system (like patients or their caregivers) and anyone who otherwise accesses the aiva communication system (like providers)
+the aiva communication system is designed to collect requests from patients (or their caregivers) using voice assistants or mobile applications
+our system then directs those requests to the appropriate caregivers or systems
+to perform that service, we collect the following information, including from patients
+· information from the use of the aiva communication system
+we collect the voice requests that patients (or caregivers) make using voice assistants or mobile applications, and we direct those requests to caregivers or systems
+we may collect sensitive health information if patients or caregivers include such information in the requests made using the aiva communication system or any responses to those requests made via the careteam app or other provider applications
+· information about patients
+we collect patient information that our partner providers send to us, including for example, patient names and room numbers
+· information about caregivers
+we collect information about caregiver roles and responsibilities
+this information could include, for example, a caregiver’s name, schedule, and/or job responsibilities and contact information
+the aiva communication system uses this information to help direct patient requests to the right caregivers
+depending on permissions set by the provider, information about caregivers may be shared with other caregivers and the provider
+the information we collect from patients (their requests) and from providers (requests or patient information) is paired together based on each provider’s specifications and then directed to the careteam app based on the designated roles and responsibilities of the careteam app user
+information we collect about careteam app users
+we collect certain information about careteam app users (“app users”) in order to operate the aiva communication system and to improve it
+· information about careteam app users
+we obtain information directly from careteam app users and/or their employers about the app user and the app user’s roles and responsibilities as a caregiver
+this information could include, for example, an app user’s name, schedule, and/or job responsibilities and contact information
+the aiva communication system uses this information to help direct patient requests to the right caregivers or systems
+this information may be visible to an app user in the careteam app, as well as to other caregivers and an app user’s employer, based on careteam app permissions set by the employer
+· information about use of the careteam app
+when an app user uses the careteam app we will collect information about that use
+for example, when a careteam app user uses the careteam app to respond by voice or by text to patient requests, those responses will be collected and we will use them to respond to patients
+depending on permissions set by the provider, information about caregivers may be shared with other caregivers and the provider
+app user responses within the careteam app may be visible to other users of
+the careteam app and the app user’s employer, based on permissions set by the employer
+we also collect and retain the log-in information app users use to access the careteam app
+the information we collect about careteam app users and their use of the app is generally available to each app user’s employer
+employers may access this information in granular form or as reports, for example to monitor patient use of the aiva communication system, careteam app usage or responsiveness rates
+otherwise, we do not share information about careteam app users or their usage of the careteam app that directly identifies app users ( e
+name or contact information), except with service providers retained by aiva to support our services
+device and internet-connection data
+in addition to the information above, which is collected directly from careteam app users and their employers, when the careteam app is used, we passively collect technical data like ip address, device type ( e
+) and information about operating software
+we use this technical data to help us improve and tailor the aiva communication system and for troubleshooting and user support
+we may share this data with service providers we retain to support the aiva communication system’s functionality
+we retain the information we collect, including information from and about caregivers, patients, and the use of the aiva communication system as directed by our partner providers
+how we use share the information we collect
+we share the information we collect in the following ways and for the following purposes
+we use the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with caregivers so that requests for patient care are received and directed to the right caregivers or systems
+we use information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with providers to monitor patient care and improve delivery of health care services
+providers may access personal patient information in granular form or as reports, for example to monitor patient use of the aiva communication system
+we use the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with service providers to operate and improve the aiva communication system and the careteam app
+we may share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with law enforcement or other third parties when we are legally required to do so – such as in response to a subpoena or judicial process – or generally in connection with the preservation of our legal rights and as permitted by law
+we may share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with a third party or affiliate in connection with a change in ownership, for example as a result of a corporate merger, acquisition, sale of substantially all the assets of aiva, bankruptcy, or financing transaction
+we do not share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with third parties for their own marketing purposes
+how we use de-identified information
+we may de-identify information we collect from the aiva communication system, including the careteam app, and use the de-identified information to educate others (for example, healthcare providers and the public) about the aiva communication system
+for instance, we might publish metrics about how the aiva communication system has improved response times, saved money, or improved quality of care
+when we use this information to educate others, we do not include information that can directly identify a user or a patient—such as names or patient identification numbers
+we may also use de-identified information to improve the aiva communication system
+for instance, we will use de-identified information to make sure the aiva communication system is sending the right patient requests to the right types of caregivers or systems
+we may retain de-identified information indefinitely
+how we secure data we take reasonable steps to secure the data we collect
+all data sent to and from the careteam app is encrypted in transit and in storage
+we secure the data we collect in part by retaining it only for a reasonable time, as determined by the providers we work with
+how to contact us for any questions in relation to this privacy policy, please contact us at privacy@aivahealth
+com or aiva, attn
+legal department, 8601 beverly blvd, los angeles, ca
+‍ learn more today request a demo partner inquiry press inquiry careers thank you
+your submission has been received
+something went wrong while submitting the form
+press terms and conditions privacy policy jobs contact us
+9812 copyright © 2020 aiva inc
+covid-19 overview hospitals senior living product hospitals senior living works with aiva request a demo covid-19 overview hospitals senior living product hospitals senior living works with aiva request a demo aiva care team app privacy policy effective date
+december 29, 2017 last updated september 21, 2018
+(“aiva”, the “company,” “we”, “our” or “us”) has partnered with your healthcare provider-employer (“provider” or “employer”) to provide our careteam app to help careteam app users care for the patients they serve
+this privacy policy explains how the careteam app uses and collects data to better connect patients with their caregivers
+aiva offers a communication service system (“the aiva communication system”) which is designed to improve communication between patients and their caregivers
+the aiva communication system makes use of voice-controlled, internet-connected devices (“voice assistants”) installed at the facilities of healthcare providers, as well as mobile applications, to receive requests made by patients (or their caregivers) and direct them to appropriate caregivers or systems
+caregivers receive the requests through the careteam app
+caregivers may use the careteam app to receive, review, respond to, and monitor requests
+information we collect about users of the aiva communication system we collect certain information about users of the aiva communication system in order to operate the aiva communication system and to improve it
+users include anyone who sends or receives requests using the aiva communication system (like patients or their caregivers) and anyone who otherwise accesses the aiva communication system (like providers)
+the aiva communication system is designed to collect requests from patients (or their caregivers) using voice assistants or mobile applications
+our system then directs those requests to the appropriate caregivers or systems
+to perform that service, we collect the following information, including from patients
+· information from the use of the aiva communication system
+we collect the voice requests that patients (or caregivers) make using voice assistants or mobile applications, and we direct those requests to caregivers or systems
+we may collect sensitive health information if patients or caregivers include such information in the requests made using the aiva communication system or any responses to those requests made via the careteam app or other provider applications
+· information about patients
+we collect patient information that our partner providers send to us, including for example, patient names and room numbers
+· information about caregivers
+we collect information about caregiver roles and responsibilities
+this information could include, for example, a caregiver’s name, schedule, and/or job responsibilities and contact information
+the aiva communication system uses this information to help direct patient requests to the right caregivers
+depending on permissions set by the provider, information about caregivers may be shared with other caregivers and the provider
+the information we collect from patients (their requests) and from providers (requests or patient information) is paired together based on each provider’s specifications and then directed to the careteam app based on the designated roles and responsibilities of the careteam app user
+information we collect about careteam app users
+we collect certain information about careteam app users (“app users”) in order to operate the aiva communication system and to improve it
+· information about careteam app users
+we obtain information directly from careteam app users and/or their employers about the app user and the app user’s roles and responsibilities as a caregiver
+this information could include, for example, an app user’s name, schedule, and/or job responsibilities and contact information
+the aiva communication system uses this information to help direct patient requests to the right caregivers or systems
+this information may be visible to an app user in the careteam app, as well as to other caregivers and an app user’s employer, based on careteam app permissions set by the employer
+· information about use of the careteam app
+when an app user uses the careteam app we will collect information about that use
+for example, when a careteam app user uses the careteam app to respond by voice or by text to patient requests, those responses will be collected and we will use them to respond to patients
+depending on permissions set by the provider, information about caregivers may be shared with other caregivers and the provider
+app user responses within the careteam app may be visible to other users of
+the careteam app and the app user’s employer, based on permissions set by the employer
+we also collect and retain the log-in information app users use to access the careteam app
+the information we collect about careteam app users and their use of the app is generally available to each app user’s employer
+employers may access this information in granular form or as reports, for example to monitor patient use of the aiva communication system, careteam app usage or responsiveness rates
+otherwise, we do not share information about careteam app users or their usage of the careteam app that directly identifies app users ( e
+name or contact information), except with service providers retained by aiva to support our services
+device and internet-connection data
+in addition to the information above, which is collected directly from careteam app users and their employers, when the careteam app is used, we passively collect technical data like ip address, device type ( e
+) and information about operating software
+we use this technical data to help us improve and tailor the aiva communication system and for troubleshooting and user support
+we may share this data with service providers we retain to support the aiva communication system’s functionality
+we retain the information we collect, including information from and about caregivers, patients, and the use of the aiva communication system as directed by our partner providers
+how we use share the information we collect
+we share the information we collect in the following ways and for the following purposes
+we use the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with caregivers so that requests for patient care are received and directed to the right caregivers or systems
+we use information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with providers to monitor patient care and improve delivery of health care services
+providers may access personal patient information in granular form or as reports, for example to monitor patient use of the aiva communication system
+we use the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system and share it with service providers to operate and improve the aiva communication system and the careteam app
+we may share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with law enforcement or other third parties when we are legally required to do so – such as in response to a subpoena or judicial process – or generally in connection with the preservation of our legal rights and as permitted by law
+we may share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with a third party or affiliate in connection with a change in ownership, for example as a result of a corporate merger, acquisition, sale of substantially all the assets of aiva, bankruptcy, or financing transaction
+we do not share the information we collect, including information from and about caregivers and app users, patients, and the use of the aiva communication system with third parties for their own marketing purposes
+how we use de-identified information
+we may de-identify information we collect from the aiva communication system, including the careteam app, and use the de-identified information to educate others (for example, healthcare providers and the public) about the aiva communication system
+for instance, we might publish metrics about how the aiva communication system has improved response times, saved money, or improved quality of care
+when we use this information to educate others, we do not include information that can directly identify a user or a patient—such as names or patient identification numbers
+we may also use de-identified information to improve the aiva communication system
+for instance, we will use de-identified information to make sure the aiva communication system is sending the right patient requests to the right types of caregivers or systems
+we may retain de-identified information indefinitely
+how we secure data we take reasonable steps to secure the data we collect
+all data sent to and from the careteam app is encrypted in transit and in storage
+we secure the data we collect in part by retaining it only for a reasonable time, as determined by the providers we work with
+how to contact us for any questions in relation to this privacy policy, please contact us at privacy@aivahealth
+com or aiva, attn
+legal department, 8601 beverly blvd, los angeles, ca
+‍ learn more today request a demo partner inquiry press inquiry careers thank you
+your submission has been received
+something went wrong while submitting the form
+press terms and conditions privacy policy jobs contact us
+9812 copyright © 2020 aiva inc

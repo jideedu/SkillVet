@@ -1,0 +1,68 @@
+articles in this section
+does the app have access to my emails
+what data of mine do you store
+will using your app affect my data plan
+this privacy policy sets out how ping smartphone app [in future, "ping"] uses and protects any information that you give ping when you use this website and the app
+ping is committed to ensuring that your privacy is protected
+should we ask you to provide certain information by which you can be identified when using this website or the app, then you can be assured that it will only be used in accordance with this privacy statement
+ping may change this policy from time to time by updating this page
+you should check this page from time to time to ensure that you are happy with any changes
+we may collect information provided by users of ping including
+• demographic information such as zip code, post code, preferences and other interests to provide you with • other information to operate and improve our services • other information relevant to promotions, surveys, security alerts and administrative messages
+• email address(es) - ping collects your email address(es) in order for our app to function and provide service to you
+• contacts - with your permission, we will collect from your mobile device address book, your contacts and telephone numbers
+we use this information to enhance the services we offer, such as vip lists and blacklists
+• device id - we associate your device identifier with your account and we automatically collect information such as your device type, operating system version and type, ip address, carrier and other information about your device
+ping does not collect precise information about the location of your mobile device
+• text and call logs - when you send or receive messages using our ping app, we process your messages, log and connection data, and other related information (“message data”) to provide these services to you
+• usage - we collect information such as how long you use our app, which modes you use and how often you have enabled the app to further enhance our services for better usability
+what we do with the information we gather about you
+we require this information in order for the ping app to function as intended
+the information gathered is utilized to improve the ping app going forward and includes internal record keeping and reporting
+we also use this information to provide you with tailored content, such as email newsletters and promotions
+when you contact ping, we keep a record of your communication in order to solve any issues you may be experiencing
+we may use your email address to information you about our services, such as letting you know about upcoming improvements or ping service changes
+ping will not disclose personal information, text or call logs or email address(es)
+to third parties without your consent, except as explained in this privacy policy
+we will ask for your consent before using information for a purpose other than those that are set out in this privacy policy
+security we are committed to ensuring that your information is secure
+in order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online
+how we use cookies a cookie is a small file which asks permission to be placed on your computer's hard drive
+once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site
+cookies allow web applications to respond to you as an individual
+the web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences
+we use traffic log cookies to identify which pages are being used
+this helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs
+we only use this information for statistical analysis purposes and then the data is removed from the system
+overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not
+a cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us
+you can choose to accept or decline cookies
+most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer
+this may prevent you from taking full advantage of the website
+links to other websites our website may contain links to enable you to visit other websites of interest easily
+however, once you have used these links to leave our site, you should note that we do not have any control over that other website
+therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement
+you should exercise caution and look at the privacy statement applicable to the website in question
+controlling your personal information we will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law
+ping's use of information received from google apis will adhere to google api services user data policy , including the limited use requirements
+access required for google authentication to gmail accounts
+android read, compose, send, and permanently delete all your email from gmail this permission is required to read emails using the “read my inbox” feature and for reading new emails aloud
+manage drafts and send emails for auto-responding while in drive mode while using android auto
+insert mail into your mailbox for auto-responding while in drive mode while using android auto
+manage mailbox labels for marking emails as read that have been read aloud
+view and modify but not delete your email for marking emails as read that have been read aloud
+ios read your email from gmail this permission is required to read emails using the “read my inbox” feature and for reading new emails aloud
+manage mailbox labels for marking emails as read that have been read aloud
+if you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible
+we will promptly correct any information found to be incorrect
+was this article helpful
+295 out of 346 found this helpful
+how do i get my whatsapp messages read out
+can i download and use a ‘voice’ (text to speech engine) that is not provided by google
+& using in your car/while driving - video tutorial
+article is closed for comments
+like us on facebook
+follow us on twitter
+follow us on instagram
+subscribe to our youtube channel
+9591117, 10110725, 10277728, 10516775

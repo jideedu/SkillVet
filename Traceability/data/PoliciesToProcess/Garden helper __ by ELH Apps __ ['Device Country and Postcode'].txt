@@ -1,0 +1,3 @@
+the garden helper app asks for location data, in the form of a postal code and country
+location information you provide to this app is not retained in any way nor can it be linked by the developer to you
+location information is used to enhance the user experience

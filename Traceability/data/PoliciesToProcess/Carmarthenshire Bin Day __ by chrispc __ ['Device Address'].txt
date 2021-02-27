@@ -1,0 +1,120 @@
+privacy policy and terms of use
+privacy policy for alexa skills
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa or facebook messenger environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software environment and services to help us improve the skills and our service
+we will share your information with third parties only in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+automatic data collection and advertising we may work with analytics companies to help us understand how the skills are being used, such as the frequency and duration of usage
+to protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account, or the equivalent action in facebook messenger
+you may use the standard uninstall processes as may be available as part of your device, amazon account, or facebook account
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter
+we do not use the skills to knowingly solicit data from or market to children under the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our skills
+please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches
+this privacy policy may be updated from time to time for any reason
+we will notify you of any changes to our privacy policy by posting the new privacy policy here and informing you via email, if such email has been volunteered by you at any time
+you are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as set forth in this privacy policy now and as amended by us
+“processing,” means using information collected by the skills or by the computer network faclities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the united kingdom or ireland
+if you reside outside the united kingdom or ireland your information will be transferred, processed and stored there under united kingdom or ireland privacy standards
+if you have any questions regarding privacy while using the skills, or have questions about our practices, please contact us via email at alexa@chrispc
+this agreement is between you and chrispc
+it governs your use of the carmarthenshire bin day skill on an alexa enabled device, amazon echo (the ‘skill’)
+by using the skill, you agree to the following terms and conditions
+these should be read in conjunction with the alexa privacy policy
+in order to use the skill you will need to download the skill via a smartphone application (‘app’)
+we accept no liability for any damage to your or any other persons computer or device relating to or resulting from using the skill or downloading the skill app
+we shall not be responsible for any costs associated with operating the skill including the purchase and use of an alexa-enabled device/amazon echo or the internet connection
+the skill allows you to ask an alexa enabled device questions
+any questions and commands given via alexa will be treated as authorised by you
+any response alexa provides will be given as authorised by you to do so
+please also refer to the separate terms and conditions of the alexa enabled device, amazon echo
+when asking alexa for information, the amazon alexa will be retrieving this information for you and you agree to amazon performing this
+amazon may record your interactions with the skill or with alexa
+please refer again to the terms and conditions of the alexa enabled device, amazon echo
+all information communicated via the alexa enabled device will be displayed within the companion app for future reference
+we endeavour to make sure the information we provide is correct but you should not rely on any of the information as a recommendation that a product or investment is suitable for you or your circumstances
+if you need financial advice, you should contact a financial advisor
+we accepts no responsibility for any damage, loss, liabilities, injury or disappointment incurred or suffered by you as a result of using the skill, including as a result of us providing inaccurate, untimely, incomplete or erroneous information
+we shall not be liable for any failure to comply with its obligations where the failure is caused by something outside its reasonable control
+nothing in these terms and conditions shall exclude the liability of somer valley fm for death or personal injury as a result of negligence, fraud or fraudulent misrepresentation
+we reserve the right to modify or discontinue the skill at any time without prior notice
+should you have any questions about the skill please contact aviva at aleax@chrispc
+privacy policy and terms of use
+privacy policy for alexa skills
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, facebook messenger, or any other licenced source
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa or facebook messenger environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software environment and services to help us improve the skills and our service
+we will share your information with third parties only in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+automatic data collection and advertising we may work with analytics companies to help us understand how the skills are being used, such as the frequency and duration of usage
+to protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account, or the equivalent action in facebook messenger
+you may use the standard uninstall processes as may be available as part of your device, amazon account, or facebook account
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter
+we do not use the skills to knowingly solicit data from or market to children under the age of 13
+we recommend that if a child is using any of these skills, this is only done with adult supervision
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our skills
+please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches
+this privacy policy may be updated from time to time for any reason
+we will notify you of any changes to our privacy policy by posting the new privacy policy here and informing you via email, if such email has been volunteered by you at any time
+you are advised to consult this privacy policy regularly for any changes, as continued use is deemed approval of all changes
+you can check the history of this policy below
+by using the skills, you are consenting to our processing of your information as set forth in this privacy policy now and as amended by us
+“processing,” means using information collected by the skills or by the computer network faclities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the united kingdom or ireland
+if you reside outside the united kingdom or ireland your information will be transferred, processed and stored there under united kingdom or ireland privacy standards
+if you have any questions regarding privacy while using the skills, or have questions about our practices, please contact us via email at alexa@chrispc
+this agreement is between you and chrispc
+it governs your use of the carmarthenshire bin day skill on an alexa enabled device, amazon echo (the ‘skill’)
+by using the skill, you agree to the following terms and conditions
+these should be read in conjunction with the alexa privacy policy
+in order to use the skill you will need to download the skill via a smartphone application (‘app’)
+we accept no liability for any damage to your or any other persons computer or device relating to or resulting from using the skill or downloading the skill app
+we shall not be responsible for any costs associated with operating the skill including the purchase and use of an alexa-enabled device/amazon echo or the internet connection
+the skill allows you to ask an alexa enabled device questions
+any questions and commands given via alexa will be treated as authorised by you
+any response alexa provides will be given as authorised by you to do so
+please also refer to the separate terms and conditions of the alexa enabled device, amazon echo
+when asking alexa for information, the amazon alexa will be retrieving this information for you and you agree to amazon performing this
+amazon may record your interactions with the skill or with alexa
+please refer again to the terms and conditions of the alexa enabled device, amazon echo
+all information communicated via the alexa enabled device will be displayed within the companion app for future reference
+we endeavour to make sure the information we provide is correct but you should not rely on any of the information as a recommendation that a product or investment is suitable for you or your circumstances
+if you need financial advice, you should contact a financial advisor
+we accepts no responsibility for any damage, loss, liabilities, injury or disappointment incurred or suffered by you as a result of using the skill, including as a result of us providing inaccurate, untimely, incomplete or erroneous information
+we shall not be liable for any failure to comply with its obligations where the failure is caused by something outside its reasonable control
+nothing in these terms and conditions shall exclude the liability of somer valley fm for death or personal injury as a result of negligence, fraud or fraudulent misrepresentation
+we reserve the right to modify or discontinue the skill at any time without prior notice
+should you have any questions about the skill please contact aviva at aleax@chrispc

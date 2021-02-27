@@ -1,0 +1,100 @@
+this privacy policy is incorporated by reference into the city hive end user license agreement and terms of use (the "eula")
+the term "city hive," "we," and "us" includes city hive inc
+and our affiliates and subsidiaries
+the privacy policy explains how city hive may
+collect, use, and disclose information we obtain through the service
+all other terms not defined herein will have the meanings set forth in the eula
+"personal information" means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as
+name, address, email address, or phone number
+we do not consider personal information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual
+the service collects your information
+we collect personal information when you
+register to use the service
+log in with social networking credentials
+and communicate with us
+we also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the service
+you must register to use the service
+to register (whether as a guest or to create an account), you may need to provide personal information, such as your email address
+if you purchase a product, we will also collect your mailing address
+you may also provide other optional information
+we collect personal information from the social media website when you use your social media credentials to log into the service
+for example, when you log in with your facebook credentials, we may collect the personal information you have made publicly available in facebook, such as your name and profile picture
+we may also obtain other information with your permission, such as your birthday and friends list
+when you make payments through the service, you may need to provide personal information to our third-party service providers, such as your credit card number
+we may collect personal information through your communications with our customer-support team
+location information from your mobile device
+we may collect and store your location information if you enable your mobile device to send it to us
+collection of this information may improve the provision of the service
+you may also enter your location manually
+cookies, automatic data collection, and related technologies
+the service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics
+when you visit the service, we and our third-party service providers receive and record information on our server logs from your browser, including your ip address, and from cookies and similar technology
+cookies are small text files placed in visitors' computer browsers to store their preferences
+most browsers allow you to block and delete cookies
+however, if you do that, the service may not work properly
+by using the service, you are authorizing us to gather, parse, and retain data related to the provision of the service
+how city hive uses your information we use personal information to facilitate and improve our services
+and communicate with you
+we may use aggregate information
+for any purpose, including for marketing purposes
+internal and service-related usage
+we use information, including personal information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the service
+we may use and retain any data we collect to provide and improve our services
+we may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance
+we may use information, including personal information, to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you
+we may anonymize and aggregate data collected through the service and use it for any purpose
+city hive may disclose your information
+we may share your information
+with our third-party service providers
+to comply with legal obligations
+to protect and defend our rights and property
+and with your permission
+we do not rent, sell, or share personal information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission
+we use vendors and service providers
+we may share any information we receive with vendors and service providers retained in connection with the provision of the service
+social networking and other websites
+the service may allow you to share information, including personal information, with social networking websites, such as facebook
+we do not share your personal information with them unless you direct the service to share it
+their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites
+we do not rent, sell, or share personal information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission
+we may allow access to other data collected by the service to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you
+as required by law and similar disclosures
+we may access, preserve, and disclose your personal information, other account information, and content if we believe doing so is required or appropriate to
+comply with law enforcement requests and legal process, such as a court order or subpoena
+respond to your requests
+or protect yours', ours' or
+others' rights, property, or safety
+merger, sale, or other asset transfers
+if we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract
+the use of your personal information following any of the foregoing events should be governed by the provisions of this privacy policy in effect at the time such personal information was collected
+we may also disclose your personal information with your permission
+security of your information
+we take steps to ensure that your information is treated securely and in accordance with this privacy policy
+unfortunately, the internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us
+we do not accept liability for unintentional disclosure
+by using the service or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the service
+if we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the service or sending an e-mail to you
+you may have a legal right to receive this notice in writing
+to receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at legal@cityhive
+we do not knowingly collect information from children under 13 and we do not want it
+we will take steps to delete it if we learn we have collected it
+we do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of the service is directed to children under the age of 13
+if you learn that your child has provided us with personal information without your consent, you may alert us at legal@cityhive
+if we learn that we have collected any personal information from children under 13, we will promptly take steps to delete such information and terminate the child's account
+by using the service, you will transfer data to the united states
+by choosing to visit the service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the state of new york and the adjudication of any disputes arising in connection with city hive or the service will be in accordance with the eula
+if you are visiting from the european union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the united states and processing globally
+by providing your information you consent to any transfer and processing in accordance with this policy
+update your information or pose a question or suggestion
+if you would like to update or correct any information that you have provided to us through your use of the service or otherwise, or if you have suggestions for improving this privacy policy, please send an e-mail to legal@cityhive
+changes to our privacy policy and practices
+we may revise this privacy policy, so review it periodically
+posting of revised privacy policy
+we will post any adjustments to the privacy policy on this web page, and the revised version will be effective when it is posted
+if you are concerned about how your information is used, bookmark this page and read this privacy policy periodically
+new uses of personal information
+from time to time, we may desire to use personal information for uses not previously disclosed in our privacy policy
+if our practices change regarding previously collected personal information in a way that would be materially less restrictive than stated in the version of this privacy policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law
+contact information city hive inc
+7 world trade center
+new york, ny 10007 legal@cityhive

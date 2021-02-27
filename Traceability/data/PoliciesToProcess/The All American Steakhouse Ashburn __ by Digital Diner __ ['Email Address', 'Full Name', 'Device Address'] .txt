@@ -1,0 +1,105 @@
+privacy policy – guests (waitbusters dining)
+this privacy policy describes the policies and procedures of waitbusters dining (“we”, “our” or “us”) on the collection, use and disclosure of your information on the services, features, content or applications we offer (the “services”)
+we receive information about you from various sources, including
+(i) your use of the services generally
+and (ii) from third party websites and services
+when you use the services, you are expressly consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy
+if you do not agree with the privacy policy then you should immediately stop using the website and the service
+waitbusters dining is committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us
+as a visitor or user of the waitbusters dining website and services, you have the right to know and understand our information privacy practices before providing us with any of your personal details
+by using the waitbusters dining website and services, you are deemed to consent to our use of your personal data in accordance with this policy
+age requirements waitbusters dining is not intended for children under 13 years of age, and no one under the age of 13 may provide any information to, on or via the waitbusters dining website and services
+we do not knowingly collect personal data from children under 13, and if we learn that we have collected or received personal data from a child under 13, we will delete that information
+children between the ages of 13-17 may use the services or website only with assistance from a parent or legal guardian
+what this privacy policy covers this privacy policy covers the treatment of personally identifiable information (“personal information”) gathered when you are using or accessing the website and services
+this privacy policy also covers our treatment of any personal information that our business partners share with us or that we share with our business partners
+this privacy policy does not apply to the practices of third parties that we do not own or control, including but not limited to any social networks, restaurants where you join their waitlist, restaurants where you make reservations, or sites where you pay for restaurant services or applications (“third party services”) that you elect to access through the website and service or to individuals that we do not manage or employ
+while we attempt to facilitate access only to those third party services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those third party services
+we encourage you to carefully review the privacy policies of any third party services you access
+collection of information we collect information you provide directly to waitbusters dining website and services both while using the website and/or when you use our services including but not limited to
+making a reservation, jumping the line, promotions, 24/7 concierge use or commentary on social media
+this information can include your name, address, phone number, email address, reservation details, cancellations, dining activity, promotion usage, sharing or other details
+we also automatically collect certain information passively as a result of your use of the waitbusters dining website and services
+this information is linked to the device (e
+computer, mobile, tablet or laptop) you use to access the website and includes your ip address, operating system, browser type, referring urls, page views, access times and your geographical location
+furthermore, we can collect information provided to us when you connect to the waitbusters dining website and services from a third party application, social networking site (such as facebook or twitter) or other website (such as a promotion partner)
+all content submitted by you to the services may be retained by us indefinitely, even if and after your access to the website and services are terminated
+use of your information we may use your information to improve our services and fulfill your requests when you utilize the following
+reviewing or commenting on our services or on restaurant services
+use of the 24/7 concierge
+by doing so we can
+remember information so that you will not have to re-enter it during your visit or the next time you visit the website
+provide you with promotions
+fine tune your experience on the website, making it more personalized and display content we think may be of interest to you
+monitor and analyze trends, usage and activities on our web page
+diagnose or fix technology issues
+link or combine with other information we get from third parties to help understand your needs and provide you with better service
+electronic communication in order to assist you with all of the services that waitbusters dining has to offer, we may communicate with you via sms and/or email
+this communication will only be with regard to reservation notification, promotional opportunities available at restaurants or other products and services related to waitbusters dining
+disclosure of your information we do not share personal information about you with third parties except as listed below
+with restaurants that you make a dining reservation and their affiliates, which shall include name, party size, phone number, dining preferences or other comments
+with restaurants in order to facilitate payment
+if we believe that disclosure is reasonably necessary to
+comply with any applicable law, regulation or legal process, or governmental request
+to enforce our user agreements and policies
+to protect the security or integrity of the site
+to protect the company, our users and the public from harm or illegal activities
+if we become involved in a merger, acquisition, sale of assets, consolidation, joint venture, bankruptcy or other transaction or if the ownership of all or substantially all of our business changes
+for ad purposes, we may also share certain information such as your location, browser and cookie data, unique identifier data, advertising identifier data and other data relating to your use of our website and services with our business partners to deliver advertisements ("ads") that may be of interest to you
+we may allow third party ad platforms to serve advertisements on the service
+any information that you share publicly on various social media sites including your comments, location sharing and promotion sharing with friends
+who we share your information with we may share aggregated or anonymized information that does not directly identify you
+we do not sell, rent, or share information about personally identifying characteristics (e
+, name, email address, age, gender) we collect directly from you or about you from third parties with third party ad platforms for their own marketing purposes, unless you choose in advance to have such information shared for this purpose
+cookies when you use our website and services and agree to the use of cookies, the page may assign cookies to you as a user to develop a personal experience and allow your access to the website and services
+these cookies allow waitbusters dining to distinguish you from other users
+cookies contain basic information about your visit to a certain site
+through the use of cookies, we collect the pages you visit, the date and time of your visit, links you click and searches you conduct on our page
+waitbusters dining may use cookies and similar technologies like pixels or web beacons, as well as local storage to collect information about how you use the website so that we can provide features for you
+these cookies can then be used to help you navigate between pages efficiently, help remember your preferences, and generally improve your experience using the website
+due to the fact that you may be accessing our website through a mobile device, we may access and collect location data
+most browsers are configured to accept cookies by default, but if you prefer, you can usually set your browser to remove or reject cookies
+waitbusters dining (or third parties) may use certain data collected to show you advertisements for the website on other websites or applications
+on the one hand, cookies provide simplicity and speed, on the other, however, they also constitute invasion into privacy or create possibilities for subsequently directed advertising
+this privacy policy covers our use of cookies only and does not cover the use of cookies by third parties
+we do not control when or how third parties place cookies on your computer
+personal accounts when you sign up to use waitbusters dining services, in order to make a reservation, jump the line or make payments, you will be required to submit the following
+this information will be used to create and manage your account
+your email address may further be used by waitbusters dining to send updates regarding the service, modifications to the service and updates to the privacy policy and terms of service
+all payments are handled via stripe, who will retain your credit card information
+payments information to use certain services through waitbusters dining, in particular, to make payments to restaurants, we may require you to submit your debit or credit information
+in submitting this information, you agree that this can be submitted to our third party payment processor, stripe, who will retain your information
+waitbusters dining currently uses stripe to collect payments from users on behalf of restaurants in a secure manner
+waitbusters dining, can, however, change its payment provider at its discretion, provided any such payment provider meets an equivalent level of security
+upon confirmation of the user’s information, users will be connected to waitbusters dining to complete the sign up details by providing credit or debit card details
+stripe will verify the credit or debit card details prior to confirming the user
+if the credit or debit cards cannot be verified by stripe, waitbusters dining reserves the right to refuse the user access to the services
+accessing your personal information and choices in accordance with applicable law, you have the right to find out what personal data we hold about you at any time
+please submit this request in writing to info@waitbusters
+security of your information we seek to protect user information to ensure that it is kept private
+however, we cannot guarantee the security of any user information
+unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time
+we otherwise store all of our information, including your ip address information, using industry-standard techniques
+we do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, personal information or otherwise
+we do not store your billing information
+this information is stored by stripe, a third party payment processor
+our contract with stripe requires that they keep your payment information confidential and secure
+we assume no liability or responsibility for a hack or unauthorized access to information controlled by a third party, i
+the restaurant, venue or stripe
+modifications to the privacy policy we reserve the right to modify this privacy policy at any time
+use of information we collect now is subject to the privacy policy in effect at the time such information is used
+it is recommended that the user check this page often to view such modification and note the date listed on the modification
+if we make changes in the way we collect or use information, we will notify you by posting an announcement on the website
+a user must cease using the website if they object to any changes otherwise they will be bound by any changes to the privacy policy
+definitions and legal references
+“personal information” - "personal information" is information that we can use to identify you as an individual
+personally identifiable information includes the restaurant name, restaurant owner and/or contact person, restaurant address, email address, telephone number and any other information that is connected with you personally
+“website” – the waitbusters dining website
+“user(s)” - the restaurant or restaurant owner using the website
+“data subject” – the legal or natural persona to whom the personal data refers
+“data processor” – the natural person, legal person, or any other person associated with waitbusters dining authorized to process the personal data in compliance with this privacy policy
+“cookies” – small pieces of data stored in the user’s device
+“services” – the services provided by waitbusters dining including reservation widget, jump the line feature, table management and 24/7 concierge
+if you have any questions or concerns regarding privacy using the services, please send us a detailed message to info@waitbusters
+we will make every effort to resolve your concerns
+data controller and owner james moody clarksville, va

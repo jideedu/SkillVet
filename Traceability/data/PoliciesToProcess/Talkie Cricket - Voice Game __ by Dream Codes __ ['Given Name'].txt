@@ -1,0 +1,14 @@
+introduction the purpose of this privacy policy is to describe how talkie cricket alexa skill collects and uses information about you
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information in accordance with our alexa skill
+our privacy policy explains
+information we collect and why we use it
+how we use your information
+security of your information
+questions and how contact us
+information we collect and why we use it talkie cricket skill utilizes alexa skill permissions feature to collect below information from your amazon or alexa account
+to show your name in leaderboard of players
+how we use your information the given name of alexa user is collected to show leaderboard of players when user's request for high scores in the skill
+security of your information we save your given name if you authorize to share this information with skill
+users can opt out of this feature at any point from the amazon alexa app
+this information will be cleared once user opts out
+question and how to contact us if you have any questions, concerns, or suggestions regarding our privacy policy please contact us

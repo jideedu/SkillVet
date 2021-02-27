@@ -1,0 +1,394 @@
+we share anonymized location data with third
+parties to improve the application and serve advertising
+jump straight to section §4
+1 that details how we share anonymized location
+data with third parties
+we are committed to safeguarding the privacy of
+users of the myradar suite of mobile apps, desktop apps and website
+this policy applies where we are acting as a data
+controller with respect to the personal data of myradar users
+where we determine the purposes and means of the processing of that personal
+we use cookies on our website
+cookies are not strictly necessary for the provision of myradar services, we
+will ask you to consent to our use of cookies when you first visit our website
+our apps incorporate privacy and notification
+controls which affect how we will process your personal data
+privacy controls, you can specify whether you would like to receive direct
+marketing communications and weather notifications
+you can access the privacy
+controls via the settings menu
+in this policy, "we", "us" and
+"our" refer to acme atronomatic, llc d/b/a
+how we use your personal data
+in this section 2 we have set out
+the general categories of personal data that we
+in the case of personal data that we did not
+obtain directly from you, the source and specific categories of that data
+the purposes for which we may process personal
+the legal bases of the processing
+we may process data about your use of our website,
+apps, and services (" usage data ")
+the usage data may include your
+ip address, geographical location, browser type and version, operating system,
+referral source, length of visit, page views and website navigation paths, as
+well as information about the timing, frequency and pattern of your service use
+the source of the usage data includes various third-party sdks
+may be processed for the purposes of analysing the use of the website apps, and
+the legal basis for this processing is our legitimate interests,
+namely monitoring and improving our website apps, and services
+we may process data used to facilitate media uploads
+and social sharing (" account data ")
+the account data may include
+your chosen screenname and email address, and well as social network
+the source of the account data is information you provide when
+registering for an account with us
+the account data may be processed for the
+purposes of operating our website, providing our services, ensuring the
+security of our website and services, maintaining back-ups of our databases and
+the legal basis for this processing is your explicit consent
+given when registering for an account
+we may process your information included in your personal
+profile on our service (" profile data ")
+the profile data may
+include your name, telephone number, email address, website urls, and profile
+the profile data may be processed for the purposes of enabling and
+monitoring your use of our website apps, and services
+the legal basis for this
+processing is your consent
+we may process your personal data that are
+provided in the course of the use of our services (" service data ”) the
+service data may be processed for the purposes of operating our service,
+providing our services, ensuring the security of our website apps, and
+services, maintaining back-ups of our databases and communicating with you
+legal basis for this processing is your consent
+we may process information that you post for
+publication on our website or through our services (" publication data ")
+this includes media uploads such as photos and videos, as well as comments
+publication data may be processed for the purposes of enabling such publication
+and administering our website apps, and services
+the legal basis for this
+processing is your explicit consent
+we may process information contained in any
+enquiry you submit to us regarding goods and/or services (" enquiry data ")
+the enquiry data may be processed for the purposes of offering, marketing and
+selling relevant goods and/or services to you
+the legal basis for this
+processing is your consent
+we may process information relating to our
+customer relationships, including customer contact information (" customer
+the customer relationship data may be processed for
+the purposes of managing our relationships with customers, communicating with
+customers, keeping records of those communications and promoting our products
+and services to customers]
+the legal basis for this processing is our
+legitimate interests, namely the proper management of our customer relationships
+we may process information relating to
+transactions, including purchases of services, that you enter into with us
+and/or through our service (" transaction data ”) the transaction
+data may be processed for the purpose of supplying the purchased services and
+keeping proper records of those transactions
+the legal basis for this
+processing is the performance of a contract between you and us and/or taking
+steps, at your request, to enter into such a contract and our legitimate
+interests, namely the proper administration of our service
+we may process information that you provide to us
+for the purpose of subscribing to our email, sms, and push notifications and/or
+newsletters (" notification data ")
+the notification data may
+be processed for the purposes of sending you the relevant notifications and/or
+the legal basis for this processing is your consent
+we may process information contained in or relating
+to any communication that you send to us (" correspondence data ")
+the correspondence data may include the communication content and metadata associated
+our website will generate the metadata associated with
+communications made using the website contact forms
+may be processed for the purposes of communicating with you and record-keeping
+the legal basis for this processing is our legitimate interests, namely the
+proper administration of our website and business and communications with users
+we may process any of your personal data identified
+in this policy where necessary for the establishment, exercise or defence of
+legal claims, whether in court proceedings or in an administrative or
+the legal basis for this processing is our legitimate
+interests, namely the protection and assertion of our legal rights, your legal
+rights and the legal rights of others
+we may process any of your personal data identified
+in this policy where necessary for the purposes of obtaining or maintaining
+insurance coverage, managing risks, or obtaining professional advice
+basis for this processing is our legitimate interests, namely the proper
+protection of our business against risks
+in addition to the specific purposes for which we
+may process your personal data set out in this section 3, we may also process any
+of your personal data where such processing is necessary for compliance with a
+legal obligation to which we are subject, or in order to protect your vital
+interests or the vital interests of another natural person
+please do not supply any other person's personal
+data to us, unless we prompt you to do so
+providing your personal data to others
+we may disclose your personal data to any member
+of our group of companies (this means our subsidiaries, our ultimate holding
+company and all its subsidiaries) insofar as reasonably necessary for the
+purposes, and on the legal bases, set out in this policy
+we may disclose your personal data to our insurers
+and/or professional advisers insofar as reasonably necessary for the purposes
+of obtaining or maintaining insurance coverage, managing risks, obtaining
+professional advice, or the establishment, exercise or defence of legal claims,
+whether in court proceedings or in an administrative or out-of-court procedure
+we may disclose anonymized location and other data
+to our suppliers or subcontractors
+insofar as reasonably necessary to improve
+your advertising experience, and for monetization and analytics purposes
+1 in addition to other information
+described in this policy, we may collect and share precise location information,
+including the presence of connected devices via bluetooth, through methods such
+as mobile “sdks” by means of our partnership with cuebiq , which helps cover the costs of
+developing and maintaining this app and related services thereof
+information may be used by itself, aggregated, or combined with mobile
+identifiers (such as idfas and android ids), and may be shared with other
+parties, for purposes related to advertising, attribution (e
+performance), analytics and research
+you can withdraw your consent to having
+your location data collected by changing the settings on your device (note that
+certain services may lose functionality as a result)
+you can also activate
+opt-out settings which will
+(i) tell advertisers to not use your
+in-app information from that device for purposes of collecting and serving
+interest-based advertising and (ii) inform cuebiq to halt further data
+collection and sharing from that device
+additionally, you can opt-out from the
+cuebiq app directly ( ios , android )
+financial transactions relating to our services
+may be handled by our payment services providers, including apple, microsoft,
+we will share transaction data with our payment services providers
+only to the extent necessary for the purposes of processing your payments, refunding
+such payments and dealing with complaints and queries relating to such payments
+in addition to the specific disclosures of
+personal data set out in this section 4, we may disclose your personal data
+where such disclosure is necessary for compliance with a legal obligation to
+which we are subject, or in order to protect your vital interests or the vital
+interests of another natural person
+we may also disclose your personal data
+where such disclosure is necessary for the establishment, exercise or defence
+of legal claims, whether in court proceedings or in an administrative or
+international transfers of your personal data
+in this section 5, we provide information about
+the circumstances in which your personal data may be transferred to countries
+outside the european economic area (eea)
+we have offices and facilities in the unites
+data transfers to other jurisdictions will be protected by appropriate
+safeguards, namely the use of standard data protection clauses adopted or
+approved by the european commission
+the hosting facilities for our website are
+situated in the united states
+additionally, we utilize a 3 rd party
+content distribution network with hosting facilities in many countries
+transfers to other jurisdictions will be protected by appropriate safeguards,
+namely the use of standard data protection clauses adopted or approved by the
+you acknowledge that [personal data that you
+submit for publication through our website or services] may be available, via
+the internet, around the world
+we cannot prevent the use (or misuse) of such
+personal data by others
+retaining and deleting personal data
+this section 6 sets out our data retention
+policies and procedure, which are designed to help ensure that we comply with
+our legal obligations in relation to the retention and deletion of personal
+personal data that we process for any purpose or
+purposes shall not be kept for longer than is necessary for that purpose or
+we will retain your personal data as follows
+personal data will be retained for a minimum period
+of 24 hours following usage, and for a maximum period of 99 years
+in some cases it is not possible for us to specify
+in advance the periods for which your personal data will be retained
+cases, we will determine the period of retention based on the following
+the period of retention of personal data will be
+notwithstanding the other provisions of this
+section 6, we may retain your personal data where such retention is necessary
+for compliance with a legal obligation to which we are subject, or in order to
+protect your vital interests or the vital interests of another natural person
+we may update this policy from time to time by
+publishing a new version on our website at http
+you should check this page occasionally to ensure
+you are happy with any changes to this policy
+we may notify you of changes to this policy by
+email or push notification
+in this section 8, we have summarised the rights
+that you have under data protection law
+some of the rights are complex, and
+not all of the details have been included in our summaries
+should read the relevant laws and guidance from the regulatory authorities for
+a full explanation of these rights
+your principal rights under data protection law
+the right to access
+the right to rectification
+the right to erasure
+the right to restrict processing
+the right to object to processing
+the right to data portability
+the right to complain to a supervisory authority
+the right to withdraw consent
+you have the right to confirmation as to whether
+or not we process your personal data and, where we do, access to the personal
+data, together with certain additional information
+includes details of the purposes of the processing, the categories of personal
+data concerned and the recipients of the personal data
+and freedoms of others are not affected, we will supply to you a copy of your
+the first copy will be provided free of charge, but additional copies
+may be subject to a reasonable fee
+you can request a copy of your personal by emailing privacy@myradar
+you have the right to have any inaccurate personal
+data about you rectified and, taking into account the purposes of the processing,
+to have any incomplete personal data about you completed
+in some circumstances you have the right to the
+erasure of your personal data without undue delay
+the personal data are no longer necessary in relation to the purposes for which
+they were collected or otherwise processed
+you withdraw consent to
+you object to the processing under certain rules of
+applicable data protection law
+the processing is for direct marketing
+and the personal data have been unlawfully processed
+are exclusions of the right to erasure
+the general exclusions include where
+for exercising the right of freedom of expression and
+for compliance with a legal obligation
+or for the establishment,
+exercise or defense of legal claims
+in some circumstances you have the right to
+restrict the processing of your personal data
+contest the accuracy of the personal data
+processing is unlawful, but you
+we no longer need the personal data for the purposes of our
+processing, but you require personal data for the establishment, exercise or
+defence of legal claims
+and you have objected to processing, pending the
+verification of that objection
+where processing has been restricted on this
+basis, we may continue to store your personal data
+however, we will only
+for the establishment, exercise or
+defence of legal claims
+for the protection of the rights of another natural or
+or for reasons of important public interest
+you have the right to object to our processing of
+your personal data on grounds relating to your particular situation, but only
+to the extent that the legal basis for the processing is that the processing is
+the performance of a task carried out in the public interest or
+in the exercise of any official authority vested in us
+or the purposes of the
+legitimate interests pursued by us or by a third party
+if you make such an
+objection, we will cease to process the personal information unless we can
+demonstrate compelling legitimate grounds for the processing which override
+your interests, rights and freedoms, or the processing is for the establishment,
+exercise or defence of legal claims
+you have the right to object to our processing of
+your personal data for direct marketing purposes (including profiling for
+if you make such an objection, we will cease to
+process your personal data for this purpose
+you have the right to object to our processing of
+your personal data for scientific or historical research purposes or
+statistical purposes on grounds relating to your particular situation, unless
+the processing is necessary for the performance of a task carried out for
+reasons of public interest
+to the extent that the legal basis for our
+processing of your personal data is
+that the processing is necessary for the
+performance of a contract to which you are party or in order to take steps at
+your request prior to entering into a contract,
+and such processing is carried out by automated
+means, you have the right to receive your personal data from us in a structured,
+commonly used and machine-readable format
+however, this right does not apply
+where it would adversely affect the rights and freedoms of others
+if you consider that our processing of your
+personal information infringes data protection laws, you have a legal right to
+lodge a complaint with a supervisory authority responsible for data protection
+you may do so in the eu member state of your habitual residence, your place of
+work or the place of the alleged infringement
+to the extent that the legal basis for our
+processing of your personal information is consent, you have the right to
+withdraw that consent at any time
+withdrawal will not affect the lawfulness of
+processing before the withdrawal
+you may exercise any of your rights in relation to
+your personal data by written notice to us via parcel post or by emailing
+a cookie is a file containing an identifier (a
+string of letters and numbers) that is sent by a web server to a web browser
+and is stored by the browser
+the identifier is then sent back to the server
+each time the browser requests a page from the server
+cookies may be either "persistent"
+cookies or "session" cookies
+a persistent cookie will be stored by a
+web browser and will remain valid until its set expiry date, unless deleted by
+the user before the expiry date
+a session cookie, on the other hand, will
+expire at the end of the user session, when the web browser is closed
+cookies do not typically contain any information
+that personally identifies a user, but personal information that we store about
+you may be linked to the information stored in and obtained from cookies
+cookies that we use
+we use cookies for the following purposes
+authentication - we use cookies to identify you
+when you visit our website and as you navigate our websites
+status - we use cookies to help us to determine if
+you are logged into our websites
+personalization - we use cookies to store
+information about your preferences and to personalize our websites for you
+security - we use cookies as an element of the
+security measures used to protect user accounts, including preventing
+fraudulent use of login credentials, and to protect our website and services
+advertising - we use cookies to help us to display
+advertisements that will be relevant to you
+analysis - we use cookies to help us to analyse
+the use and performance of our website and services
+cookie consent - we use cookies to store your preferences
+in relation to the use of cookies more generally
+cookies used by our service providers
+our service providers use cookies and those cookies
+may be stored on your computer when you visit our website
+we use google analytics and google firebase to analyze
+the use of our website and apps
+google gathers information about website use
+by means of cookies
+the information gathered relating to our website is used
+to create reports about the use of our website
+google's privacy policy is available
+we publish google interest-based advertisements on in
+these are tailored by google to reflect your interests
+your interests, google will track your behaviour on our website and on other
+websites across the web using cookies
+you can view, delete or add interest
+categories associated with your browser by visiting
+you can also opt out of the adsense partner network cookie using those settings
+or using the network advertising initiative's multi-cookie opt-out mechanism
+however, these opt-out mechanisms themselves use cookies, and if you clear the
+cookies from your browser your opt-out will not be maintained
+an opt-out is maintained in respect of a particular browser, you may wish to
+consider using the google browser plug-ins available at
+most browsers allow you to refuse to accept cookies
+and to delete cookies
+the methods for doing so vary from browser to browser,
+and from version to version
+you can however obtain up-to-date information
+about blocking and deleting cookies via these links
+blocking all cookies will have a negative impact
+upon the usability of many websites
+if you block cookies, you will not be able to use
+all the features on our website
+the myradar suite of applications and website is
+owned and operated by acme atronomatic, llc
+acme atronomatic, llc, is a registered florida
+our principal place of business is at 1700 n orange
+you can contact us
+by mail, to the postal address given above
+by using our website contact form at
+by email, using privacy@myradar
+our data protection officer's contact details are
+com) 213 sw ash st
+suite 201 portland or
+handels gmbh & co
+media france - dbi
+science consulting group, inc
+audience ‚äì an amadeus company

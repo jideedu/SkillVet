@@ -1,0 +1,14 @@
+botmation's personal blog for creating robots and ai
+this is a blog about my personal projects in robots, ai, and the technologies that make it happen
+read about my success and failures and get a personal insight into what it feels to make big ideas into reality
+the walk me through skill allows you create a custom list of instructions on your alexa account
+it does this by accessing your alexa lists
+for walk me through to work, you need to give the skill permission to create a list and add items to your list (“write permission”)
+the skill will read the list of instructions you created (“read permission”)
+the skill will read through the titles of your lists in order to determine the existence of list titled “alexawalkmethrough” (used for storing your instructions given to this skill
+the skill will not read items already on other lists, nor does it log or store the names of items you add using walk me through outside of alexa application
+the walk me through skill does not collect any personal data, nor personally identifiable data, even if you add personal information to your list via the skill
+no third party account linking is required, and nothing from the skill is stored in a database or retrieval system outside of amazon’s own servers
+if the nature or funtionality of the walk me through skill changes such that this privacy statement requires an update, users will be notified via the skill description in the alexa app, and also via the welcome message in the skill itself
+copyright © 2020 botmation's personal blog for creating robots and ai
+catch box by catch themes

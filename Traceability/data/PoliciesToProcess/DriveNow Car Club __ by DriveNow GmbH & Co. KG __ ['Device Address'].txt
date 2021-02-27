@@ -1,0 +1,444 @@
+register now login menu privacy policy preamble
+we take the protection of personal data, very seriously
+we would like to explain here how we protect your data and what it means for you when you use our personalized services
+of course, we comply with all the legal requirements regarding data protection to ensure maximum protection of your privacy
+we comply with the provisions of the general data protection regulation (gdpr) and the new federal data protection act (bdsg-neu) due to the adaptation of data protection law in line with regulation (eu) 2016/679 and we comply with the implementation of directive (eu) 2016/680 (data protection adaptation and implementation act eu - dsanpug-eu)
+this data protection statement applies to drivenow's website, which can be accessed under the domain https
+com/gb/en/london , and the various subdomains (hereinafter referred to as "our website")
+name and address of the person responsible
+the responsible party and service provider is drivenow united house, 39-41 north road, london n7 9dp (hereinafter referred to as "drivenow")
+name and address of the data protection officer
+our data protection officer is attorney-at-law dr
+karsten kinast, kinast rechtsanwaltsgesellschaft mbh, hohenzollernring 54, 50672 cologne
+you can contact our data protection officer at any time in relation to any matter relating to data protection
+the best way to contact us is to send an email to
+com or to write us at
+drivenow gmbh & co kg, seidlstrasse 26, 80335 munich, germany
+general information on data processing
+we only collect and use personal data from our users which is necessary to provide a functional service for our website and for the content of our services
+personal data is information that can be associated with you as an individual
+examples include your name, address, postal address, telephone number and email address
+non-personal data is information such as the number of users of a website or service
+2 processing of personal data
+processing means any operation or series of operations carried out with or without the aid of automated procedures in relation to personal data, such as the collection, collation, organisation, sorting, storage, adaptation or alteration, reading, retrieval, use, disclosure by transmission, dissemination or any other form of provision, comparison or linking, restriction, erasure or destruction
+personal data is collected via this website if you provide it to us on your own initiative and consent, e
+by registering, filling out forms, sending emails or by booking a drivenow vehicle
+we use this data for the purposes indicated in each case or resulting from the enquiry, thus for example the reservation enquiry for handling your reservation requests
+transmission to third parties will only take place if this is expressly permitted by law or if you have agreed to the transmission within the framework of your registration or during an active business relationship
+apart from this, you can principally use the general information on www
+com without disclosing your personal data
+3 legal basis for the processing of personal data
+the collection and use of the personal data of our users takes place regularly only with the user's consent
+insofar as we obtain the consent of the data subject for the processing of personal data, art
+a gdpr shall apply as the legal basis for the processing of personal data
+an exception applies in those cases in which prior consent cannot be obtained for actual reasons and the processing of the data is permitted by legal regulations
+for the processing of personal data necessary for the performance of a contract to which the data subject is a party, art
+b gdpr is the legal basis
+this also applies to processing operations that are necessary for carrying out pre-contractual measures
+insofar as the processing of personal data is necessary to fulfil a legal obligation to which we are subject, art
+c gdpr is the legal basis
+if processing is necessary to safeguard a legitimate interest of our company or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh this first interest, art
+f gdpr is the legal basis for processing
+4 data erasure and storage time
+your master data is kept for the duration of the contract
+after you have initiated the termination of the business relationship, the data will be kept for a maximum of 4 years from your last transaction
+if we initiate the termination of the business relationship for security reasons or due to bankruptcy, we will keep your data for a maximum of 5 years after your last transaction
+1 security, tls technology
+we have taken technical and organisational measures to protect your personal data, in particular against accidental or intentional manipulation, loss, destruction or access by unauthorised persons
+these security measures are continually updated in line with technological developments
+the transmission of personal data between your computer or mobile device and our server is always encrypted (tls procedure, transport layer security)
+2 login notification security action
+to enable us to protect you better from the abuse of your data, you will receive an automatic notification by email if somebody logs into your drivenow customer account using a device which we do not recognise
+for this purpose, we save a device-specific id in your customer profile on the drivenow website or app and process the following data which we send to you in the notification addressed to you for identification purposes
+device type, time, ip address and location on the basis of the ip
+these data are naturally only used by us to enhance your security
+they are not disclosed to third parties
+this data processing is supported by our justified interest as described in art
+1 letter f of the gdpr
+in the following we describe the processing of data within the registration process
+our website offers users the option to register by entering personal data
+as part of this process, the data is entered into an input screen, transmitted to us, and saved
+we do not share data with third parties
+the following personal data is collected as part of this registration process
+- name, address, date of birth, e-mail address, mobile phone number, payment data as well as a pin selected by you, answer to security question, and a password
+in addition, the following personal data is collected
+- date and time of registration
+your data, with the exception of your ip address, will be stored for the entire period of the contract performance, not to exceed 4 or 5 years, depending on the manner in which the business relationship was terminated as set forth in item 3
+after the expiration of these periods, all data relating to your person will be permanently deleted, unless there are legally mandated retention periods
+during the retention period, data relating to your person that is required to meet commercial and fiscal obligations will be completely blocked and will no longer be accessible for further data processing activities
+we will delete your ip address after six months in all cases
+the legal basis for the processing of this data, which is necessary for the fulfilment of a contract or for the implementation of pre-contractual measures, is art
+as an alternative, you can also use the dlcs tool offered on our website for driver license verification
+to this end, we use the data you specified as part of your registration as well as a copy of your driver license (front and back) for review by our staff
+after the verification, the data that was processed for this purpose will be deleted
+the legal basis for processing this data, which is required for contract performance or to carry out pre-contractual activities, is art
+in the following we describe data processing in the context of the use of google maps
+1 google maps application
+this website, as well as the drivenow application, use google maps api applications
+this enables us to display interactive maps directly on the website or on our app and enables you to conveniently use the map function
+this application is essential for the functionality and complete provision of our content and services
+you can view google's terms of use here
+the additional terms of use for google maps/google earth can be found here https
+you can find google's privacy policy here
+we use google maps to determine the current location of our vehicles and to show you the nearest available vehicle
+in addition, we use google maps to translate geo-positions into addresses and to show you the estimated walking distance to the selected vehicle
+after your approval, we will use google maps to show your planned arrival location and the remaining arrival time for handover to a subsequent customer on our app
+we do not share this information with google
+this data will only be transmitted to google anonymously
+it cannot, therefore, be traced back to you
+the legal basis for the processing of this data, which is necessary for the fulfilment of a contract or for the implementation of pre-contractual measures, is art
+in the following, we describe processing procedures within the framework of using cookies in detail
+1 use of cookies
+cookies are small text files that are stored on your hard drive by a web server
+cookies contain information that can later be read by a web server in the domain that issued the cookie to you
+cookies cannot run programs or deliver viruses to your computer
+there is a distinction made between two different types of cookies
+session cookies are deleted as soon as you end the session
+temporary and permanent cookies are stored on the data carrier for a longer period or indefinitely
+2 data in the context of the use of cookies
+no personal data is stored in the cookies we use
+the cookies we use are also not combined with personal data
+in this respect, these cookies cannot be attributed to any particular person
+when a cookie is activated, it only receives an identification number
+personal data such as name, ip address, etc
+are not assigned to this identification number at any time
+using cookie technology, we only receive anonymous information, such as which pages of our website have been visited, etc
+3 use of session cookies
+most of the cookies we use are so-called session cookies, which are necessary to keep your visit consistent, i
+to ensure that, for example, no renewed login is required and that your preferences or other information already entered during the reservation request are retained during the session
+in addition, we need session cookies to ensure that a specific offer that you have clicked on will be assigned to your request (e
+these session cookies are automatically deleted when the session ends
+in addition, we use cookies when you visit the website subsequently to detect if you are particularly interested in certain offers, which allows us to display such targeted offers on the site
+this assignment is only made using abstract criteria (e
+"bmw") and not on a personal basis
+these cookies have a lifetime of one year and are then automatically deleted
+our website uses cookie technology to collect data to simplify our website
+this tells us how the website is used and enables us to constantly optimise our offering
+the following data is processed
+- search terms used - frequency of page views - use of website functions
+this data is used exclusively for anonymous evaluation of the use of the website and is never merged with the personal data stored by us
+using the information obtained through clickstream analysis, we make our website as attractive as possible in order to best meet our customers' needs
+5 re-marketing/re-targeting and web analysis
+we use so-called re-marketing/re-targeting to make online offers more relevant for internet users and to consistently improve our promotional offers and marketing measures
+this technology allows us to reach out to internet users who have already shown interest in our website with drivenow advertising via advertising banners or ads on the websites of our partners
+to this end, the users’ stored surfing behaviour is analysed with an analytical tool on the basis of an algorithm
+the display of our advertising on the websites of our partners relies on cookies and the analysis of usage behaviour on the website
+the advertisement displays are completely anonymous
+at no time are personal data saved or user profiles combined with personally identifiable data
+for this purpose, we use cookies by the following third-party vendors
+criteo sa, 32 rue blanche, 75009 paris, france
+this product helps us, beyond the scope described above, to post our advertising in apps and e-mails to visitors who are interested in our products
+we may share information such as technical identifiers from your registration information on our website or from our crm system with reliable advertising partners
+this allows for linking your devices and/or environments in order to offer you a seamless user experience with the devices and environments you typically use
+for further details about these linking capabilities, please refer to the privacy policy of criteo at
+, 28 west 23rd street 5th floor, new york, ny 10010, usa
+this product lets us determine which services you use and which of our pages you visit
+this utility supports you with the discovery of content on third-party websites
+the cookie enables us to generate pseudonymous user profiles by collecting device-related data and log data
+the collection of data associated with website use generated by the cookie) can be deactivated at any time
+for this purpose, please follow the instructions in this document
+outbrain uk limited 39 w 13th street, new york, ny 10011 usa
+this (content discovery recommendation system) supports you with the discovery of content on third-party websites
+outbrain uses cookies that help to collect and save information about you and other users of the service
+data is collected and saved in anonymous form
+outbrain as the controller has compiled information on the collection and processing of usage and other data in its privacy statement
+the collection of data associated with website use generated by the cookie) can be deactivated at any time
+for this purpose, please follow the instructions in this document
+our website uses the re-marketing function of google adwords, a service provided by google inc
+,1600 amphitheatre parkway, mountain view, ca 94043, usa
+this technology enables us to place automatically generated, target-group-specific advertisements on our website after your visit
+the ads are based on the products and services that you clicked on during your last visit to our website
+google uses cookies to generate interest-based advertisements
+google generally saves information such as your web request, ip address, browser type, browser language, and the date and time of your request
+this information is used only for allocating the web browser to a specific computer
+it cannot be used to identify a person
+if you don’t wish to receive user-based advertising from google, you can opt out of advertisements in the google display settings
+further information about google’s use of cookies can be found in the google privacy statement at the following link
+5 google adwords & conversion tracking
+we place google adwords advertisements to draw attention to our products
+in the scope of this activity, we use google conversion tracking, a service provided by google, inc
+, 1600 amphitheatre parkway, mountain view, ca 94043, usa
+these advertisements are displayed when users enter search queries on the websites of the google advertising network
+we have the option to combine our advertisements with certain search terms
+we use cookies to place advertisements based on the prior visits of a user on our website
+when a user clicks on an advertisement, google saves a cookie in the user’s computer
+further information on the associated cookie technology can also be found in google’s information on website statistics and privacy regulations
+with the help of this technology, google and we as a customer are notified when a user clicks on an advertisement and is redirected to our webpages
+the information obtained in this context is exclusively used for the statistical analysis of advertising optimisation
+we do not receive any information that personally identifies visitors
+the statistics provided to us by google include the total number of users who clicked on one of our ads and, if applicable, whether they were redirected to a page of our website that includes a conversion tag
+these statistics enable us to understand which search terms led to the most frequent clicks on our ads and which advertisements resulted in a user filling out the contact form
+you can take steps to prevent the storage of the cookies required for these technologies, for example in your browser settings
+in this case, your visit will not be reflected in user statistics
+you also have the option to select the types of google ads in the display setting or to deactivate interest-based ads in the google website
+as an alternative, you can opt out of the use of cookies by third parties by visiting the opt-out help site of the network advertising initiative
+for more details, visit
+however, our company and google will continue to receive statistical information about the number of users who visited this website and when
+if you do not wish to be included in these statistics, you can prevent inclusion with the help of additional browser programs (e
+this website uses bing ads, a program by microsoft corporation, microsoft way redmond, wa 98052-7329, usa, which uses so-called universal event tracking (uet) for re-marketing and conversion tracking
+this service saves a cookie in the website visitor’s computer if our website was found through the bing or yahoo search engines
+data is collected and saved in anonymous form
+based on the use of the re-marketing function, custom-tailored offers will be displayed to the user during subsequent searches in one of the above-listed search engines
+you can access the microsoft privacy statement on the handling of collected data at the following link
+you can opt out of bing ads at any time
+the corresponding instructions can be found here
+this website uses google analytics, a web analysis service provided by google inc
+google analytics uses "cookies", text files that are stored on your computer and which enable analysis of your use of the website
+the information on your use of this website generated by the cookie (including your ip address) will be transferred to and stored on a google server in the usa
+however, if ip anonymisation is enabled on this website, your ip address will first be abbreviated by google within the member states of the european union or other parties to the agreement on the european economic area
+only in exceptional cases is the full ip address sent to a google server in the us and shortened there
+google will use this information for the purpose of evaluating your use of the website, compiling reports about website activities for website operators and to provide other services related to website and internet use, in particular functions for google analytics reports on performance according to demographic characteristics and interests
+google analytics demographics and interest reporting allows us to use data from google's interest-based advertising and/or data from third parties about our advertising audience (e
+age, gender and interests) in conjunction with google analytics for targeted and optimised advertising activities, strategies and content of our website
+google may also transfer this information to third parties as required by law or if said third parties process this data on behalf of google
+in any event, google will not associate your ip address with other data held by google
+you can prevent these cookies being stored by selecting the appropriate settings in your browser
+however, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website
+you can also prevent the data generated by cookies about your use of the website (incl
+your ip address) being passed to google and the processing of this data by google, by downloading and installing the browser plugin available under the following link
+this website uses google analytics with the extension "anonymizeip()"
+as a result, ip addresses are further processed in abbreviated form, so that a connection to a particular individual can be ruled out
+if the data collected about you is personal in nature, it will be excluded immediately, and the personal data will be deleted immediately
+we use google analytics to analyse and regularly improve the use of our website
+we can improve our offering and make it more interesting for you as a user with the statistics gained
+for the exceptional cases in which personal data is transferred to the usa, google has submitted itself to the eu-us privacy shield, https
+google dublin, google ireland limited, google building gordon house, 4 barrow st, dublin, d04 e5w5, ireland, fax
++353 (1) 436 1001
+html , overview of data protection
+hl=en , as well as the privacy policy
+this website also uses google analytics for a device-independent analysis of visitor flows, which is carried out via a user id
+you can disable cross-device analysis of your usage in your google account under "my information", "personal information"
+8 google tag manager
+this website uses google tag manager, which is operated by google inc
+, 1600 amphitheatre parkway, mountain view, ca 94043, usa
+google tag manager is used to manage website tags
+google tag manager is a cookie-free domain
+it does not collect personal data
+however, the application initiates other tags, which may collect personal data, although google tag manager does not access this data
+any opt-out established at the domain or cookie level will apply to all tracking tags that were implemented with google tag manager
+further information on google tag manager can be found at http
+this website also uses the “adjust
+io” analytical technology of adeven gmbh, saarbrücker str
+37a, 10405 berlin, (“adeven”)
+adeven uses ip and mac addresses of users for its analysis, which are exclusively used anonymously
+no conclusions about individuals can be drawn
+the information collected through this tool is exclusively used to analyse the function and usage of the website by generating anonymous evaluations and charts on the number of visits, number of pages accessed by each user etc
+the analyses are exclusively used for the purposes of our own market research and the optimisation and user-friendly design of our website
+by using this website for analytical purposes, you consent to the processing of anonymous data in the manner and for the purposes set out above
+you can opt out of the collection and storage of data at any time with future effect by sending an e-mail to optout@adjust
+our mobile apps use the app performance and analysis technology “adjust”, a service provided by adjust gmbh ("adjust")
+when you launch the drivenow app, “adjust” collects install and event data our ios and android mobile apps in order to help us understand how our users are interacting with our apps and to optimize and analyze mobile ad campaigns
+for such analysis, “adjust” uses your idfa or google play services id, and your anonymized (hashed) ip- and mac address
+the hashes used are one-way hashes and it is not possible to identify you or your mobile device individually
+the legal basis for the processing is based on art
+the legitimate interest lies in the analysis and improvement of our mobile advertising campaigns
+your data will (not) be transferred transnationally
+you can opt out of the collection and storage of data at any time with future effect by sending an e-mail to optout@adjust
+our website uses doubleclick by google inc
+via trakken web services gmbh, zirkusweg 1, 20359 hamburg, germany to present you with relevant advertisements
+when you open a website and see a display of an advertisement placed via websites of the google advertising network or click on it, a doubleclick cookie may be stored in your browser
+the doubleclick cookie identifier allocated to your browser is the same cookie that is used when you visit websites, in which advertising programs by doubleclick are applied
+this cookie allocated to your browser contains a pseudonymous identification number (id) and can check which ads were displayed in your browser and how many ads have been viewed
+these cookies do not contain any personal information
+in connection with our re-marketing measures, we may show you advertisements tailored to your preferences on the basis of this information
+re-marketing collects and saves information about your surfing habits in anonymous form for marketing purposes
+doubleclick only allows google and its partners to place advertisements on the basis of prior visits to our website or other websites
+google transmits the information generated by cookies to a server in the united states for analytical purposes and saves it there
+google observes the data protection provisions of the u
+privacy shield agreement and is registered with the u
+department of commerce privacy shield program
+for further information, see
+the transmission complies with legal requirements or occurs within the scope of order processing
+under no circumstances will google combine your data with other data collected by google
+by using this website, you consent to the processing of data collected about you by google in the manner of data processing and for the purposes set out above
+you can prevent the storage of cookies by selecting the corresponding settings in your browser
+however, you may not be able to fully use some of the features of our website in this case
+information about data protection at doubleclick can be found at
+in addition, you can opt out of the transmission of data generated by cookies, which refer to your use of websites to google as well as the processing of this data by google by downloading and installing the browser plug-in available at
+11 visual website optimizer (vwo)
+wingify software private limited, antriksh apartments, sector-14, rohini, delhi-110085, india
+this enables us to analyse the behaviour of users on our website and the interaction with them, create versions of certain pages and test them by making them available to users selected at random or determined by target groups
+for this purpose, vwo is capable, among other things, of recording the mouse movement of users and their interaction with boxes on our website in anonymised form
+the anonymity of the users is guaranteed by the fact that no personal data, such as ip addresses, names or entries using the keyboard are recorded
+vwo uses cookies to conduct tests and reproduce user behaviour
+further information about the use of cookies by vwo is available at https
+information about the general function of vwo is available at https
+if you wish to be excluded from vwo's analysis and test methods, you can arrange this at https
+6 opting out of cookie storage
+you have the option to accept or reject cookies
+most web browsers automatically accept cookies, but browser settings usually allow for rejecting cookies
+if cookies are rejected, some features of the website may no longer be usable
+if cookies are accepted, the accepted cookies may be deleted at a later point
+when you delete cookies, all settings that are controlled by these cookies, including advertising preferences, will be deleted and may not be restored
+furthermore, please refer to the above-mentioned special opt-outs
+detailed additional information on this topic can be found at the following websites
+youronlinechoices, network advertising initiative and/or digital advertising alliance
+these websites also contain details about deleting cookies from your device
+the above-mentioned data processing activities and the associated purposes are our legitimate interest, on the legal basis of art
+custom audience / customised marketing
+1 marketing on partner sites (facebook, linkedin, twitter and google)
+we use the custom audience process on our website
+this process transfers our customers’ data to our partners facebook, linkedin, twitter and google
+our partners compare these data with the data in existing user profiles and, if they match, can inform you specifically about our products and services tailored to your needs
+the following categories of personal data are transferred
+email address, mobile phone number
+the hashing method is used to transfer the data
+this method allows your data to be transferred in pseudonymised form
+the aim of processing your personal data is to improve our marketing activities and to tailor them to your needs
+it is possible that your data will be processed in the usa by our partners
+facebook, linkedin, twitter and google are party to the eu-us privacy shield, an agreement which is sure is a reasonable level of data protection
+your data will be stored and sent to our partners until you object
+you can object to your personal data being processed by custom audience
+to do this, please send an email to the following email address
+if you object to your data being processed by custom audience, your data will no longer be sent to our partners
+2 facebook custom audience
+within our internet presence we use the "facebook pixel" from facebook inc
+california ave, palo alto, ca 94304, usa ("facebook")
+this allows users' behaviour to be tracked after they have seen or clicked on a facebook ad
+this process is used to evaluate the effectiveness of facebook advertisements for statistical and market research purposes and can help to optimise advertising measures
+the data collected is anonymous to us, so it does not give us any indication of the identity of the users
+however, facebook stores and processes the data so that a connection to the respective user profile is possible and facebook can use the data for its own advertising purposes in accordance with the facebook data usage guidelines
+you can enable facebook as well as its partners to connect advertising ads to facebook and including on external websites
+a cookie can also be stored on your computer for these purposes
+in order to reject the use of cookies on your computer in general, you can set your internet browser so that cookies can no longer be stored on your computer in the future or cookies that have already been stored will be deleted
+however, disabling all cookies can result in some functions on our internet pages no longer being executed
+you can disable the use of cookies by facebook through a program we have developed specifically for this case (web-based opt-out procedure)
+for this you only need click on the following link
+our legitimate interest lies in the aforementioned data processing processes and the purposes pursued with them
+for this purpose, art
+f gdpr provides the legal basis
+product and advertising e-mails
+the section below explains our data processing for the purpose of product information and advertising
+1 product recommendation e-mails
+we want to provide our customers with regular product recommendation e-mails
+for this purpose, we use the e-mail address you specified as part of registration, your name and your date of birth
+our product recommendation e-mails are intended to inform you about products we offer, in which you may be interested on the basis of your most recent lease
+in addition, we want to send you our confirmation notification regarding your registration and helpful product use instructions
+you will receive these e-mails regardless of your subscription to our newsletter
+furthermore, we will use your data for the following purposes
+measures for the further development of services and products, reporting on the success of the utilised measures in the course of time, testing and optimisation of procedures for requirement analysis, benchmarking, and enrichment of our data, e
+from publicly available sources or internal market research
+we do not share data with third parties
+your data will be stored as long as we maintain a business relationship with you and you have not objected to this data processing
+you have the right to object to this data processing, which is based on art
+f, gdpr, at any time, either as a whole or for specific measures
+in this case, we will no longer process your data
+you may send your objection via e-mail to service@drive-now
+com or via regular mail by writing to drivenow united house, 39-41 north road, london n7 9dp
+there is also an unsubscribe link in all notifications, which will be considered an objection if activated
+the legal basis for the processing of data after registration for the newsletter by the user is, with the user's consent, art
+3 personalised advertising and/or offer e-mails
+we want to regularly send interest-based customised advertisements and/special offers for drivenow to our customers via e-mail
+special offers also include our drivenow packages with special cooperation partners, which you can view at
+our goal is to continually improve our drivenow customer experience and to make it more user-friendly
+for the purpose of sending you such advertisements, we will use the e-mail address you specified as part of registration, your name and your date of birth
+in order to send you interest-based advertising, we will use automatically generated information transmitted by your computer such as delivery and read receipts for messages, information on your device, your browser, your activities in our website, including the length of your visit on our website and your lease transactions
+we will process this information in pseudonymised form
+this ensures that our customers exclusively receive e-mail messages that match their interests relating to the advertising and/or special offers of drivenow
+you will receive these notifications regardless of your subscription to our newsletter
+we do not share data with third parties
+your data will be stored as long as we maintain a business relationship with you and you have not objected to this data processing
+you have the right to object to this data processing, which is based on art
+f, gdpr, at any time, either as a whole or for specific measures
+in this case, we will no longer process your personal data
+you may send your objection via e-mail to service@drive-now
+com or via regular mail by writing to drivenow united house, 39-41 north road, london n7 9dp
+there is also an unsubscribe link in all notifications, which will be considered an objection if activated
+the above-mentioned data processing and the associated purposes are part of our legitimate interest on the legal basis of art
+we would like to regularly provide interested parties and our customers with advertisements about our products and services about the following products and product categories of our contract partners via e-mail, text message and push
+for this purpose, we will use the e-mail address you specified as part of registration, your mobile phone number and your name
+your data will be exclusively used for distributing our newsletter
+the identification of your e-mail address and your mobile phone number takes place in a double-opt in process
+that means you will receive a separate confirmation e-mail and a 4-digit code via text message after processing your data
+you will only start to receive promotional e-mails after clicking on the link included in the e-mail and entering the code contained in the text message
+in addition, we will store your ip address and time of registration and confirmation in each case
+the purpose of this procedure is to prove your registration and to investigate any possible misuse of your personal data
+we do not share data with third parties
+your data will be stored until you withdraw your consent
+you have the right to withdraw your consent to this data processing, which is based on art
+a, gdpr, at any time without citing any reasons
+in this case, we will no longer process your personal data
+you may send your notice to withdraw consent via e-mail to service@drive-now
+com or via regular mail by writing to drivenow united house, 39-41 north road, london n7 9dp
+there is also an unsubscribe link in all e-mails, which will be considered withdrawal of consent if confirmed
+the legal basis for above-described data processing and the associated purposes is art
+7 publicity communication and market research by bmw
+on our website it is possible to obtain information about current products and services available from the bmw group, bayerische motoren werke aktiengesellschaft (bmw), petuelring 130, 80788 munich (bmw)
+this is done on the basis of your consent
+when you log in to the shipment section for customer care and to selected publicity communications and for market research, the data from the entry mask is sent to us and we then forward this information to bmw
+bmw ag is also authorised to share this data with certain subsidiaries (bmw m gmbh, daimlerstr
+19, 85748 garching-hochbrück) as well as individual contract dealers and workshops (preferred partners, companies where you bought vehicles or used service or consulting offers, or your regional partners), who may use your data for the above-listed purposes and are authorised to contact you in this regard
+updates may be shared among the above-listed companies
+for this purpose, we collect your e-mail address and your mobile phone number
+the identification of your e-mail address and your mobile phone number takes place in a double-opt in process
+that means you will receive a separate confirmation e-mail and a 4-digit code via text message after processing your data
+you will only start to receive promotional e-mails after clicking on the link included in the e-mail and entering the code contained in the text message
+you will begin to receive advertising e-mails once you click on the link included in the message
+in addition, we will store your corresponding ip addresses and times of registration and confirmation in each case
+the purpose of this procedure is to prove your registration and to investigate any possible misuse of your personal data
+to unsubscribe, you can either send an e-mail to service@drive-now
+com at any time without citing any reasons or unsubscribe via the link at the bottom of any newsletter
+you can also cancel your subscription by contacting the bmw customer service by phone at
++49 89 1250-16000 or by e-mail at
+the legal basis for processing data after a user’s subscription to the newsletter, in the presence of the user’s consent, is art
+market and survey research
+in the following we describe data processing procedures in the context of market and survey research
+we process your personal data for market research and polling purposes
+your data will be made anonymous, only used by us for statistical purposes and cannot be traced back to you at any time
+you can object to this data processing at any time and without giving reasons with effect for the future
+for this purpose, you can use the functions described under section 2 in the privacy policy
+this data processing is based on art
+and serves the improvement of our purposes mentioned here in the privacy policy, in particular a more effective organisation of advertising, regarding our offers and services
+we comply with the protection of our customers by conducting market research with anonymised data
+use of service providers for the processing of personal data / processing of data in countries outside the european economic area
+we use service providers to provide services and to process your data relating to our services and products
+the service providers process the data exclusively in accordance with our instructions and have been obliged to comply with the applicable data protection regulations
+all contractors have been carefully selected and will only have access to your data to the extent and for the time required to provide the services or to the extent to which you have consented to the processing and use of your data
+service providers in countries such as the usa or in the countries of the european economic area are subject to data protection that does not generally protect personal data to the same extent as is the case in the member states of the european union
+if your data is processed in a country that does not have a recognised high level of data protection such as the european union, we use contractual regulations or other recognised instruments to ensure that your personal data is adequately protected
+your rights as an affected person
+1 right to information
+you have the right to ask us at any time about the data stored concerning you, as well as its origin, recipients or categories of recipients to whom this data is transmitted and the purpose of storage
+2 right of revocation
+if you have given your consent to the use of data, you can revoke this at any time without giving reasons with effect for the future
+3 right of correction
+if your data stored with us is incorrect, you can correct it at any time in your customer account or have it corrected by us through our service centre
+4 right of deletion and blocking
+you have the right to block and delete your personal data stored by us
+as a rule, your personal data will be deleted within a maximum of 2 working days after assertion of this right
+should the deletion contradict legal, contractual, fiscal or commercial-law storage obligations or other reasons based in law, your data can only be blocked, not deleted
+once your data has been deleted, it is no longer possible to provide information
+5 right to data transmission
+should you request the personal data provided to us, we will release or transmit the data to you or another person responsible, if you so desire, in a structured, current and machine-readable format
+the latter, however, shall only be the case if this is technically possible
+6 right of objection
+you have the right to object at any time and without giving reasons for data processing for the purpose of direct marketing
+in addition, it is pointed out that the execution of the framework contract as well as the handling of individual contracts may be restricted or no longer possible due to opposition to all data processing operations
+7 extended rights in relation to data processing for personalised data evaluation
+with regard to the data processing of personalised data evaluation, in addition to the aforementioned rights, you also have the right of participation granted to a natural person in the decision-making process, a right of appeal and a right to disclosure of our position
+8 contact for assertion of the rights of the persons affected
+for asserting your rights you are entitled to the means mentioned in section 2 of the privacy policy
+9 right of appeal to the supervisory authority
+you have the right to file a complaint with the competent supervisory authority against the processing of your personal data if you feel that your rights under the gdpr have been violated
+data protection notice in the general terms and conditions
+please see the data protection information included in item 165 of our general terms and conditions, which you can access at https
+this section discusses how we process your personal data, which we need to implement individual lease contracts
+in addition, we explain which personal data we must process, if applicable, in case of claims for recourse
+due to our legal liability as vehicle owners and to determine non-contractual and/or non-compliant use, we may also process your personal data
+when you drive one of our vehicles, we use the so-called geo-fencing system, which involves the identification of your gps location to provide you with valuable information
+this does not involve creating a route profile
+we process your personal data to send you additional push notifications for targeted communication
+finally, the section contains information about processing your personal data for identity verification and credit checks
+changes to the privacy policy
+this privacy policy may be subject to change over time
+we encourage you to regularly review the privacy policy for any changes
+however, we will provide you with a corresponding notification in case of significant changes
+this may involve e-mail notification if necessary
+this privacy policy was last updated on september 28, 2018
+how it works pricing & packages our cars parking guidelines tips for using drivenow faq about us press refer a friend careers for businesses property development drivenow blog follow us
+drivenow app do you need help
+write us an email at
+©drivenow gmbh & co
+kg 2019 gtc legal notice privacy policy we use cookies to personalise content, adapt advertisements to your personal preferences, and improve your user experience
+you agree to the use of cookies by clicking on (i agree)
+further information can be found by clicking here review i agree

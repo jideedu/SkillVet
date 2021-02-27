@@ -1,0 +1,23 @@
+no suggested jump to results
+github is home to over 36 million developers working together to host and review code, manage projects, and build software together
+pavlovmilen edited this page on 25 apr 2018 · 4 revisions
+this privacy policy discloses the privacy practices for
+crime in my area alexa skill
+this privacy policy applies solely to this software
+it will notify you of the following
+what personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared
+how you can correct any inaccuracies in the information
+information collection, use, and sharing
+no information is collected via this skill
+this skill does not allow users to make purchases or spend real money
+this skill does not target children under age of 13
+this skill does not contain advertising
+our privacy policy may change from time to time and all updates will be posted on this page
+if you feel that we are not abiding by this privacy policy, you should contact us immediately via email at crossplatappdeveloper@gmail
+clone this wiki locally
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

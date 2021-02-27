@@ -1,0 +1,43 @@
+no suggested jump to results
+github is home to over 36 million developers working together to host and review code, manage projects, and build software together
+interview me alexa skill hack
+use git or checkout with svn using the web url
+want to be notified of new releases in virresh/skill-oct-hack
+if nothing happens, download github desktop and try again
+if nothing happens, download github desktop and try again
+if nothing happens, download xcode and try again
+if nothing happens, download the github extension for visual studio and try again
+add case for continuing with special reprompts
+on 27 oct 2018
+failed to load latest commit information
+add case for continuing with special reprompts
+add terms and conditions and license
+alexa skill for fun
+this skill uses scrapy, sendgrid, boto3 and ask-sdk for
+asking user a topic of their choice
+fetching a question on that topic from geeks for geeks archive
+emailing that question if user wants it
+the skill in no way stores any of the users personal information
+the email id is retrieved upon request and not stored anywhere
+no authorship is claimed over the questions, all questions are attributed to
+geeks for geeks archive
+all of the above is verifiable from the code present in this repository
+the skill may save your alexa user id in order to save information about your
+this is anonymised information solely used for the purpose of enhancing
+in case you wish this information to be deleted, kindly contact me
+along with your alexa user id for the same
+this skill is provided "as-is" and you may use it for your benefit at your own risk
+bugs can be reported in the issues section and you're welcome to contribute
+in case you wish to develop further upon this skill, contributions are welcome,
+otherwise if you host it separately, i expect you to abide by the license and keep it
+free for all and send back an attribution to the authors (which is me for code
+and geeks for geeks for content)
+by using this skill, you agree to allow storage of your alexa user id for tracking
+the questions presented to you already
+creative commons attribution share alike
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

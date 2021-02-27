@@ -1,0 +1,35 @@
+no suggested jump to results
+all your code in one place
+github makes it easy to scale back on context switching
+documentation, see the history of any file, and collaborate with
+contributors on projects across github
+sign up for free
+see pricing for teams and enterprises
+iss-googlemap-project / alexa / ask-sdk / privacy
+cannot retrieve contributors at this time
+33 lines (18 sloc) 1
+the international space station amazon alexa skill privacy notice
+this skill is provided by blairdev
+i am a sole developer and owner of blairdev
+com and am not affiliated with the international space station or any other agency
+what data the skill needs
+if permitted, the skill will retrieve your address from the amazon alexa device location settings on your device
+why is it needed
+in order to be able to tell you when the iss will next pass over your location, the skill needs to know where your device is located
+what does the skill do with your data
+the data collected is shared with two supplied organisations using json api end-points
+a google api is used to convert addresses into coordinates and vice-versa
+org api is used to determine when the iss will next pass over those coordinates
+the skill does not and will not
+store your data, such as on a database
+sell or rent your data to third parties
+share your data with third parties for marketing purposes
+how long the skill keeps your data
+your data is not retained by the skill and is not passed to any blairdev
+com servers or any other databases or servers other than those mentioned above
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

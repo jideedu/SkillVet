@@ -1,0 +1,49 @@
+privacy policy and terms of use
+at recycle coach, we collect information to provide better products, services, and experiences for all of our users – from figuring out your location in order to provide tailored recycling and disposal information, to device-specific information for sending custom notifications, to anonymized usage data for improving product usability
+we only collect the data necessary to provide services to you and to improve our product
+information we collect, how we collect it, and why
+we collect several types of information from and about users of our website and apps, including information
+by which you may be personally identified, such as your name, street address, e-mail address, social media handles, phone number and other identifying information that you choose to share with us securely (“personal information”)
+that is about you but individually does not identify you, such as information about your internet connection, the equipment you use to access our website and apps and other usage details
+we collect this information
+directly from you when you provide it to us securely (e
+when joining our mailing list or by signing up to receive collection reminders via in-app notifications, email, phone, sms, or twitter)
+automatically as you navigate through our website and apps
+information collected automatically may include usage details, ip addresses, and information collected through cookies, and is used to provide support, improve our products, and to display personalized content such a calendars and collection information
+we collect some personal information from you (if/when you choose to share this information with us), such as your street address, e-mail address, location information in order to provide accurate and personalized content and services
+information you provide to us will not be sold, rented, or leased to third parties
+we also occasionally collect non-identifying information about you for analytics purposes, in order to improve your experience while using our web and mobile products
+how we store and protect your information
+we have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure
+all information you provide to us through the website and app is secured by ssl technology and is stored on our secure, password protected servers behind firewalls, which are located in tier 4 hosting facilities in canada
+we have implemented restricted employee access for all of our servers containing personally identifiable information, and conduct recurring staff training on relevant security practices
+we take various steps to ensure the security of your personal information, including limiting employee’s access to sensitive data, encrypting and backing up the data, and using ssl technology for our website and mobile apps
+we use industry-leading security and hosting standards and protocols to ensure the safety and integrity of your data
+we may share certain categories of information we collect from you in the ways described in this privacy policy in order to provide services and improve our products and services
+for example, location data is shared with google inc
+via the google maps api to help find your address and/or to find, display, and provide directions to waste depots or other locations
+for the purposes of improving our product and services, we may share anonymized usage data we collect automatically (as described above) with other third parties on an aggregate only (i
+we may occasionally provide the services in partnership with your local government and/or waste management company
+by using the software and services and providing us with personal information, you consent to our sharing this data with your local government and/or waste management company
+we do not share your data with any third parties except for the purposes of providing and improving our services
+we never share your data for the purposes of advertising or monetization
+your data may be shared with your local government and/or waste management company
+changes to our privacy policy
+it is our policy to post any changes we make to our privacy policy on this page
+if we make material changes to how we treat our users’ personal information, we will notify you by a notice on the website home page and an in-app notification
+the date the privacy policy was last revised is identified at the top of the page
+when we make changes to this privacy policy, we will post the changes on this page
+if we make any changes that affect how we handle your personal information we will take the further step of posting an update on the homepage and notifying users via the app
+if you have any questions about this privacy policy, please feel free to contact recycle coach directly
+by e-mail at privacy@recyclecoach
+by mail at municipal media inc
+, 210 – 276 carlaw ave
+, toronto, ontario, canada m4m 3l1 (attention
+privacy policy and terms of use
+©2011-2019 all rights reserved
+recycle coach® is a registered trademark of municipal media inc
+apple and the apple logo are trademarks of apple inc
+, registered in the u
+mac app store is a service mark of apple inc
+google play and the google play logo are trademarks of google inc
+send to email address

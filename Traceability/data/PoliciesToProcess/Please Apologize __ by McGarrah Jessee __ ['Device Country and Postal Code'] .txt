@@ -1,0 +1,43 @@
+mcgarrah jessee alexa skill privacy policy last updated on july 17, 2018 mcgarrah jessee (“mcgarrah jessee”, “we”, “our” or “us”) understands that privacy is important to our users
+we have created this privacy policy in order to demonstrate our commitment to your privacy
+the privacy policy below discloses our practices regarding information collection and usage if you enable one of our alexa skills (the "services")
+this privacy policy does not apply to any web sites or services provided by us, our affiliates or clients, unless it appears on such web site or service
+by using or accessing the service, you signify your agreement to be bound by this privacy policy
+if you do not agree to this privacy policy you may not access or otherwise use the service
+personally identifiable information that we collect
+we do not collect and you do not need to provide us with any personally-identifying information in order to enable or use our service
+however, you may voluntarily submit such information to us, such as through our contact pages or by e-mail, or some other means
+the personally identifiable information which you may provide to us could include your name, address, and e-mail address and other such identifying information
+non-personal or aggregate information that we collect
+when you use the service, you may be offered the opportunity to provide us with certain non-personally identifying information, such as your zip code and country code
+we may also aggregate information collected from our users (such as the number of users in a particular region)
+to the extent you have provided us with your personally identifiable information, we will only use such information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable information is collected from you or through some other form of consent from you or notification to you
+we may use your personally identifiable information to respond to your direct inquires
+we may permit our vendors and subcontractors to access your personally identifiable information, but they are only permitted to do so in connection with performing services for us
+they are not authorized by us to use the information for their own benefit
+we may disclose personally identifiable information as required by law or legal process
+we may disclose personally identifiable information to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the policies for the web site
+we may transfer your personally identifiable information in connection with a bankruptcy proceeding or the sale, merger or change of control or the division responsible for the services with which your personally identifiable information is associated
+finally, please note that if you specifically consent to additional uses of your personally identifiable information, we may use your personally identifiable information in a manner consistent with that consent
+non-personal or aggregate information may be shared with any number of parties, provided that such information shall not specifically identify you
+security and data retention
+we have undertaken and will undertake commercially reasonable efforts designed to prevent unauthorized access to personally identifiable information retained in our servers, however, due to the inherent open nature of the internet, we cannot ensure or warrant the security of any information provided online
+we retain your personally identifiable information, if provided by you through the service, for as long as your inquiry is active (as determined by us) or until you notify us that you have disabled the service and for a reasonable time thereafter
+we also may retain your personally identifiable information for a longer period of time as needed to provide you services or as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements
+even if we delete some or all of your personally identifiable information, we may continue to retain and use aggregate or anonymous data previously collected and/or anonymize or aggregate your personal information
+communications with mcgarrah jessee
+by providing your email address to us, you expressly consent to receive emails from us
+we may use email to communicate with you, to send information that you have requested or to send information about other services provided by us, provided that, we will not give your email address to another party to promote their products or services directly to you without your consent or as set forth in this privacy policy
+changes to privacy policy
+we reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time
+however, if at any time in the future we plan to use personally identifiable information in a way that materially differs from this privacy policy, we will post such changes here
+we encourage you to periodically review this privacy policy for the latest information on our privacy practices
+to opt-out of any future promotional messages from us, you should send an unsubscribe request to us at heather
+we will process your request within a reasonable time after receipt
+however, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided with your information in accordance with this privacy policy or your consent
+if you would like to opt out of our collection of information in connection with the service, please remove or disable the service on your device via the settings in your alexa app
+united states of america
+our service is maintained in the united states of america
+by using the service, you freely and specifically give us your consent to store and use your information in the usa as specified in this privacy policy
+you understand that data stored in the usa may be subject to lawful requests by the courts or law enforcement authorities in the usa
+for questions or concerns relating to this privacy policy or your information, we can be contacted at

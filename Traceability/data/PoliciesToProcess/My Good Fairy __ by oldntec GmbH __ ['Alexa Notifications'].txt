@@ -1,0 +1,50 @@
+Terms of Service for the Skill "My Good Fairy" 
+ 
+Please read these terms of use carefully before using the skill. By using the Alexa Skill, you agree to the terms of use described here. 
+1. Provider Provider of the skill is the oldntec GmbH, Mozartstraße 14, 28203 Bremen. 
+2. Scope 
+2.1 These Terms of Use govern the use of the Amazon Europe Core S.à.r.l online service "Alexa". (Société à responsabilité limitée), 5 rue Plaetis, L-2338 Luxembourg ("service provider") with the help of the so-called Alexa skills "My good fairy" held ready for retrieval and reproduced using synthetic language information ("content") of the oldntec GmbH by the respective user. 
+2.2 The skill can be used by anyone who has an Amazon customer account. 
+By creating the Amazon Customer Account, which is also used to use and register Alexa and related digital offerings, the Amazon Europe Core S.à.r.l., Amazon EU S.à r.l. and / or their affiliates ("Amazon"). 
+2.3 For the use of Alexa itself, the separate terms of use of Amazon Media EU S.à r.l. Please read these terms carefully before using Amazon Services.  
+3. Usage 
+3.1 The use of the content is permitted exclusively on the basis of these Terms of Use. By activating the Alexa Skill, the user confirms to accept the validity of these Terms of Use in their respective version.
+ 3.2 Activation can be done in two ways: 
+§ By tapping the "Activate" button in the Amazon Alexa Skill Store § By voice command, e.g. "Alexa, activate my good fairy" The user does not have any claim to the use of the content. 
+3.3 The skill is a free offer of oldntec GmbH. Everyone can use this skill - subject to an adaptation or discontinuation of the skill offer by the oldntec GmbH. 
+The oldntec GmbH reserves the right to adjust the skill at any time 
+The oldntec GmbH can provide for this skill free updates in the Alexa Skills Shop, which change the functionality of the skill.
+ There is no obligation to provide updates. 
+These Terms of Use apply mutatis mutandis to all updates and to the skill in the updated version. 
+oldntec GmbH – Terms of Use Amazon Alexa Skill Store           February 2019           Page 2 / 3 
+ 
+3.4 The oldntec GmbH does not warrant that the contents are suitable for use at locations outside the Federal Republic of Germany or in accordance with the law applicable to these locations. 
+3.5 The skill is protected by copyright. 
+It may only be used for private, non-commercial purposes, unless expressly agreed otherwise in writing between the parties. 
+The skill is left in object code for free. The source code of the skill is not part of the contract.
+ All rights not expressly granted, in particular the rights of processing, distribution, making publicly available and / or other evaluation of the skill and the contents are reserved. 
+3.6 The user may only access and use the Skill with devices linked to the account used for the installation in the Alexa Skills Shop. 
+ 3.7 Content is only available to customers of our paid services. 
+These can be obtained through our website www.meine-gute-fee.de. 
+4. Access and Availability 
+4.1 Only the service provider is responsible for the access to and the accessibility of Alexa; the user has no claim against the oldntec GmbH on procuring the access to and / or the accessibility of Alexa. 
+The corresponding conditions of the service provider apply. 
+4.2 The use of the Internet causes regular costs (for example, through internet access providers). These costs are borne by the user; they are not taken over by oldntec GmbH. 
+5. Warranty and Limitation of Liability  5.1 The skill is provided free of charge. 
+The oldntec GmbH therefore assumes no warranty. 
+For defects of the skill, the oldntec GmbH is liable only if it has fraudulently concealed the defect. 
+The user may not use the contents in contradiction to these terms of use. In addition, the user will not misuse the content and will comply with applicable laws and third-party rights. 
+5.2 oldntec GmbH is not liable for damages resulting from a change in the skill by the user or a software or hardware environment deviating from the system requirements. 
+5.3 The oldntec GmbH is liable without limitation for own or culpably caused by their legal representatives or vicarious agents damages that are based on injury to life, limb or health of the user as well as for their own or by their legal representatives or vicarious agents or gross negligence caused other damage. 
+5.4 Other liability claims against the oldntec GmbH, which relate to the use or non-use of the skill, are excluded unless there is no intentional or grossly negligent breach of duty.  
+5.5 oldntec GmbH accepts no liability for possible direct and indirect damages arising from the use of our skills. If the use leads to damage to equipment or data of the user, no compensation is provided. 
+
+oldntec GmbH – Terms of Use Amazon Alexa Skill Store           February 2019           Page 3 / 3 
+ 
+6. No Right of Withdrawal As the skill is provided free of charge, there is no right of withdrawal. 
+7. Mandatory Information on Consumer Dispute Resolution   
+ The European Commission provides an online dispute resolution (OS) platform at http://ec.europa.eu/consumers/odr/. Oldntec GmbH is neither willing nor obliged to participate in a dispute resolution procedure before a consumer arbitration board.  
+8. Final Provisions  
+8.1 oldntec GmbH may change the terms of use at any time. By using the skill, the user agrees to these changes. 
+ 8.2 For legal disputes due to or in connection with these conditions of use or the use of the contents German law under exclusion of the UN sales law (CISG).  
+8.3 If the user is a merchant, legal entity under public law or special fund under public law, the exclusive place of jurisdiction for all disputes arising out of or in connection with these terms of use is Oldenburg (Oldenburg), Germany

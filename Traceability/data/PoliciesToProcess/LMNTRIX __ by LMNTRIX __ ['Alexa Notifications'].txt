@@ -1,0 +1,120 @@
+continuous monitoring, hunting & response
+adaptive threat response in action
+lmntrix aligns with gartner
+atr mapped to the kill chain
+companies keep getting breached
+to catch a human you need a human
+'logs only' doesn’t work
+companies suck at socs
+companies deserve a solution that’s cheaper yet better
+insecure code is eating the world
+prevention is not enough
+how we do it
+data centers, security & certifications
+lmntrix pty ltd (abn 148 775 467 49) (lmntrix) understands the importance of protecting your personal information
+lmntrix deals with personal information in accordance with the australian privacy principles (apps) which are contained in the privacy act 1988 (privacy act) and this privacy policy
+this privacy policy sets out the way in which lmntrix handles personal information
+what is personal information
+when used in this privacy policy, the term “personal information” has the meaning given to it in the privacy act
+personal information is any information that can be used to personally identify you
+this includes such things as your name, address, telephone number, email address and profession or occupation
+what personal information do we collect
+we collect personal information in order to provide our services and solutions,
+to conduct our business and to improve customer service
+the types of personal information we collect will depend on how you interact with us
+typically, we collect the following personal information
+● title or position
+● information you provide to us through customer surveys, and when you register for lmntrix events and seminars
+we do not normally collect sensitive information about you such as information relating to your health, religion, political beliefs or race
+if we do collect sensitive information which is reasonably necessary for the operation of our business functions or activities, we will obtain your consent to do so
+if your organisation is a lmntrix client and you do not agree to provide us with your personal information, this may limit our ability to provide our services and solutions to your organisation
+how do we collect personal information
+we collect personal information directly from
+you unless it is unreasonable or impracticable to do so
+we may collect your personal information in the following ways
+● when you purchase our solutions and services
+● when we respond to your inquiries and requests
+● during conversations or email exchanges between you and our representatives
+● when we obtain feedback from you about our solutions and services
+● when we conduct our administrative and business functions
+● when you register for our events, workshops and seminars or subscribe to our mailing lists and newsletters
+● when we market our solutions and services to you and through your access and use of our website
+we may at times obtain personal information that relates to you through third parties
+where we do so, we will ask any third parties to confirm in writing that they have legally obtained your personal information and that we have the right to acquire it from them and to use it
+for what purposes do we collect, hold, use and disclose personal information
+we collect, hold, use and disclose personal information for the following purposes
+● to send communications
+● to manage and maintain our business relationships
+● to respond to inquiries and requests
+● to improve the services and solutions we provide
+● to inform you about our services and solutions
+● to obtain feedback from you on our services and solutions
+● to provide you with a more personalised experience when they interact with us
+● to conduct administrative and business functions
+● to provide our services and solutions
+● to update our records and keep contact details up to date
+● to enable you to subscribe to our website, newsletters and mailing lists and to register for lmntrix events, workshops and seminars
+● to assess the performance of our website and to improve its operation
+● to process and respond to privacy complaints and to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country
+as described in this privacy policy
+to whom do we disclose personal information
+bodies corporate for the purposes set out in paragraph 5 above
+we may combine or share any information that we collect from you with information collected by any of our related bodies corporate
+we may also disclose your personal information to
+● contractors, suppliers and other third parties with whom we have a commercial relationship for business, marketing, and related purposes and any organisation for any authorised purpose with your express consent
+except as set out above, lmntrix will only disclose personal information if this is required by law or a court/tribunal order or otherwise permitted under the privacy act
+we may disclose personal information to our related bodies corporate based overseas for the purposes listed in paragraph 5 above
+we may also disclose your personal information to service providers located outside australia such as united states, singapore, hong kong, holland, the united kingdom and new zealand for some of the purposes set out in clause 5 above
+we will take steps to contractually ensure that overseas recipients of your personal information provide a level of protection for your personal information which is equivalent to the apps
+how do we store and secure personal information
+we store personal information to ensure that we can manage and maintain communications with organisations with whom we do business
+contact may be verbal, electronic or written
+we will only store your personal information if it is relevant to your organisation conducting business
+we do not normally store information that is sensitive information
+we take all reasonable precautions to ensure that personal information is protected from misuse, interference, loss, unauthorised access, modification or disclosure using a combination of physical, administrative and technical
+we hold personal information in either paper-based records in secure access controlled premises or in electronic form in databases and email files which require logins and passwords
+lmntrix personnel are also contractually bound by confidentiality obligations
+lmntrix’s website is linked to the internet, and as the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online
+we also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet
+accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk
+if your personal information is no longer needed, we will take reasonable steps to either delete it from our systems or de-identify it, except where lmntrix is required by law or a court/tribunal order to retain the information
+we may send you direct marketing communications and information about our services and solutions that we consider may be of interest to you
+we may send communications in various forms, including mail, sms, fax and email, in accordance with applicable laws, such as the spam act 2003 (cth)
+you consent to us sending you those communications by any of those methods
+if you indicate a preference for a method of communication, we will use reasonable endeavours to use that method whenever practical to do so
+if you do not wish to receive electronic communications from us, you may opt-out of receiving them by contacting us using the contact details set out at the end of this privacy policy or by using the opt-out mechanisms provided in those communications
+we will then remove your name from our mailing list
+we do not provide your personal information to other organisations for the purposes of direct marketing
+how can you access and correct personal information
+we will take all reasonable steps to ensure that the personal information we hold about you is accurate, up to date and complete
+you may request access at any time to personal information that we hold about you and we will give you access in the manner that you request where it is reasonable and practicable to do so, except where we deny access as permitted by the privacy act
+for example, we may need to refuse access if granting access would interfere with the privacy of others, is unlawful or would result in a breach of confidentiality
+you may also request that we correct your personal information when it is inaccurate, incomplete or out of date
+if you wish to access or correct your personal information, please send
+written request to our privacy officer using the contact details set
+privacy officer will respond to your request within 30 days after you make the request
+if we deny your request for access to or correction of your personal information, we will provide you with written reasons for refusing your request and the mechanisms available to you to complain about our refusal
+how can you complain about a breach of your privacy
+if you have concerns about how your personal information is being handled by lmntrix or you wish to make a complaint about a breach of the apps by lmntrix, please send your complaint in writing to the privacy officer using the contact details set out below
+the privacy officer will respond to you in writing within 30 days of receiving your complaint, setting out what action lmntrix will take as a result of your complaint or alternatively providing an explanation to you if there has been no breach of the law
+when you access our website, we may send a “cookie” (which is a small summary file containing a unique id number) to your computer
+this enables us to recognise your computer and greet you each time you visit our website without bothering you with a request to register
+we use cookies to measure traffic patterns and to determine which areas of our website have been visited
+if you do not wish to receive cookies, you can set your browser so that your computer does not accept them
+any activity you participate in on our website may be monitored
+we may log ip addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track users movements, and gather broad demographic information
+we do not use cookies to track your internet activity before or after you leave the lmntrix environment
+our website may contain links to other websites operated by third parties
+we make no representations or warranties in relation to the privacy practices of any
+party website and we are not responsible for the privacy policies or the content of any third party website
+changes to our privacy policy
+we may change this privacy policy from time to time
+any updated versions of this privacy policy will be posted on our website
+please review it regularly
+this privacy policy was last updated on 16 january 2017
+if you have any questions about this privacy policy, please contact our privacy officer as follows
+the privacy officer email
+lmntrix level 5, 155 clarence st, sydney nsw 2000
+download our datasheet now
+​earthwave founder minassian launches new security venture lmntrix (
+copyright © 2019 lmntrix

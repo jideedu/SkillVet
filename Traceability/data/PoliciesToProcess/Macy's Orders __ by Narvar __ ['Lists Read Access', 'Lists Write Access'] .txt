@@ -1,0 +1,184 @@
+products concierge ship track notify return customers resources resource library insights blog press company our story careers engineering careers partners sign in request demo request demo united states united kingdom (english) france (français) deutschland (deutsch) india (english) privacy policy effective date
+august 11, 2020 narvar, inc
+(“ narvar ,” “ we ,” “ us ,” and “ our ”) offers a software as a service platform to customers (“ customers ”) that have contracted with narvar to help manage and improve their consumers’ pre- and post-purchase experience, including delivery expectations, order tracking, delivery notifications, product return management, and customer support
+our privacy policy is designed to help you understand how we collect, use and share your personal information and to assist you in exercising the privacy rights available to you
+‍ scope this privacy policy applies to personal information processed by narvar in the course of our direct business-to-business relationship with our customers and other individuals we may directly interact with, including on our website (“ site ”) and our related online and offline offerings
+to make this privacy policy easier to read, our site and our related offerings are collectively called the “ services
+” please note that unless stated otherwise herein, this privacy policy does not apply to or govern the processing of personal information by narvar on behalf of our customers via narvar’s software as a service platform (“ narvar saas services ”)
+any information processed by our customers via the narvar saas services will be governed by the customer’s terms of service and privacy policy
+when narvar processes personal information via the narvar saas services, it acts as a “processor” or “service provider” under applicable data protection laws
+narvar’s processing is governed by agreements we have with our customers that require narvar to only process personal information in accordance with our customer’s instructions
+if you have any questions about how your personal information is processed via the narvar saas services, please refer to the relevant customer’s privacy policy
+‍ personal information we collect the categories of personal information we collect depend on how you interact with our services
+information you provide to us
+if you create an account with narvar ( e
+, as an authorized user of our customer), we will collect your name, email address, job title, company name, phone number, and address
+‍ your communications with us
+we collect personal information from you such as email address, phone number, or mailing address when you use our products or services, request information about our services (including a demo), ask to download content (such as a whitepaper or an e-book), subscribe to our newsletter, or otherwise communicate with us
+we may contact you to participate in surveys
+if you decide to participate, you may be asked to provide certain information which may include personal information
+we may offer interactive features such as review forums, blogs, chat and messaging services, and social media pages
+we and others who use our services may collect the information you submit or make available through these interactive features
+any content you provide on the public sections of these features will be considered “public” and is not subject to the privacy protections referenced herein
+by using these interactive features, you assume the risk that the personal information provided by you may be viewed and used by third parties for their own purposes
+‍ customer service and support
+if you call or otherwise interact with narvar’s customer service and support, we may collect the information you provide to our representatives
+in addition, we may record telephone calls between you and our representatives for training and quality assurance purposes
+‍ conferences, trade shows, and other events
+we may attend conferences, trade shows, and other events where we collect personal information from individuals who interact with or express an interest in narvar and/or the services
+if you provide us with any information at one of these events, we will use it for the purposes for which it was collected
+business development and strategic partnerships
+we may collect personal information from individuals and third parties to assess and pursue potential business opportunities
+we may post job openings and opportunities on the services
+if you reply to one of these postings by submitting your application, cv and/or cover letter to us, we will collect and process the information contained therein to assess your suitability, aptitude, skills, and qualifications for employment with narvar
+information collected automatically ‍ ‍ automatic data collection
+we may collect certain information automatically when you use the services
+this information may include your internet protocol (ip) address, user settings, mac address, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred location based off of
+your ip address), internet service provider, mobile carrier, pages that you visit before, during and after using the services, actions that you take while using the services, information about the links you click, information about how you interact with the services, including the frequency and duration of your activities, and other information about how you use the services
+information we collect may be associated with accounts and other devices
+‍ cookies, pixel tags/web beacons, and other technologies
+we, as well as third parties that provide content, analytics, advertising or other functionality on the services, may use cookies, pixel tags, local storage, and other technologies (“technologies”) to automatically collect information through the services
+technologies are essentially small data files placed on your device that allow us and our partners to record certain pieces of information whenever you visit or interact with our services
+for more information about the cookies and similar technologies used on our services, please refer to our cookie policy
+information from other sources ‍ ‍ third party services and organizations
+we may supplement the information that we collect from you (such as your email address) with additional information about you and your company obtained from publicly available and third-party databases or services that provide information about business people and companies (including an individual’s name, job title, business contact information, and company information)
+this helps us update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you
+information we process via the narvar saas services as stated above, this privacy policy does not apply to or govern narvar’s processing of personal information via the narvar saas services
+however, for purposes of transparency, we have provided several examples below that highlight how we may process personal information on behalf of our customers via the narvar saas services
+‍ tracking and order status
+when consumers make a purchase from one of our customers and are the recipient of a package, they may have been provided a link to a narvar’s tracking page in order to check the status of an order
+when customers use our shipping and order tracking, alert, or return services, we receive name, order, and shipping information from a carrier or one of our customers
+this information is governed by our customer’s privacy policy, not ours
+the narvar saas services also allow customers to ensure that their consumers can obtain information about their orders via sms
+in this case, we will use phone number and other information submitted to us to provide the text messages associated with the sms service
+you may opt out of receiving text messages by replying "stop" to a text message you have received from us or by otherwise contacting us
+the narvar saas services can also allow customers to ensure that their consumers can obtain information about their orders via social media platforms such as facebook messenger (“social media sites”)
+when consumers elect to receive this information and interact with narvar’s chatbot on narvar’s or the social media sites (for example, they inquiry about estimated delivery date), we receive from facebook and process the consumer’s publicly available social media profile information (including name, “locale”, and gender) on behalf of our customers
+information shared with social media sites will be governed by the specific privacy policies and terms of service of the social media sites and our customers, not by this privacy policy
+‍ how we use your information we use your personal information for a variety of business purposes, including
+‍ to provide the services or information requested, such as
+‍ ‍ fulfilling our contract with you or the organization on whose behalf you use the services
+responding to questions, comments, and other requests
+providing access to certain areas, functionalities, and features of our services
+and answering requests for customer or technical support
+‍ administrative purposes, such as
+‍ ‍ pursuing legitimate interests, such as direct marketing, research and development (including marketing research), network and information security, and fraud prevention
+measuring interest and engagement in our services
+developing new products and services
+ensuring internal quality control and safety
+authenticating and verifying individual identities
+communicating with you about your account, activities on our services and privacy policy changes
+preventing and prosecuting potentially prohibited or illegal activities
+and complying with our legal obligations
+‍ marketing our products and services
+we may use personal information to tailor and provide you with content and advertisements
+we may provide you with these materials as permitted by applicable law
+if you have any questions about our marketing practices or if you would like to opt out of the use of your personal information for marketing purposes, you may contact us at any time as set forth below
+we may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent
+de-identified and aggregated information use
+we may use personal information and other data about you to create de-identified and/or aggregated information, such as de-identified demographic information, de-identified location information, information about the device from which you access our services, or other analyses we create
+de-identified and/or aggregated information is not personal information, and we may use and disclose such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes
+‍ ‍ disclosing your information to third parties we may share your personal information with the following categories of third parties
+in cases where you use our services on behalf of our customer ( e
+, your employer), our customer may access information associated with your use of the services including usage and other data
+please note that your information may also be subject to our customer’s privacy policy
+we are not responsible for the privacy or security practices of our customers
+we may share any personal information we collect about you with our third-party service providers
+the categories of service providers to whom we entrust personal information include service providers for
+(i) the provision of the services
+(ii) the provision of information, products, and other services you have requested
+(iii) marketing and advertising
+(iv) payment and transaction processing
+(v) customer service activities
+and (vi) the provision of it and related services
+we may provide personal information to business partners to provide you with a product or service you have requested
+we may also provide personal information to business partners with whom we jointly offer products or services
+narvar may share personal information with our affiliated entities, including members of our corporate family in australia, france, india, japan and the united kingdom
+through our services, we may allow third party advertising partners to set technologies and other tracking tools to collect information regarding your activities and your device ( e
+, your ip address, cookie identifiers, page(s) visited, location, time of day)
+these advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third party services within their networks
+this practice is commonly referred to as “interest-based advertising” or “personalized advertising
+” if you would like to opt-out of receiving personalized advertisements from these advertising partners, you may follow the instructions in our cookie policy
+‍ apis and software development kits
+we may use third party apis and software development kits (“sdks”) as part of the functionality of our services
+apis and sdks may allow third parties including advertising partners to collect your personal information in order to provide content that is more relevant to you
+for more information about our use of apis and sdks, please contact us as set forth below
+disclosures to protect us or others we may access, preserve, and disclose any information we store in association with you to external parties if we, in good faith, believe doing so is required or appropriate to
+(i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena
+(ii) protect your, our, or others’ rights, property, or safety
+(iii) enforce our policies or contracts
+(iv) collect amounts owed to us
+or (v) assist with an investigation and prosecution of suspected or actual illegal activity
+‍ disclosure in the event of merger, sale, or other asset transfer if we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+‍ international data transfers all information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the united states, india, or other countries, which may have data protection laws that are different from the laws where you live
+we endeavor to safeguard your information consistent with the requirements of applicable laws
+you may have the right to opt out of certain uses of your personal information
+except as otherwise set forth in this privacy policy, we do not sell your personal information
+if you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails or you can contact us at privacy@narvar
+note that you will continue to receive transaction-related emails regarding products or services you have requested
+we may also send you certain non-promotional communications regarding us and our services, and you will not be able to opt out of those communications ( e
+, communications regarding the services or updates to this privacy policy)
+do not track (“ dnt ”) is a privacy preference that users can set in certain web browsers
+please note that we do not respond to or honor dnt signals or similar mechanisms transmitted by web browsers
+‍ your privacy rights in accordance with applicable law, you may have the right to
+(i) request confirmation of whether we are processing your personal information
+(ii) obtain access to or a copy of your personal information
+(iii) receive an electronic copy of personal information that you have provided to us, or ask us to send that information to another company (the “right of data portability”)
+(iv) restrict or object to our uses of your personal information
+(v) seek correction or amendment of inaccurate, untrue, incomplete, outdated or improperly processed personal information
+(vi) withdraw your consent (note
+if you withdraw your consent to processing, some features of the service may not be available)
+(vii) request erasure, anonymization, or blocking of personal information held about you by us
+(viii) be informed about third parties with which your personal information has been shared
+and (ix) request the review of decisions taken exclusively based on automated processing if that could affect data subject rights, subject to certain exceptions prescribed by law
+if you would like to exercise any of these rights, please contact us as set forth below
+we will process such requests in accordance with applicable laws
+to protect your privacy, we will take steps to verify your identity before fulfilling your request
+we may choose to delete personal information by de-identifying and/or aggregating it
+‍ please note that narvar is not able to fulfill requests it receives from individuals about personal information that is processed via the narvar saas services
+if you have a request related to personal information processed via the narvar saas services, please contact our customer
+‍ data retention we store the personal information we receive as described in this privacy policy for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws
+‍ security of your information we take steps to ensure that your information is treated securely and in accordance with this privacy policy
+unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us
+to the fullest extent permitted by applicable laws, we do not accept liability for unauthorized disclosure
+by using the services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the services
+if we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the services, by mail or by sending an email to you
+supplemental notice for california residents this supplemental notice for california residents only applies to our processing of personal information that is subject to the california consumer privacy act of 2018 (“ccpa”)
+the ccpa provides california residents with the right to know what categories of personal information narvar, in its capacity as a business, has collected about them and whether narvar disclosed that personal information for a business purpose (e
+, to a service provider) in the preceding 12 months
+california residents can find this information below
+‍ category of personal information collected by narvar category of third parties identifiers personal information categories listed in cal
+80(e) commercial information internet or other electronic network activity professional or employment-related information inferences drawn from other personal information to create a profile about a consumer ‍ service providers narvar customers advertising networks service providers narvar customers service providers service providers advertising networks service providers narvar customers service providers advertising networks the categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above
+additional privacy rights for california residents “sales” of personal information under the ccpa
+for purposes of the ccpa, narvar does not “sell” personal information, nor do we have actual knowledge of any “sale” of personal information of minors under 16 years of age
+california residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the ccpa
+only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information
+to designate an authorized agent, please contact us as set forth below
+when you make a request under the ccpa, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include verifying your email address or other information you have provided to us
+if you are a california resident and would like to exercise any of your rights under the ccpa where narvar is acting as a “business”, please contact us as set forth below
+we will process such requests in accordance with applicable laws
+our lawful basis for processing for purposes of the eu general data protection regulation, narvar’s processing of your personal information is supported by the following lawful bases
+‍ performance of a contract
+narvar needs to process your personal information to perform our contract with you or our customer
+narvar processes your personal information to further our legitimate interests but only where our interests are not overridden by your interests or fundamental rights and freedoms
+in some cases, narvar also relies on your consent to process your personal information
+compliance with legal obligations
+narvar may process your personal information to comply with our legal obligations
+supervisory authority if you are located in the european economic area, the united kingdom, or brazil you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law
+‍ third party websites/applications the services may contain links to other websites/applications and other websites/applications may reference or link to our services
+these third-party services are not controlled by us
+we encourage our users to read the privacy policies of each website and application with which they interact
+we do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications
+visiting these other websites or applications is at your own risk
+‍ children’s information the services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children
+if you learn that your child has provided us with personal information without your consent, you may contact us as set forth below
+if we learn that we have collected a child’s personal information in violation of applicable law, we will promptly take steps to delete such information and terminate the child’s account
+‍ changes to our privacy policy we may revise this privacy policy from time to time in our sole discretion
+if there are any material changes to this privacy policy, we will notify you as required by applicable law
+you understand and agree that you will be deemed to have accepted the updated privacy policy if you continue to use the services after the new privacy policy takes effect
+‍ contact us if you have any questions about our privacy practices or this privacy policy, please contact us at
+narvar legal 3 east third avenue, suite 211 san mateo, ca 94401 united states ‍ privacy@narvar
+let us show you around our full product suite
+talk to a product specialist products concierge ship track notify return resources resource library insights blog press legal privacy cookies terms of use terms of service company our story careers — engineering careers partners want to find out if narvar is right for your business
+give us a call at (650) 585-9550 copyright © 2012-2020 narvar inc
+english india (english) united kingdom (english) deutschland (deutsch) france (français)

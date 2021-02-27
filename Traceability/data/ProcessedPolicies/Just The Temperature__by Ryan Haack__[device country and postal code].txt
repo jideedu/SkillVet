@@ -1,0 +1,11 @@
+just the temperature privacy policy
+this document will describe the kind of information we collect and how it is used
+what information we collect
+we collect your postal code and iso 3166-1 alpha-2 country code in order to get information about your local weather
+this information is only gathered if you have granted the skill permissions to use your location in the alexa app
+we do not intentionally retain any of the information gathered about your location or local weather
+we use the openweathermap
+org to get your local weather
+your postal code and country code are sent to them in the clear
+please refer to openweathermap
+org's privacy policy for more information about how they might use the information we send to them

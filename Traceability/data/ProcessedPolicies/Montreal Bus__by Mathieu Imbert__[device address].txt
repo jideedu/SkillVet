@@ -1,0 +1,4 @@
+montreal bus needs the alexa device address to find the bus stops nearby
+we don't use cookies
+we do not store any of the collected information
+© 2019 mathieu imbert

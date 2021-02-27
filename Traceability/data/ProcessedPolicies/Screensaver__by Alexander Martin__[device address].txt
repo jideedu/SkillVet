@@ -1,0 +1,8 @@
+privacy policy stored data
+the following data is stored in your user profile using aes 256-bit encryption
+geographic coordinates (longitude and latitude) the right to data removal you can achieve a complete deletion of your user profile at any time by deactivating the "screen saver" skill or by revoking your authorization
+for further questions please contact alexa-skills@xela
+privacy policy stored data
+the following data is stored in your user profile using aes 256-bit encryption
+geographic coordinates (longitude and latitude) the right to data removal you can achieve a complete deletion of your user profile at any time by deactivating the "screen saver" skill or by revoking your authorization
+for further questions please contact alexa-skills@xela

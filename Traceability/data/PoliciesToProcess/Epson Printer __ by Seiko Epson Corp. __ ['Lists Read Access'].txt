@@ -1,0 +1,209 @@
+epson connect service privacy statement
+effective date march 28, 2013
+this privacy statement ("privacy statement") applies only to the epson connect (the "service")
+the "site" means the website where this privacy statement is posted
+this privacy statement is
+designed to provide information about our privacy and data collection practices for the service,
+such as the types of information we collect regarding users of the service
+does not cover any information collected at any other services (unless specifically stated on the
+this privacy statement does not apply to services provided by other epson entities, or
+services in other countries provided by other epson entities
+please review this privacy statement carefully
+if you have questions or concerns regarding this
+privacy statement, contact epson's privacy coordinator by sending email to
+jp, or sending a letter to 3-3-5 owa, suwa, nagano, japan,
+seiko epson corporation it division, personal information protection manager
+review the epson connect member terms and conditions, or any other applicable terms and conditions,
+which governs your use of the service
+active collection of personal information
+seiko epson corporation ("epson," "we," "our," or "us") collects the personal information of
+customers who use the epson connect
+to access or take advantage of the service, we may ask you to
+"personal information" is information that can be used to identify
+examples of personal information we may collect through the service and otherwise from you
+include name, mailing address, email address (including but not limited to your user-registered
+email address and your printer email address), printer serial number, your service usage records
+we treat all such information as personal information subject to this privacy statement
+personal information may be requested and collected offline and at various locations and on
+various forms, including, but not limited to
+registration for membership to the service
+you communicate or otherwise interact with us via the service or otherwise
+you may always elect
+not to submit personal information, however, as a result, you may not be able to use certain of the
+service's features and functionality
+if you have registered as a member of certain of the service, you may update or modify some of
+the information that you actively provided through the service, including your contact information
+and email marketing preferences
+you may do this by logging into your member account
+responsible for maintaining the accuracy of the information you submit to us
+passive collection of information
+in addition to the personal information that you actively provide to us, we or our third party
+service providers may use a variety of technologies to automatically collect information about you
+when you use the service
+this information may include demographic information, browser type,
+browser environment data, operating system, ip address, mobile device identifiers, the brand and
+model of your device application software for the certain of the service is installed on ("app"),
+the operating system ("os") of your device, the country information of the os, the usage record of
+the app, and other information
+this information may also include clickstream data, which is
+information about the page-by-page paths you take as you browse through the certain website
+the methods that we and our service providers may use to automatically collect such information
+we collect personal information, and any other information, that is contained in any materials,
+including without limitation emails and other documents, which you send to print using the service
+epson does not go out of its way to intentionally review this printed
+information, but may need to view and/or share this information for the uses and reasons set forth
+cookies are data files that are placed on a computer when it is used to visit a website
+these cookies may be used for many purposes, including, without limitation, tracking user
+preferences and web pages visited while using the service
+you may disable cookies using your
+however, some features of the certain our website may not function properly
+or may operate slowly if you disable the cookies
+we may include small graphic images called web beacons, also known as "internet tags" or
+"clear gifs," in our web pages and email messages
+we may use web beacons or similar technologies
+for a number of purposes, including, without limitation, to count the number of visitors to the
+certain our website, to monitor how users navigate the certain our website, to count how many
+emails that we sent were actually opened or to count how many particular articles or links were
+an embedded script is programming code that is designed to collect information about your
+interactions with the certain our website
+it is temporarily downloaded onto your computer from our
+web server or a third party we work with, is active only while you are connected to the certain our
+website, and is deleted or deactivated thereafter
+passively-collected information about you, such as how you interact with the certain our
+website, printed information, your ink usage, and your printing patterns, may with your consent be
+combined or associated with your personal information
+in addition, with your consent, we may send
+you product promotions that we think you may be interested in receiving based on the
+if we associate any such passively-collected information with
+personal information about you, we will treat the combined information as personal information
+in each of these instances, we will apply this privacy statement to any information received,
+unless otherwise specifically disclosed by us
+information from third parties
+with your consent, we may, from time to time, obtain supplemental information about you from third
+party sources or from our marketing partners in connection with co-branded websites or promotions
+if we receive personal information from a third party source and/or with your consent we combine
+the information we receive from these third party sources with your personal information,
+we will treat that information and the combined information as personal information
+we are not responsible for the accuracy of the information provided by third parties or how such
+third parties collect and use such information
+use of personal information
+epson may use your personal information, whether collected online or offline
+(1) to provide you
+with the service, information or services, or process transactions that you have requested or
+(2) to process your registration with the service, including verifying
+that your email address(es) are active and valid
+(3) to improve the services or our other
+services, to customize your experience on the service, or with your consent to serve you specific
+content that is relevant to you
+(4) to contact you with regard to your use of the service and,
+in our discretion, changes to our policies
+(5) to provide you with printer-related notices
+(6) to conduct surveys regarding the service and various epson and affiliated companies
+(7) to improve and development epson and affiliate printers
+send you advertisements from epson and affiliate
+and (9) for purposes disclosed at the time you
+provide your personal information
+"affiliate" means any entity which controls, is controlled by, or is under common control with,
+for purposes of this definition, "control(s)" (with correlative meanings for the terms
+"controlled" and "under common control with") means (i) the direct or indirect ownership of more
+than fifty percent (50%) of the shares or interests which are entitled to vote for the directors of
+the controlled entity or (ii) the actual ability to direct and control the management of the
+but only for as long as such control exists or is retained
+opting out of receiving commercial email correspondence from
+epson provides several means for you to opt-out of receiving commercial emails from epson
+you may opt-out through any commercial email you receive from epson by selecting the "unsubscribe"
+or similar option included with each email
+except as otherwise provided herein, epson does not share, rent, or sell any personal information
+it collects to any third party for third party marketing or solicitations purposes
+we may, in our
+sole discretion, share with third parties information that is not associated with your name or
+identity, such as website usage information, non-personally identifiable demographic information,
+and aggregate user statistics
+we may share personal information and printed information with third
+parties as described at the time you provide the information and under the following circumstances
+we may share your personal information and printed information with third party service providers
+so that they may perform certain services for us, such as website hosting, order fulfillment,
+delivery of epson promotional materials and product offers, or performing other services on our
+these service providers are prohibited from using your personal information for any purpose
+other than to provide this assistance and are required to protect personal information collected by
+them on behalf of epson or disclosed to them by epson and to comply with the general privacy
+principles described in this privacy statement
+epson may share personal information and printed information with its subsidiaries and affiliates
+for "use of personal information"
+epson also reserves the right to disclose and/or transfer
+all information collected, whether through or in connection with the service or otherwise,
+including personal information, to third parties in the event of a proposed or actual purchase,
+sale (including a liquidation, realization, foreclosure or repossession), lease, merger,
+amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all
+or any portion of epson or of any of the business or assets or shares of epson or a subsidiary or
+division thereof in order for you to continue to receive the same products and services from the
+legal and safety obligations
+to the maximum extent permitted by applicable law, we may also transfer and disclose user
+information, including personal information and printed information
+(i) in the event we are
+required to respond to subpoenas or other legal process or if in our good faith opinion such
+disclosure is required or permitted by law
+(ii) at the request of governmental authorities
+(iii) to protect and/or defend the epson connect member terms and
+conditions or other policies applicable to the service
+or (iv) to protect the personal safety,
+life, health, rights, property or security of any individual
+to the maximum extent permitted
+by applicable law, we may also use ip addresses, mobile device identifiers or any other information
+we collect to identify users, and may do so in cooperation with copyright owners, internet service
+providers, wireless service providers or law enforcement agencies in our discretion
+disclosures may be carried out without notice to you
+complaints, inquiries, and requests for disclosure
+you should direct any complaints, inquiries, and requests (regarding disclosure, correction, or
+discontinuation of use of personal information, or anything else) regarding this privacy statement
+to the privacy coordinator
+you can terminate your use of the service by following the instructions
+set forth in the epson connect member terms and conditions, or by uninstalling and destroying the
+epson will retain your personal information and printed information for the purposes described
+above for as long as necessary to fulfill the purpose(s) for which it was collected and to comply
+with applicable laws epson temporarily stores printed information on epson's servers in japan and
+deletes such printed information after confirming receipt by the designated printer or, failing
+such confirmation, no later than two years after the last attempt to send the relevant email
+epson is aware of the heightened need to protect the privacy of children under the age of 13
+the service is not intended for children and is not targeted to children under the age of 13
+epson does not knowingly collect data from children and, if we learn that we ave received
+identifying information from a user under the age of 13, we will delete this information
+there may be hyperlinks on the certain our website to other websites or locations that are operated
+and controlled by third parties ("third party websites")
+these third party websites may use their
+own cookies, web beacons and other technology to independently collect information about you
+in addition, these third party websites may solicit personal information from you
+we make no representations regarding the policies or business practices of such third party
+websites and encourage you to familiarize yourself with their privacy policies before providing
+them with your personal information
+consent to transfer information
+the certain our website and service are operated in japan
+if you are located outside of japan,
+and are accessing the certain our website or using the service, please be aware that information
+we collect, including personal information, will be transferred to, processed and stored in japan
+by using the certain our website or service or providing us with any information through the
+certain our website or service, you consent to this transfer, processing and storage of your
+for more information about our policies and practices related to the use of
+foreign service providers, please contact our privacy coordinator as described below
+epson retains your personal information and printed information for as long as necessary to fulfill
+the purpose(s) for which it was collected and to comply with applicable laws, and your consent to
+such purposes(s) remains valid after termination of our relationship with you
+commercially reasonable steps to help protect and secure personal information and printed
+however, no data transmission over the internet, wireless transmission or electronic
+storage of information can be guaranteed to be 100% secure
+please note that we cannot ensure or
+warrant the security of any information we collect, including without limitation your printed
+information, and you use the service, and provide us with your information, including without
+limitation your printed information, at your own risk
+changes to this statement
+epson may from time to time and without prior notice revise this privacy statement
+any changes will be effective immediately when the revised statement is posted on the site
+we will not, however, use your personal information in a manner materially different than what was
+stated in the statement posted on the site at the time your personal information was collected
+unless we receive your consent
+if you have any questions about this privacy statement, our practices, or your dealings with
+the sites, wish to request access to or correction or update of your personal information, wish to
+withdraw your consent (subject to legal or contractual restrictions and reasonable notice), or
+you have reason to believe epson may have failed to adhere to this privacy statement,
+you can contact us by email or you can write to
+3-3-5 owa, suwa, nagano, japan seiko epson corporation it division personal information protection manager privacy

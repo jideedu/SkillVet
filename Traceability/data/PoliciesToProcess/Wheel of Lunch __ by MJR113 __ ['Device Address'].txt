@@ -1,0 +1,25 @@
+privacy policy for alexa skills
+this privacy policy describes how mjr113 (“us” or “we”) protects your (“you”, “the user”) privacy and your data
+before using any of our alexa skills (“our skills”), please read this policy and our alexa skills terms of use,
+as well as the alexa terms of use and the privacy policies by the amazon digital services llc (with its affiliates, “amazon”)
+regarding amazon, “alexa” means their alexa voice service which includes third party services (like our skills) and other related software
+if you use one of our skills you fully agree to this privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand
+what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+we never collect or share personal data with our skills
+our "wheel of lunch" skill gathers the following information, only with your explicit content
+your alexa's physical location is used to personalize your experience, so that results of a search are located near you
+to improve our services we analyze automatically how often utterances are spoken and other analytics
+this is done automatically by amazon in the amazon developer portal
+for some of our skills it is necessary to save data for you in our databases
+this data is only connected to your alexa-userid
+but never to your name or any other personal information
+our skills or parts of it may change or be updated at any time
+further, this privacy policy might change
+you can find a link to this policy on the
+description page of the skill in the alexa app or in the alexa store
+your continued use of our skill after changes of the privacy policy or the
+skill itself will be seen as your acceptance of both
+© 2019 - ask

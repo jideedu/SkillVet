@@ -1,0 +1,183 @@
+this privacy policy describes the privacy practices that apply to the websites, and applications, and certain other online services operated by annapurna productions, llc including its affiliated companies (“annapurna,” “we,” “our” or “us”)
+together, the websites, applications and services make up the “services
+this privacy policy describes the information we may collect from you through the services, and explains how we may collect it, how we protect it, and with whom we may share it
+this privacy policy also explains the choices you have about our collection of information
+information we collect and how we collect it
+how we use the information we collect
+how we share your information
+how we protect your information
+your rights and choices
+links to other sites and services
+important information for california residents
+updates to this policy
+collection and processing in the united states
+information we collect from you
+there are two general types of information we collect from users of the services
+information that identifies you
+this includes information like your name, address, or email address (or telephone number, credit card or financial account number, or photos of you
+) it may be called personal information, personally identifiable information, or “pii
+information that relates to you, or to a device you use, but on its own does not identify you
+this includes information like about your internet connection and the type of device you use to connect to the services—or even a series of numbers arbitrarily assigned to your device to help us send it content and marketing
+this information may also be called “non-pii
+within these two categories, we may collect
+contact or registration information
+you may provide a name, address, email address or telephone number when you enter a contest or sweepstakes
+or download a film
+updates on a film that will be released, register for a promotional event, or sign up for a newsletter
+(all of this information is pii
+post online , such as comments you post on a film review, or in a community discussion
+we may also offer you the chance to tell us, on our site or on questionnaires we offer on other sites, including social media,
+what you think of part or all of our services, for example, a website or app, or one of our movie trailers
+this information may be pii, if you post under your real name, and your comments are associated with your name
+posting information is voluntary
+you may always choose not to provide us with information, but that may limit the features or information you can receive or enjoy
+information about you, or your use of other products and services, that we obtain from other sources
+we may obtain information such as demographic information (your age and gender for example) from publicly available sources
+there may be social media widgets on our pages that help you view or share our movie trailers and other content through your social media accounts
+if you do share content on social media services, we may also receive information about your use of those social media services, or information you have published on social media,
+that helps us understand your interests
+we may combine these types of third-party information, or other information we may license from
+third parties, with the information we receive when you use our services
+we may use cookies, web beacons (clear gifs) and other such devices (“tracking technology”)
+to collect information about your use of the services
+the tracking technology that we and our third-party service providers (see more information here) use may include
+like most websites, our websites make use of browser “cookies
+” cookies are pieces of information that a website transfers to your computer’s hard drive or stores temporarily in your computer’s memory
+cookies may also help us, or third parties who serve advertisements or promotional messages on our behalf, recognize your browser or your device as one that has visited us and viewed our content when you return to our website, or even when you visit other websites
+cookies help us make your experience of using the services more seamless, for example by storing information about which what interested you on our site, , so that we can provide you with related information
+we may present information about this content to you through our services or through advertisements we place on unaffiliated websites or services
+in addition to browser cookies, we may use flash cookies for similar purposes
+these flash cookies are similar to browser cookies and are used to remember settings, preferences and usage, but they are managed through a different interface than the one provided by your web browser
+if you would like to delete flash cookies, you will need to access your flash player settings management tool available on adobe's website
+for more information about flash cookies and how to remove them from your computer, please visit https
+our web pages or email messages may contain a small graphic image called a web beacon, which is sometimes called a “clear gif,” that allows us to monitor and collect certain information about our users, such as the type of browser, or the ip address of the device visiting the web page
+an ip address is a number assigned to your computer or network when you are on the internet
+when you request content through a web site or application, we use the ip address to direct the content to your device, and our servers log the ip address as we do that
+when you use our services on a mobile device, we may collect a google ad id or apple id for advertising (“idfa”)
+when you access our services from any device, we may collect a device id, such as a mac address
+if you access our services from different devices or different browsers, we may use other information to link them to you
+for example, we may use the location from which you are accessing the services or the registration information when you sign in to features of our services to associated devices
+if you sign in or provide us with pii from
+two different devices, we will know they are linked to you and to each other, but if we use other information to try to associate devices, we may only be able to make assumptions that they are probably linked
+linking devices helps us deliver content and promotional messages that may be relevant to you on all the devices you use
+in the your rights and choices section below we explain how you can choose not to have a device linked to others
+information from social media
+when you access our services
+(for example, to view video) from a social media platform, or share our content through your social media postings, we may also collect information you make public on social media
+we may collect information about the location from which you are accessing our services
+if you are using a mobile device, we may collect “precise geo-location information” that helps us determine where you are in real time
+in the your rights and choices section, we explain your choices about whether or not this information is collected
+other information from third parties
+we use third parties such as advertising companies, data exchanges, traffic measurement service providers, marketing analytics service providers (“third party advertising service providers” or, with others who assist us, our
+“service providers”) to help us collect and understand information on our services and on unaffiliated websites, apps, and services, to deliver our promotional messages and content, and to help us make use of
+how we use the information we collect
+we use the information we collect through our services to deliver content to you, and sometimes to
+present the content we think will be most relevant to you
+for example, if you always view information about certain types of films, we will show you those films when you access the services and let you know (through promotional messages on our sites, through newsletters if you have signed up for them, or possibly by presenting information about these films first when you access the services) when new films of these types will be released
+we may also use other information about how you access and interact with our services (such as
+how often you visit, or the times, dates, and lengths of your visits) (“activity information”) to tailor content and messages to you
+when we use activity data to tailor content, we generally do this using non-pii
+we use information we obtain from third parties, as described above, to group you with other people who have similar interests, and present the content we think is most likely to interest everyone in the group
+we also use information about how you and others use our services to manage content delivery (for example by ensuring you do not see the same information too often), to do market research, to determine which parts of our services are most
+interesting and helpful to people, and to improve our products and services, and for other similar purposes
+we may use service providers to help us analyze and understand this information so that we can use it effectively
+we may also use information to confirm your identity, answer your questions or assist you, and update you
+from time to time, we may also make content available for download or sale
+we may use your information to deliver newsletters or other services you request
+how we share your information
+information may be collected and used by our service providers on our behalf
+in addition to helping us with advertising related services, they may assist us with research and analytics, hosting, fulfilling transactions, maintaining databases, administering sweepstakes and contests, providing technology services, delivering content and email, and, we sell content or products through our services, for processing payments
+we will require our service providers to use only the information they need to perform services for us
+we will not share pii with service providers for their marketing or advertising purposes
+we may share aggregate information about our site (how it is generally used) for business purposes, for example to demonstrate interest in our films
+we may share information (and you agree to this sharing) about video content you view through our services with video measurement services and social media sites
+if we do, we will ask for your consent, which will be effective for two years or until you withdraw it
+this information may be shared through tracking technology
+we may share information among
+in other words, any company we control, are controlled by or are under control with (an “affiliate”) may receive information from us and provide information to us
+this information may be used for marketing and administrative purposes
+in addition, we may use or disclose information to
+protect our legal rights (including copyrights or other proprietary rights) or the legal rights of others when we have a good faith belief that they are in jeopardy
+protect our privacy, or safety and security, and those of our affiliates, employees, agents, contractors or other individuals who use our services
+protect against fraud or other illegal activity
+respond to legal process or requests for information from government, regulatory, law enforcement, or public authorities
+permit us to pursue available remedies, defend litigation, or limit damages
+enforce our terms and conditions
+as part of the sale or transfer of our business (whatever form that may take)
+or the sale or transfer of all or substantially all of any of its assets
+we do not knowingly collect any pii from children under thirteen (13), or permit or direct such information to be collected on our behalf
+if you are younger than 13, you may not send any information about yourself to us
+if we discover that a child under the age of 13 has provided pii to us , we will use commercially reasonable efforts to delete that child’s pii from our systems
+how we protect your information
+we use commercially reasonable methods to protect the information we collect
+we use measures that are commonly used in our industry to protect data we process from unauthorized access, disclosure or modification
+we take industry-standard precautions and follow generally accepted procedures to protect the security of data we process, store and transmit
+however, no transmission or storage of data can ever be perfectly secure, so while we can assure you that we work hard to protect information in our control, we are not able to provide legal guarantees of data security
+your rights and choices
+have subscribed to one or more of our email newsletters or are receiving them from us and you don’t want them anymore, you can unsubscribe
+select the “unsubscribe” link at the bottom of any email message, or use any other means that may be provided to unsubscribe
+opting out of interest based advertising as noted above, we collect information about your use of our services, and through our third party advertising service providers, we collect and use information about your use of other services
+the use of activity data, including the information about your use and interaction with our services that allows us (through our service providers) to deliver promotional messages to you on other unaffiliated websites, apps, or services, is “interest based advertising,” or “iba
+it isn’t possible to opt out of all data collection on all devices
+for iba with one action
+online data is generally collected through tracking technologies, including cookies, and when you opt out of this data collection, we, or our service providers, store your choice in another cookie on your web browser
+if you change devices or browsers, or clear cookies from your browser, you may need to opt out again
+this opt out from online tracking for iba will not affect the collection of data from apps on your mobile devices
+in order to prevent your activities on a mobile device from being used to track you for iba, you must go to “settings” on a mobile device and turn on “limit ad tracking” for ios devices or “opt out of interest based ads” for android devices
+opting out from third party advertising service providers
+you can opt-out of third party use of non-pii for interest based advertising by going to those service providers’ own web sites and following instructions in their privacy policies about how to opt out
+service providers that collect information through our services for interest based advertising generally participate in the network advertising initiative (“nai”), which provides an opt out tool located at http
+org/#/ , and/or the digital advertising alliance (“daa”) self-regulatory program for online behavioral advertising (the ad choices program), which provides an opt out at http
+you may also opt out from third-party tracking across apps through the daa’s app choices app
+if we or our service providers collect precise location information from an app on a mobile device, we or they will ask you first whether you consent to the collection and use of that information, in accordance with this privacy policy
+if you do not want information that our service providers collect on one device to be used for interest based advertising by us or others on other devices, you can opt through the nai or daa opt outs
+opting out from one device only removes that device from cross-device advertising
+you may still receive ads on other devices that are based on activity data collected on devices you did not remove from cross-device tracking
+for example, if you remove your phone from cross-device tracking, data from both your computer and your tablet may still be used to target advertising on and across both of those devices
+when you opt out, devices may still be linked by
+service providers but that linkage will not be used to deliver cross-device interest based advertising
+in addition, if you sign in on any device using your pii, and we know or have stored your preferences or interests, we may use those on all the devices on which you sign in to deliver you relevant promotional messages or content through our own services
+you may request access to, and have the right to review, any pii we have collected and retain about you
+in order to review this information, please contact us at the address provided at the end of this privacy policy
+links to other sites and services
+please be aware that when you are navigating our services or viewing an e-mail or other content we provide,
+you may have the opportunity to click on links that take you outside company’s service to other websites or online content that are beyond company’s control
+for example, you may encounter links to fan sites, or other related links to sites that may reference our brand, but are not our sites
+if you “click” on the link to such a third party, the “click” takes you to a third party’s website or online content
+we have no control over, and are not responsible for the privacy practices or the content of these websites and expressly disclaims all liability associated with your use of, and the content on, these websites
+once you have left our content or services by clicking on an external link, you should check the applicable third party's privacy policy to determine whether they will collect pii from you and how they will use it
+important information for california residents
+california residents may request and obtain a list of the third parties, if any,
+to which our services have disclosed personal information (as defined by california law) for their direct marketing purposes during the immediately prior calendar year (e
+requests made in 2017 will receive information about 2016 sharing activities)
+as set forth in this privacy policy, we comply with this law by offering our visitors the ability to tell us not to share your personally identifiable information with third parties for their direct marketing purposes
+to make such a request, please send an e-mail to californiaprivacy@annapurnapics
+you must include this privacy policy
+as the subject line, and your full name, e-mail address, phone number and postal address in your message
+please see the "your rights and choices" section of this privacy policy for additional information
+some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates
+because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them
+there is disagreement, including among participants in the leading internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals
+we currently do not take action in response to these signals, but, if and when a final standard is established and generally accepted, we may reassess how to respond to these signals
+instead, as described above, please see the links
+to the network advertising initiative and digital advertising association programs that offer choices about third party tracking across unaffiliated websites and apps
+updates to our privacy policy
+from time to time, we may revise this privacy policy to reflect industry initiatives, changes in the law or technology, or changes to our practices
+if we make material changes to the way we collect or use your information, we will provide notice of these changes in a way we consider appropriate, including by posting a revised version of this privacy policy
+we will not share information we collected in the past under a different policy in new and materially different ways without getting your consent
+you agree that we may notify you about material changes in the way we treat personal information we will collect in the future by placing a notice on our services, including this privacy policy
+you should check our services frequently for updates
+you can determine when this privacy policy was last revised by referring to the date
+“last updated” or similar description at the top of this privacy policy
+any changes to this privacy policy will become effective upon posting of the revised privacy policy on the internet, accessible through this site
+by continuing to use our services following such changes, you will be deemed to have agreed to such changes
+if you do not agree with the terms of this privacy policy, as it may be changed from time to time, please do not continue to use our services
+collection and data processing in the united states
+annapurna is based in the united states, our services are directed to residents of the united states,
+and they comply with united states law
+if you are located in the european union, canada,
+or any other country outside of the united states, please be aware that any information you provide will be collected in and/or transferred to the united states, and processed in the united states, and the privacy laws that apply to our services
+may not be equivalent to those in the country where you reside
+if you have any questions about this privacy policy or wish to review any pii of yours that you believe we may have, please contact us at
+annapurna productions, llc 812 north robertson boulevard west hollywood, ca 90069
+© 2017 annapurna productions, llc

@@ -1,0 +1,5 @@
+the compost professor skill uses requires three pieces of information from you
+email address - used to send instructions on how to use the system
+name - used to personalize communication
+zip code - to determine your locations and if precipitation is in the forecast (used to determine if your compost needs water)
+this information is not shared and can be removed by disabling the compost professor skill in your alexa app

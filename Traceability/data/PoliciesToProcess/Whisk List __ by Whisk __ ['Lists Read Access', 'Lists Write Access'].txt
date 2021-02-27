@@ -1,0 +1,435 @@
+updated on 30 june 20 20
+this privacy notice (our “ policy “) describes how foodient ltd
+(a uk company) (“ whisk ” “ we ”, “ our ” or “ us ”) collects and processes your personal data
+how we use your personal data will depend on the particular service we are providing and the nature of your relationship with us
+if you are a representative of a company (a “ business
+representative “)who accesses our services via the website www
+com or has a commercial relationship with us (a “ partner “), then we may collect your contact details (and limited other personal data about you)
+this data may be used by us in order to administer our relationship, provide you with access to our services and systems, and send you our regular newsletter
+any information provided in this policy that is relevant for our business representatives is marked as such
+if you are an individual (a “ consumer “) who accesses our services via our website, my
+com through any of our partners’ websites or through our mobile application, “whisk shopping list & recipes” (the “ application “), then we may collect personal data that fall within various categories (see our “ data we collect ” section)
+the purposes for which we may use your data are described in the “ how we use your data ” section
+all information provided in this policy, unless otherwise specified, is relevant to our consumers
+this policy applies to all personal data we collect or process about you in the context of your use of our services
+whisk is the data controller for the processing of personal data
+we may collect the following personal data from you
+contact details authentication data profile information, if you setup an account with us information you voluntarily provide about yourself, such as food, dietary, and nutritional preferences data relating to your use of our services your device’s geo-location when accessing our services grocery data
+including your name, telephone number, email address and the content of any correspondence between you and us
+this category is relevant for our business representatives and consumers
+including your username and password when you log in via the application, and the equivalent details as well as an authentication token in respect of your accounts with any third party websites who have integrated our platform (for example, grocery retailers and social media sites)
+this category is relevant for our business representatives and consumers
+information that you add to any profile that you create through our website or our application, including any photos you upload and information about yourself
+including information relating to diets, foods you avoid, lifestyle choices, cuisine choices, nutritional goals, health metrics (such as your height and weight) and grocery shopping patterns and preferences
+including information relating to your visits to our website and application and the websites of our partners (such as shopping lists you create, recipe interactions and time spent on each page of the application), ip address, domain name, uri address (uniform resource identifier) and grocery transactions that you may complete via our services
+including device location data and the ip address of your device
+information relating to any products that you select from a shopping list for purchase from a third party retail site
+how we collect your data
+we collect some of the personal data described above directly from you for a number of different purposes, as detailed in the “ how we use your data ” section below
+we also collect your personal data indirectly via the websites of our partners who have integrated our platform (i
+, the shopping list function) in order to provide you with a seamless food shopping experience and from any social media sites through which you access our services
+in addition, we collect personal data about you via automated means, such as from cookies and similar tools as you use our services
+a cookie is simply a piece of text, which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a website
+some of the cookies we deploy are necessary to provide certain functions through our website and application, whereas others (such as those which relate to targeted advertising) are not
+you have a choice about whether or not to accept these non-essential cookies
+further information on the types of cookies we use and the personal data we use them to collect can be found in our cookie policy
+how we use your data
+we may use the data you provide to us for the following purposes
+provide you with our services and maintain them perform data analytics to understand food trends, build a profile of your preferences and improve our services to make suggestions about recipes and products that we think will match your preferences provide targeted advertising to you to send you news, special offers and marketing to send our business representatives our newsletter assist you in purchasing groceries from selected retailers review and improve our services provide business representatives with access to third party services provided to us defend ourselves against legal claims
+for example, when you select a recipe from a website belonging to one of our partners, you will be able to log into your account with us and create a shopping list via our integrated platform
+if you decide to buy the items on your list, then we will transfer your selected grocery products for purchase to the third party grocery website of your choice, using authentication data to verify your identity and your location data to suggest appropriate grocery retailers
+whisk processes personal data for the purposes described above
+whisk’s legal basis to process personal data includes processing that is
+necessary for the performance of the contract between you and whisk (for example, to provide you with the services and to identify and authenticate you so you may use certain services)
+necessary to comply with legal requirements (for example, to defend ourselves against legal claims or to make mandatory disclosures to law enforcement)
+necessary for whisk’s legitimate interests (for example, perform data analytics to understand food trends, build a profile of your preferences and improve our services)
+and based on obtaining your separate consent (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by contacting us as specified in the contact us section of this privacy policy without affecting the lawfulness of processing based on consent before its withdrawal
+please see the table below for further detail on each of these purposes
+purpose categories of personal data providing you with our services and maintaining them, including
+– setting up an account with us when you download our application – verify your identity when you login to use our services – managing your profile and preferences on the application (e
+to publicise your profile and save your favourite recipes) – facilitating your purchasing of groceries from third party retailers through our services – providing customer support (e
+when you have issues logging into or using our services) – notifying you about changes to our services
+contact details authentication data profile data food preference data usage data location data data analytics, including
+– creating reports to provide our partners with aggregated and anonymous information about how users interact with their sites (e
+popularity of certain recipes or food types by region) – providing you with product suggestions that are sometimes sponsored and sometimes just our recommendations based on your previous purchases, shopping lists and favourite recipes – providing aggregated and anonymised trend reports to third parties – improving your experience of our services by using your data to enhance our technologies (e
+through machine learning algorithms) contact details profile data food preference data usage data location data providing targeted online advertising, including
+– offering you recipe, product or retailer suggestions that reflect your preferences and suit your location contact details authentication data food preference data usage data location data sending you news, special offers and marketing, including
+– providing you with details of special offers and general information about other goods via email contact details profile data food preference data usage data location data sending our business representatives our newsletter contact details usage data assisting you in purchasing groceries from selected retailers – transferring your shopping list to your preferred supermarkets at your request contact details authentication data profile data grocery data reviewing and improving our services, including
+– monitoring and tracking the usage of our services – gathering valuable information so that we can improve our services – detecting, preventing and addressing technical issues contact details profile data usage data food preference data usage data location data defending ourselves against legal claims that we may receive contact details authentication data profile data food preference data usage data location data
+we sometimes process your personal data using a combination of machine learning and other ai techniques to evaluate information about you that we receive from the sources described under our “ how we collect your data ” section above
+this is known as profiling and it helps us to build our understanding of your preferences in order to provide you with the best service we can
+for example, we may analyse information relating to your purchases of a particular product to suggest similar products that you may be interested in buying via targeted advertising
+depending on the purpose for which we are using your data, we may rely on various legal grounds for processing
+in some cases, we will seek your explicit consent, in others we may rely on our legitimate interests or it may be necessary in order to perform our contract with you
+how long we keep your data for
+we will retain your personal data for as long as required to fulfil the purpose for which the data were collected, having regard to a range of applicable criteria, including the on-going relationship we have with you, the completion of the purpose for which the data was originally given, our own legal obligations and requirements, the type and size of the data held or our accounting requirements in relation to the data
+for example, we will retain the contact details that you provide when you open an account via our application until you choose to delete your account
+we may then in any event need to retain those contact details for a period in order to defend ourselves against legal claims
+we use session and long-lived cookies on our websites and application
+personal data that are collected by session cookies that are strictly necessary for purposes relating to fundamental website or application functionality will be retained for a matter of minutes
+personal data that are collected by long-lived cookies may be retained for up to two years, depending on the purpose
+we will delete personal data once the relevant retention period expires
+after such date, you will not be able to exercise some of your rights over your personal data that are described below
+in general, we keep the length of time that we hold your personal data for under review
+these reviews take place annually
+who we share your data with
+we may share your personal data with third parties under the following circumstances
+we may share your personal data with service providers who perform services on our behalf, including assisting us with data analytics, it management, hosting and improving our services
+for a full and maintained list of our service providers, please click here
+you can find more detail on the types of services these third parties provide to us [by clicking] “ further information ” at the end of this section
+this includes grocery retailers, recipe publishers, digital health applications, social media sites, providers of ‘internet of things’ technologies and third party advertising networks who advertise on our website
+for a full and maintained list of our partners, please click here
+we may share your personal data during the course of business negotiations and transactions (for example, an acquisition, merger or financing) to the extent necessary to facilitate the restructuring
+where required by law
+we may share your personal data with law enforcement agencies, courts, other government authorities or other third parties where we believe necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party
+we use third party service providers to assist us with the following
+to monitor and analyse web traffic, to assess the popularity of specific pages and to keep track of your behaviour when using our services
+to monitor the use and behaviour of our services’ components so that performance, maintenance and troubleshooting can be improved
+traffic optimisation and distribution
+to allow the services to distribute their content using servers located across different countries and optimise their performance
+content performance and features testing
+to track and analyse your responses in relation to web traffic or behaviour regarding changes to the structure, text or any other component of the services
+hosting and backend infrastructure
+to host data and files that enable the services to run and be distributed, as well as to provide a ready-made infrastructure to run specific features or parts of the services
+managing contacts and sending messages
+to manage our database of contact information to communicate with you, and also to collect information relating to your interaction with such communications
+to build user profiles using personal data you provide to us, as well as to track your activities through analytics features
+in the case of business representatives
+we may also match the personal data you provide with publicly available information about you to build private profiles that we use for user support operations and for improving our services
+where we might send your data
+your personal data may be transferred to and processed in a country that is not regarded as providing the same level of protection for personal data as the laws of your home country, including, for example and without limitation to the united kingdom and the united states
+where possible, we have sought to put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to provide adequate protections for your personal data
+for more information on the appropriate safeguards in place and to obtain a copy of such safeguards, please contact us at the contact information set out below
+how we keep your data secure
+we engage google cloud to store your personal data within the european economic area (“ eea “)
+we have also implemented appropriate technical and organisational controls to ensure that your personal data are processed securely, such as encryption and authentication during transfer
+however, no method of transmission over the internet or of electronic storage is fully secure, and as such, we cannot guarantee its absolute security
+further information on how we keep your personal data secure can be found in our security policy
+your rights over your personal data
+you can withdraw any consent you have given us at any time and we will stop using your data for the purpose that consent was granted
+you can also contact us at any time to request
+access to any personal data we hold about you
+that personal data we hold about you be updated, rectified or blocked
+that we delete personal data we hold about you
+that we restrict our processing of your personal data
+that we provide you or a third party with a copy of certain personal data about you (referred to as the right of “data portability”)
+that you object to the processing of personal data we hold about you
+there may be situations where it is not possible for us to grant you these rights or we are not required by law to do so
+for example, where restricting the processing of your personal data would impede a criminal investigation
+as such, the rights described in the bullet points above are not absolute
+if you have questions or concerns regarding the way in which your personal data has been used, please contact our data protection officer, nick holzherr, at hi@whisk
+you can also contact us by post at
+nick holzherr – data protection officer
+we are committed to working with you to obtain a fair resolution of any complaint or concern about your privacy
+if, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to the data protection regulator of your country of residence
+changes to the policy
+we may modify or update this privacy notice from time to time
+if we make any revisions that materially change the ways in which we process your personal data, we will notify you of these changes by email
+additional california consumer privacy disclosures
+this california consumer privacy statement (the “statement”) supplements the whisk privacy policy
+it applies solely to california consumers and addresses personal information we collect online and offline
+this statement uses certain terms that have the meaning given to them in the california consumer privacy act of 2018 and its implementing regulations (the “ccpa”)
+notice to california residents
+notice of collection and use of personal information
+we may collect the following categories of personal information about you
+identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier
+cookies, beacons, pixel tags, mobile ad identifiers and similar technology
+customer number, unique pseudonym, or user alias
+telephone number and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, account name, and other similar identifiers protected classifications
+such as characteristics of protected classifications under california or federal law, such as age and sex commercial information
+commercial information, including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies biometric information
+such as such as keystroke patterns or rhythms, voice recordings, an individual’s behavioral characteristics, or other data used to establish individual identity online activity
+internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements geolocation data
+such as precise physical location or movements and travel patterns sensory information
+audio, electronic, visual, and similar information inferences
+inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes
+how we use your data is described in the whisk privacy policy
+we may also use the categories of personal information listed above for certain business or commercial purposes, as described in this list
+performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, providing advertising or marketing services, providing analytics services, or providing similar services
+auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+debugging to identify and repair errors that impair existing intended functionality
+undertaking internal research for technological development and demonstration
+and undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+prior collection, use and disclosure of personal information
+we may have collected and used your personal information, as described in section 1 above, during the 12-month period prior to the effective date of this statement
+for the personal information collected during that timeframe, we describe below
+(a) the categories of sources from which we may have obtained the personal information, (b) the categories of personal information we may have sold, and (c) the categories of personal information we may have disclosed for a business purpose
+sources of personal information
+where we may have obtained your data is described in the whisk privacy policy
+we may have also obtained personal information about you from various other sources, including
+from you or your devices, for example, through your use of our services (both via our website and applications and via the websites of our partners who have integrated our platform
+our affiliates and subsidiaries
+government entities and other public sources
+operating systems and platforms
+data brokers and other data providers
+credit agencies or bureaus
+vendors who provide services on our behalf
+and online advertising companies
+sale of personal information
+we may allow certain third parties (such as advertising partners) to collect your personal information
+you have the right to opt out of this disclosure of your information, as detailed below
+under the ccpa, a “sale” means providing personal information to a third party for valuable consideration, which may include several forms of common sharing practices
+it does not necessarily mean money was exchanged for the transfer of such personal information
+the following table lists the categories of personal information we may have “sold” during the 12-month period prior to the effective date of this statement and the categories recipients
+category of personal information sold categories of recipients identifiers customer records internet usage information inferences derived from personal information our affiliates and subsidiaries
+vendors who provide services on our behalf
+professional services organizations, such as auditors and law firms
+our joint marketing partners
+operating systems and platforms
+disclosure of personal information for a business purpose
+the following table lists the categories of personal information we may have disclosed for a business purpose in the past 12 months and the categories of recipients
+category of personal information disclosed for a business purpose categories of recipients identifiers customer records personal characteristics or traits customer account details / commercial information internet usage information geolocation data inferences derived from personal information our affiliates and subsidiaries
+vendors who provide services on our behalf
+professional services organizations, such as auditors and law firms
+our joint marketing partners
+operating systems and platforms
+california consumer privacy rights
+effective as of january 1, 2020, california consumers have certain choices regarding our use and disclosure of personal information, as described below
+you have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed and sold about you during the past 12 months
+you have the right to request that we delete certain personal information we have collected from you
+note that we are not required to delete personal information that is needed for a number of purposes
+you have the right to opt-out of the sale of your personal information
+you have the right to non-discrimination based on the exercise of your privacy rights
+shine the light request
+you also may have the right to request that we provide you with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (2) the identity of those third parties
+whisk does not share personal information with third parties for their own direct marketing purposes without your consent or without giving you an opportunity to opt out of such sharing
+how to submit a request
+to submit an access or deletion request, a shine the light request, or to opt-out of the sale of your personal information, email us at hi@whisk
+in your email please let us know if you have a whisk account as well as any email accounts that may be associated with your personal information
+to help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request
+if you have a whisk account, we may verify your identity by requiring you to sign in to your account
+if you do not have a whisk account, or an email address or phone number on file with us, or if the information you provide does not match what is in our records, then we may not be able to process your request, as there is no reasonable method by which we can verify your identity to the level of certainty required by the ccpa
+accordingly, if you do not have an account with us, or an email address on file, and you request access to or deletion of your personal information, we may not be able to process your request at this time
+if you are an authorized agent or parent/guardian making a request on behalf of a consumer or your child, we may require and request additional information to verify that you are authorized to make that request
+to the extent permitted by applicable law, we may charge a reasonable fee to comply with your request
+we reserve the right to deny your request if we cannot verify your identity or an exemption applies
+in addition, depending on the nature of your request and the risk of fraud, we may not be able to fulfill it
+where we deny your request in whole or in part, we will inform you of the denial, provide an explanation of our actions, and the reason(s) for the denial
+in the event your request is incomplete or deficient, we will endeavor to inform you how it may be corrected
+california law requires us to let you know how we respond to web browser do not track (dnt) signals
+do not track (“dnt”) features that allow you to tell a website not to track you
+because there currently is not an industry or legal standard for recognizing or honoring dnt signals, we do not respond to them at this time
+do not sell my data
+for users how it works
+for business whisk for business
+for developers developer docs + tools
+this website use cookies
+updated on 30 june 20 20
+this privacy notice (our “ policy “) describes how foodient ltd
+(a uk company) (“ whisk ” “ we ”, “ our ” or “ us ”) collects and processes your personal data
+how we use your personal data will depend on the particular service we are providing and the nature of your relationship with us
+if you are a representative of a company (a “ business
+representative “)who accesses our services via the website www
+com or has a commercial relationship with us (a “ partner “), then we may collect your contact details (and limited other personal data about you)
+this data may be used by us in order to administer our relationship, provide you with access to our services and systems, and send you our regular newsletter
+any information provided in this policy that is relevant for our business representatives is marked as such
+if you are an individual (a “ consumer “) who accesses our services via our website, my
+com through any of our partners’ websites or through our mobile application, “whisk shopping list & recipes” (the “ application “), then we may collect personal data that fall within various categories (see our “ data we collect ” section)
+the purposes for which we may use your data are described in the “ how we use your data ” section
+all information provided in this policy, unless otherwise specified, is relevant to our consumers
+this policy applies to all personal data we collect or process about you in the context of your use of our services
+whisk is the data controller for the processing of personal data
+we may collect the following personal data from you
+contact details authentication data profile information, if you setup an account with us information you voluntarily provide about yourself, such as food, dietary, and nutritional preferences data relating to your use of our services your device’s geo-location when accessing our services grocery data
+including your name, telephone number, email address and the content of any correspondence between you and us
+this category is relevant for our business representatives and consumers
+including your username and password when you log in via the application, and the equivalent details as well as an authentication token in respect of your accounts with any third party websites who have integrated our platform (for example, grocery retailers and social media sites)
+this category is relevant for our business representatives and consumers
+information that you add to any profile that you create through our website or our application, including any photos you upload and information about yourself
+including information relating to diets, foods you avoid, lifestyle choices, cuisine choices, nutritional goals, health metrics (such as your height and weight) and grocery shopping patterns and preferences
+including information relating to your visits to our website and application and the websites of our partners (such as shopping lists you create, recipe interactions and time spent on each page of the application), ip address, domain name, uri address (uniform resource identifier) and grocery transactions that you may complete via our services
+including device location data and the ip address of your device
+information relating to any products that you select from a shopping list for purchase from a third party retail site
+how we collect your data
+we collect some of the personal data described above directly from you for a number of different purposes, as detailed in the “ how we use your data ” section below
+we also collect your personal data indirectly via the websites of our partners who have integrated our platform (i
+, the shopping list function) in order to provide you with a seamless food shopping experience and from any social media sites through which you access our services
+in addition, we collect personal data about you via automated means, such as from cookies and similar tools as you use our services
+a cookie is simply a piece of text, which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a website
+some of the cookies we deploy are necessary to provide certain functions through our website and application, whereas others (such as those which relate to targeted advertising) are not
+you have a choice about whether or not to accept these non-essential cookies
+further information on the types of cookies we use and the personal data we use them to collect can be found in our cookie policy
+how we use your data
+we may use the data you provide to us for the following purposes
+provide you with our services and maintain them perform data analytics to understand food trends, build a profile of your preferences and improve our services to make suggestions about recipes and products that we think will match your preferences provide targeted advertising to you to send you news, special offers and marketing to send our business representatives our newsletter assist you in purchasing groceries from selected retailers review and improve our services provide business representatives with access to third party services provided to us defend ourselves against legal claims
+for example, when you select a recipe from a website belonging to one of our partners, you will be able to log into your account with us and create a shopping list via our integrated platform
+if you decide to buy the items on your list, then we will transfer your selected grocery products for purchase to the third party grocery website of your choice, using authentication data to verify your identity and your location data to suggest appropriate grocery retailers
+whisk processes personal data for the purposes described above
+whisk’s legal basis to process personal data includes processing that is
+necessary for the performance of the contract between you and whisk (for example, to provide you with the services and to identify and authenticate you so you may use certain services)
+necessary to comply with legal requirements (for example, to defend ourselves against legal claims or to make mandatory disclosures to law enforcement)
+necessary for whisk’s legitimate interests (for example, perform data analytics to understand food trends, build a profile of your preferences and improve our services)
+and based on obtaining your separate consent (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by contacting us as specified in the contact us section of this privacy policy without affecting the lawfulness of processing based on consent before its withdrawal
+please see the table below for further detail on each of these purposes
+purpose categories of personal data providing you with our services and maintaining them, including
+– setting up an account with us when you download our application – verify your identity when you login to use our services – managing your profile and preferences on the application (e
+to publicise your profile and save your favourite recipes) – facilitating your purchasing of groceries from third party retailers through our services – providing customer support (e
+when you have issues logging into or using our services) – notifying you about changes to our services
+contact details authentication data profile data food preference data usage data location data data analytics, including
+– creating reports to provide our partners with aggregated and anonymous information about how users interact with their sites (e
+popularity of certain recipes or food types by region) – providing you with product suggestions that are sometimes sponsored and sometimes just our recommendations based on your previous purchases, shopping lists and favourite recipes – providing aggregated and anonymised trend reports to third parties – improving your experience of our services by using your data to enhance our technologies (e
+through machine learning algorithms) contact details profile data food preference data usage data location data providing targeted online advertising, including
+– offering you recipe, product or retailer suggestions that reflect your preferences and suit your location contact details authentication data food preference data usage data location data sending you news, special offers and marketing, including
+– providing you with details of special offers and general information about other goods via email contact details profile data food preference data usage data location data sending our business representatives our newsletter contact details usage data assisting you in purchasing groceries from selected retailers – transferring your shopping list to your preferred supermarkets at your request contact details authentication data profile data grocery data reviewing and improving our services, including
+– monitoring and tracking the usage of our services – gathering valuable information so that we can improve our services – detecting, preventing and addressing technical issues contact details profile data usage data food preference data usage data location data defending ourselves against legal claims that we may receive contact details authentication data profile data food preference data usage data location data
+we sometimes process your personal data using a combination of machine learning and other ai techniques to evaluate information about you that we receive from the sources described under our “ how we collect your data ” section above
+this is known as profiling and it helps us to build our understanding of your preferences in order to provide you with the best service we can
+for example, we may analyse information relating to your purchases of a particular product to suggest similar products that you may be interested in buying via targeted advertising
+depending on the purpose for which we are using your data, we may rely on various legal grounds for processing
+in some cases, we will seek your explicit consent, in others we may rely on our legitimate interests or it may be necessary in order to perform our contract with you
+how long we keep your data for
+we will retain your personal data for as long as required to fulfil the purpose for which the data were collected, having regard to a range of applicable criteria, including the on-going relationship we have with you, the completion of the purpose for which the data was originally given, our own legal obligations and requirements, the type and size of the data held or our accounting requirements in relation to the data
+for example, we will retain the contact details that you provide when you open an account via our application until you choose to delete your account
+we may then in any event need to retain those contact details for a period in order to defend ourselves against legal claims
+we use session and long-lived cookies on our websites and application
+personal data that are collected by session cookies that are strictly necessary for purposes relating to fundamental website or application functionality will be retained for a matter of minutes
+personal data that are collected by long-lived cookies may be retained for up to two years, depending on the purpose
+we will delete personal data once the relevant retention period expires
+after such date, you will not be able to exercise some of your rights over your personal data that are described below
+in general, we keep the length of time that we hold your personal data for under review
+these reviews take place annually
+who we share your data with
+we may share your personal data with third parties under the following circumstances
+we may share your personal data with service providers who perform services on our behalf, including assisting us with data analytics, it management, hosting and improving our services
+for a full and maintained list of our service providers, please click here
+you can find more detail on the types of services these third parties provide to us [by clicking] “ further information ” at the end of this section
+this includes grocery retailers, recipe publishers, digital health applications, social media sites, providers of ‘internet of things’ technologies and third party advertising networks who advertise on our website
+for a full and maintained list of our partners, please click here
+we may share your personal data during the course of business negotiations and transactions (for example, an acquisition, merger or financing) to the extent necessary to facilitate the restructuring
+where required by law
+we may share your personal data with law enforcement agencies, courts, other government authorities or other third parties where we believe necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party
+we use third party service providers to assist us with the following
+to monitor and analyse web traffic, to assess the popularity of specific pages and to keep track of your behaviour when using our services
+to monitor the use and behaviour of our services’ components so that performance, maintenance and troubleshooting can be improved
+traffic optimisation and distribution
+to allow the services to distribute their content using servers located across different countries and optimise their performance
+content performance and features testing
+to track and analyse your responses in relation to web traffic or behaviour regarding changes to the structure, text or any other component of the services
+hosting and backend infrastructure
+to host data and files that enable the services to run and be distributed, as well as to provide a ready-made infrastructure to run specific features or parts of the services
+managing contacts and sending messages
+to manage our database of contact information to communicate with you, and also to collect information relating to your interaction with such communications
+to build user profiles using personal data you provide to us, as well as to track your activities through analytics features
+in the case of business representatives
+we may also match the personal data you provide with publicly available information about you to build private profiles that we use for user support operations and for improving our services
+where we might send your data
+your personal data may be transferred to and processed in a country that is not regarded as providing the same level of protection for personal data as the laws of your home country, including, for example and without limitation to the united kingdom and the united states
+where possible, we have sought to put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to provide adequate protections for your personal data
+for more information on the appropriate safeguards in place and to obtain a copy of such safeguards, please contact us at the contact information set out below
+how we keep your data secure
+we engage google cloud to store your personal data within the european economic area (“ eea “)
+we have also implemented appropriate technical and organisational controls to ensure that your personal data are processed securely, such as encryption and authentication during transfer
+however, no method of transmission over the internet or of electronic storage is fully secure, and as such, we cannot guarantee its absolute security
+further information on how we keep your personal data secure can be found in our security policy
+your rights over your personal data
+you can withdraw any consent you have given us at any time and we will stop using your data for the purpose that consent was granted
+you can also contact us at any time to request
+access to any personal data we hold about you
+that personal data we hold about you be updated, rectified or blocked
+that we delete personal data we hold about you
+that we restrict our processing of your personal data
+that we provide you or a third party with a copy of certain personal data about you (referred to as the right of “data portability”)
+that you object to the processing of personal data we hold about you
+there may be situations where it is not possible for us to grant you these rights or we are not required by law to do so
+for example, where restricting the processing of your personal data would impede a criminal investigation
+as such, the rights described in the bullet points above are not absolute
+if you have questions or concerns regarding the way in which your personal data has been used, please contact our data protection officer, nick holzherr, at hi@whisk
+you can also contact us by post at
+nick holzherr – data protection officer
+we are committed to working with you to obtain a fair resolution of any complaint or concern about your privacy
+if, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to the data protection regulator of your country of residence
+changes to the policy
+we may modify or update this privacy notice from time to time
+if we make any revisions that materially change the ways in which we process your personal data, we will notify you of these changes by email
+additional california consumer privacy disclosures
+this california consumer privacy statement (the “statement”) supplements the whisk privacy policy
+it applies solely to california consumers and addresses personal information we collect online and offline
+this statement uses certain terms that have the meaning given to them in the california consumer privacy act of 2018 and its implementing regulations (the “ccpa”)
+notice to california residents
+notice of collection and use of personal information
+we may collect the following categories of personal information about you
+identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier
+cookies, beacons, pixel tags, mobile ad identifiers and similar technology
+customer number, unique pseudonym, or user alias
+telephone number and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, account name, and other similar identifiers protected classifications
+such as characteristics of protected classifications under california or federal law, such as age and sex commercial information
+commercial information, including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies biometric information
+such as such as keystroke patterns or rhythms, voice recordings, an individual’s behavioral characteristics, or other data used to establish individual identity online activity
+internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements geolocation data
+such as precise physical location or movements and travel patterns sensory information
+audio, electronic, visual, and similar information inferences
+inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes
+how we use your data is described in the whisk privacy policy
+we may also use the categories of personal information listed above for certain business or commercial purposes, as described in this list
+performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, providing advertising or marketing services, providing analytics services, or providing similar services
+auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+debugging to identify and repair errors that impair existing intended functionality
+undertaking internal research for technological development and demonstration
+and undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+prior collection, use and disclosure of personal information
+we may have collected and used your personal information, as described in section 1 above, during the 12-month period prior to the effective date of this statement
+for the personal information collected during that timeframe, we describe below
+(a) the categories of sources from which we may have obtained the personal information, (b) the categories of personal information we may have sold, and (c) the categories of personal information we may have disclosed for a business purpose
+sources of personal information
+where we may have obtained your data is described in the whisk privacy policy
+we may have also obtained personal information about you from various other sources, including
+from you or your devices, for example, through your use of our services (both via our website and applications and via the websites of our partners who have integrated our platform
+our affiliates and subsidiaries
+government entities and other public sources
+operating systems and platforms
+data brokers and other data providers
+credit agencies or bureaus
+vendors who provide services on our behalf
+and online advertising companies
+sale of personal information
+we may allow certain third parties (such as advertising partners) to collect your personal information
+you have the right to opt out of this disclosure of your information, as detailed below
+under the ccpa, a “sale” means providing personal information to a third party for valuable consideration, which may include several forms of common sharing practices
+it does not necessarily mean money was exchanged for the transfer of such personal information
+the following table lists the categories of personal information we may have “sold” during the 12-month period prior to the effective date of this statement and the categories recipients
+category of personal information sold categories of recipients identifiers customer records internet usage information inferences derived from personal information our affiliates and subsidiaries
+vendors who provide services on our behalf
+professional services organizations, such as auditors and law firms
+our joint marketing partners
+operating systems and platforms
+disclosure of personal information for a business purpose
+the following table lists the categories of personal information we may have disclosed for a business purpose in the past 12 months and the categories of recipients
+category of personal information disclosed for a business purpose categories of recipients identifiers customer records personal characteristics or traits customer account details / commercial information internet usage information geolocation data inferences derived from personal information our affiliates and subsidiaries
+vendors who provide services on our behalf
+professional services organizations, such as auditors and law firms
+our joint marketing partners
+operating systems and platforms
+california consumer privacy rights
+effective as of january 1, 2020, california consumers have certain choices regarding our use and disclosure of personal information, as described below
+you have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed and sold about you during the past 12 months
+you have the right to request that we delete certain personal information we have collected from you
+note that we are not required to delete personal information that is needed for a number of purposes
+you have the right to opt-out of the sale of your personal information
+you have the right to non-discrimination based on the exercise of your privacy rights
+shine the light request
+you also may have the right to request that we provide you with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (2) the identity of those third parties
+whisk does not share personal information with third parties for their own direct marketing purposes without your consent or without giving you an opportunity to opt out of such sharing
+how to submit a request
+to submit an access or deletion request, a shine the light request, or to opt-out of the sale of your personal information, email us at hi@whisk
+in your email please let us know if you have a whisk account as well as any email accounts that may be associated with your personal information
+to help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request
+if you have a whisk account, we may verify your identity by requiring you to sign in to your account
+if you do not have a whisk account, or an email address or phone number on file with us, or if the information you provide does not match what is in our records, then we may not be able to process your request, as there is no reasonable method by which we can verify your identity to the level of certainty required by the ccpa
+accordingly, if you do not have an account with us, or an email address on file, and you request access to or deletion of your personal information, we may not be able to process your request at this time
+if you are an authorized agent or parent/guardian making a request on behalf of a consumer or your child, we may require and request additional information to verify that you are authorized to make that request
+to the extent permitted by applicable law, we may charge a reasonable fee to comply with your request
+we reserve the right to deny your request if we cannot verify your identity or an exemption applies
+in addition, depending on the nature of your request and the risk of fraud, we may not be able to fulfill it
+where we deny your request in whole or in part, we will inform you of the denial, provide an explanation of our actions, and the reason(s) for the denial
+in the event your request is incomplete or deficient, we will endeavor to inform you how it may be corrected
+california law requires us to let you know how we respond to web browser do not track (dnt) signals
+do not track (“dnt”) features that allow you to tell a website not to track you
+because there currently is not an industry or legal standard for recognizing or honoring dnt signals, we do not respond to them at this time
+do not sell my data
+for users how it works
+for business whisk for business
+for developers developer docs + tools

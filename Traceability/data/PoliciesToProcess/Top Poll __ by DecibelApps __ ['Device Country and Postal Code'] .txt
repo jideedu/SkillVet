@@ -1,0 +1,76 @@
+com privacy policy last modified
+this privacy policy of pollyapps llc, which provides the website and services under decibelapps
+com, referred as “we” or “us”, describes our data collection, processing and usage practices of your information when you use our websites, software and services (“services”)
+the terms “you” or “your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices
+we strictly limit use of our services to individuals over 13 years of age under any circumstances
+we do not knowingly seek or collect any personal information or data from persons who have not attained this age
+in consideration of your use of our services, you represent that you are of legal age to form a binding contract and are not a person barred from receiving the services under the laws of the united states or other applicable jurisdiction
+what personal information we collect and why
+when you browse, or use our website, we may collect and record your ip address, country of origin and other non-personal information about your computer or device such as browser type, version, time zone setting, browser plug-in types, versions, browser language, web requests, referring url and operating system etc
+we may collect more information if we suspect any misuse or as per official request by law enforcement
+the information we collect is primarily used to provide personalized contents and to improve our services
+we receive, collect and store any information you enter on our website or give us in any other way, including third-party account linking to use our services
+the information we collect includes your name, email address, company, job role, message and account activity
+other information such as phone number and physical address may be stored as well if provided as part of contacting us with questions, complaints, feedback or for any other reasons
+we may collect information related to how you use our website (videos and articles that you view, content search, page visit etc
+) and services, including actions you take in your account (number and frequency of file uploads, editing, viewing, time duration etc
+if you are a registered member, we may associate the relevant information with your account
+our services offers customization and or personalization feature to create your own content, messages and upload audio files
+to make that possible, we store, process, and transmit your information like files, messages, comments as well as information related to it
+all your data which includes your personal information, emails, the files, messages, contents etc
+, are stored and hosted by third-party service providers
+to provide you with the services, we or our third-party service providers may store, process and transmit information in the united states and locations around the world
+cookies and other technologies
+we may use technologies like cookies, both session and persistent, to provide, improve, protect and promote our services
+cookies are small files that a website or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information
+all the personal data described above is recorded on restricted database and storage servers hosted by third-party
+while we strive to use appropriate and robust security measures to protect your personal data, we cannot guarantee its absolute security
+please remember that no method of transmission over the internet, or method of electronic storage, is 100% secure
+our alexa skills, google actions, and other services may convert your voice responses to text for the service to work and for data collection purpose
+your continued participation or use of our alexa skills and related servies in this serves as express consent to be recorded
+we may use your information to provide you with certain features and to create a personalized experience on the services
+we may also use that information to operate, maintain and improve features and functionality of the services
+we may use your e-mail address to send commercial, marketing messages or product updates
+we may use your information and feedbacks to run promotions, contests, surveys, reviews, ratings and other features and events throughout the world in any media
+we may also use your e-mail for non-marketing or administrative purposes
+we use cookies to help us to recognize your browser and capture and remember certain information like remembering your username for your next visit, understanding your interactions with our services, your preferences based on previous or current site activity, provide personalized content and information, and monitor the effectiveness of the services
+we also use cookies to help us compile aggregate data about site traffic and site interaction (including visitors from affiliates) so that we can offer better site experiences and tools in the future
+they may also be used to provide targeted advertising based on your location, interest and other personal information
+you can set your browser to not accept cookies, but this may limit your ability to use the services
+cancellation or deactivation of accounts
+if you would like to request the cancellation or deactivation of your account, you should contact our support team for assistance by emailing to support@decibelapps
+com with subject “attn
+cancellation or deactivation of your account does not ensure complete or comprehensive removal of the content or information you may have posted or otherwise made available on the services while you were a registered user
+retention and recovery of your registration data and other information
+we will retain and use your registration data, account and service activities and the other information we collect about you for as long as your account is active or as needed to provide you the services
+we will retain and use this information for the purposes for which it was collected (as specified in this policy or terms agreement), including, to provide the services to you, comply with our legal obligations, resolve disputes, and enforce our agreements
+we may remove or delete your data as deemed fit to comply with the law, enforce our site and service policies and terms, or protect ours or others’ rights, property or safety
+though we take necessary measures to prevent data loss, we cannot guarantee recovery of your data in any circumstances
+the website and service allows you to delete or remove your data (files, message and content) which will be non-recoverable
+please be advised that there might be some latency in deleting this information from our servers and back-up storage
+we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice
+this does not include website and service hosting providers and other parties who assist us in hosting and operating our website, services, conducting our business, promoting our business, or serving our users, so long as those parties agree to keep this information confidential
+we may be required to release certain data to comply with legal obligations or to enforce our terms of use and other agreements
+we may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety
+however, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses
+if you upload any illegal material to the service, or you are suspected of doing such, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you
+miscellaneous while we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us
+any information or content you transmit to us is done at your own risk
+users can visit our site anonymously
+our privacy policy link will be on our home page or as a minimum, on the first significant page, which might be account/user linking or registration page
+our privacy policy link includes the word ‘privacy’ and can easily be found on the page specified above
+you will be notified of any privacy policy changes through our privacy policy page
+occasionally, at our discretion, we may include or offer third-party products or services on our website
+these third-party sites have separate and independent privacy policies
+we therefore have no responsibility or liability for the content and activities of these linked sites
+nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites
+important information changes to this privacy policy
+we may update this privacy policy from time to time by posting a new version online
+you should check this page occasionally to review any changes
+if we make any material changes we will notify you by posting the revised privacy policy on our websites
+your continued use of the websites, the service, and/or continued provision of personal information to us will be subject to the terms of the then-current privacy policy
+if you have any questions about this privacy policy or our treatment of the information you provide us, please write to us by email at legal@decibelapps
+com with subject attn
+copyrights © 2019 decibelapps
+we use cookies to ensure that we give you the best experience on our website
+if you continue to use this site we will assume that you are happy with it

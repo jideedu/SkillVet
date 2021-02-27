@@ -1,0 +1,4 @@
+the triage skill does not store any personally identifiable information
+com or office 365 security information is handled only by the amazon alexa or google assistant services and not stored by the skill
+we track usage information to improve the skill and your preferences
+feedback on the skill or this policy can be sent to gcaldwell@hypermoose

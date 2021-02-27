@@ -1,0 +1,2 @@
+verified tweets skill does not ask for personal info or purchase option
+users just need to login into our system to get recognised

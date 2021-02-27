@@ -1,0 +1,264 @@
+this privacy policy aims to inform you about the data processing in connection with your use of our miele@home system, miele application and miele skills for amazon alexa and related services
+the processing of personal data takes place exclusively within the framework of the respective valid legal data protection regulations, in particular the general data protection regulation (hereinafter referred to as "gdpr")
+in accordance with art
+4 (1) gdpr, “personal data” means any information relating to an identified or identifiable natural person (hereinafter referred to as the “data subject”
+a natural person is considered as being identifiable, directly or indirectly, in particular by means of an identifier such as a name, an identification number, location data, an online identifier or one or more special characteristics expressing the physical, physiological, genetic, mental, economic, cultural or social identity of this natural person
+the controller within the meaning of art
+4 (7) gdpr is
+3	data protection officer
+you can contact our data protection officer at the postal address listed under 1
+2 or by sending an e-mail to
+our miele@home system connects your intelligent home appliances and allows you to manage your intelligent home appliances via miele apps and miele skills for amazon alexa
+before using miele@home for the first time, you need a miele account
+if you do not have a miele account yet, you can create one using the miele apps
+if you network an intelligent household appliance, it will then be linked to your miele account
+the following data are processed in connection with the use of our miele@home system
+customer number and miele account
+functional characteristics of the appliances and appliance master data
+personally identifiable features for telecommunications
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by miele@home, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, appliance usage data will be evaluated in a pseudonymous manner so that our products, systems and services can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of the products, systems and services justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+for our miele@home system, we offer various software applications for mobile devices (hereinafter referred to as "miele apps"), which process your usage data
+these data are processed in addition to that already processed by the use of the miele@home system
+when registering or setting up the miele apps, the following data are processed
+your registration data, e
+name, e-mail address (mandatory data are marked as such)
+customer number and miele account
+functional characteristics of the appliances and appliance master data
+when using the miele apps, the following additional data are processed
+personally identifiable features for telecommunications
+to be able to use miele apps comprehensively, certain system permissions are required, in particular, but without limitation the system permission “location” (which is required to find your intelligent home appliances in your wifi network and to pair your home appliance with the miele app)
+at the beginning of the use of the app and/or only when using the respective function, you will be requested to grant the corresponding authorisations
+please note, however, that proper use of the app requires access to certain features of your mobile device (smartphone or tablet) and access to your personal data, including for security reasons
+miele apps are available in so-called app stores (google play store and apple app store) operated by third parties
+the download of an app usually requires prior registration at the respective app store
+we have no influence on the personal data processed in this context
+the responsible body is in this context solely the operator of the respective app store
+further information can be found in the privacy policy on your respective app store
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by the respective app, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, app usage data will be evaluated in a pseudonymous manner so that miele apps can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of miele apps justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+certain miele apps can have a video feature that allows video recordings to be streamed live from a miele home appliance to your mobile device
+the live video will only be shown in the miele app and will not be saved
+when using the video function, the privacy and the highly personal sphere of life of third parties must be respected
+the video-capable miele device should therefore be used only in your own premises and any persons present be informed about the video function of you in advance
+2	use of our offers at alexa skills
+if you use miele skills for amazon alexa (hereinafter referred to as "miele skills") in connection with a miele@home product, the following data will be collected and processed
+these data are processed in addition to that already processed by the use of the miele@home system
+customer number and miele account
+serial number of the appliance(s)
+functional characteristics of the appliances
+personally identifiable features for telecommunications
+alexa skills usage data
+appliance status of the miele home appliance
+these data are processed in addition to that already processed by the use of the miele@home system
+if you use miele skills in connection with a miele app, please read the privacy policy for miele apps
+miele uses the services of amazon europe core s
+l, 5, rue plaetis, l-2338 luxembourg to provide miele skills
+the miele skill is available at the amazon alexa skill store, which is powered by amazon
+activation of miele skills and general use of amazon alexa usually requires prior registration with amazon
+we have no influence on the personal data collected, processed and used in this context
+the responsible body is in this context solely amazon
+the amazon privacy policy can be found at https
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by miele skills, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, the usage data of alexa skills are evaluated anonymously so that our miele skills can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of miele skills justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+if and insofar as you have given us your consent for advertising purposes, e
+you have signed up to the e-mail newsletter, the data processing required in the context of establishing contact takes place on the legal basis of your consent, art
+6 (1) (a) gdpr
+you may revoke your consent to us at any time with effect for the future (e
+by using the unsubscribe link included in the e-mail)
+it might be possible that commercial communication will be provided through our external service providers
+these service providers act as instruction-bound processors for us
+contact and customer service
+our miele apps and miele skills provide different ways that allow you to contact us
+if you use these and contact us e
+by e-mail, we will process the data you provided to us in order to answer your request
+we have a legitimate interest in answering your enquiries
+the legal basis for the data processing is art
+(6) (1) (f) gdpr
+if the purpose of your request is to conclude a contract, the legal basis is art
+6 (1) (b) gdpr
+when contacting us, data transmitted to us will be deleted after completion of your request, provided and insofar as we are not obliged to store it for reasons based on commercial and tax law
+analysis and targeting tools
+on our miele apps, we use various services provided by google llc, 1600 amphitheater parkway, mountain view, ca 94043, usa (hereinafter referred to as "google")
+for more information about google services please visit http
+our miele apps use google analytics for the needs-oriented design and improvement of the miele apps
+google analytics uses so-called cookies that are stored on your terminal and that allow an analysis of the use of the miele apps by you
+the information generated by the cookie is usually transmitted to a google server in the us and stored there
+we use the extension of ip anonymisation (referred to as ip masking) on this website, i
+your ip address is shortened by google within member states of the european union or in the other states that are party to the agreement on the european economic area
+only in exceptional cases will the full ip address be sent to a google server in the us and shortened there
+on behalf of the operator of the miele apps, google will use this information to evaluate your use of the miele apps, to compile reports on miele apps activity and to provide other services related to miele app activity and internet usage to the website operator
+the legal basis for the data processing is art
+(6) (1) (f) gdpr
+you may object to the collection or analysis of your data by google analytics by deactivating the function google analytics in the settings of the miele apps
+the data sent by us and linked to cookies, user identifiers (e
+user id) or advertising ids will be automatically deleted after 14 months
+for more information about the google analytics terms and conditions, visit https
+data subjects have various rights under gdpr
+these include in particular
+15 gdpr, you can request a confirmation as to whether personal data concerning you is being processed by us
+if such processing is available, you may also request further information about the processing from us
+in accordance with art
+16 gdpr, you are entitled to rectification and/or completion if the processed personal data concerning you is incorrect or incomplete
+right to restriction of processing
+you may request, pursuant to art
+18 gdpr, that the processing of your personal data be restricted
+17 gdpr, you also have the right under certain circumstances to demand the deletion of your personal data stored about you
+right to data portability
+in accordance with art
+20 gdpr, you are also entitled to receive the personal data that you have provided in a structured, common and machine-readable format and to transmit it without any obstruction from us to another controller
+you have the right to complain about the handling of your personal data by the data protection authority responsible for you or us
+if your personal data on the basis of legitimate interests are processed pursuant to art
+6(1)(f) gdpr, you have the right to object to the processing of your personal data in accordance with art
+21 gdpr, provided there are reasons for this arising from your particular situation or if your objection is based on being targeted to personal advertising
+in the latter case, you have a general right of objection, which is implemented by us without any particular situation being specified
+this privacy policy aims to inform you about the data processing in connection with your use of our miele@home system, miele application and miele skills for amazon alexa and related services
+the processing of personal data takes place exclusively within the framework of the respective valid legal data protection regulations, in particular the general data protection regulation (hereinafter referred to as "gdpr")
+in accordance with art
+4 (1) gdpr, “personal data” means any information relating to an identified or identifiable natural person (hereinafter referred to as the “data subject”
+a natural person is considered as being identifiable, directly or indirectly, in particular by means of an identifier such as a name, an identification number, location data, an online identifier or one or more special characteristics expressing the physical, physiological, genetic, mental, economic, cultural or social identity of this natural person
+the controller within the meaning of art
+4 (7) gdpr is
+3	data protection officer
+you can contact our data protection officer at the postal address listed under 1
+2 or by sending an e-mail to
+our miele@home system connects your intelligent home appliances and allows you to manage your intelligent home appliances via miele apps and miele skills for amazon alexa
+before using miele@home for the first time, you need a miele account
+if you do not have a miele account yet, you can create one using the miele apps
+if you network an intelligent household appliance, it will then be linked to your miele account
+the following data are processed in connection with the use of our miele@home system
+customer number and miele account
+functional characteristics of the appliances and appliance master data
+personally identifiable features for telecommunications
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by miele@home, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, appliance usage data will be evaluated in a pseudonymous manner so that our products, systems and services can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of the products, systems and services justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+for our miele@home system, we offer various software applications for mobile devices (hereinafter referred to as "miele apps"), which process your usage data
+these data are processed in addition to that already processed by the use of the miele@home system
+when registering or setting up the miele apps, the following data are processed
+your registration data, e
+name, e-mail address (mandatory data are marked as such)
+customer number and miele account
+functional characteristics of the appliances and appliance master data
+when using the miele apps, the following additional data are processed
+personally identifiable features for telecommunications
+to be able to use miele apps comprehensively, certain system permissions are required, in particular, but without limitation the system permission “location” (which is required to find your intelligent home appliances in your wifi network and to pair your home appliance with the miele app)
+at the beginning of the use of the app and/or only when using the respective function, you will be requested to grant the corresponding authorisations
+please note, however, that proper use of the app requires access to certain features of your mobile device (smartphone or tablet) and access to your personal data, including for security reasons
+miele apps are available in so-called app stores (google play store and apple app store) operated by third parties
+the download of an app usually requires prior registration at the respective app store
+we have no influence on the personal data processed in this context
+the responsible body is in this context solely the operator of the respective app store
+further information can be found in the privacy policy on your respective app store
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by the respective app, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, app usage data will be evaluated in a pseudonymous manner so that miele apps can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of miele apps justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+certain miele apps can have a video feature that allows video recordings to be streamed live from a miele home appliance to your mobile device
+the live video will only be shown in the miele app and will not be saved
+when using the video function, the privacy and the highly personal sphere of life of third parties must be respected
+the video-capable miele device should therefore be used only in your own premises and any persons present be informed about the video function of you in advance
+2	use of our offers at alexa skills
+if you use miele skills for amazon alexa (hereinafter referred to as "miele skills") in connection with a miele@home product, the following data will be collected and processed
+these data are processed in addition to that already processed by the use of the miele@home system
+customer number and miele account
+serial number of the appliance(s)
+functional characteristics of the appliances
+personally identifiable features for telecommunications
+alexa skills usage data
+appliance status of the miele home appliance
+these data are processed in addition to that already processed by the use of the miele@home system
+if you use miele skills in connection with a miele app, please read the privacy policy for miele apps
+miele uses the services of amazon europe core s
+l, 5, rue plaetis, l-2338 luxembourg to provide miele skills
+the miele skill is available at the amazon alexa skill store, which is powered by amazon
+activation of miele skills and general use of amazon alexa usually requires prior registration with amazon
+we have no influence on the personal data collected, processed and used in this context
+the responsible body is in this context solely amazon
+the amazon privacy policy can be found at https
+the legal basis for the processing of the data is the consent required by art
+6 (1) (a) gdpr
+insofar as the processing of the data is required to fulfil the services offered by miele skills, the legal basis for this is additionally art
+6 (1) (b) gdpr
+furthermore, the usage data of alexa skills are evaluated anonymously so that our miele skills can be continuously optimised
+the legal basis for this is art
+6 (1) (f) gdpr, whereby the optimisation of miele skills justifies our legitimate interest
+the data are stored by us only as long as it is necessary for the fulfilment of the respective purpose or until you withdraw your consent to process your personal data, unless otherwise provided for by the applicable legislation
+if and insofar as you have given us your consent for advertising purposes, e
+you have signed up to the e-mail newsletter, the data processing required in the context of establishing contact takes place on the legal basis of your consent, art
+6 (1) (a) gdpr
+you may revoke your consent to us at any time with effect for the future (e
+by using the unsubscribe link included in the e-mail)
+it might be possible that commercial communication will be provided through our external service providers
+these service providers act as instruction-bound processors for us
+contact and customer service
+our miele apps and miele skills provide different ways that allow you to contact us
+if you use these and contact us e
+by e-mail, we will process the data you provided to us in order to answer your request
+we have a legitimate interest in answering your enquiries
+the legal basis for the data processing is art
+(6) (1) (f) gdpr
+if the purpose of your request is to conclude a contract, the legal basis is art
+6 (1) (b) gdpr
+when contacting us, data transmitted to us will be deleted after completion of your request, provided and insofar as we are not obliged to store it for reasons based on commercial and tax law
+analysis and targeting tools
+on our miele apps, we use various services provided by google llc, 1600 amphitheater parkway, mountain view, ca 94043, usa (hereinafter referred to as "google")
+for more information about google services please visit http
+our miele apps use google analytics for the needs-oriented design and improvement of the miele apps
+google analytics uses so-called cookies that are stored on your terminal and that allow an analysis of the use of the miele apps by you
+the information generated by the cookie is usually transmitted to a google server in the us and stored there
+we use the extension of ip anonymisation (referred to as ip masking) on this website, i
+your ip address is shortened by google within member states of the european union or in the other states that are party to the agreement on the european economic area
+only in exceptional cases will the full ip address be sent to a google server in the us and shortened there
+on behalf of the operator of the miele apps, google will use this information to evaluate your use of the miele apps, to compile reports on miele apps activity and to provide other services related to miele app activity and internet usage to the website operator
+the legal basis for the data processing is art
+(6) (1) (f) gdpr
+you may object to the collection or analysis of your data by google analytics by deactivating the function google analytics in the settings of the miele apps
+the data sent by us and linked to cookies, user identifiers (e
+user id) or advertising ids will be automatically deleted after 14 months
+for more information about the google analytics terms and conditions, visit https
+data subjects have various rights under gdpr
+these include in particular
+15 gdpr, you can request a confirmation as to whether personal data concerning you is being processed by us
+if such processing is available, you may also request further information about the processing from us
+in accordance with art
+16 gdpr, you are entitled to rectification and/or completion if the processed personal data concerning you is incorrect or incomplete
+right to restriction of processing
+you may request, pursuant to art
+18 gdpr, that the processing of your personal data be restricted
+17 gdpr, you also have the right under certain circumstances to demand the deletion of your personal data stored about you
+right to data portability
+in accordance with art
+20 gdpr, you are also entitled to receive the personal data that you have provided in a structured, common and machine-readable format and to transmit it without any obstruction from us to another controller
+you have the right to complain about the handling of your personal data by the data protection authority responsible for you or us
+if your personal data on the basis of legitimate interests are processed pursuant to art
+6(1)(f) gdpr, you have the right to object to the processing of your personal data in accordance with art
+21 gdpr, provided there are reasons for this arising from your particular situation or if your objection is based on being targeted to personal advertising
+in the latter case, you have a general right of objection, which is implemented by us without any particular situation being specified

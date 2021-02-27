@@ -1,0 +1,20 @@
+0 - updated october 2018
+introduction the purpose of this privacy policy is to describe how the veterans health alexa skill collects and uses information about you
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information in accordance with our alexa skill
+our privacy policy explains
+information we collect and why we use it
+how we use your information
+security of your information
+relationship to the department of veterans affairs
+questions and how contact us
+information we collect and why we use it we collect address information from you when you use the skill
+this may include your full address, a 3rd party address, or a combination of city, state, and zipcode
+we do not store any address information you provide with us and it is immediatley discarded after the skill returns a result to you, the user
+how we use your information we use address information to find the closest, open, veterans health facility
+you can provide your full street address, or as little as a zip code, to find local va facilities
+security of your information we do not have access to, or store, your personal information collected in our skill
+we do not have access to any of our veterans health information, and the address supplied by you for searching local va facilities is not stored by the skill
+relationship to the department of veterans affairs this skill utilizes the veterans administrations public api, available here on the va developer portal
+this product is not affiliated with, endorsed by, or supported by the department of veterans affairs
+more about same-day care by the va here
+question / contact us if you have any questions, concerns, or suggestions regarding this privacy policy please contact us at vahealthalexa@gmail

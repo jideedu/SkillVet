@@ -1,0 +1,168 @@
+build it for you
+build it for you
+, (collectively “voicexp”, “we”, “us” or “our”), cares about your privacy and data protection
+we recommend that you carefully review this privacy and cookies policy
+by accessing and using the website or any voice experiences developed on the voicexp voice experience ® platform, you represent and warrant that you have read and understood, and that you agree to be bound by, this privacy policy
+what personal data do we collect
+personal data provided to us
+when using the alexa skill, google action, or samsung bixby developed by the voicexp voice experience ® platform, users may provide us with personal data, personal data includes all personally identifiable information (pii) and data that directly or indirectly identifies them such as their name, email address, phone number and location data
+users control how much information they provide to us
+to use our voice experiences users may provide us with their email, username and password to your service
+we may also receive this information from the voice user interface so we can pre-populate certain fields in the voice experience
+when using the voice experience users can also decide to create social profiles that display their name, job title, company, links to their social profiles (facebook, twitter and linkedin) and activity
+in addition, they can fill out a free form “about me” voice responses to provide additional information about themselves as well as respond to notifications, comments, survey/poll responses and any other voice experience related functions or features that may be available to them
+it is up to users how much additional information they want to share with us, the marketer and the other users
+if you are a marketer you may also provide us with conference agendas, customer lists, partner lists and other information
+personal data we collect through your use of our skill or website we collect limited personal data from you through your use of our skill or website
+the only personal data we actively collect from you beyond that which you have provided through registration are your ip address, access point, operating system and the time and date on which you visited the skill or website
+in addition, we may also track your usage of the skill for statistical and research purposes by means of cookies
+for what purpose do we process your personal data
+we process your personal data for the following purposes
+providing you with information about the skill that you are engaging
+enabling skill features such as “drop-ins”, lead generation, scheduling, surveys/polls, messaging, channels, agenda sessions, partners, recommendations, targeting and locations
+prepopulating skill fields such as preferences, user lists, partner lists and location information
+showing your skill activity on the activity feeds in the skill performance analytics
+for analytics and market research purposes to improve our services, develop new products and launch services for other purposes
+sending emails, sms text messages, or push notifications in relation to the skill
+processing complaints, handling disputes, performing audits and meeting statutory requirements
+with whom do we share your personal data
+our principle is that we do not share your personal data with third parties, unless we have a good reason to do so
+marketers we may share your information with the user or their authorized agents
+in accordance with our legal obligations we enter into agreements with marketers to safeguard the protection of your personal data
+also, we recommend that you read and review the privacy policy carefully to ensure you are fully aware of all the purposes for which your data is being processed
+users in addition, other users of the skill will be able to see limited information such as your profile and activity
+apart from your first and last name, we do not actively share your personal data with attendees
+the only information that is visible to users is the information you decide to actively share on the skill page in the skill store of the skill
+partners we may share your information with partners if you either click on “more information” on the partner dashboard, if you allow the partner to collect your contact information within the skill, if you click consent on a voice authenticated confirmation in the skill or click to consent to receive partner offers tailored to your profile in the skill store
+we might use data processors to handle complaints or send newsletters on our behalf or share information with third parties if you have explicitly provided your consent to such data sharing
+in accordance with our legal obligations, we conclude processing agreements with the third parties we use
+we may provide your personal data to third parties in order to meet a legal obligation or court order
+when transferring personal data outside the european economic area we enter into eu standard contractual clauses to comply with our legal obligations
+in addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign
+security of your personal information in accordance with the applicable laws and regulations, we have taken adequate technical and organizational measures to safeguard the security of your personal information
+we store the personal information that we process on a secure database that is protected by technical access controls
+please be advised that while we strive to protect your personally identifiable data, we make no guarantees or assurances about our ability to prevent any such loss, access or misuse and are not responsible in the event that such loss or misuse occurs
+what are your rights
+based on the dutch data protection act (wet bescherming persoonsgegevens) and similar local laws that pertain to the countries in which our companies have nexus, you may request to review, change or remove your personal data
+you can submit such substantiated request – including your full name – to us per email to legal@voicexp
+we will contact you within thirty (30) business days after receipt of a request to review, change or remove your personal data
+cookies and similar technologies we use cookies and web beacons in our skills and on our website
+a cookie is a small text file that is delivered with pages from the skill or website and which is stored by your browser on the hard drive of your computer or on your smartphone or voice activated device
+cookies have various functions, for example a cookie can store your language preferences or password
+web beacons are electronic files invisibly embedded on web pages or in email to permit us to track online movements of web users
+cookies and web beacons do not usually contain any information that could personally identify you
+at this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted
+additional information and contacts children under the age of 13
+our services are directed to the general public
+we do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our website or using our services
+if we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible
+if you believe that we might have any information from a child under age 13, or if you are a california resident under the age of 18 and you wish to remove publicly available content, please contact us at privacy@voicexp
+com or the mailing address in this policy
+california privacy rights california civil code section 1798
+83 permits our users who are california residents to request and obtain from us, once a year, free of charge, information about the personal information we disclosed to third parties for direct marketing purposes in the preceding calendar year
+if you are a california resident and would like to make such a request, please submit your request to us in writing
+we will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law
+if required by law, as is the case to comply with the children’s online privacy protection act (coppa), we will nullify such personal information by erasing it from our database
+if you have questions about the use of your personal data, please contact us at
+and its subsidiaries attn
+voicexp legal department po box 251 bunker, mo 63043 usa
+we use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device for a set period of time or until you delete them)
+we use the following types of cookies for the purposes explained in this chart
+these cookies are necessary in order for you to move around the service as you request
+it allows us to recognize what type of user, partner, or other subscriber you are so that we can then accordingly provide services
+these cookies allow us to use certain features of the service in accordance with the choices that you make
+these cookies mean that if you continue to use the services or return to the services, we can then provide services tailored for you based on the choices you have made or asked us to hold like your username or your customizations
+we use performance cookies to help us provide a better user experience for you based on optimizing the services and constantly optimizing the features and performance
+we may also obtain information from features that you open or access or click on
+this information tells us about the effectiveness of certain features and helps ensure that the content and features we provide are optimized for your interests
+we can allow our business partners to use cookies on or the service as indicated for the same purposes as we provide you with services, including gathering information about your online and in app activities over time and across our services
+we can also use service providers acting on our behalf to use cookies for the purposes described above
+don’t wait to get started
+join the thousands of businesses who are using voice to connect to customers now
+without a voicexp’s voice experience® platform, your business can’t easily connect to your customers on amazon alexa, google assistant, microsoft cortana, or samsung bixby
+we can solve that immediately
+talk to a real human right now
+build it for you
+build it for you
+, (collectively “voicexp”, “we”, “us” or “our”), cares about your privacy and data protection
+we recommend that you carefully review this privacy and cookies policy
+by accessing and using the website or any voice experiences developed on the voicexp voice experience ® platform, you represent and warrant that you have read and understood, and that you agree to be bound by, this privacy policy
+what personal data do we collect
+personal data provided to us
+when using the alexa skill, google action, or samsung bixby developed by the voicexp voice experience ® platform, users may provide us with personal data, personal data includes all personally identifiable information (pii) and data that directly or indirectly identifies them such as their name, email address, phone number and location data
+users control how much information they provide to us
+to use our voice experiences users may provide us with their email, username and password to your service
+we may also receive this information from the voice user interface so we can pre-populate certain fields in the voice experience
+when using the voice experience users can also decide to create social profiles that display their name, job title, company, links to their social profiles (facebook, twitter and linkedin) and activity
+in addition, they can fill out a free form “about me” voice responses to provide additional information about themselves as well as respond to notifications, comments, survey/poll responses and any other voice experience related functions or features that may be available to them
+it is up to users how much additional information they want to share with us, the marketer and the other users
+if you are a marketer you may also provide us with conference agendas, customer lists, partner lists and other information
+personal data we collect through your use of our skill or website we collect limited personal data from you through your use of our skill or website
+the only personal data we actively collect from you beyond that which you have provided through registration are your ip address, access point, operating system and the time and date on which you visited the skill or website
+in addition, we may also track your usage of the skill for statistical and research purposes by means of cookies
+for what purpose do we process your personal data
+we process your personal data for the following purposes
+providing you with information about the skill that you are engaging
+enabling skill features such as “drop-ins”, lead generation, scheduling, surveys/polls, messaging, channels, agenda sessions, partners, recommendations, targeting and locations
+prepopulating skill fields such as preferences, user lists, partner lists and location information
+showing your skill activity on the activity feeds in the skill performance analytics
+for analytics and market research purposes to improve our services, develop new products and launch services for other purposes
+sending emails, sms text messages, or push notifications in relation to the skill
+processing complaints, handling disputes, performing audits and meeting statutory requirements
+with whom do we share your personal data
+our principle is that we do not share your personal data with third parties, unless we have a good reason to do so
+marketers we may share your information with the user or their authorized agents
+in accordance with our legal obligations we enter into agreements with marketers to safeguard the protection of your personal data
+also, we recommend that you read and review the privacy policy carefully to ensure you are fully aware of all the purposes for which your data is being processed
+users in addition, other users of the skill will be able to see limited information such as your profile and activity
+apart from your first and last name, we do not actively share your personal data with attendees
+the only information that is visible to users is the information you decide to actively share on the skill page in the skill store of the skill
+partners we may share your information with partners if you either click on “more information” on the partner dashboard, if you allow the partner to collect your contact information within the skill, if you click consent on a voice authenticated confirmation in the skill or click to consent to receive partner offers tailored to your profile in the skill store
+we might use data processors to handle complaints or send newsletters on our behalf or share information with third parties if you have explicitly provided your consent to such data sharing
+in accordance with our legal obligations, we conclude processing agreements with the third parties we use
+we may provide your personal data to third parties in order to meet a legal obligation or court order
+when transferring personal data outside the european economic area we enter into eu standard contractual clauses to comply with our legal obligations
+in addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign
+security of your personal information in accordance with the applicable laws and regulations, we have taken adequate technical and organizational measures to safeguard the security of your personal information
+we store the personal information that we process on a secure database that is protected by technical access controls
+please be advised that while we strive to protect your personally identifiable data, we make no guarantees or assurances about our ability to prevent any such loss, access or misuse and are not responsible in the event that such loss or misuse occurs
+what are your rights
+based on the dutch data protection act (wet bescherming persoonsgegevens) and similar local laws that pertain to the countries in which our companies have nexus, you may request to review, change or remove your personal data
+you can submit such substantiated request – including your full name – to us per email to legal@voicexp
+we will contact you within thirty (30) business days after receipt of a request to review, change or remove your personal data
+cookies and similar technologies we use cookies and web beacons in our skills and on our website
+a cookie is a small text file that is delivered with pages from the skill or website and which is stored by your browser on the hard drive of your computer or on your smartphone or voice activated device
+cookies have various functions, for example a cookie can store your language preferences or password
+web beacons are electronic files invisibly embedded on web pages or in email to permit us to track online movements of web users
+cookies and web beacons do not usually contain any information that could personally identify you
+at this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted
+additional information and contacts children under the age of 13
+our services are directed to the general public
+we do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our website or using our services
+if we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible
+if you believe that we might have any information from a child under age 13, or if you are a california resident under the age of 18 and you wish to remove publicly available content, please contact us at privacy@voicexp
+com or the mailing address in this policy
+california privacy rights california civil code section 1798
+83 permits our users who are california residents to request and obtain from us, once a year, free of charge, information about the personal information we disclosed to third parties for direct marketing purposes in the preceding calendar year
+if you are a california resident and would like to make such a request, please submit your request to us in writing
+we will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law
+if required by law, as is the case to comply with the children’s online privacy protection act (coppa), we will nullify such personal information by erasing it from our database
+if you have questions about the use of your personal data, please contact us at
+and its subsidiaries attn
+voicexp legal department po box 251 bunker, mo 63043 usa
+we use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device for a set period of time or until you delete them)
+we use the following types of cookies for the purposes explained in this chart
+these cookies are necessary in order for you to move around the service as you request
+it allows us to recognize what type of user, partner, or other subscriber you are so that we can then accordingly provide services
+these cookies allow us to use certain features of the service in accordance with the choices that you make
+these cookies mean that if you continue to use the services or return to the services, we can then provide services tailored for you based on the choices you have made or asked us to hold like your username or your customizations
+we use performance cookies to help us provide a better user experience for you based on optimizing the services and constantly optimizing the features and performance
+we may also obtain information from features that you open or access or click on
+this information tells us about the effectiveness of certain features and helps ensure that the content and features we provide are optimized for your interests
+we can allow our business partners to use cookies on or the service as indicated for the same purposes as we provide you with services, including gathering information about your online and in app activities over time and across our services
+we can also use service providers acting on our behalf to use cookies for the purposes described above
+don’t wait to get started
+join the thousands of businesses who are using voice to connect to customers now
+without a voicexp’s voice experience® platform, your business can’t easily connect to your customers on amazon alexa, google assistant, microsoft cortana, or samsung bixby
+we can solve that immediately
+talk to a real human right now

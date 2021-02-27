@@ -1,0 +1,170 @@
+aura smart air ltd
+(" aura " , " us ",
+" our ", or " we ") recognizes
+and respects the importance of maintaining the privacy of our users and, as a
+result, we have established this privacy notice
+if not otherwise defined herein, capitalized terms
+have the meaning given to them in the aura terms of service (" terms ")
+privacy notice explains the types of information we collect from you when you register to use the services provided through the device(s) and how we may use,
+transfer, store, and disclose the information collected, as well as your
+ability to control certain uses of the collected information
+information " means any information that refers, is related to, or is
+associated with an identified or identifiable individual or as otherwise may be
+defined by applicable law
+information from you when you register an account (as an administrator or as a
+user) to use the services, when you sign up for newsletters or our email lists
+or contact us for any other reason
+examples of the personal information that
+we collect from you when you register
+an account as an administrator include
+information you provide us, such as your name, shipping and billing address, email address, phone number,
+credit card details, title and, where applicable, your company's name
+if you are a user, we will collect your
+name, email address and phone number, as provided to us by the administrator
+and any additional information you provide
+if you are an emergency contact, we
+will collect your name and phone number as provided by the administrator
+in configuring your device(s) to your
+needs, you may provide certain information related to allergies or other
+if you do provide any such information, you consent
+to, or represent that you have obtained the consent of the relevant individual
+processing of any such information
+you use the services, certain information may be automatically gathered such as information about your
+operating system, geo-location, purchase information and data from sensors in
+voluntary decision whether to provide us with certain personal information, but
+if you refuse to provide such information we will not be able to complete your
+account registration and/or provide you with any services
+how we use your information
+we and any of our
+third party subcontractors and/or service providers may use the information we
+collect from and about you for any of the following purposes
+you with the app, device(s) and/or the services
+(2) respond to your inquiries
+or requests, to contact and alert you and any other users when necessary
+develop new products or services and conduct analyses to improve our current
+(4) use your data in an aggregated, non-specific
+format for analytical purposes (as detailed below)
+(5) prevent fraud, protect
+the security of our services, and address any problems with the services
+(6) to provide you with informational newsletters and promotional materials
+related to our services
+by analyzing all information we receive, including all information concerning
+users, we may compile statistical information across a variety of platforms and
+information helps us understand trends and users' needs so that the device(s) and/or
+services can be improved and tailored to our users' desires
+information is anonymous and aggregated
+we may share such statistical
+information with our partners, without restriction, on commercial terms we can
+determine at our sole discretion
+analytics tools (" tools ") including "google
+analytics" to collect information about the use of the services
+tools collect information such as how often administrators and/or users use the
+app, what pages they visit when they do so, and what other sites they used
+prior to using the app
+the tools may collect certain personal information and
+may link such personal information to specific information stored in the
+we may also provide non-personal information that we receive
+we use the information we get from the tools to improve our app,
+ability to use and share information collected by google analytics about your
+visits to the app is restricted by the google analytics terms of use located
+html and the google privacy policy
+transfer of your information
+we allow you to
+use the device(s) and services in connection with third-party services, sites,
+and/or mobile applications, including other "smart" appliances in
+your household or workplace
+if you use our services with or through such
+third-parties, we may receive information (including personal information)
+about you from those third parties
+when you use third-parties outside of our services, including, but not limited
+to, "smart" appliances which you may connect your device(s) to, their
+own terms and privacy policies will (continue to) govern your use of those
+disclosure of personal information
+that we may share your information, including personal
+service providers, affiliates, and subcontractors
+information, including personal information we collect from and/or about you,
+to our trusted service providers, business partners, affiliates, subsidiaries
+and subcontractors, who may use such information to help us provide you with
+the services and aid in their understanding of how users are using our
+subcontractors and service providers who are located in countries other than
+your own and send them information we receive (including personal information)
+all of our subcontractors and service providers will be subject to
+non-disclosure and non-use obligations
+our databases containing your personal information if we sell our business or
+part of it, including in cases of liquidation
+information about our users,
+including personal information, may be disclosed as part of, or during
+negotiations of, any merger, sale of company assets or acquisition and shall
+continue being subject to the provisions of this privacy notice
+cooperate with any law enforcement authorities or court order requesting or
+directing us to disclose the identity, behavior or digital content of any user
+suspected to have engaged in illegal or infringing behavior
+we may also share
+your personal information with third parties if we believe in good faith that
+disclosure is appropriate to protect our rights, property or safety (including
+the enforcement of the terms and this privacy notice) or to protect the rights,
+property or safety of third parties
+you can request any personal information
+we have collected about you by emailing us at info@auraair
+also share information in order to comply with legal and/or regulatory
+obligations, to protect and defend our rights and property with or without your
+we may use your personal information as
+required or permitted by any applicable law
+how we protect your information
+we make efforts to
+follow generally accepted industry standards to protect the personal
+information submitted to and collected by us, both during transmission and once
+however, no method of transmission over the internet or method
+of electronic storage is 100% secure
+therefore, while we strive to use
+commercially acceptable means to protect your personal information, we cannot
+guarantee its absolute security
+a cookie is a
+small piece of text that is sent to a user's browser
+the browser provides this
+piece of text to the device of the user when this user returns
+we use cookies on
+aura's website for a number of reasons, for example, in order to (i) help
+personalize your experience by helping save your settings and customizations
+(ii) for the functionality and security of our website
+(iii) for analytics purposes
+a "session cookie" is temporary and
+will remain on your device until you leave the website
+most web browsers are
+initially configured to accept cookies, but you can change this setting so that
+your browser either refuses all cookies or informs you when a cookie is being
+you are free to delete any existing cookies at any time
+some features of the website may not function properly when cookies are
+use of the app,
+device(s), and/or services may involve linking to or using web applications or
+services belonging to third parties, including without limitation, payment
+processors, and other "smart" appliances
+we have no control over
+third-party applications or services, and all use of third-party applications
+or services is at your own risk
+additionally, we cannot accept responsibility
+for any payments processed or submitted through such third-party applications
+and/or services, or for the privacy policies of any such applications and/or
+we are not responsible for content or available by means of such
+we do not endorse any products or offered by third
+parties and we urge our users to exercise caution in using third-party
+send you e-mail or other messages about us or our products and services,
+you will be given the opportunity to unsubscribe
+from commercial messages in any such e-mail or message we send
+note that we reserve the right to send you service related communications,
+including service announcements, administrative messages and push notifications
+relating either to your device(s) and/or your registered account without
+offering you the opportunity to opt out of receiving them
+information as necessary for the purposes set forth above
+information from our systems, without notice to you, once we deem it is no
+longer necessary for the purposes set forth above
+we do not knowingly collect personally-identifiable information from or
+market our device(s) and/or services to children
+that you become aware that an individual under the age of 16 has registered an
+account without parental permission, please advise us immediately
+we may update this
+privacy notice from time to time and we encourage you to review the privacy notice periodically to make sure you are familiar with the
+by continuing to use the app, device(s), and/or
+the services after those changes become effective, you agree to be bound by the
+if you have any
+comments or questions about our privacy notice, please contact us atinfo@auraair

@@ -1,0 +1,278 @@
+what is personal data
+can minors access our services
+when does ubisoft collect your personal data and for what purpose
+you create a ubisoft account (hereinafter referred to as your “account”)
+you sign into our services with a social login or your credentials from a third party platform (for example, facebook, twitch)
+you make a purchase in our games and in our online services
+you use our games, applications, websites and online services on a computer or mobile telephone
+you play a ubisoft game on your console
+you interact with other players (forums, chat rooms, ubisoft social media pages)
+you are exposed to personalised advertisements or content on our services or those of our partners
+you take part in a contest or survey organised by ubisoft
+you contact us via the ubisoft customer support portal or social media
+you do not comply with the rules of the game
+how long does ubisoft keep your personal data
+how does ubisoft share your personal data
+what are your rights and how do you exercise your rights
+when can ubisoft use your data
+“your privacy is not a game”
+ubisoft teams create original and memorable experiences so that players can have fun, interact with others and take pleasure through our games, applications, websites and online services (collectively hereinafter referred to as our “ services ”)
+we collect your personal data so that you can benefit from our services and we make it our duty to adhere to the rules of the game
+this privacy policy is designed to help you understand how your data is used, inform you of your rights and how to exercise your rights
+what is personal data
+“ personal data ” (or “ data ”), is all information that identifies you
+either directly, for example, your last name, first name, email address or telephone number
+or indirectly, for example your account id, ip address, cookie identifier or game data
+for more information about the data that ubisoft collects, go to section 3 “when does ubisoft collect your data and for what purpose
+can minors access our services
+the age at which minors can create a ubisoft account or have access to some of our services depends on the personal data protection laws of each country
+for more information, please see the article on the access and terms specific to minors in our terms of use of the ubisoft services
+when does ubisoft collect your personal data and for what purpose
+we may collect your data when
+a) you create a ubisoft account (hereinafter referred to as your “account”)
+we collect your user name, password, email address, date of birth and country
+some items of data, such as your user name, are made public to allow your community to find you in our services
+when you create your account, you can manage your subscription to receive the ubisoft newsletter by email
+you can unsubscribe at any time by
+clicking on the unsubscribe link at the end of each newsletter,
+or on your account management page in the “privacy and communication” section
+you can rest assured that, even if you unsubscribe, you will still receive the necessary emails for the management of your account (for example, if you forget your password)
+b) you sign into our services with a social login or your credentials from a third party platform (for example, facebook, twitch)
+we collect the data that you have agreed to share via the social media site or third party platform in question
+c) you make a purchase in our games and in our online services
+we collect the data needed to process your purchase, such as your last name, first name, mailing and email addresses, country, bank details and purchase history
+this data is sent to our partner service providers that are in charge of the payment and the delivery of your purchase (to learn more, go to section 5 “how does ubisoft share your personal data
+d) you use our games, applications, websites and online services on a computer or mobile telephone
+your game data , to improve your experience and the security of our services such as
+achieved game levels, rewards, rankings, completed game missions, statistics including the game time or the use of the various features as well as the data associated with any bugs and malfunctions
+your login and browsing data , to enable the operation and security of our services, such as
+visited pages, identifier of your device and the connection (ip address, mac address), login dates and times, information concerning the browser and the operating system you use
+we use various types of technologies such as cookies to collect such data when you use our services or visit a third party site where we and our partners provide content or carry out content use analysis
+we allow some of our partners to set and access their cookies on your device
+these partners’ use of cookies is subject to their own privacy policies and not this privacy policy
+to refuse cookies or request their deletion as well as obtain the list of partners who are permitted to store and/or access these cookies, please see the cookies page
+you can also adjust your browser settings to understand when these cookies are stored on your device or to disable the cookies by consulting your browser’s “help” menu
+please note that these settings may affect your ability to shop online or to access certain features of our services whenever these cookies are needed for the operation of our services
+e) you play a ubisoft game on your console
+we may collect data such as your age, country, user name and email address, which has been provided on your consoles in order to simplify the creation of your account
+we also collect data transmitted by console manufacturers such as your console identifier, your game data as well as the data associated with any bugs and malfunctions
+f) you interact with other players (forums, chat rooms, ubisoft social media pages )
+we collect data such as your user name, ip address, the date, time, and we save the content of your messages to allow you to interact with other players in a secure environment
+g) you are exposed to personalised advertisements or content on our services or those of our partners
+we collect data such as your age and gender, the advertisement and the number of times it was watched, its location in the game and the identifier of your device
+we also collect information about your actions in relation to the advertisement, such as the sites visited as well as the dates and times of the visits
+we can combine the data collected with our partners when you use our services
+we also combine this data with demographic, advertising and market studies or with other analytic surveys
+we may also use all of your data collected to offer you personalised advertisements, products, services or content (hereinafter referred to as “ personalised content ”) via our services or those of our partners
+if you wish to withdraw your consent or object to the personalisation of advertisements, please go to section 6 “what are your rights and how do you exercise your rights”, then to the paragraph “give and withdraw your consent”
+h) you take part in a contest or survey organised by ubisoft
+we collect your last name, first name, date of birth, mailing and email addresses
+we use this data to administer the contest or the survey, to send you promotional offers and/or for internal statistical purposes
+i) you contact us via the ubisoft customer support portal or social media
+if you contact us via the customer support portal, we collect data such as your last name, first name, user name, email address, date of birth, country, console identifier and games registered on your account, depending on your questions or requests
+if you contact us via social media, we collect some of the data included on your profile
+we only use this data to appropriately respond to your questions and requests
+j) you do not comply with the rules of the game
+when you use our services, we ask that you comply with the terms of use of the ubisoft services and the codes of conduct associated with our services which are intended to protect our users, employees and more generally ubisoft’s rights
+if you do not abide by these rules, you may be sanctioned including in the event of inappropriate conduct, cheating or toxic behaviour
+we will keep your data for the time needed to apply these sanctions
+this data may include for example your account identifier, your game data, your ip address, the identifier of your device and your chat history
+how long does ubisoft keep your personal data
+unless the law specifies a different retention period, ubisoft will only keep your data for the time strictly necessary to carry out the operations for which said data has been collected by ubisoft
+for example, we will keep the data associated with your account until the closure of the account
+in some cases, the data may be kept for a longer period such as when it is needed for us to apply a sanction
+how does ubisoft share your personal data
+we may share your data with
+ubisoft subsidiaries involved in the administration of the services
+you can find more information about the group on our dedicated website
+the technical service providers involved in the supply of the services (for example, product delivery, promotion of the services, to act against inappropriate conduct, cheating and toxic behaviour)
+as subcontractors, these service providers are under the same obligations as ubisoft to comply with applicable personal data protection laws
+the partners who use your data to provide you with personalised advertisements or personalized content
+to consult a list of ubisoft’s partners, please see the cookies page
+to opt out of the sharing of your data, please section 6 “what are your rights and how do you exercise your rights”, then to the paragraph “give and withdraw your consent”
+other companies, only in the event of transfer of ubisoft’s activities
+administrative or judicial authorities, to verify the proper use of the data by ubisoft or for the purposes of an investigation, in compliance with applicable law
+ubisoft always verifies the legitimacy of the request
+in such cases, your data may be transferred to countries located outside of the european union who provide an equivalent level of protection
+in the event of transfer to other countries, the protection of your data is especially ensured by the signature of standard contractual clauses approved by the european commission
+what are your rights and how do you exercise your rights
+obtain a copy of your data – “right of access and data portability”
+at any time you can request a copy of the data associated with your account
+you may also consult the data, use it yourself or transfer it to another service provider
+ubisoft has established a simple procedure for you to exercise your rights
+please see the account management page , in the “privacy and communication” section, then “download your information”
+if you have been sanctioned in relation to our services, we will not be able to give you access to the data regarding your sanction so as to maintain our ability to detect or take action against such behaviour
+correct your data – “right to rectification”
+you have the right to correct your data when it is inaccurate or incomplete (for example, change your delivery address)
+to do so, please see the account management page , in the “account information” section
+give and withdraw your consent – “right to object and withdraw your consent”
+at any time, you may withdraw your consent or object to the receipt of newsletters or advertising emails, the personalisation of advertisements or the sharing of your data with our partners (except for subsidiaries and technical service providers)
+on the account management page , in the “privacy and communication” section,
+on the cookies page , to set the cookies,
+for some of our mobile games, in the privacy settings,
+on your telephone or your tablet, in the settings, by activating “limit ad tracking” on apple telephones, or activating “opt-out of ads personalisation” on android telephones
+delete your account – “right to erasure (right to be forgotten)”
+you can request the closure of your account and the deletion of the associated data
+to do so, please see the account management page in the “account information” section then “close your ubisoft account”
+if you have been sanctioned in relation to our services, we cannot delete the data regarding your sanction as to allow us to maintain your sanction
+limit the use of your data – “right to restriction of processing”
+you also have the right to request that your data no longer be used or not be deleted during the time we are processing your request
+to do so, please contact the ubisoft customer support department here
+to exercise your rights if you do not have an account or for any question regarding the exercise of these rights, you can contact the ubisoft customer support at any time
+if you feel that your rights have not been respected after having contacted us, you have the right to make a complaint to the regulatory authority in your country
+when can ubisoft use your data
+we can use your data in one of the following circumstances
+the existence of a contract between you and ubisoft to provide you with services
+you enter into this contract with ubisoft by accepting the terms of use of the ubisoft services
+ubisoft’s legitimate interest (or reasonable expectations of users), to offer you the best possible user experience, such as to ensure the security of the services, moderate the community, respond to your requests and questions or to send you newsletters
+your consent to offer you advertisements, products, services or personalised content depending on your user profile
+ubisoft is entitled to change this policy at any time
+we will inform you of the material updates and recommend that you consult this policy on a regular basis or contact us if you have any questions
+using our services following such a change means that you accept any changes
+if you have any questions about this document, please contact
+the data protection officer and his or her team here
+ubisoft entertainment sa (data controller), 17, avenue henri fréville – 35200 rennes (france)
+for any other questions, including if your question relates to the hacking of your account, a problem with online payment or the use of our products and services, please contact ubisoft customer support
+, suite 5000, montréal, québec, h2t 1s6, canada
+28 saemunan-ro 5ga-gil, jongno-gu, seoul
+, privacy rights administrator c/o legal department
+625 third street san francisco, 94107 ca, usa
+what is personal data
+can minors access our services
+when does ubisoft collect your personal data and for what purpose
+you create a ubisoft account (hereinafter referred to as your “account”)
+you sign into our services with a social login or your credentials from a third party platform (for example, facebook, twitch)
+you make a purchase in our games and in our online services
+you use our games, applications, websites and online services on a computer or mobile telephone
+you play a ubisoft game on your console
+you interact with other players (forums, chat rooms, ubisoft social media pages)
+you are exposed to personalised advertisements or content on our services or those of our partners
+you take part in a contest or survey organised by ubisoft
+you contact us via the ubisoft customer support portal or social media
+you do not comply with the rules of the game
+how long does ubisoft keep your personal data
+how does ubisoft share your personal data
+what are your rights and how do you exercise your rights
+when can ubisoft use your data
+“your privacy is not a game”
+ubisoft teams create original and memorable experiences so that players can have fun, interact with others and take pleasure through our games, applications, websites and online services (collectively hereinafter referred to as our “ services ”)
+we collect your personal data so that you can benefit from our services and we make it our duty to adhere to the rules of the game
+this privacy policy is designed to help you understand how your data is used, inform you of your rights and how to exercise your rights
+what is personal data
+“ personal data ” (or “ data ”), is all information that identifies you
+either directly, for example, your last name, first name, email address or telephone number
+or indirectly, for example your account id, ip address, cookie identifier or game data
+for more information about the data that ubisoft collects, go to section 3 “when does ubisoft collect your data and for what purpose
+can minors access our services
+the age at which minors can create a ubisoft account or have access to some of our services depends on the personal data protection laws of each country
+for more information, please see the article on the access and terms specific to minors in our terms of use of the ubisoft services
+when does ubisoft collect your personal data and for what purpose
+we may collect your data when
+a) you create a ubisoft account (hereinafter referred to as your “account”)
+we collect your user name, password, email address, date of birth and country
+some items of data, such as your user name, are made public to allow your community to find you in our services
+when you create your account, you can manage your subscription to receive the ubisoft newsletter by email
+you can unsubscribe at any time by
+clicking on the unsubscribe link at the end of each newsletter,
+or on your account management page in the “privacy and communication” section
+you can rest assured that, even if you unsubscribe, you will still receive the necessary emails for the management of your account (for example, if you forget your password)
+b) you sign into our services with a social login or your credentials from a third party platform (for example, facebook, twitch)
+we collect the data that you have agreed to share via the social media site or third party platform in question
+c) you make a purchase in our games and in our online services
+we collect the data needed to process your purchase, such as your last name, first name, mailing and email addresses, country, bank details and purchase history
+this data is sent to our partner service providers that are in charge of the payment and the delivery of your purchase (to learn more, go to section 5 “how does ubisoft share your personal data
+d) you use our games, applications, websites and online services on a computer or mobile telephone
+your game data , to improve your experience and the security of our services such as
+achieved game levels, rewards, rankings, completed game missions, statistics including the game time or the use of the various features as well as the data associated with any bugs and malfunctions
+your login and browsing data , to enable the operation and security of our services, such as
+visited pages, identifier of your device and the connection (ip address, mac address), login dates and times, information concerning the browser and the operating system you use
+we use various types of technologies such as cookies to collect such data when you use our services or visit a third party site where we and our partners provide content or carry out content use analysis
+we allow some of our partners to set and access their cookies on your device
+these partners’ use of cookies is subject to their own privacy policies and not this privacy policy
+to refuse cookies or request their deletion as well as obtain the list of partners who are permitted to store and/or access these cookies, please see the cookies page
+you can also adjust your browser settings to understand when these cookies are stored on your device or to disable the cookies by consulting your browser’s “help” menu
+please note that these settings may affect your ability to shop online or to access certain features of our services whenever these cookies are needed for the operation of our services
+e) you play a ubisoft game on your console
+we may collect data such as your age, country, user name and email address, which has been provided on your consoles in order to simplify the creation of your account
+we also collect data transmitted by console manufacturers such as your console identifier, your game data as well as the data associated with any bugs and malfunctions
+f) you interact with other players (forums, chat rooms, ubisoft social media pages )
+we collect data such as your user name, ip address, the date, time, and we save the content of your messages to allow you to interact with other players in a secure environment
+g) you are exposed to personalised advertisements or content on our services or those of our partners
+we collect data such as your age and gender, the advertisement and the number of times it was watched, its location in the game and the identifier of your device
+we also collect information about your actions in relation to the advertisement, such as the sites visited as well as the dates and times of the visits
+we can combine the data collected with our partners when you use our services
+we also combine this data with demographic, advertising and market studies or with other analytic surveys
+we may also use all of your data collected to offer you personalised advertisements, products, services or content (hereinafter referred to as “ personalised content ”) via our services or those of our partners
+if you wish to withdraw your consent or object to the personalisation of advertisements, please go to section 6 “what are your rights and how do you exercise your rights”, then to the paragraph “give and withdraw your consent”
+h) you take part in a contest or survey organised by ubisoft
+we collect your last name, first name, date of birth, mailing and email addresses
+we use this data to administer the contest or the survey, to send you promotional offers and/or for internal statistical purposes
+i) you contact us via the ubisoft customer support portal or social media
+if you contact us via the customer support portal, we collect data such as your last name, first name, user name, email address, date of birth, country, console identifier and games registered on your account, depending on your questions or requests
+if you contact us via social media, we collect some of the data included on your profile
+we only use this data to appropriately respond to your questions and requests
+j) you do not comply with the rules of the game
+when you use our services, we ask that you comply with the terms of use of the ubisoft services and the codes of conduct associated with our services which are intended to protect our users, employees and more generally ubisoft’s rights
+if you do not abide by these rules, you may be sanctioned including in the event of inappropriate conduct, cheating or toxic behaviour
+we will keep your data for the time needed to apply these sanctions
+this data may include for example your account identifier, your game data, your ip address, the identifier of your device and your chat history
+how long does ubisoft keep your personal data
+unless the law specifies a different retention period, ubisoft will only keep your data for the time strictly necessary to carry out the operations for which said data has been collected by ubisoft
+for example, we will keep the data associated with your account until the closure of the account
+in some cases, the data may be kept for a longer period such as when it is needed for us to apply a sanction
+how does ubisoft share your personal data
+we may share your data with
+ubisoft subsidiaries involved in the administration of the services
+you can find more information about the group on our dedicated website
+the technical service providers involved in the supply of the services (for example, product delivery, promotion of the services, to act against inappropriate conduct, cheating and toxic behaviour)
+as subcontractors, these service providers are under the same obligations as ubisoft to comply with applicable personal data protection laws
+the partners who use your data to provide you with personalised advertisements or personalized content
+to consult a list of ubisoft’s partners, please see the cookies page
+to opt out of the sharing of your data, please section 6 “what are your rights and how do you exercise your rights”, then to the paragraph “give and withdraw your consent”
+other companies, only in the event of transfer of ubisoft’s activities
+administrative or judicial authorities, to verify the proper use of the data by ubisoft or for the purposes of an investigation, in compliance with applicable law
+ubisoft always verifies the legitimacy of the request
+in such cases, your data may be transferred to countries located outside of the european union who provide an equivalent level of protection
+in the event of transfer to other countries, the protection of your data is especially ensured by the signature of standard contractual clauses approved by the european commission
+what are your rights and how do you exercise your rights
+obtain a copy of your data – “right of access and data portability”
+at any time you can request a copy of the data associated with your account
+you may also consult the data, use it yourself or transfer it to another service provider
+ubisoft has established a simple procedure for you to exercise your rights
+please see the account management page , in the “privacy and communication” section, then “download your information”
+if you have been sanctioned in relation to our services, we will not be able to give you access to the data regarding your sanction so as to maintain our ability to detect or take action against such behaviour
+correct your data – “right to rectification”
+you have the right to correct your data when it is inaccurate or incomplete (for example, change your delivery address)
+to do so, please see the account management page , in the “account information” section
+give and withdraw your consent – “right to object and withdraw your consent”
+at any time, you may withdraw your consent or object to the receipt of newsletters or advertising emails, the personalisation of advertisements or the sharing of your data with our partners (except for subsidiaries and technical service providers)
+on the account management page , in the “privacy and communication” section,
+on the cookies page , to set the cookies,
+for some of our mobile games, in the privacy settings,
+on your telephone or your tablet, in the settings, by activating “limit ad tracking” on apple telephones, or activating “opt-out of ads personalisation” on android telephones
+delete your account – “right to erasure (right to be forgotten)”
+you can request the closure of your account and the deletion of the associated data
+to do so, please see the account management page in the “account information” section then “close your ubisoft account”
+if you have been sanctioned in relation to our services, we cannot delete the data regarding your sanction as to allow us to maintain your sanction
+limit the use of your data – “right to restriction of processing”
+you also have the right to request that your data no longer be used or not be deleted during the time we are processing your request
+to do so, please contact the ubisoft customer support department here
+to exercise your rights if you do not have an account or for any question regarding the exercise of these rights, you can contact the ubisoft customer support at any time
+if you feel that your rights have not been respected after having contacted us, you have the right to make a complaint to the regulatory authority in your country
+when can ubisoft use your data
+we can use your data in one of the following circumstances
+the existence of a contract between you and ubisoft to provide you with services
+you enter into this contract with ubisoft by accepting the terms of use of the ubisoft services
+ubisoft’s legitimate interest (or reasonable expectations of users), to offer you the best possible user experience, such as to ensure the security of the services, moderate the community, respond to your requests and questions or to send you newsletters
+your consent to offer you advertisements, products, services or personalised content depending on your user profile
+ubisoft is entitled to change this policy at any time
+we will inform you of the material updates and recommend that you consult this policy on a regular basis or contact us if you have any questions
+using our services following such a change means that you accept any changes
+if you have any questions about this document, please contact
+the data protection officer and his or her team here
+ubisoft entertainment sa (data controller), 17, avenue henri fréville – 35200 rennes (france)
+for any other questions, including if your question relates to the hacking of your account, a problem with online payment or the use of our products and services, please contact ubisoft customer support
+, suite 5000, montréal, québec, h2t 1s6, canada
+28 saemunan-ro 5ga-gil, jongno-gu, seoul
+, privacy rights administrator c/o legal department
+625 third street san francisco, 94107 ca, usa

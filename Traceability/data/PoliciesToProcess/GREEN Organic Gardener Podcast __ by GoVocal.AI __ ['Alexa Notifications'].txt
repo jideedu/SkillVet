@@ -1,0 +1,822 @@
+ai is promoted by
+sencedo technologies private limited and its group companies (collectively “govocal
+"we", "us", and "ours") is committed to
+this privacy notice (“notice”) describes how govocal
+processes personal data in its capacity as a controller (i
+decides what personal data is collected and what it is used for) or processor
+ai only processes the data as per the controller's instructions),
+as the case may be
+it also describes your choices regarding use, access and
+correction of your personal data
+the capitalized terms used in
+this notice but not defined herein shall have the same meaning as defined in
+the terms of service at https
+whom does this notice apply
+this notice applies to (i)
+entities or individuals, excluding end-users and users, who have subscribed to
+our service(s) and have agreed to the terms (hereinafter referred to as
+the “customer”) and (ii) individuals (“individuals”) from whom govocal
+collects data as a controller as specified below
+if you have questions or
+complaints regarding our privacy notice or practices, please contact us
+what personal data does govocal
+a) personal data we collect
+and process for our own purposes
+when you visit our websites
+or participate in govocal
+ai may collect information,
+which may include personal data, from individuals as set forth below
+(collectively referred to as “collected data”)
+for the purposes of
+general data protection regulation (gdpr), govocal
+ai shall be the controller
+for the collected data – this means that govocal
+ai decides what collected data
+is processed and why
+1) sign-up, billing and
+when you subscribe and
+sign-up to any of our service(s), we may collect your (i) contact information
+such as name, e-mail address, mailing address, ip address, geographic location,
+or phone number of the account admin
+(ii) billing information, such as credit
+card number and billing address
+(iii) name and e-mail address when account
+admin/agent(s) provide feedback from within the service(s)
+identifiers, such as username, account number or password
+subject to this notice and
+the terms, we will use such data, including without limitation, to (i) provide
+(ii) send you communication from the service(s)
+assess needs of your business to determine or suggest suitable service(s)
+send you requested information about the service(s)
+(v) respond to customer
+service requests, questions and concerns
+(vi) administer your account
+send you promotional and marketing communications (where you have requested us
+and (viii) facilitate your transactions with other users when you
+when you apply for an open
+position by populating the application form, we may collect your (i) contact
+information, such as name, email address, mailing address, phone number, links
+to your social networking profiles
+and (ii) any other information contained in
+the resume that you submit to us
+subject to this notice, we
+will use such data to evaluate you for the open position that you have applied
+for or any position that we consider you suitable for at the time you submit
+your resume or at any later date
+unless you notify us otherwise by an e-mail
+will retain such data for a period of 1 year for archival purposes
+to update the data you provided to us, you may do so by contacting us at support@govocal
+for the purposes of
+evaluating you for an open position, you understand that we may internally rate
+you based on parsing of your resume and your information
+if you do not wish to
+be rated by us, please do not provide us your information
+when you attend an event
+ai, including webinars or seminars, we may collect your
+contact information such as name, e-mail address, designation and company name
+subject to this notice, we
+will use such data, including without limitation, to (i) assess needs of your
+business to determine or suggest suitable service(s)
+(ii) send you requested
+information about the service(s)
+(iii) send you promotional and marketing
+communications (where you have requested us to do so)
+and (iv) respond to your
+when you register for any of
+our programs through a registration form on our websites, we may collect
+information such as name, e-mail address, company name and website url, company
+details, location and contact information
+subject to this notice, we will use
+such data, including without limitation, to (i) facilitate your use of the
+program portal for which you have registered
+(ii) send you communication from
+(iii) send you requested information about our
+(iv) respond to your requests, questions and concerns
+you promotional and marketing communications (where you have requested us to do
+5) public forums and
+when you visit our publicly
+accessible community forums and blogs, you should be aware that any information
+you provide in these areas may be read, collected, and used by others who
+further, we may collect your (i) contact information such as name,
+e-mail address, mailing address, or phone number
+(ii) information about your
+business, such as company name, company size, business type
+and (iii) a short
+bio about you to identify you as the author of the post
+subscribe to our newsletters, we collect your e-mail address to share our
+subject to this notice, we
+will use such data, including without limitation, to (i) assess needs of your
+business to determine or suggest suitable service(s)
+(ii) send you requested
+information about the service(s)
+(iii) send you promotional and marketing
+communications (where you have requested us to do so)
+and (iv) respond to your
+6) clear gifs and log files
+we and our third party
+advertising partners use technologies such as web beacons in analyzing trends,
+administering the website, tracking users’ movements around the site, and
+gathering demographic information about our user base as a whole
+receive reports based on the use of these technologies by these companies on an
+individual and aggregated basis
+as is true of most websites,
+we gather certain information automatically and store it in log files
+information may include internet protocol (ip) addresses, browser type,
+internet service provider (isp), referring/exit pages, operating system,
+date/time stamp, and/or clickstream data
+we link this automatically collected
+data to other data we collect about you
+apart from the aforementioned
+information collected by us, we automatically receive and record certain
+personal data of yours when you visit our websites
+this includes device model,
+ip address, the type of browser being used, usage pattern through cookies and
+browser settings, query logs and product usage logs
+we also collect clicks,
+scrolls, conversion and drop-off on our websites and service(s) to render user
+subject to this notice, we will use such data, including
+without limitation, to (i) assess needs of your business to determine or
+(ii) send you requested information about the
+(iii) respond to customer service requests, questions and concerns
+and (iv) for analytical purposes
+its service providers to perform analytics on such collected data, to (i)
+improve, enhance, support and operate the websites
+statistical reports and record insights into usage patterns
+ai uses collected data, as the case may be, for the aforementioned
+we may post your
+testimonials/comments/reviews on our websites which may contain your personal
+prior to posting the testimonial, we will obtain your consent to post
+your name along with the testimonial
+if you want your testimonial removed,
+please contact us at support@govocal
+you understand that we will
+not be liable to any person for unauthorized publishing of testimonials by
+if you, as a customer of our service govocal
+to publish on your websites, any testimonials you have received from third
+parties via e-mails or widgets, it is your responsibility to
+obtain consent from such third parties prior to publishing the testimonials
+we may use your e-mail
+address, collected as part of collected data, to send our newsletters and/or
+marketing communications about our products and services
+where you have so
+requested, we will also send you marketing communications about our third party
+if you no longer wish to receive these communications, you can opt
+out by following the instructions contained in the e-mails you receive or by
+contacting us at support@govocal
+what is our legal basis for
+processing personal data (eea and swiss visitors only)
+if you are a visitor from the
+european economic area or switzerland, our legal basis for collecting and using
+the personal data described above will depend on the personal data concerned
+and the specific context in which we collect it
+however, we will normally
+collect personal data from you only where we need the personal data to perform
+a contract with you, or where the processing is in our legitimate interests or
+rely upon your consent where we are legally required to do so and not
+overridden by your data protection interests or fundamental rights and
+in some cases, we may also have a legal obligation to collect
+personal data from you or may otherwise need the personal data to protect your
+vital interests or those of another person
+if we ask you to provide
+personal data to comply with a legal requirement or to perform a contract with
+you, we will make this clear at the relevant time and advise you whether the
+provision of your personal data is mandatory or not (as well as of the possible
+consequences if you do not provide your personal data)
+similarly, if we collect and
+use your personal data in reliance on our legitimate interests (or those of any
+third party), we will make clear to you at the relevant time what those
+if you have questions about
+or need further information concerning the legal basis on which we collect and
+use your personal data, please contact us using the contact details provided
+we process on your behalf
+we only process service data
+as per our customer's instructions
+for purposes of the gdpr and the swiss
+federal act on data protection, we are the processor and not the controller of
+service data, as defined in the terms, means all electronic
+data, text, messages or other materials, including personal data of users and
+end-users, submitted to the service(s) by our customers through customer’s
+account in connection with customer’s use of the service(s), including data
+collected under “other information” and “mobile applications” below
+switzerland based customers are the “controllers” of that data and are
+responsible for compliance with the applicable data protection law
+with our customers to help them provide notice to their customers concerning
+the purpose for which personal data is processed by govocal
+if you are our customer from
+eea or switzerland, then in your role as a controller, you are authorizing, on
+behalf of you and your authorized agents and end-users, and representing that
+you have the authority to provide such authorization to the processing and
+transfer of personal data in and to the united states and other countries which
+may have different privacy laws from your or their country of residence
+will take all steps reasonably necessary to ensure that the service data is
+treated securely and in accordance with this notice
+we do not own, control or
+direct the use of service data, and in fact we are largely unaware of what
+information is being stored on our platform and only access such information as
+reasonably necessary to provide the service(s) (including to respond to support
+requests), as otherwise authorized by customers or as required by law
+we explicitly agree otherwise in writing, you will not process sensitive
+personal data (such as health data) on our platform
+as the controller, it shall
+be your responsibility to inform the end-users about the processing, and, where
+required, obtain necessary consent or authorization for any personal data that
+is collected as part of the service data through your use of the service(s)
+the processors of personal data on behalf of our customers, we follow
+customer’s instructions with respect to the service data to the extent
+consistent with the functionality of our service(s)
+in doing so, we implement
+technical, physical and administrative measures against unauthorized processing
+of such information and against loss, destruction of, or damage to, personal data
+where an user or end-user
+uses the service(s), we automatically receive and record certain information of
+this information includes device model, ip address, the type of
+browser being used, usage pattern through cookies and browser settings, query
+logs and product usage logs (collectively referred to as “other
+when you download, install
+and use our mobile applications, we automatically collect information on the
+type of device you use, operating system version, and the device identifier
+subject to this notice, we
+will use such data to (i) provide and manage mobile application
+have opted in to receiving push notifications, send you push notifications from
+time-to-time in order to update you about any events or promotions that we may
+be running and/or update you about new features to our service(s)
+you promotional and marketing communications (where you have requested us to do
+if you no longer wish to receive these types of communications, you may
+turn them off at the device level
+improving and enhancing our
+you expressly authorize us
+and the service providers we use to process the service data in our systems to
+(i) provide, improve, enhance, support and operate the service(s) and its
+(ii) develop new products and services
+statistical reports and record insights into usage patterns
+you can log in to our
+websites using sign-in services such as google, facebook connect and linkedin
+these services will authenticate your identity and provide you the option to
+share certain personal data with us such as your name and e-mail address
+services like google, facebook connect, twitter, linkedin give you the option
+to post information about your activities on our websites to your profile page
+and to share information with others within your network
+our websites includes social
+media features, such as the facebook “like” button, the “share this” button or
+where you interact with these features, they may
+collect your ip address, which page you are visiting on our websites, and may
+set a cookie to enable the feature to function properly
+and widgets are either hosted by a third party or hosted directly on our
+your interactions with these features are governed by the privacy
+notice of the company providing them
+sharing of personal data
+except as outlined in this
+notice and the terms, personal data contained in collected data and service
+data will never be sold to or shared with other companies or organizations for
+we process personal data in the united states and the
+european economic area (“eea”) and in other countries through third parties
+that we may use
+third parties with whom collected data is shared may include
+third-party payment processors who process your credit card and other payment
+ai but are otherwise not permitted to store, retain or
+further, we may transfer personal data to our group
+companies for the purposes identified in the terms and this notice
+transfers are covered by the service agreements with the relevant recipients
+and we have taken appropriate safeguards to ensure that your personal data will
+remain protected in accordance with this privacy notice
+further details can be
+subject to the terms and this
+notice, we and our group companies shall have the right to access customer’s
+account and to process service data solely to the extent necessary to provide,
+enhance and improve the service(s), including, without limitation, in response
+to customer’s support requests
+our sub-processors will only be given access to
+customer’s account and service data as is reasonably necessary to provide the
+service(s) and will be subject to confidentiality obligations in their service
+we use appropriate technical
+and organizational measures to protect the personal data that we collect and
+the measures we use are designed to provide a level of security
+appropriate to the risk of processing your personal data
+eea and swiss specific rights
+if you are an individual
+resident in eea or switzerland, you have the following data protection rights
+to access, correct, update or request deletion of your personal
+data, you can do so at any time by contacting us
+can object to processing of your personal data, ask us
+to restrict processing of your personal data or request
+portability of your personal data
+again, you can exercise these
+rights by contacting us
+right to opt-out of marketing communications we send you at any
+you can exercise this right by clicking on the “unsubscribe” or
+“opt-out” link in the marketing e-mails we send you
+to opt-out of other
+forms of marketing (such as postal marketing or telemarketing), please
+we have collected and process your personal data with your consent, then
+you can withdraw your consent at any time
+consent will not affect the lawfulness of any processing we conducted
+prior to your withdrawal, nor will it affect processing of your personal
+data conducted in reliance on lawful processing grounds other than
+the right to complain to a data protection authority about our
+collection and use of your personal data
+for more information, please
+contact your local data protection authority
+if you seek access to, or wish to
+correct, update, modify or delete personal data (hereinafter referred to as
+a “request”) which forms a part of collected data, please contact us
+respond to all requests we receive from individuals wishing to exercise their
+data protection rights in accordance with applicable data protection laws
+if you seek access to, or
+wish to correct, update, modify or delete personal data (hereinafter referred
+to as a “request”) which is part of the service data and processed by us
+on behalf of our customer, you should direct your query to our customer i
+if you are a customer of our service(s) and wish to raise a
+request on behalf of your users and end-users in connection with service data,
+you may raise a ticket on the support portal of the relevant service
+note that if a customer has subscribed to more than one service, a request on a
+particular service support portal is specific to that service only and separate
+requests need to be raised across other relevant service support portals
+if you are our customer, we
+will send you announcements related to the service(s) on occasions when it is
+necessary to do so
+for instance, if our service(s) is temporarily suspended
+for maintenance, we might send you an e-mail
+generally, you may not opt-out of
+communications which are not promotional in nature
+if you do not wish to
+receive them, you may deactivate your account
+retention of personal data
+if you wish to request that
+we no longer use your collected data, please contact us at support@govocal
+except as otherwise set forth
+below, personal data contained in the service data is retained and deleted in
+accordance with the terms
+if you wish to raise a
+request for deletion of an alexa skill or google assistant, please write
+please note that for the purpose of business continuity, the name of the
+deleted alexa skill or google assistant will be retained within your account
+foregoing, we will retain collected data and service data as necessary to
+comply with our legal obligations, for litigation/defense purposes, maintain
+accurate financial and other records, resolve disputes, and enforce our
+links to third party sites
+our websites contain links to
+other websites that are not owned or controlled by govocal
+that we are not responsible for the privacy practices of such other websites or
+we encourage you to be aware when you leave our websites and to
+read the privacy policies of each and every website that collects personal
+ai does not knowingly
+collect any personal data from children under the age of 16
+if you are under
+the age of 16, please do not submit any personal data through our websites or
+we encourage parents and legal guardians to monitor their children’s
+internet usage and to help enforce this notice by instructing their children
+never to provide personal data through our service(s) or websites without their
+if you have reason to believe that a child under the age of 16 has
+provided personal data to us through our websites or service(s), please contact
+us and we will endeavor to delete that information and terminate the child's
+account from our databases
+if you have created an alexa skill or google
+actions for kids than you need to ensure that you comply with the platform
+policies of amazon alexa or google assistant
+amendments to this notice
+will be posted to this url and will be effective when posted
+if we make any
+material changes, we will notify you by means of a notice on this website prior
+to the change becoming effective and if you are our customer, via e-mail
+(specified in your account)
+provided we will not be notifying you if we amend
+the notice to make addition, deletions or modifications to the list of cookies
+from time to time to keep the list of cookies current and accurate
+frequently visit this notice to check for amendments
+your continued use of our
+websites or the service(s) following the posting of any amendment,
+modification, or change to this notice shall constitute your acceptance of the
+amendments to this notice
+you can choose to discontinue use of the websites or
+service(s), if you do not accept the terms of this notice, or any modified
+version of this notice
+we, including our group
+companies reserve the right to disclose your personal data contained in
+collected data and service data as required by applicable law, in response to
+lawful requests by public authorities, including meeting national security or
+law enforcement requirements and when we believe that disclosure is necessary
+to protect our rights and/or to comply with a judicial proceeding, court order,
+or other legal process served on us
+collected data and service data will also
+be shared between our group companies for the activities permitted under the
+terms and this notice
+in the event govocal
+through a business transition, such as a merger or acquisition by another
+company, or sale of all or a portion of its assets, customer’s account,
+collected data and service data will likely be among the assets transferred
+prominent notice will be displayed on our websites to intimate you of any such
+change in ownership or control and customers will be notified via an
+if you have any questions
+about this privacy notice or your dealings with the govocal
+ai, you can contact
+ai is promoted by
+sencedo technologies private limited and its group companies (collectively “govocal
+"we", "us", and "ours") is committed to
+this privacy notice (“notice”) describes how govocal
+processes personal data in its capacity as a controller (i
+decides what personal data is collected and what it is used for) or processor
+ai only processes the data as per the controller's instructions),
+as the case may be
+it also describes your choices regarding use, access and
+correction of your personal data
+the capitalized terms used in
+this notice but not defined herein shall have the same meaning as defined in
+the terms of service at https
+whom does this notice apply
+this notice applies to (i)
+entities or individuals, excluding end-users and users, who have subscribed to
+our service(s) and have agreed to the terms (hereinafter referred to as
+the “customer”) and (ii) individuals (“individuals”) from whom govocal
+collects data as a controller as specified below
+if you have questions or
+complaints regarding our privacy notice or practices, please contact us
+what personal data does govocal
+a) personal data we collect
+and process for our own purposes
+when you visit our websites
+or participate in govocal
+ai may collect information,
+which may include personal data, from individuals as set forth below
+(collectively referred to as “collected data”)
+for the purposes of
+general data protection regulation (gdpr), govocal
+ai shall be the controller
+for the collected data – this means that govocal
+ai decides what collected data
+is processed and why
+1) sign-up, billing and
+when you subscribe and
+sign-up to any of our service(s), we may collect your (i) contact information
+such as name, e-mail address, mailing address, ip address, geographic location,
+or phone number of the account admin
+(ii) billing information, such as credit
+card number and billing address
+(iii) name and e-mail address when account
+admin/agent(s) provide feedback from within the service(s)
+identifiers, such as username, account number or password
+subject to this notice and
+the terms, we will use such data, including without limitation, to (i) provide
+(ii) send you communication from the service(s)
+assess needs of your business to determine or suggest suitable service(s)
+send you requested information about the service(s)
+(v) respond to customer
+service requests, questions and concerns
+(vi) administer your account
+send you promotional and marketing communications (where you have requested us
+and (viii) facilitate your transactions with other users when you
+when you apply for an open
+position by populating the application form, we may collect your (i) contact
+information, such as name, email address, mailing address, phone number, links
+to your social networking profiles
+and (ii) any other information contained in
+the resume that you submit to us
+subject to this notice, we
+will use such data to evaluate you for the open position that you have applied
+for or any position that we consider you suitable for at the time you submit
+your resume or at any later date
+unless you notify us otherwise by an e-mail
+will retain such data for a period of 1 year for archival purposes
+to update the data you provided to us, you may do so by contacting us at support@govocal
+for the purposes of
+evaluating you for an open position, you understand that we may internally rate
+you based on parsing of your resume and your information
+if you do not wish to
+be rated by us, please do not provide us your information
+when you attend an event
+ai, including webinars or seminars, we may collect your
+contact information such as name, e-mail address, designation and company name
+subject to this notice, we
+will use such data, including without limitation, to (i) assess needs of your
+business to determine or suggest suitable service(s)
+(ii) send you requested
+information about the service(s)
+(iii) send you promotional and marketing
+communications (where you have requested us to do so)
+and (iv) respond to your
+when you register for any of
+our programs through a registration form on our websites, we may collect
+information such as name, e-mail address, company name and website url, company
+details, location and contact information
+subject to this notice, we will use
+such data, including without limitation, to (i) facilitate your use of the
+program portal for which you have registered
+(ii) send you communication from
+(iii) send you requested information about our
+(iv) respond to your requests, questions and concerns
+you promotional and marketing communications (where you have requested us to do
+5) public forums and
+when you visit our publicly
+accessible community forums and blogs, you should be aware that any information
+you provide in these areas may be read, collected, and used by others who
+further, we may collect your (i) contact information such as name,
+e-mail address, mailing address, or phone number
+(ii) information about your
+business, such as company name, company size, business type
+and (iii) a short
+bio about you to identify you as the author of the post
+subscribe to our newsletters, we collect your e-mail address to share our
+subject to this notice, we
+will use such data, including without limitation, to (i) assess needs of your
+business to determine or suggest suitable service(s)
+(ii) send you requested
+information about the service(s)
+(iii) send you promotional and marketing
+communications (where you have requested us to do so)
+and (iv) respond to your
+6) clear gifs and log files
+we and our third party
+advertising partners use technologies such as web beacons in analyzing trends,
+administering the website, tracking users’ movements around the site, and
+gathering demographic information about our user base as a whole
+receive reports based on the use of these technologies by these companies on an
+individual and aggregated basis
+as is true of most websites,
+we gather certain information automatically and store it in log files
+information may include internet protocol (ip) addresses, browser type,
+internet service provider (isp), referring/exit pages, operating system,
+date/time stamp, and/or clickstream data
+we link this automatically collected
+data to other data we collect about you
+apart from the aforementioned
+information collected by us, we automatically receive and record certain
+personal data of yours when you visit our websites
+this includes device model,
+ip address, the type of browser being used, usage pattern through cookies and
+browser settings, query logs and product usage logs
+we also collect clicks,
+scrolls, conversion and drop-off on our websites and service(s) to render user
+subject to this notice, we will use such data, including
+without limitation, to (i) assess needs of your business to determine or
+(ii) send you requested information about the
+(iii) respond to customer service requests, questions and concerns
+and (iv) for analytical purposes
+its service providers to perform analytics on such collected data, to (i)
+improve, enhance, support and operate the websites
+statistical reports and record insights into usage patterns
+ai uses collected data, as the case may be, for the aforementioned
+we may post your
+testimonials/comments/reviews on our websites which may contain your personal
+prior to posting the testimonial, we will obtain your consent to post
+your name along with the testimonial
+if you want your testimonial removed,
+please contact us at support@govocal
+you understand that we will
+not be liable to any person for unauthorized publishing of testimonials by
+if you, as a customer of our service govocal
+to publish on your websites, any testimonials you have received from third
+parties via e-mails or widgets, it is your responsibility to
+obtain consent from such third parties prior to publishing the testimonials
+we may use your e-mail
+address, collected as part of collected data, to send our newsletters and/or
+marketing communications about our products and services
+where you have so
+requested, we will also send you marketing communications about our third party
+if you no longer wish to receive these communications, you can opt
+out by following the instructions contained in the e-mails you receive or by
+contacting us at support@govocal
+what is our legal basis for
+processing personal data (eea and swiss visitors only)
+if you are a visitor from the
+european economic area or switzerland, our legal basis for collecting and using
+the personal data described above will depend on the personal data concerned
+and the specific context in which we collect it
+however, we will normally
+collect personal data from you only where we need the personal data to perform
+a contract with you, or where the processing is in our legitimate interests or
+rely upon your consent where we are legally required to do so and not
+overridden by your data protection interests or fundamental rights and
+in some cases, we may also have a legal obligation to collect
+personal data from you or may otherwise need the personal data to protect your
+vital interests or those of another person
+if we ask you to provide
+personal data to comply with a legal requirement or to perform a contract with
+you, we will make this clear at the relevant time and advise you whether the
+provision of your personal data is mandatory or not (as well as of the possible
+consequences if you do not provide your personal data)
+similarly, if we collect and
+use your personal data in reliance on our legitimate interests (or those of any
+third party), we will make clear to you at the relevant time what those
+if you have questions about
+or need further information concerning the legal basis on which we collect and
+use your personal data, please contact us using the contact details provided
+we process on your behalf
+we only process service data
+as per our customer's instructions
+for purposes of the gdpr and the swiss
+federal act on data protection, we are the processor and not the controller of
+service data, as defined in the terms, means all electronic
+data, text, messages or other materials, including personal data of users and
+end-users, submitted to the service(s) by our customers through customer’s
+account in connection with customer’s use of the service(s), including data
+collected under “other information” and “mobile applications” below
+switzerland based customers are the “controllers” of that data and are
+responsible for compliance with the applicable data protection law
+with our customers to help them provide notice to their customers concerning
+the purpose for which personal data is processed by govocal
+if you are our customer from
+eea or switzerland, then in your role as a controller, you are authorizing, on
+behalf of you and your authorized agents and end-users, and representing that
+you have the authority to provide such authorization to the processing and
+transfer of personal data in and to the united states and other countries which
+may have different privacy laws from your or their country of residence
+will take all steps reasonably necessary to ensure that the service data is
+treated securely and in accordance with this notice
+we do not own, control or
+direct the use of service data, and in fact we are largely unaware of what
+information is being stored on our platform and only access such information as
+reasonably necessary to provide the service(s) (including to respond to support
+requests), as otherwise authorized by customers or as required by law
+we explicitly agree otherwise in writing, you will not process sensitive
+personal data (such as health data) on our platform
+as the controller, it shall
+be your responsibility to inform the end-users about the processing, and, where
+required, obtain necessary consent or authorization for any personal data that
+is collected as part of the service data through your use of the service(s)
+the processors of personal data on behalf of our customers, we follow
+customer’s instructions with respect to the service data to the extent
+consistent with the functionality of our service(s)
+in doing so, we implement
+technical, physical and administrative measures against unauthorized processing
+of such information and against loss, destruction of, or damage to, personal data
+where an user or end-user
+uses the service(s), we automatically receive and record certain information of
+this information includes device model, ip address, the type of
+browser being used, usage pattern through cookies and browser settings, query
+logs and product usage logs (collectively referred to as “other
+when you download, install
+and use our mobile applications, we automatically collect information on the
+type of device you use, operating system version, and the device identifier
+subject to this notice, we
+will use such data to (i) provide and manage mobile application
+have opted in to receiving push notifications, send you push notifications from
+time-to-time in order to update you about any events or promotions that we may
+be running and/or update you about new features to our service(s)
+you promotional and marketing communications (where you have requested us to do
+if you no longer wish to receive these types of communications, you may
+turn them off at the device level
+improving and enhancing our
+you expressly authorize us
+and the service providers we use to process the service data in our systems to
+(i) provide, improve, enhance, support and operate the service(s) and its
+(ii) develop new products and services
+statistical reports and record insights into usage patterns
+you can log in to our
+websites using sign-in services such as google, facebook connect and linkedin
+these services will authenticate your identity and provide you the option to
+share certain personal data with us such as your name and e-mail address
+services like google, facebook connect, twitter, linkedin give you the option
+to post information about your activities on our websites to your profile page
+and to share information with others within your network
+our websites includes social
+media features, such as the facebook “like” button, the “share this” button or
+where you interact with these features, they may
+collect your ip address, which page you are visiting on our websites, and may
+set a cookie to enable the feature to function properly
+and widgets are either hosted by a third party or hosted directly on our
+your interactions with these features are governed by the privacy
+notice of the company providing them
+sharing of personal data
+except as outlined in this
+notice and the terms, personal data contained in collected data and service
+data will never be sold to or shared with other companies or organizations for
+we process personal data in the united states and the
+european economic area (“eea”) and in other countries through third parties
+that we may use
+third parties with whom collected data is shared may include
+third-party payment processors who process your credit card and other payment
+ai but are otherwise not permitted to store, retain or
+further, we may transfer personal data to our group
+companies for the purposes identified in the terms and this notice
+transfers are covered by the service agreements with the relevant recipients
+and we have taken appropriate safeguards to ensure that your personal data will
+remain protected in accordance with this privacy notice
+further details can be
+subject to the terms and this
+notice, we and our group companies shall have the right to access customer’s
+account and to process service data solely to the extent necessary to provide,
+enhance and improve the service(s), including, without limitation, in response
+to customer’s support requests
+our sub-processors will only be given access to
+customer’s account and service data as is reasonably necessary to provide the
+service(s) and will be subject to confidentiality obligations in their service
+we use appropriate technical
+and organizational measures to protect the personal data that we collect and
+the measures we use are designed to provide a level of security
+appropriate to the risk of processing your personal data
+eea and swiss specific rights
+if you are an individual
+resident in eea or switzerland, you have the following data protection rights
+to access, correct, update or request deletion of your personal
+data, you can do so at any time by contacting us
+can object to processing of your personal data, ask us
+to restrict processing of your personal data or request
+portability of your personal data
+again, you can exercise these
+rights by contacting us
+right to opt-out of marketing communications we send you at any
+you can exercise this right by clicking on the “unsubscribe” or
+“opt-out” link in the marketing e-mails we send you
+to opt-out of other
+forms of marketing (such as postal marketing or telemarketing), please
+we have collected and process your personal data with your consent, then
+you can withdraw your consent at any time
+consent will not affect the lawfulness of any processing we conducted
+prior to your withdrawal, nor will it affect processing of your personal
+data conducted in reliance on lawful processing grounds other than
+the right to complain to a data protection authority about our
+collection and use of your personal data
+for more information, please
+contact your local data protection authority
+if you seek access to, or wish to
+correct, update, modify or delete personal data (hereinafter referred to as
+a “request”) which forms a part of collected data, please contact us
+respond to all requests we receive from individuals wishing to exercise their
+data protection rights in accordance with applicable data protection laws
+if you seek access to, or
+wish to correct, update, modify or delete personal data (hereinafter referred
+to as a “request”) which is part of the service data and processed by us
+on behalf of our customer, you should direct your query to our customer i
+if you are a customer of our service(s) and wish to raise a
+request on behalf of your users and end-users in connection with service data,
+you may raise a ticket on the support portal of the relevant service
+note that if a customer has subscribed to more than one service, a request on a
+particular service support portal is specific to that service only and separate
+requests need to be raised across other relevant service support portals
+if you are our customer, we
+will send you announcements related to the service(s) on occasions when it is
+necessary to do so
+for instance, if our service(s) is temporarily suspended
+for maintenance, we might send you an e-mail
+generally, you may not opt-out of
+communications which are not promotional in nature
+if you do not wish to
+receive them, you may deactivate your account
+retention of personal data
+if you wish to request that
+we no longer use your collected data, please contact us at support@govocal
+except as otherwise set forth
+below, personal data contained in the service data is retained and deleted in
+accordance with the terms
+if you wish to raise a
+request for deletion of an alexa skill or google assistant, please write
+please note that for the purpose of business continuity, the name of the
+deleted alexa skill or google assistant will be retained within your account
+foregoing, we will retain collected data and service data as necessary to
+comply with our legal obligations, for litigation/defense purposes, maintain
+accurate financial and other records, resolve disputes, and enforce our
+links to third party sites
+our websites contain links to
+other websites that are not owned or controlled by govocal
+that we are not responsible for the privacy practices of such other websites or
+we encourage you to be aware when you leave our websites and to
+read the privacy policies of each and every website that collects personal
+ai does not knowingly
+collect any personal data from children under the age of 16
+if you are under
+the age of 16, please do not submit any personal data through our websites or
+we encourage parents and legal guardians to monitor their children’s
+internet usage and to help enforce this notice by instructing their children
+never to provide personal data through our service(s) or websites without their
+if you have reason to believe that a child under the age of 16 has
+provided personal data to us through our websites or service(s), please contact
+us and we will endeavor to delete that information and terminate the child's
+account from our databases
+if you have created an alexa skill or google
+actions for kids than you need to ensure that you comply with the platform
+policies of amazon alexa or google assistant
+amendments to this notice
+will be posted to this url and will be effective when posted
+if we make any
+material changes, we will notify you by means of a notice on this website prior
+to the change becoming effective and if you are our customer, via e-mail
+(specified in your account)
+provided we will not be notifying you if we amend
+the notice to make addition, deletions or modifications to the list of cookies
+from time to time to keep the list of cookies current and accurate
+frequently visit this notice to check for amendments
+your continued use of our
+websites or the service(s) following the posting of any amendment,
+modification, or change to this notice shall constitute your acceptance of the
+amendments to this notice
+you can choose to discontinue use of the websites or
+service(s), if you do not accept the terms of this notice, or any modified
+version of this notice
+we, including our group
+companies reserve the right to disclose your personal data contained in
+collected data and service data as required by applicable law, in response to
+lawful requests by public authorities, including meeting national security or
+law enforcement requirements and when we believe that disclosure is necessary
+to protect our rights and/or to comply with a judicial proceeding, court order,
+or other legal process served on us
+collected data and service data will also
+be shared between our group companies for the activities permitted under the
+terms and this notice
+in the event govocal
+through a business transition, such as a merger or acquisition by another
+company, or sale of all or a portion of its assets, customer’s account,
+collected data and service data will likely be among the assets transferred
+prominent notice will be displayed on our websites to intimate you of any such
+change in ownership or control and customers will be notified via an
+if you have any questions
+about this privacy notice or your dealings with the govocal
+ai, you can contact

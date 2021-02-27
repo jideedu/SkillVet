@@ -1,0 +1,24 @@
+privacy policy statement for conference contact helper
+developer of conference contact helper, rak, wants you to know how we use and protect the important information you provide to us
+the following summarizes our
+policy, procedures, and practices, and your usage of conference contact helper indicates you fully agree to this
+when you use this skill, you must talk to an amazon echo/alexa device
+this voice input is sent to amazon and us where we
+use it to understand what our skill should do for you
+you are asked to provide certain data about the contacts you wish to log and any associated to-do list items
+this is necessary for the
+skill to give you
+to provide you with useful functionalities through the skill, we collect the following information about each contact you choose to log into our database
+company for which they work
+a note about what you wish to remember regarding your meeting
+similarly, we collect the following information about any to-do list item you wish to log for any of your logged contacts
+a brief description of the item,
+a target date by which you intend to complete the item,
+the means you plan to use to accomplish it, and
+we never share this data from our skills with third parties
+to improve our services, we analyze automatically how often utterances are spoken and other analytics
+automatically by amazon in the amazon developer portal
+our skill or parts of it may change, be updated, or entirely withdrawn at any time
+further, this privacy policy might change
+you can find a link to this policy on the description page of the skill in the alexa app or in the alexa store
+your continued use of our skill after changes of the privacy policy or the skill itself will be regarded as your acceptance of both

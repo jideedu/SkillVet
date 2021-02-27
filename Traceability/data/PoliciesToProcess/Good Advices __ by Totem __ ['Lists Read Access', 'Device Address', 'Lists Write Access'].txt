@@ -1,0 +1,23 @@
+privacy policy - advices demo skill privacy policy advices demo skill is a registered product of nicolas rosenfeld
+interpretation this privacy policy sets out the manner in which we collect, use, discloses and retain data, including personal information, in relation to your use of the advices demo skill
+for purposes of this policy, “personal information” means information about you as an identifiable individual, as set out in canada’s personal information protection and electronic documents act (pipeda)
+about the mobile event app the advices demo skill provides users with the audio advices voice
+artist interviews, music, and interactive audio content
+it also provides users with important information in near real-time
+data sets collected the advices demo skill does not require user registration
+as such, the information collected by the app is not linked to you as individual and is not generally considered to be personal information, except in combination with other data
+the following non-identifiable data is collected by the alexa skill through your use of the app
+purpose of collection when fully enabled, the advices demo skill allows you to better explore and enjoy programming, by integrating your interests, location, and preferences with the offerings of event organizers, speakers, and sponsors
+data collected from your use of the app will be used to provide you with tailored audio content and timely information related to events and advertising
+data may also be used for marketing purposes, for improving your event and app experience, and for developing future content
+limiting use and retention of data data collected through the advices demo skill will only be used and retained by us for the express purposes set out in this policy
+data collected through the use of the app may be processed or stored by a service provider in a foreign jurisdiction
+in such cases, foreign governments and/or law enforcement authorities may obtain access to that data through the laws of their respective jurisdiction
+we only responds to valid requests for information, whether from domestic or international authorities, and only then where required by law
+data sharing data collected from your use of the advices demo skill will not be shared with others, except for the purposes of delivering event content and information
+with your consent, information may be shared with event organizers, programming partners, event sponsors, and speaker guests
+all information shared will be anonymized and/or used in aggregate
+safeguards we makes every reasonable effort to ensure that data collected through your use of the advices demo skill is protected against loss, theft and unauthorized use
+in doing so, the company relies on a combination of organizational, technological and physical measures
+accountability for more information about this privacy policy, please direct your questions to the company’s director of technology by writing to nicolas
+com published by google drive – report abuse – updated automatically every 5 minutes

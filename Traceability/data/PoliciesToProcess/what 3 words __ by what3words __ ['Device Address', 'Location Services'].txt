@@ -1,0 +1,437 @@
+we use cookies, including third party cookies, to improve your experience and for marketing purposes
+by continuing to browse we assume you have consented to their use
+learn more ok map app business developer products ways to use news shop about jobs team contact us language العربية english deutsch español 简体中文 mongolian 日本語 한국어 privacy and cookie policy this privacy and cookie policy was last updated on 12 june 2020
+whatwords limited (“ what3words ”, “ we ” or “ us ”) is committed to protecting your personal data and respecting your privacy
+this privacy and cookie policy (this “ policy ”) details the personal data we collect in relation to you and explains how we handle that personal data
+in respect of the processing activities described in this policy, what3words limited of studio 301 great western studios, 65 alfred rd, london, england, w2 5eu, uk is your data controller
+information we may collect from you we may collect and process the following personal data about you
+(a) information you voluntarily provide to us if you choose to register for an account on what3words
+com (the “ website ”) or the apps (as defined in the terms and conditions ), we will process your name, country, email address and (if you use “social sign-in”) your google or facebook id, as well as your chosen account password
+however, you are not required to provide us with this information to use the website or our apps
+registered account holders in some jurisdictions are also presented with the opportunity to use the “saved locations” functionality within our website and apps
+this means you can save specific 3 word addresses and label them (e
+if you choose not to use the saved locations feature, that’s perfectly fine
+you can also choose delete your saved locations at any time within your account
+we recommend that you do not save any personal information within your labels (such as names, information about another person or health information)
+you may provide us with personal data such as your name and email address (and any other information that a sign-up form asks for and/or that you choose to give us) in the following instances
+if you subscribe to our email newsletter here – note that you can unsubscribe at any time by following the instructions within the newsletter email
+if sign up to our squares programme here , so that you can set up an account in order to receive newsletters and other relevant communications (such as event invitations) and interact with the squares community by joining social media groups
+if you contact us by phone, email or through the website or the apps to ask us a question, to report an issue or for any other reason
+we may keep a record of that correspondence in case we need to contact you in relation to the issue for which you contacted us, for operational performance improvement, to resolve a dispute, and/or nuisance caller management
+if you sign up to complete one of our surveys
+please note that if we do collect your name and email address when you complete a survey for us, this will typically be so that we can contact you in the event that we offer a prize to a lucky winner
+we will endeavour to anonymise any surveys retained on our systems within 30 days of the survey closing
+if you sign up to a competition that we may run from time to time, in which case we will collect contact details in order to notify you if you are a winner (and we will delete them a reasonable time period after you have collected your prize)
+if you sign up for the what3words application programming interface (“ api ”), you will be asked to provide us with your name, email address and chosen password to set up your account
+you may choose to provide us with your job title and industry which we will use to compile statistics on api usage and to provide you with a more relevant experience if we contact you (e
+your payment details will be stored by our payment provider, stripe, rather than by us (see section 3 below)
+if you choose to attend an event with us, we may capture your image (by way of either photograph or video)
+please do let us know (either by email in advance or on the day at the event) if you would prefer that your image is not captured and we will let our camera operators know
+if you join the what3words beta tester programme here , so that we can contact you to review what3words products (that are relevant to your experience and the platforms that you can use for testing)
+if you choose to download one of the what3words toolkits available on our website, we will ask you for your email address and company name
+we will use your email address in order to send you your toolkit and your company name to conduct internal analysis on how the toolkit is being used
+if you indicate that you are happy for us to do so, we may use your email address to contact you to ask for feedback on how you are using the toolkit (to enable us to make improvements to our products and services in the long term)
+if you choose to download our what3words learning activities , we will ask you for your name and email address so that we can send you the materials
+if you choose to provide us with the name of the school at which you work, we use this so we can build up a picture of where and how the resources are being used (in order to improve them in the long term)
+if you agree to take part in a promotional campaign in which you share your story of using what3words services in a form of digital or print media
+and/or if you apply for a role at what3words as a prospective candidate , the recruitment process may involve us collecting your contact details, cvs and supplementary information, information gathered through interviews or other assessments, video recordings of interviews (where you agree to provide these to us), and references supplied by former employers or agencies
+if you are successful in your application, any relevant information collected as part of the recruitment process will be transferred to your personnel file and retained during your employment
+if your application is unsuccessful, we automatically delete information 18 months following conclusion of the recruitment process
+(b) information we collect about you and your device when you interact with our services when you use the website and/or the apps to access our services, we may use technology such as (but not limited to) that provided by google (google analytics and google firebase) and matomo (see section 3 below) to collect information about your visit to our website and your use of our apps
+in essence, google analytics and firebase enable us to analyse how you and others interact with our website and apps
+the information we collect may include
+the type of browser you use (e
+chrome or safari browser)
+the number of sessions per browser on each device
+the type of device (e
+samsung) and operating system (e
+android) that you are using
+referrer information (which website you visited from e
+which 3 word address locations you searched or landed on (including anything you type incorrectly into the search bar)
+if you search for a 3 word address using the voice function, we receive a text file of the 3 word address (not an audio file)
+the audio file containing the 3 word address you said is transcribed to text through automated methods by software provided by our partner, nuance (see privacy policy ), after which this audio file is discarded
+if you did not say a correct 3 word address, we do not receive a text file of what you said
+which 3 word address locations you have saved using “saved location”
+if you choose to use the photo feature in the apps, the 3 word address at which a photo was taken (but not the photo itself) and the fact that the “share” button has been pressed (if applicable)
+user content including photographs, videos and other content that you choose to share on our website or apps and any associated content including comments that you post to our website and/or apps
+which pages you visited on the website
+analytics information in relation to your interactions with the newsletter (e
+and if you elect to join our squares community and you choose to share your unique what3words download link, we may also track the number of downloads which resulted from that link
+the reasons we collect this data are
+to ensure that content from our website is presented in the most effective manner for you and for your device
+to improve the services we provide in the short term, for example by providing you with more relevant search results
+to improve the services we provide over the longer-term by understanding how you and other users interact with our services
+to serve recommendations to you around those functionalities of the apps or website which are most relevant to you, based on your use of those platforms
+to notify you about any important changes to our services
+to ensure that we continue to provide relevant information to recipients of our newsletters
+and (for the audio files only) to permit audio to text transcription through automated methods, after which such files are discarded
+we may utilise cookies to achieve some of the above
+in particular, so that we can deliver a seamless experience between our apps and our website and so that we can analyse aggregated usage data (e
+how many people are returning to our website more than once)
+furthermore, we may use pixel tags within our emails in order to measure the success of our direct marketing campaigns (including our newsletter), and to compile statistics about usage of the services (e
+how many people are opening newsletter emails)
+more information on which cookies we utilise and why is set out in the cookies section below
+if you are a business which uses the what3words application programming interface (“api”), we collect the following pieces of data in respect of each api call made
+content of the api call (for example, the 3word address searched)
+api key (the unique identifier used to authenticate the user/program making a call to the api)
+and ip address from which the call was made
+the reasons we collect this data are
+to deliver the gps co-ordinates which correspond with the 3 word address searched
+and to analyse and better understand how our api is being used
+(d) information we collect for business to business marketing purposes as a prospective (or existing) business customer of what3words we may collect
+your name, email address and telephone number
+the name of the business you own or represent and your business title
+and the address of the business you own or represent
+we may collect this information directly from you or from publicly available sources such as linkedin and, subject to any local law restrictions, we may use this information to contact you directly for the purpose of informing you about our products and services and discussing any potential partnership
+should you not wish to be contacted by us after we have reached out to you, please do not hesitate to let us know
+legal basis for processing in certain jurisdictions, such as those located within the european union, we are required to establish legal bases to process your personal data
+we have identified our legal basis for processing in respect of each of the processing activities set out below
+(a) responding to correspondence instigated by you where you contact us for any reason, we will process any personal data provided by you for the purposes set out under section 1(a) above
+on balance, we consider that we have a legitimate interest in processing your personal data for those limited purposes, and that it is necessary to do so
+(b) photographing and recording our events we consider that we have a legitimate interest in recording the events we host (by way of either photograph or video)
+as set out above, please do let us know (either by email in advance or on the day at the event) if you would prefer that your image is not captured and we will let our camera operators know
+(c) administering your what3words account, squares account or api account when you register for an account on the website, sign up to the squares programme or register for an api account, you sign up to specific terms and conditions ( here for an account, here for the squares and here for the api)
+we process your personal data so that we can provide you with the service we commit to under the relevant terms and conditions
+we also store your “saved locations” along with your account details so that you can access those saved locations each time you open the apps or visit the website
+(d) effectively managing our business and improving our services where we have determined that, on balance, our legitimate interest in using your personal data to effectively manage our business and improve our services does not outweigh your own rights and freedoms we rely on legitimate interests as the legal basis for processing that personal data
+this covers the analysis of the information collected through technical means, as set out under section 1(b) above
+we will always seek to ensure that any data used for analysis purposes is encrypted and / or aggregated, where doing so would not impact the specific purpose we are trying to achieve
+for example, it may be necessary to use an un-hashed version of your device id in order to ensure that the notifications you receive within the app about a new feature are relevant to you
+(e) electronic direct marketing activities (end users) where we have your express, opt-in consent we may contact you by email or other electronic means for the purpose of providing you with marketing information (including our newsletters) relating to our products and services
+you may opt-out to receiving such communications at any time by hitting the unsubscribe link at the bottom of any email communication, or by emailing us at dataprotection@what3words
+we may use the personal data collected through cookies on our website (as set out under section 1 (b) above) to show you relevant advertising on third platforms such as facebook, instagram and twitter and consider that, on balance, we have a legitimate interest in doing so
+for further information on cookies, including how these can be disabled, please see the cookies section below
+(f) contacting businesses and their representatives subject to any specific local laws to the contrary, we consider that we have a legitimate interest in processing the contact details or other personal data (as set out in section 1 (c) above) of prospective (or existing) business customers for the purpose of introducing them to our products and services and then maintaining a business relationship
+(g) the what3words public api we consider that we have a legitimate interest in processing the limited personal data we collect through our api (as set out in section 1 (b) above) which is necessary in order to deliver that service and to analyse and better understand how our api is being used
+third parties we will only share your personal data with other organisations where we believe have the right to do so in accordance with this policy
+we will never share your contact details to third parties to allow them to contact you for direct marketing purposes
+where we use data processors, we always seek to ensure that they are bound by data processing terms which meet the requirements of applicable data protection legislation and that they only process your personal data upon our instructions
+the following categories of third party may have access to your personal data as a result of your use of the what3words apps and/or website
+a prospective buyer in the event of a sale or purchase of what3words or any of its assets
+any third party when obliged to do so by law
+data hosting companies (such as amazon web services and google cloud )
+external consultants engaged by us to help improve our business
+crm solution providers (such as salesforce a nd hubspot ) other it service providers (such as g suite for business )
+providers of data analytics services (such as matomo , google firebase and google analytics )
+facebook (see privacy policy ), in order to enable you enable to sign in to the apps or website using your facebook sign-in details and to allow us to measure the success of our digital adverts on facebook (see section 9 (other cookies) below)
+we currently give you the option to choose between the following mapping providers for our website
+mapbox (see privacy policy ) google maps (see privacy policy ) esri maps (see privacy policy ) open street maps (see privacy policy ) tomtom (see privacy policy ) our app mapping provider
+google maps currently provides the map within our app (see privacy policy )
+our payment provider, stripe , where you enter your payment details for use of our api (see privacy policy )
+and if you use the voice function on the apps or website (to say a 3 word address), we use voice recognition technology provided by cerence (see privacy policy ), which converts the audio file to a text file containing the 3 word address through automated methods
+we do not collect any personal data through your use of the amazon alexa what3words skill (see terms )
+however, amazon will collect personal data through your use of its alexa platform, as set out in its then-current amazon alexa privacy notice
+where we store and transfer your personal data the personal data that we collect from you may be transferred to, and stored in, a country outside the european economic area (“ eea ”)
+it may also be processed by staff operating outside the eea who either work for us or for one of our suppliers
+countries outside the eea may not have laws which provide the same level of protection to your personal data as laws within the eea
+where this is the case we will put in place appropriate safeguards to ensure that such transfers comply with applicable data protection laws
+keeping information secure unfortunately, the transmission of information via the internet is not completely secure
+whilst we cannot guarantee the security of your data transmitted to our site, and any transmission is at your own risk, we will use strict procedures and security features to try to prevent unauthorised access
+for example, we provide https to ensure communication to/from what3words is securely encrypted
+our systems are protected behind a firewalled vpc, all hosted in london on amazon infrastructure, and we follow strict internal policies as to our handling of personal data and conduct regular reviews of our infrastructure and server security
+how long we keep your personal data we will only store your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements
+to determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements
+we will retain your personal data for at least as long as you use the website and the apps and for a reasonable period of time after you cease using the website and the apps
+where you have requested that we delete any personal data we hold on you, we will typically continue to process the data for only a short period of time to allow us to process that request and keep a record of your request
+see section 7 below for further detail
+your rights we think it is important that you are able to control your personal data
+you have the right to ask us not to process your personal data for marketing purposes
+you can exercise your right to prevent such processing at any time by contacting us at dataprotection@what3words
+under applicable data protection laws, you may be entitled to exercise the following rights
+the right to access personal data that we hold about you
+the right to require us to update our records to ensure the data we hold is accurate
+the right to require us to delete your personal data
+there will be instances where this right is restricted, such as where it is necessary to continue to process your personal data for the establishment, exercise or defence of legal claims
+the right to restrict how we process your data (for example, if you dispute its accuracy, we may restrict its processing until your complaint is resolved)
+the right to require us to transfer your data to another organisation
+the right to object to data processing
+there will be instances where this right is restricted, such as where we have an overriding legitimate ground to continue to process your personal data
+the right not to be subject to the decision of an automated process, such as profiling, when this would have a legal effect (or similarly significant effect) on you
+the right to withdraw your consent (in our case, only in respect of personal data processed for direct marketing purposes)
+we will make this a simple and easy process for you through ‘unsubscribe’ links in all of our marketing communications
+should you wish to exercise any rights in connection with your personal data, please email us at dataprotection@what3words
+when you submit a request, we may ask you for additional information to confirm your identity and entitlement to submit such a request
+if we consider that your request is manifestly unfounded, excessive or repetitive, we reserve the right to charge you an administrative fee
+we will process any request in line with any local laws and our policies and procedures
+we aim to respond to enquiries within 3 working days, but may take up to 30 days to comply with valid requests
+if you want to stop using the website, the app and the services, you may do so
+if you do, you may also want to remove any cookies that we have placed on any device used to access the website and the apps
+in the event that you aren’t happy with our processing of your personal data, we ask that you always seek to get in touch in the first instance so that we can help ease your concerns
+however, you also have the right to lodge a complaint about how we process your personal data with the supervisory authority in your country
+third party products accessed from the website/apps e
+other websites our website and apps may contain links to and from the online products of third parties
+if you follow a link to any of these online products, please note they have their own privacy policies which will govern use of any personal data that theamney process
+please check these policies carefully before you click on any links and/or submit any personal data to these online products
+changes to our privacy policy any changes we may make to this policy will be posted on this page
+where it makes sense because the changes are material, we will notify you by e-mail or in another appropriate manner such as when you next interact with the website/apps
+contacting us is easy and we want to hear from you we really do welcome any questions, comments and requests you may have regarding this policy
+you can contact us by emailing us at dataprotection@what3words
+cookies cookies are small pieces of data that are stored on your computer, mobile phone or other device
+pixels are small blocks of code on web pages that do things like allow another server to measure viewing of a web page and are often used in connection with cookies
+html5 local storage is a small database located inside your browser which web pages can use to store data to speed up their processing
+we may use all three technologies from time to time, to help improve your browsing experience
+you have the ability, by toggling with your browser settings, to turn off our utilisation of cookies
+this may, however, mean that sections of the website or apps are not accessible in the same way or their performance is altered
+cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of our website and apps
+cookies make the interaction between you and our website and apps faster and easier and help us authenticate you to deliver personalised content to you
+we use cookies to distinguish you from other users of the website and apps and to record the pages you have visited on the website and the links you have followed
+this helps us to provide you with a good experience when you use the website or apps and also allows us to improve the website, apps and our services
+we have outlined below the individual cookies we use, along with more on detail on why we use them
+google inc nid _gid _ga _gat __utmz __utmc __utma __utmt_ua-58731966-12 _gaexp google analytics is a web analytics service provided by google, inc
+we use google analytics to allow us to evaluate and report on the usage of our website
+using google analytics helps us to understand our visitors’ behaviour and allows us to make improvements to our users’ experience
+you can opt out of google analytics across all services that utilise it via your browser here
+hubspot __hssc __hssrc __hstc hubspotutk hubspot is a crm (customer relationship management) service provided by hubspot inc
+we use hubspot to facilitate sign-ups for what3words accounts and newsletters, as well as to collect data on interactions with our website/apps (e
+average page views) for internal analytical purposes
+hotjar _hjincludedinsample hotjar is a web analytics service provided by hotjar ltd
+we use hotjar in order to analyse use of the website, as it provides us with heat maps
+(anonymised) colour-coded representations of parts of the website which people are most or least interacting with
+this allows us to plan modifications to our website that will improve users’ experience
+matomo _pk_id _pk_ses piwik_sessid __tawkuuid piwik_auth piwik_lang _pk_hsr matomo is a web analytics service provided by innocraft ltd
+we use matomo to understand our visitors’ behaviour (by collecting the data set out in section 1(b) above) and to allow us to plan modifications to our website that will improve user experience
+stripe __stripe_mid __stripe_sid stripe is a payments system provided by stripe, inc
+(and its affiliates) that we use to take payments for our api
+stripe sets cookies to enable payments to take place effectively and securely by linking your browser to your stripe credentials
+io _ga _gid gtm_id branch
+io is a web analytics platform provided by branch metrics, inc
+io to provide a seamless experience for users when moving between our website and our apps through deep linking (for example, to allow a user to click on a 3 word address, download one of our apps and for that app to open on the original 3 word address)
+io also allows us to plan modifications to our products that will improve user experience
+intercom intercom-id _ga gtm_id intercom, inc
+and its affiliates provide a messaging platform (called intercom) where users can send us questions about what3words and we can respond
+intercom enables us to provide customer support to our visitors
+what3words auth-token language is-developer is_splash_screen_closed is_onboarding_finished is_cookie_notice_closed we use our own strictly necessary cookies to improve functionality on our sites
+an authentication cookie is stored by the browser so that our websites can check that a user has been authenticated by our servers
+we also store a user’s language preferences, as well as if they are a developer for our developer site
+other cookies remember if a user has completed tutorials or closed the cookie notice on the website
+other cookies in addition to the above cookies, the following sites may create their own cookies whilst browsing our website
+twitter ( privacy policy
+ad preferences ) google ( privacy policy
+ad preferences ) facebook ( privacy policy
+ad preferences ) linkedin ( privacy policy
+ad preferences ) because we conduct advertising campaigns on these sites, these cookies allow us to measure the success of our campaigns (e
+how many people clicked on a what3words advert shown to them on their facebook page, how many people installed one of the apps etc)
+user behaviour on our website may also be used to build audiences for our facebook, twitter and linkedin advertising campaigns
+the links above have more information on facebook, twitter, linkedin’s interest-based advertising and how to opt out or change user preferences
+we also use google adwords for remarketing purposes in order to encourage users to return to the site
+to do this, we make use of adwords remarketing tags which set information within a google adwords cookie
+business automotive ride-hailing navigation travel e-commerce logistics emergency government gis humanitarian uavs products the what3words app public api enterprise suite e-commerce plugins microsoft excel plugin embed code generator batch converter gis extensions beta program all products map account about ways to use news press jobs team shop developer newsletter our community design assets support contact us © 2020 what3words limited
+terms and conditions privacywe use cookies, including third party cookies, to improve your experience and for marketing purposes
+by continuing to browse we assume you have consented to their use
+learn more ok map app business developer products ways to use news shop about jobs team contact us language العربية english deutsch español 简体中文 mongolian 日本語 한국어 privacy and cookie policy this privacy and cookie policy was last updated on 12 june 2020
+whatwords limited (“ what3words ”, “ we ” or “ us ”) is committed to protecting your personal data and respecting your privacy
+this privacy and cookie policy (this “ policy ”) details the personal data we collect in relation to you and explains how we handle that personal data
+in respect of the processing activities described in this policy, what3words limited of studio 301 great western studios, 65 alfred rd, london, england, w2 5eu, uk is your data controller
+information we may collect from you we may collect and process the following personal data about you
+(a) information you voluntarily provide to us if you choose to register for an account on what3words
+com (the “ website ”) or the apps (as defined in the terms and conditions ), we will process your name, country, email address and (if you use “social sign-in”) your google or facebook id, as well as your chosen account password
+however, you are not required to provide us with this information to use the website or our apps
+registered account holders in some jurisdictions are also presented with the opportunity to use the “saved locations” functionality within our website and apps
+this means you can save specific 3 word addresses and label them (e
+if you choose not to use the saved locations feature, that’s perfectly fine
+you can also choose delete your saved locations at any time within your account
+we recommend that you do not save any personal information within your labels (such as names, information about another person or health information)
+you may provide us with personal data such as your name and email address (and any other information that a sign-up form asks for and/or that you choose to give us) in the following instances
+if you subscribe to our email newsletter here – note that you can unsubscribe at any time by following the instructions within the newsletter email
+if sign up to our squares programme here , so that you can set up an account in order to receive newsletters and other relevant communications (such as event invitations) and interact with the squares community by joining social media groups
+if you contact us by phone, email or through the website or the apps to ask us a question, to report an issue or for any other reason
+we may keep a record of that correspondence in case we need to contact you in relation to the issue for which you contacted us, for operational performance improvement, to resolve a dispute, and/or nuisance caller management
+if you sign up to complete one of our surveys
+please note that if we do collect your name and email address when you complete a survey for us, this will typically be so that we can contact you in the event that we offer a prize to a lucky winner
+we will endeavour to anonymise any surveys retained on our systems within 30 days of the survey closing
+if you sign up to a competition that we may run from time to time, in which case we will collect contact details in order to notify you if you are a winner (and we will delete them a reasonable time period after you have collected your prize)
+if you sign up for the what3words application programming interface (“ api ”), you will be asked to provide us with your name, email address and chosen password to set up your account
+you may choose to provide us with your job title and industry which we will use to compile statistics on api usage and to provide you with a more relevant experience if we contact you (e
+your payment details will be stored by our payment provider, stripe, rather than by us (see section 3 below)
+if you choose to attend an event with us, we may capture your image (by way of either photograph or video)
+please do let us know (either by email in advance or on the day at the event) if you would prefer that your image is not captured and we will let our camera operators know
+if you join the what3words beta tester programme here , so that we can contact you to review what3words products (that are relevant to your experience and the platforms that you can use for testing)
+if you choose to download one of the what3words toolkits available on our website, we will ask you for your email address and company name
+we will use your email address in order to send you your toolkit and your company name to conduct internal analysis on how the toolkit is being used
+if you indicate that you are happy for us to do so, we may use your email address to contact you to ask for feedback on how you are using the toolkit (to enable us to make improvements to our products and services in the long term)
+if you choose to download our what3words learning activities , we will ask you for your name and email address so that we can send you the materials
+if you choose to provide us with the name of the school at which you work, we use this so we can build up a picture of where and how the resources are being used (in order to improve them in the long term)
+if you agree to take part in a promotional campaign in which you share your story of using what3words services in a form of digital or print media
+and/or if you apply for a role at what3words as a prospective candidate , the recruitment process may involve us collecting your contact details, cvs and supplementary information, information gathered through interviews or other assessments, video recordings of interviews (where you agree to provide these to us), and references supplied by former employers or agencies
+if you are successful in your application, any relevant information collected as part of the recruitment process will be transferred to your personnel file and retained during your employment
+if your application is unsuccessful, we automatically delete information 18 months following conclusion of the recruitment process
+(b) information we collect about you and your device when you interact with our services when you use the website and/or the apps to access our services, we may use technology such as (but not limited to) that provided by google (google analytics and google firebase) and matomo (see section 3 below) to collect information about your visit to our website and your use of our apps
+in essence, google analytics and firebase enable us to analyse how you and others interact with our website and apps
+the information we collect may include
+the type of browser you use (e
+chrome or safari browser)
+the number of sessions per browser on each device
+the type of device (e
+samsung) and operating system (e
+android) that you are using
+referrer information (which website you visited from e
+which 3 word address locations you searched or landed on (including anything you type incorrectly into the search bar)
+if you search for a 3 word address using the voice function, we receive a text file of the 3 word address (not an audio file)
+the audio file containing the 3 word address you said is transcribed to text through automated methods by software provided by our partner, nuance (see privacy policy ), after which this audio file is discarded
+if you did not say a correct 3 word address, we do not receive a text file of what you said
+which 3 word address locations you have saved using “saved location”
+if you choose to use the photo feature in the apps, the 3 word address at which a photo was taken (but not the photo itself) and the fact that the “share” button has been pressed (if applicable)
+user content including photographs, videos and other content that you choose to share on our website or apps and any associated content including comments that you post to our website and/or apps
+which pages you visited on the website
+analytics information in relation to your interactions with the newsletter (e
+and if you elect to join our squares community and you choose to share your unique what3words download link, we may also track the number of downloads which resulted from that link
+the reasons we collect this data are
+to ensure that content from our website is presented in the most effective manner for you and for your device
+to improve the services we provide in the short term, for example by providing you with more relevant search results
+to improve the services we provide over the longer-term by understanding how you and other users interact with our services
+to serve recommendations to you around those functionalities of the apps or website which are most relevant to you, based on your use of those platforms
+to notify you about any important changes to our services
+to ensure that we continue to provide relevant information to recipients of our newsletters
+and (for the audio files only) to permit audio to text transcription through automated methods, after which such files are discarded
+we may utilise cookies to achieve some of the above
+in particular, so that we can deliver a seamless experience between our apps and our website and so that we can analyse aggregated usage data (e
+how many people are returning to our website more than once)
+furthermore, we may use pixel tags within our emails in order to measure the success of our direct marketing campaigns (including our newsletter), and to compile statistics about usage of the services (e
+how many people are opening newsletter emails)
+more information on which cookies we utilise and why is set out in the cookies section below
+if you are a business which uses the what3words application programming interface (“api”), we collect the following pieces of data in respect of each api call made
+content of the api call (for example, the 3word address searched)
+api key (the unique identifier used to authenticate the user/program making a call to the api)
+and ip address from which the call was made
+the reasons we collect this data are
+to deliver the gps co-ordinates which correspond with the 3 word address searched
+and to analyse and better understand how our api is being used
+(d) information we collect for business to business marketing purposes as a prospective (or existing) business customer of what3words we may collect
+your name, email address and telephone number
+the name of the business you own or represent and your business title
+and the address of the business you own or represent
+we may collect this information directly from you or from publicly available sources such as linkedin and, subject to any local law restrictions, we may use this information to contact you directly for the purpose of informing you about our products and services and discussing any potential partnership
+should you not wish to be contacted by us after we have reached out to you, please do not hesitate to let us know
+legal basis for processing in certain jurisdictions, such as those located within the european union, we are required to establish legal bases to process your personal data
+we have identified our legal basis for processing in respect of each of the processing activities set out below
+(a) responding to correspondence instigated by you where you contact us for any reason, we will process any personal data provided by you for the purposes set out under section 1(a) above
+on balance, we consider that we have a legitimate interest in processing your personal data for those limited purposes, and that it is necessary to do so
+(b) photographing and recording our events we consider that we have a legitimate interest in recording the events we host (by way of either photograph or video)
+as set out above, please do let us know (either by email in advance or on the day at the event) if you would prefer that your image is not captured and we will let our camera operators know
+(c) administering your what3words account, squares account or api account when you register for an account on the website, sign up to the squares programme or register for an api account, you sign up to specific terms and conditions ( here for an account, here for the squares and here for the api)
+we process your personal data so that we can provide you with the service we commit to under the relevant terms and conditions
+we also store your “saved locations” along with your account details so that you can access those saved locations each time you open the apps or visit the website
+(d) effectively managing our business and improving our services where we have determined that, on balance, our legitimate interest in using your personal data to effectively manage our business and improve our services does not outweigh your own rights and freedoms we rely on legitimate interests as the legal basis for processing that personal data
+this covers the analysis of the information collected through technical means, as set out under section 1(b) above
+we will always seek to ensure that any data used for analysis purposes is encrypted and / or aggregated, where doing so would not impact the specific purpose we are trying to achieve
+for example, it may be necessary to use an un-hashed version of your device id in order to ensure that the notifications you receive within the app about a new feature are relevant to you
+(e) electronic direct marketing activities (end users) where we have your express, opt-in consent we may contact you by email or other electronic means for the purpose of providing you with marketing information (including our newsletters) relating to our products and services
+you may opt-out to receiving such communications at any time by hitting the unsubscribe link at the bottom of any email communication, or by emailing us at dataprotection@what3words
+we may use the personal data collected through cookies on our website (as set out under section 1 (b) above) to show you relevant advertising on third platforms such as facebook, instagram and twitter and consider that, on balance, we have a legitimate interest in doing so
+for further information on cookies, including how these can be disabled, please see the cookies section below
+(f) contacting businesses and their representatives subject to any specific local laws to the contrary, we consider that we have a legitimate interest in processing the contact details or other personal data (as set out in section 1 (c) above) of prospective (or existing) business customers for the purpose of introducing them to our products and services and then maintaining a business relationship
+(g) the what3words public api we consider that we have a legitimate interest in processing the limited personal data we collect through our api (as set out in section 1 (b) above) which is necessary in order to deliver that service and to analyse and better understand how our api is being used
+third parties we will only share your personal data with other organisations where we believe have the right to do so in accordance with this policy
+we will never share your contact details to third parties to allow them to contact you for direct marketing purposes
+where we use data processors, we always seek to ensure that they are bound by data processing terms which meet the requirements of applicable data protection legislation and that they only process your personal data upon our instructions
+the following categories of third party may have access to your personal data as a result of your use of the what3words apps and/or website
+a prospective buyer in the event of a sale or purchase of what3words or any of its assets
+any third party when obliged to do so by law
+data hosting companies (such as amazon web services and google cloud )
+external consultants engaged by us to help improve our business
+crm solution providers (such as salesforce a nd hubspot ) other it service providers (such as g suite for business )
+providers of data analytics services (such as matomo , google firebase and google analytics )
+facebook (see privacy policy ), in order to enable you enable to sign in to the apps or website using your facebook sign-in details and to allow us to measure the success of our digital adverts on facebook (see section 9 (other cookies) below)
+we currently give you the option to choose between the following mapping providers for our website
+mapbox (see privacy policy ) google maps (see privacy policy ) esri maps (see privacy policy ) open street maps (see privacy policy ) tomtom (see privacy policy ) our app mapping provider
+google maps currently provides the map within our app (see privacy policy )
+our payment provider, stripe , where you enter your payment details for use of our api (see privacy policy )
+and if you use the voice function on the apps or website (to say a 3 word address), we use voice recognition technology provided by cerence (see privacy policy ), which converts the audio file to a text file containing the 3 word address through automated methods
+we do not collect any personal data through your use of the amazon alexa what3words skill (see terms )
+however, amazon will collect personal data through your use of its alexa platform, as set out in its then-current amazon alexa privacy notice
+where we store and transfer your personal data the personal data that we collect from you may be transferred to, and stored in, a country outside the european economic area (“ eea ”)
+it may also be processed by staff operating outside the eea who either work for us or for one of our suppliers
+countries outside the eea may not have laws which provide the same level of protection to your personal data as laws within the eea
+where this is the case we will put in place appropriate safeguards to ensure that such transfers comply with applicable data protection laws
+keeping information secure unfortunately, the transmission of information via the internet is not completely secure
+whilst we cannot guarantee the security of your data transmitted to our site, and any transmission is at your own risk, we will use strict procedures and security features to try to prevent unauthorised access
+for example, we provide https to ensure communication to/from what3words is securely encrypted
+our systems are protected behind a firewalled vpc, all hosted in london on amazon infrastructure, and we follow strict internal policies as to our handling of personal data and conduct regular reviews of our infrastructure and server security
+how long we keep your personal data we will only store your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements
+to determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements
+we will retain your personal data for at least as long as you use the website and the apps and for a reasonable period of time after you cease using the website and the apps
+where you have requested that we delete any personal data we hold on you, we will typically continue to process the data for only a short period of time to allow us to process that request and keep a record of your request
+see section 7 below for further detail
+your rights we think it is important that you are able to control your personal data
+you have the right to ask us not to process your personal data for marketing purposes
+you can exercise your right to prevent such processing at any time by contacting us at dataprotection@what3words
+under applicable data protection laws, you may be entitled to exercise the following rights
+the right to access personal data that we hold about you
+the right to require us to update our records to ensure the data we hold is accurate
+the right to require us to delete your personal data
+there will be instances where this right is restricted, such as where it is necessary to continue to process your personal data for the establishment, exercise or defence of legal claims
+the right to restrict how we process your data (for example, if you dispute its accuracy, we may restrict its processing until your complaint is resolved)
+the right to require us to transfer your data to another organisation
+the right to object to data processing
+there will be instances where this right is restricted, such as where we have an overriding legitimate ground to continue to process your personal data
+the right not to be subject to the decision of an automated process, such as profiling, when this would have a legal effect (or similarly significant effect) on you
+the right to withdraw your consent (in our case, only in respect of personal data processed for direct marketing purposes)
+we will make this a simple and easy process for you through ‘unsubscribe’ links in all of our marketing communications
+should you wish to exercise any rights in connection with your personal data, please email us at dataprotection@what3words
+when you submit a request, we may ask you for additional information to confirm your identity and entitlement to submit such a request
+if we consider that your request is manifestly unfounded, excessive or repetitive, we reserve the right to charge you an administrative fee
+we will process any request in line with any local laws and our policies and procedures
+we aim to respond to enquiries within 3 working days, but may take up to 30 days to comply with valid requests
+if you want to stop using the website, the app and the services, you may do so
+if you do, you may also want to remove any cookies that we have placed on any device used to access the website and the apps
+in the event that you aren’t happy with our processing of your personal data, we ask that you always seek to get in touch in the first instance so that we can help ease your concerns
+however, you also have the right to lodge a complaint about how we process your personal data with the supervisory authority in your country
+third party products accessed from the website/apps e
+other websites our website and apps may contain links to and from the online products of third parties
+if you follow a link to any of these online products, please note they have their own privacy policies which will govern use of any personal data that theamney process
+please check these policies carefully before you click on any links and/or submit any personal data to these online products
+changes to our privacy policy any changes we may make to this policy will be posted on this page
+where it makes sense because the changes are material, we will notify you by e-mail or in another appropriate manner such as when you next interact with the website/apps
+contacting us is easy and we want to hear from you we really do welcome any questions, comments and requests you may have regarding this policy
+you can contact us by emailing us at dataprotection@what3words
+cookies cookies are small pieces of data that are stored on your computer, mobile phone or other device
+pixels are small blocks of code on web pages that do things like allow another server to measure viewing of a web page and are often used in connection with cookies
+html5 local storage is a small database located inside your browser which web pages can use to store data to speed up their processing
+we may use all three technologies from time to time, to help improve your browsing experience
+you have the ability, by toggling with your browser settings, to turn off our utilisation of cookies
+this may, however, mean that sections of the website or apps are not accessible in the same way or their performance is altered
+cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of our website and apps
+cookies make the interaction between you and our website and apps faster and easier and help us authenticate you to deliver personalised content to you
+we use cookies to distinguish you from other users of the website and apps and to record the pages you have visited on the website and the links you have followed
+this helps us to provide you with a good experience when you use the website or apps and also allows us to improve the website, apps and our services
+we have outlined below the individual cookies we use, along with more on detail on why we use them
+google inc nid _gid _ga _gat __utmz __utmc __utma __utmt_ua-58731966-12 _gaexp google analytics is a web analytics service provided by google, inc
+we use google analytics to allow us to evaluate and report on the usage of our website
+using google analytics helps us to understand our visitors’ behaviour and allows us to make improvements to our users’ experience
+you can opt out of google analytics across all services that utilise it via your browser here
+hubspot __hssc __hssrc __hstc hubspotutk hubspot is a crm (customer relationship management) service provided by hubspot inc
+we use hubspot to facilitate sign-ups for what3words accounts and newsletters, as well as to collect data on interactions with our website/apps (e
+average page views) for internal analytical purposes
+hotjar _hjincludedinsample hotjar is a web analytics service provided by hotjar ltd
+we use hotjar in order to analyse use of the website, as it provides us with heat maps
+(anonymised) colour-coded representations of parts of the website which people are most or least interacting with
+this allows us to plan modifications to our website that will improve users’ experience
+matomo _pk_id _pk_ses piwik_sessid __tawkuuid piwik_auth piwik_lang _pk_hsr matomo is a web analytics service provided by innocraft ltd
+we use matomo to understand our visitors’ behaviour (by collecting the data set out in section 1(b) above) and to allow us to plan modifications to our website that will improve user experience
+stripe __stripe_mid __stripe_sid stripe is a payments system provided by stripe, inc
+(and its affiliates) that we use to take payments for our api
+stripe sets cookies to enable payments to take place effectively and securely by linking your browser to your stripe credentials
+io _ga _gid gtm_id branch
+io is a web analytics platform provided by branch metrics, inc
+io to provide a seamless experience for users when moving between our website and our apps through deep linking (for example, to allow a user to click on a 3 word address, download one of our apps and for that app to open on the original 3 word address)
+io also allows us to plan modifications to our products that will improve user experience
+intercom intercom-id _ga gtm_id intercom, inc
+and its affiliates provide a messaging platform (called intercom) where users can send us questions about what3words and we can respond
+intercom enables us to provide customer support to our visitors
+what3words auth-token language is-developer is_splash_screen_closed is_onboarding_finished is_cookie_notice_closed we use our own strictly necessary cookies to improve functionality on our sites
+an authentication cookie is stored by the browser so that our websites can check that a user has been authenticated by our servers
+we also store a user’s language preferences, as well as if they are a developer for our developer site
+other cookies remember if a user has completed tutorials or closed the cookie notice on the website
+other cookies in addition to the above cookies, the following sites may create their own cookies whilst browsing our website
+twitter ( privacy policy
+ad preferences ) google ( privacy policy
+ad preferences ) facebook ( privacy policy
+ad preferences ) linkedin ( privacy policy
+ad preferences ) because we conduct advertising campaigns on these sites, these cookies allow us to measure the success of our campaigns (e
+how many people clicked on a what3words advert shown to them on their facebook page, how many people installed one of the apps etc)
+user behaviour on our website may also be used to build audiences for our facebook, twitter and linkedin advertising campaigns
+the links above have more information on facebook, twitter, linkedin’s interest-based advertising and how to opt out or change user preferences
+we also use google adwords for remarketing purposes in order to encourage users to return to the site
+to do this, we make use of adwords remarketing tags which set information within a google adwords cookie
+business automotive ride-hailing navigation travel e-commerce logistics emergency government gis humanitarian uavs products the what3words app public api enterprise suite e-commerce plugins microsoft excel plugin embed code generator batch converter gis extensions beta program all products map account about ways to use news press jobs team shop developer newsletter our community design assets support contact us © 2020 what3words limited
+terms and conditions privacy

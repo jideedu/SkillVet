@@ -1,0 +1,15 @@
+this privacy policy describes how and when food finder collects, uses, and shares your information when you use our services
+food finder receives your information through our mobile applications, websites, email notifications, and other interactions with our services
+when using any of our services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy
+irrespective of which country you reside in or supply information from, you authorize food finder to use your information in the united states and any other country where food finder operates
+information collection and use creating a food finder account and profile information
+when you create a food finder account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as facebook or a microsoft account
+you may optionally provide us with a profile picture or an updated username
+if you create your food finder account by connecting through another service, we may use public information from that connected account to help complete your food finder profile
+you may update or modify your profile information and contact information at any time
+your user name and profile picture is publicly available in our service to other users
+changes to this policy we may revise this privacy policy from time to time
+the most current version of the policy will govern our use of your information and will always be at https
+if we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the services
+by continuing to access or use the services after those changes become effective, you agree to be bound by the revised privacy policy
+for any questions please contact us at queries@logicstem

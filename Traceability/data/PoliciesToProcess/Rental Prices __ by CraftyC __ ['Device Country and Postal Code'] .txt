@@ -1,0 +1,47 @@
+custom alexa & google home solutions
+we are committed to safeguarding the privacy of our users
+this policy sets out how we will treat your personal information
+we recognize the significance of protecting information which is stored on our computers or is intended to be stored on our computers and which relates to an individual
+the data we protect are the “personal data” which is any information relating to an identified or identifiable natural person, sometimes called a data subject, and have made protecting privacy and the confidentiality of personal data a fundamental component of the way we do business
+this privacy policy informs you of the ways we ensure privacy and the confidentiality of personal data
+we are compliant with applicable privacy laws in the countries in which we operate
+this policy describes the information we gather, how we may use those personal data and the circumstances under which we may disclose such information to third parties
+(1) what information do we collect
+we may collect, store and use the following kinds of information and personal data (“collected information”)
+(a) information about your visits
+(b) information about any transactions carried out between you and us, including information relating to registration of our events
+(c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications
+(d) amazon alexa “indiana hypnosis” skill does not collect, store, or share user data
+(e) amazon alexa “indiana hypnosis” skill does not include any mechanism for the collection, storage or sharing of such data
+(f) google action “georgia tech trivia” does not collect, store, or share user data
+(g) google action “georgia tech trivia” does not include any mechanism for the collection, storage or sharing of such data
+(h) google action “cat food can” does not collect, store, or share user data
+(i) google action “cat food can” does not include any mechanism for the collection, storage or sharing of such data
+(2) using collected information collected information, including personal data submitted (i
+, data that can be used to identify, contact or locate an individual) will be used for the purposes specified in this privacy policy
+we may use all collected information, including your personal information to
+(a) administer and improve usability
+(b) improve your browsing experience
+(c) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology
+(d) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology
+(e) for other marketing purposes and to provide other companies with statistical information about our users
+information we provide to other companies will not identify any individual user
+(3) data sharing policy we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information
+(4) security of your personal data we will take reasonable precautions to prevent the loss, misuse or alteration of your personal information
+data transmission over the internet is inherently insecure and we cannot guarantee the security of data sent over the internet
+we will store all the personal information you provide on secured servers
+you are responsible for keeping your passwords confidential
+we will not ask you for your passwords
+(5) third party websites this website contains links to other websites
+we are not responsible for the privacy policies of third party websites or such site operators’ actions including the collection or use of your personal information
+(6) coppa (children online privacy protection act) we do not specifically market to children under the age of 13 years old
+when it comes to the collection of personal information from children under the age of 13 years old, the children’s online privacy protection act (coppa) puts parents in control
+the federal trade commission, united states’ consumer protection agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online
+(7) contact if you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to alexadevgroup
+com or by post to 925b peachtree st
+ne, suite 182, atlanta, ga 30309
+alexa on my face is here
+creating a multi-language alexa skill
+is failing fast a sign
+automating the build of voice applications
+google’s response to alexa live

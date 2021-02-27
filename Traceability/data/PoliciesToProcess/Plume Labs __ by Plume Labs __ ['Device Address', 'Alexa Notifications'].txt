@@ -1,0 +1,111 @@
+this app works best with javascript enabled
+flow air mission en fr buy flow privacy policy
+your privacy is very important to us
+in order to provide you with our online services, such as our mobile application plume air report, our websites and web applications, our amazon alexa skill or our google home app (referred to collectively as the “ application ”), we might need to collect and process some of your personal data
+please read below how we protect your privacy as we provide our services
+definition and nature of personal data
+the term " personal data " encompasses any information that could be used to identify you, such as your name, your email address, your city, your geolocation, or any other information about yourself that you choose to share with us
+purpose of this privacy policy
+the purpose of this privacy policy is to explain how we collect and process your personal data, how we protect it, and how we help you exercise your rights
+we collect and process your personal data in compliance with french law n°78-17 of january 6, 1978 on information technology, data files and civil liberties (hereinafter referred to as the “ french data protection act ”), as well as the european union’s general data protection regulation (regulation 2016/679 of the european parliament and of the council of 27 april 2016, hereinafter referred to as the “ gdpr ”)
+identity of the entity responsible for collecting data
+the entity responsible for collecting and processing your personal data is plume labs sas, a french simplified joint stock company (“ société par actions simplifiée ”) registered with the registry of trade and companies of paris under the number 803 473 974, whose head office is located at 11 bis, rue bachaumont - 75002 paris - france (hereinafter referred to as “ us ” or “ we ”)
+basis for processing of personal data
+we rely on a number of legal bases to collect and process your personal for the purposes described in this privacy policy, including
+as necessary to provide our services through our application
+your consent to our collection and processing of this data
+a legitimate interest in providing and improving our application on a sustained basis, and keeping the application safe and secure
+your personal data is processed to meet one or several of the following requirements
+to manage your access to the services provided through the application and their use
+to maintain a file of registered members, users, customers and prospects
+to send newsletters, updates and promotional advertisement (you have the possibility to opt-out of receiving such communications at any point)
+to generate service usage statistics that help provide and improve our services
+to organize promotional games, sweepstakes or any promotional operation, (excluding gambling and online gambling)
+to collect customer reviews and feedback on products, services or contents
+to customize our answers to your support requests
+to fulfill our legal and regulatory requirements
+we will inform you, when collecting your personal data, whether some of these data are mandatory or optional
+mandatory data are necessary for the provision of our services
+optional data may help us provide you with a better service but you can use the application without disclosing them
+recipients of the collected data
+your personal data will only be collected by our employees and subcontractors
+we may preserve and share your information with third parties including law enforcement, public or governmental agencies, or private litigants if we determine that such disclosure is necessary to comply with the law, including to respond to court orders, warrants, subpoenas, or other legal or regulatory process
+transfer or sale of personal data
+your personal data will not be sold, transferred or rented to third party
+we may share your information with third parties and subcontractors who provide services to plume labs, such as supporting and improving the application, promoting the application, processing payments, or fulfilling orders
+we may also engage service providers to collect data about your usage of the application on our behalf, for statistical purposes or so that we or they may promote plume labs
+these service providers will only have access to the information necessary to perform these limited functions on our behalf and are required to protect and secure your information
+we ensure that we have clear data protection requirements for all of our third party providers
+personal data storage period
+data on current and potential customer management
+your personal data shall be stored no longer than the time strictly necessary for the management of our commercial relations with you
+however, any data providing the proof of a right or a contract and that must be stored in compliance with a legal obligation shall be so for the period stated by the legislation currently in force
+personal data collected in the context of potential promotional operations may be stored for a period of three years from the end of the commercial relations with you
+personal data relating to potential customers may be stored for a period of three years from their collection or the last contact from the potential customer
+beyond that three-year period, we may contact you again to find out if you still wish to receive commercial solicitations
+when exercising your right of access or correction, data relating to identity documents may be stored for the time limit provided for in article 9 of the french criminal procedure code, namely one year
+when exercising your right to object, these data may be archived for the limitation period provided for in article 8 of the french criminal procedure code, namely three years
+management of opt-out systems
+all information taking into account your right to object shall be stored for at least 3 (three) years from the exercise of this right
+the term of storage of the cookies set forth in article 10 is 13 (thirteen) months
+we take your privacy very seriously
+as a consequence we take all necessary precautions, as well as all appropriate organizational and technical measures, to maintain the security, the integrity and the confidentiality of your personal data, and to prevent that they be distorted or damaged and that they be accessed by unauthorized third-parties
+we inform you that your personal data are stored, for the term set forth above, on the servers of the companies ovh sas and amazon web services, both located in the european union
+your personal data shall remain within the european union or other countries providing an adequate level of data protection (such countries being selected by the european union)
+when you visit the application, a cookie may be stored on your computer
+cookies are often encrypted small lines of text that are stored in your web browser
+they are created when a user’s browser is loading one website
+this website sends information to the browser which creates a text file
+each time the user is visiting this website, the browser retrieves this file and sends it to the website’s server
+there are various types of cookies which do not have the same purposes
+technical cookies are used to facilitate and carry out some of the functionalities of the application
+a technical cookie may be used, for instance, to memorize the answers you provided in a sign-up form or preferences relating to the language or the presentation of an internet site when such options are available
+we use technical cookies
+social network cookies may be created by social platforms for purposes of enabling web designers to share their website content on said platforms
+these cookies may be used by social platforms for purposes of tracking net surfers’ visit on the relevant website, whether they use or not these cookies
+we use social network cookies
+furthermore, we invite you to check the privacy policies of the social platforms that created these cookies, in order to be acquainted with the purposes for which they use the browsing information they collect through these cookies, as well as of the procedures for exercising your rights with these platforms
+advertising cookies can be created not only by the website users are visiting, but also by other websites which provide advertisements, announcements, widgets or any other element on the displayed page
+specifically, these cookies enable the use of re-marketing, a technique aimed at personalizing online advertisement
+we use advertising cookies
+analytics cookies help us monitor aggregate usage of the application, for instance to measure the number of visits to our application, the number of page views and visitors' activity on the application and on our websites, in order to provide and keep improving its services
+we use cookies for analytics and statistics purposes
+your ip address is also collected to determine the city you are connecting from
+you consent to the use of cookies by using the application, but can choose to decline acceptance of any or all cookies
+for all intents and purposes you can always opt-out of cookies at all times through your browser settings
+however, this refusal could prevent you from using some of the services offered through the application
+access to your personal data
+in compliance with the french data protection act and the gdpr, you have the right to access and rectify any information about you
+you can exercise this right and get access to the information about you by contacting us at the
+11 bis, rue bachaumont - 75002 paris - france
+right to define instructions related to the processing of data after your death
+you have the right to define instructions with regard to the storage, the erasure and the communication of your personal data after your death
+these instructions may be general directions, which are focused on all personal data concerning you
+in such case, they must be registered with a digital trusted third party certified by the french data protection authority (cnil)
+these instructions may also be specific to the data processed by our company
+you are then required to provide these instructions to us at
+11 bis, rue bachaumont - 75002 paris - france
+by providing to us these instructions, you hereby expressly consent that they be stored, transmitted and carried out on the terms and conditions set forth herein
+you have the right to appoint in your instructions a person in charge of their execution
+after your death, this person shall be entitled to take knowledge of these instructions and to request to us their implementation
+failing such appointment, your heirs shall be entitled to take knowledge of these instructions and to request to us their implementation
+you may modify or revoke your instructions at any time, by writing to us at the abovementioned contact addresses
+portability of your personal data
+you have a right to portability of the personal data you have entrusted to us, understood as the data you have actively and deliberately declared when accessing to and using our services
+you are reminded that portability right does not apply on data that were processed on a basis other than consent or the execution of a contract between us
+this right may be exercised free of charge, at any time, including when closing your account on the application for instance, so that you may recover and store your personal data
+in this context, we shall provide your personal data, by any appropriate means, in an open standard, currently used and machine-readable format, in compliance with the state of art
+complaints to the data protection authority
+if you are european union resident, you are informed that you may lodge any complaints on the manner in which we handle your personal data with your local supervisory authority
+you have the right to obtain restriction on the processing of your personal data where one of the following applies
+within the period of verification that we carry out, if you contest the accuracy of your personal data
+when the processing of these data is unlawful and you request the restriction of this processing, instead of erasing your data
+when we no longer need your personal data, but you require their maintenance for the exercise of legal claims
+within the period of verification of the legitimate interests, if you have objected to the processing of your personal data
+we reserve the right, at our sole discretion, to modify this privacy policy, in whole or in part
+any changes will be effective from the time of publication of the new privacy policy
+your use of the application after the changes have been implemented implicitly expresses your acknowledgement and acceptance of the new privacy policy
+otherwise, and if the new privacy policy does not suit you, you must no longer use our services
+this privacy policy came into force on may 25th 2018
+09 52 26 09 08
+fr64803473974 company mission careers products flow air business store resources blog help center press privacy policy terms & conditions return policy cookie management

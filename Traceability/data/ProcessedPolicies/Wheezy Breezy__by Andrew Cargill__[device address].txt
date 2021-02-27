@@ -1,0 +1,3 @@
+wheezy breezy privacy policy
+wheezy breezy uses your full address based on information provided within the alexa app in order to give you
+the latest and most relevant air quality information for your current location

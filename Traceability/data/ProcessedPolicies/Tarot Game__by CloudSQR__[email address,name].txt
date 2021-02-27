@@ -1,0 +1,34 @@
+privacy policy effective date
+november 9, 2019 introduction this voice-activated services privacy notice (“privacy notice”) applies to information obtained by cloudsqr (“we,” “us”, “our” or “cloudsqr”) when you use voice-activated services (sometimes referred to as skills or actions
+“voice-activated services”), which cloudsqr offers through third-party devices, speakers and related offerings (collectively, “devices”), including those provided by amazon alexa and google assistant
+what information we obtain we obtain certain information when you interact with a voice-activated service provided by cloudsqr
+please note that the information we receive varies by the type of device and is controlled by the operator of the device
+it may include details such as
+user id (this is a randomized identifier specific to the voice-activated service and set by the device operator)
+text transcripts of the requests you make through the device (i
+depending on your device and/or voice-activated service account settings and permissions, we may obtain additional information, such as your name or e-mail
+you may be able to opt out of sharing this information by changing the settings through the companion app for the voice-activated service or other means offered by the device operator
+however, some features of the voice-activated services (e
+, purchasing capability) may become difficult to use or unavailable without this information
+how we use information we obtain we use the information we obtain in connection with the voice-activated services
+to provide you with the voice-activated services and address the requests you make
+customize or enhance your overall experience with the voice-activated services
+maintain, improve and develop the voice-activated services and new products or services
+perform data analyses and aggregations (including to understand usage and performance of our voice-activated services or offer recommendations)
+for marketing and advertising purposes (including marketing and advertising of third parties’ products and services)
+to comply with and enforce applicable legal requirements (including legal processes such as court orders, warrants or subpoenas) and fulfill our contractual obligations
+with whom we share information we may share information with service providers that perform services on our behalf, including for data analytics purposes
+we may also share information with business partners, content sponsors, advertisers, marketing partners and other third parties
+cloudsqr reserves the right to transfer the information we obtain through the voice-activated services in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition or in connection with a bankruptcy reorganization, dissolution, or liquidation
+we may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of users of the voice-activated services or other individuals and entities, or to comply with or enforce applicable law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities
+please keep in mind that device operators may use or share information they obtain about your use of voice-activated services or a device according to their own privacy practices and policies
+cloudsqr does not control how device operators may use or share your information
+how we protect information we maintain appropriate administrative, technical and physical safeguards designed to protect the information we obtain from your use of the voice-activated services
+device operators and other third parties as mentioned above, the information we obtain is dependent on what is shared with us by the device operator
+cloudsqr is not responsible for the privacy practices of the device operators or any non-cloudsqr operated voice-activated services you may use
+we encourage you to review the privacy policies or notices published by the device operators and other third parties with whom you share information in connection with your use of voice-activated services
+changes to this privacy policy this privacy notice may be updated periodically and without prior notice to you to reflect changes in our practices
+we indicate at the top of the privacy notice when it was most recently updated
+contact us if you have any questions about this privacy notice, please contact us at privacy@cloudsqr
+leave a reply cancel reply your email address will not be published
+required fields are marked * save my name, email, and website in this browser for the next time i comment

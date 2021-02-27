@@ -1,0 +1,31 @@
+no suggested jump to results
+all your code in one place
+github makes it easy to scale back on context switching
+documentation, see the history of any file, and collaborate with
+contributors on projects across github
+sign up for free
+see pricing for teams and enterprises
+cannot retrieve contributors at this time
+31 lines (16 sloc) 1
+london bike operates as an amazon alexa skill created by mohamed arradi-alaoui
+it is london bike's policy to respect your privacy regarding any information we may collect while operating
+we use your personal information only to provide a personalized user experience
+by enabling the skill, you agree to use of information in accordance with this policy
+gathering of personally-identifying information
+certain users to london bike's skill choose to interact with london bike in ways that require london bike does not gather personal identifying information
+information we collect from other sources
+we also don't obtain information about you from other sources
+we don't not retain any user provided data
+to be able to investigate issues with the skill, london bike stores logs with amazon cloudwatch
+these logs don't include personally-identifying information but only gps coordinates, which are not exposed, sold or used besides the tracking of issues
+although most changes are likely to be minor, london bike may change its privacy policy from time to time, and in london bike's sole discretion
+london bike encourages visitors to frequently check this page for any changes to its privacy policy
+your continued use of this skill after any change in this privacy policy will constitute your acceptance of such change
+2019/01/25 - first version of the privacy policy
+a big thank you to automattic for providing this privacy policy template under creative commmons
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

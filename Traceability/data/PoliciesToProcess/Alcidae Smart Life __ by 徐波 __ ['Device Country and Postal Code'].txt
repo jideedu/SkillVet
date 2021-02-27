@@ -1,0 +1,103 @@
+at alcidae, we take your privacy seriously
+this privacy statement for alcidae products and services (“privacy statement”) describes information that alcidae inc
+and its subsidiaries and affiliates (collectively, “alcidae”) collect, use, share, and store, including personal information (i
+, information that personally identifies you, such as your name, email address or billing information, or other data that can be reasonably used to infer this information)
+this document focuses on information related to the operation of alcidae products and services, including the alcidae camera and other products from alcidae (collectively, “alcidae products”)
+in this privacy statement, the expression “alcidae products” also includes our desktop apps, mobile apps, and subscription services as defined in our terms of service
+be transparent about the different types of information we collect and how we use them
+before sharing your personal information with third parties for purposes other than to provide alcidae’s products, and to do so only when we think they will provide you with a welcome additional service
+use best-in-class data security tools
+to keep your data safe and protect the alcidae products from unauthorized access
+by using alcidae products, you agree to allow us to collect and process information as described below
+what information does alcidae collect
+information input during setup
+environmental data from alcidae camera sensors
+video and audio signals and data
+technical information from the device
+information input during setup
+when you install alcidae camera, you’ll be asked for certain basic information like your device name, device description, zip or postal code, the country where the alcidae camera is located as well as where in your home you’re installing it
+this information is used to personalize your experience – for example, to tell you which device is triggering a notification
+environmental data from the camera’s sensors
+we collect data from several sensors built into alcidae camera
+these sensors collect data such as ambient light
+by recording this information, alcidae camera can know, for instance, whether it’s dark and it should turn on night vision
+video and audio signals and data
+when you enable the recording or streaming features of your alcidae camera, we may record and process video and/or audio recordings from the device, subject to your configuration and settings
+this may include capturing and emailing to you portions of this data as part of a notification or analyzing the data to identify motion or other events
+we may process information from your alcidae camera so that we can send you alerts when something happens
+in addition, if you have the recording features enabled, we will capture, process and retain video and audio data recordings from your device for the duration of your recording subscription period (for example, 7 days) and you will be able to access those recordings using the services during that time
+technical information from the device
+in order to improve your experience over time and help troubleshoot any problem you may encounter with alcidae camera, we record your alcidae camera model and serial number, software version, and technical information such as wi-fi signal strength
+saved and shared content
+you may save and may choose to share certain content like video clips, live video streams, images, captions, and comments for other people to access using the services
+we will collect and store information that will allow us to save or share your content as directed by you through the services
+data protection and privacy laws in your country may impose certain responsibilities on you and your use of alcidae camera
+you (not alcidae) are responsible for ensuring that you comply with any applicable laws when you use alcidae camera
+for example, you may need to display a notice that alerts visitors to your home that you are using alcidae camera
+note in particular that recording and sharing clips that involve other people may affect their privacy and data protection rights
+what additional information does alcidae collect and store when a user connects a alcidae product to the internet or creates an account
+to connect your alcidae product to our services, or to access your alcidae product over the internet from a computer, a smartphone or a tablet, you will need to connect it to your wi-fi network
+during setup, the alcidae product will ask for your wi-fi network name (ssid) and password to connect to the internet
+it will save this information on the device, along with your ip address, so that you can access it and control it from your computer, smartphone or tablet, and so that it can communicate with alcidae servers and download software updates
+once connected to your wi-fi network, your alcidae product regularly sends the data described in this privacy statement (excluding your wi-fi password) to alcidae to provide you with the services
+additionally, when you create a alcidae account, we collect and store your email address
+from that point forward, your email address is used for communications from alcidae
+some alcidae products – like alcidae camera – may allow you to invite other people such as friends or family to share access to your content
+we will ask you for that person's email address and automatically send an email invitation on your behalf
+alcidae stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation services
+in addition, alcidae products (such as alcidae camera) may broadcast an identifying signal wirelessly
+this is used to connect with your devices (such as a smartphone or tablet) in order to deliver features like easy setup (airlink auto)
+how does alcidae use the information it collects
+we use this information to provide, develop and improve alcidae products and services, including information to make assessments and recommendations about products, safety, or energy use
+we may use your contact details to send you this information, or to ask you to participate in surveys about your alcidae use
+we may also use this information in an aggregated, non-identified form for research purposes and to help us make sales, marketing, and business decisions
+for example, we use aggregated user information about the number of active thermostat users in a particular state to help us decide what energy companies might be good partners
+we may use service providers to perform some of these functions
+those service providers are restricted from sharing your information for any other purpose
+we use industry-standard methods to keep this information safe and secure while it is transmitted over your home network and through the internet to our servers
+depending on your location and type of data, alcidae may process your personal information on servers that are not in your home country
+in what circumstances does alcidae share my information
+under no circumstance do we share personal information for any commercial or marketing purpose unrelated to the delivery of alcidae products and services without asking you first
+we do not rent or sell our customer lists
+the following are the limited situations where we may share personal information
+with your explicit consent
+we may share personal information when we have your consent
+one example of this would be if you sign up for programs offered by our partners (e
+, energy or insurance companies)
+if you do this, we may share certain information with the partner
+this could include things like your enrollment information and the activation status of your device
+similarly, when you connect third-party devices and services to your alcidae products through the works with alcidae program, you are shown information about any proposed exchange of data
+your explicit consent is required to allow these exchanges on your behalf and you can change your mind at any time
+we have vendors, service providers, and technicians who help with some of our processing and storage, including helping to answer your questions
+they may also assist with monitoring our servers for technical problems
+these technicians (as well as alcidae employees) can access certain information about you or your account in line with this work but these technicians are not allowed to use this data for non-alcidae purposes
+we also have strict policies and technical barriers in place to prevent unauthorized employee access to video data
+as part of business transitions
+upon the sale or transfer of the company and/or all or part of its assets, your personal information may be among the items sold or transferred
+we will request a purchaser to treat our data under the privacy statement in place at the time of its collection
+we may provide information to a third party if we believe in good faith that we are required to do so for legal reasons
+for example, to respond to legal process, or comply with state and federal laws (or the applicable laws of foreign countries other than the united states)
+we may share non-personal information (for example, aggregated or anonymized customer data) publicly and with our partners
+for example, we may publish trends about energy use or elevated carbon monoxide levels in the home
+this information may also be shared with other users to help them better understand their energy usage compared to others in the alcidae community, raise awareness about safety issues, or help us generally improve our system
+we may also share non-personal information with our partners, for example, if they are interested in providing demand-response services or other incentive programs
+we take steps to keep this non-personal information from being associated with you and we require our partners to do the same
+your personal information may be collected, processed and stored by alcidae or its service providers in the united states and other countries where our servers reside
+as a result, your personal information may be subject to legal requirements, including lawful requirements to disclose personal information to government authorities, in those jurisdictions
+if you select an outside party for the purchase, installation, or service of your alcidae device and share your personal information, we cannot control the collection, storage or sharing of information collected by that party
+for example, if you buy a alcidae camera from a retailer, the retailer may collect personal information as part of the transaction
+or the party that installed the device may retain information that you provided to them to assist them in servicing the device if needed
+always check the privacy policies for any company that collects your personal information
+how long does alcidae save my personal information and how can i delete it
+alcidae generally stores your personal information on alcidae’s servers until you delete or edit it, or for as long as you remain a alcidae customer in order to provide you with alcidae products
+as described above, some information is processed and stored directly on the alcidae device
+all personal information is encrypted as it is transmitted to alcidae and cannot easily be accessed
+you can delete the information on the alcidae device by resetting it to the defaults
+you can access, amend or delete your personal information from alcidae’s servers through the controls in your account
+because of the way we maintain certain services, after your information is deleted, backup copies may linger for some time before they are deleted, and we may retain certain data for a longer period of time if we are required to do so for legal reasons
+please note that this privacy statement may change from time to time
+we will provide notice of any changes on the website or by contacting you
+if you have any inquiries or complaints about our handling of your personal data, or about our privacy practices generally, please contact us at
+subscribe and receive special offers only available via our newsletter
+launch theme by pixel union
+chat with us ,

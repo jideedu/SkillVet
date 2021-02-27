@@ -1,0 +1,56 @@
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+13 lines (7 sloc) 1
+allergy forecast privacy policy
+alexa skill allergy forecast creator/developers is committed to your privacy
+we obey all laws and regulations in the united states applicable to our use and disclosure of your information
+except as set forth in this privacy policy (“policy”), we will not trade, sell, or disclose to any third party any form of personal information (as defined below) without your consent, and we will not disclose or make available any such personal information to any third parties seeking to market third party products without your consent
+we have set forth this policy to explain how we collect and use information from customers who use allergy forecast skill (“customers”), which are incorporated by reference herein, and from visitors to our skill and potential customers who have communicated, made contact with, or interacted with allergy report (“visitors”), both in connection with online and offline services and equipment offered by allergy forecast creators
+allergy forecast skill shall collect alexa customer devices location information from customers when using the skill
+allergy forecast creators will not use location information (1) to market our equipment and services to customers and to visitors that allergy report creators believes have interest in them, (2) to provide services and equipment requested by customers and visitors and (3) to enable its vendors and contractors to provide and assist allergy report creators in the marketing and provision of such equipment and services to customers and visitors
+however, we will not share your location information with any third parties
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+you can always update your selection by clicking cookie preferences at the bottom of the page
+for more information, see our privacy statement
+we use essential cookies to perform essential website functions, e
+they're used to log you in
+we use analytics cookies to understand how you use our websites so we can make them better, e
+they're used to gather information about the pages you visit and how many clicks you need to accomplish a task
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+13 lines (7 sloc) 1
+allergy forecast privacy policy
+alexa skill allergy forecast creator/developers is committed to your privacy
+we obey all laws and regulations in the united states applicable to our use and disclosure of your information
+except as set forth in this privacy policy (“policy”), we will not trade, sell, or disclose to any third party any form of personal information (as defined below) without your consent, and we will not disclose or make available any such personal information to any third parties seeking to market third party products without your consent
+we have set forth this policy to explain how we collect and use information from customers who use allergy forecast skill (“customers”), which are incorporated by reference herein, and from visitors to our skill and potential customers who have communicated, made contact with, or interacted with allergy report (“visitors”), both in connection with online and offline services and equipment offered by allergy forecast creators
+allergy forecast skill shall collect alexa customer devices location information from customers when using the skill
+allergy forecast creators will not use location information (1) to market our equipment and services to customers and to visitors that allergy report creators believes have interest in them, (2) to provide services and equipment requested by customers and visitors and (3) to enable its vendors and contractors to provide and assist allergy report creators in the marketing and provision of such equipment and services to customers and visitors
+however, we will not share your location information with any third parties
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+you can always update your selection by clicking cookie preferences at the bottom of the page
+for more information, see our privacy statement
+we use essential cookies to perform essential website functions, e
+they're used to log you in
+we use analytics cookies to understand how you use our websites so we can make them better, e
+they're used to gather information about the pages you visit and how many clicks you need to accomplish a task

@@ -1,0 +1,40 @@
+privacy and cookies policy last updated
+january 9 2018 please read this privacy policy carefully as you agree to be bound by it while using and today is for ios or alexa as well as the andtodayis
+com website and today is is provided by cornelius behrend, 09112 chemnitz, germany
+com this privacy policy and any documents it references, inform you how we collect and use the information (“personal data”) you provide when using and today is
+we may modify this privacy policy from time to time without notice
+when we do we will update the “last updated” date
+it is therefore important that you regularly review this privacy policy to ensure you are updated as to any changes
+who controls the personal data that is collected
+all personal data collected is in the control of cornelius behrend as the developer
+in the event that and today is are subject to a change of ownership, the control and permissions that you have granted us with regard to your personal data will be transferred to the new owner
+how do we collect personal data
+when you visit our website, we use cookies (see below for more information about cookies) to collect website usage information such as the type and version of browser and operating system you use
+cookies are not used to store personal details such as your name and address
+and today is collect some information anonymously
+this can include the app and version number, language, os version and license data
+this is solely used to ensure correct content is shown in the welcome screen of the applications and to identify a possible update notification
+we will also collect crash report data, but only if you choose to submit it to us
+we will ask for a permission to receive the postal code and country of your device
+this data is stored on our server
+you can choose to deny this permission
+what is personal data used for
+the address data is used to determine the timezone of your device
+to generally help us improve the and today is experience for you and others
+do we share personal data
+how secure is your personal data
+we use industry standard 128-bit secure sockets layer (ssl) technology to encrypt any communication with our servers
+do we transfer personal data overseas
+third-party cookies there are a few third-party websites that also use cookies on our behalf
+social networking sites, like facebook, use cookies so you can easily share content
+google analytics saves anonymous statistical data that we use to improve your experience on our site
+we do not directly control these cookies
+you can check the third-party websites for more information on these
+apple privacy policy google analytics
+google privacy policy amazon alexa
+amazon privacy policy removing cookies cookies don’t stay around forever and your web browser will eventually delete them
+when a website stores a cookie, it states how long the cookie should stay on the computer for – this can be for the current visit only or for a period of time, for example one week
+our main cookie session_id only stays on your computer while you are on our website
+it is automatically removed when you leave our website
+you can choose to delete our, or any website’s, cookies from your web browser at any time
+questions if you have any questions about our privacy and cookies policy, please send an email to privacy@andtodayis

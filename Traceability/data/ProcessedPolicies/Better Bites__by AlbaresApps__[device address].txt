@@ -1,0 +1,2 @@
+500 - internal server error
+there is a problem with the resource you are looking for, and it cannot be displayed

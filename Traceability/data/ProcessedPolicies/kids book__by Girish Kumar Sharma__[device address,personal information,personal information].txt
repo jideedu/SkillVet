@@ -1,0 +1,48 @@
+this document outlines good privacy practices for web applications, including those that might use device apis
+this continues the work on privacy best practices in section 3
+1 on "user awareness and control" mobile web application best practices [mwabp]
+it does not repeat the privacy principles and requirements documented in the device api privacy requirements note [dap-privacy-reqs] which should also be consulted
+the principles of "privacy by design" should be reflected in the web application design and implementation, including the use of device apis
+these are enumerated below and in more detail in the reference [privacy-by-design]
+follow "privacy by design" principles
+proactively consider privacy, make preservation of privacy the default, including privacy in a user-centric and transparent design without making tradeoffs against privacy for other features as privacy is possible along with other functionality
+these principles include the following
+privacy as the default setting
+privacy embedded into design
+full functionality � positive-sum, not zero-sum
+end-to-end security � full lifecycle protection
+visibility and transparency � keep it open
+respect for user privacy � keep it user-centric
+privacy should be user centric, giving the user understanding and control over use of their personal data
+enable the user to make informed decisions about sharing their personal information with a service
+the end user should have enough information about a service and how it will use their personal information to make an informed decision on whether to share information with that service
+this should include understanding of the data to be shared, clarity about how long data will be kept and information with whom it will be shared (and for what purpose)
+enable the user to make decisions at the appropriate time with the correct contextual information
+the user should have the opportunity to decide whether to share information (and what to share) at the time it is needed
+this is necessary as the decision can depend on the context, including the details of what the user is trying to accomplish, the details of that task, and differences in how the service will operate, use and share data
+the web application should make sure that consent is "informed consent" and provide necessary privacy notice and other information at the time user consent is required, either through action or other means
+when learning user privacy decisions and providing defaults, allow the user to easily view and change their previous decisions
+a service may learn and remember personal information of the user in order to improve a service
+one example is remembering a billing address
+another example might be remembering payment information
+when doing so the service should make it clear to the user which information is retained and how it is used
+it should give the user an opportunity to correct or remove the information
+focus on usability and avoid needless prompting
+focusing on usability should improve a service as well as making it easier for the user to understand and control use of their personal information
+minimize use of modal dialogs as they harm the user experience and many users will not understand how to respond to prompts, instead making a choice that enables them to continue their work [geolocation-privacy]
+active consent should be freely given, for specific data, and be informed
+active consent is where user action is taken to also give permission, avoiding the need for consent dialogs
+such active consent should be freely given, for specific data, and be informed
+thus the user should be able to cancel the operation, know which data is shared, and have adequate information at the time of the action regarding the intended use of the data [consent-eu-wp187]
+the web application should provide the user with information on intended use in conjunction with device api usage
+examples of active consent include selecting contact fields to share, electing to create a picture by clicking on the camera shutter, and so on
+active consent can improve usability and be less disruptive than consent dialogs, and can also meet privacy requirements if appropriate criteria are met
+be clear and transparent to users regarding potential privacy concerns
+the end user should understand if information is being used by the service itself or being shared with a third party, especially when third party services are involved in a "mashup"
+be clear as to whether information is needed on a one-time basis or is necessary for a period of time and for how long
+the end user should understand whether information collected is for a single use or will be retained and have an impact over time
+minimize collection and transmission of personal data
+review the data and how it is structured and used, minimizing the amount and detail of data required to provide a service
+request the minimum number of data items at the minimum level of detail needed to provide a service
+as an example, an address book entry is not the natural level of granularity as the user may wish to share various individual address book fields independently
+thus the natural level of granularity in an address book is a field and no more than the necessary fields should be provided in response to an address book entry request

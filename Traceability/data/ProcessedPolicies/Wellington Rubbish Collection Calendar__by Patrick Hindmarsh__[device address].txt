@@ -1,0 +1,11 @@
+we collect personal information from you, including information about your
+- amazon echo device address (usually your home address)
+we collect your personal information in order to
+- find the right collection schedule for your house
+besides our staff, we share this information with
+- google places api in order to accurately identify which street and suburb to use for your collection schedule
+providing some information is optional
+if you choose not to enter your device address information, we'll be unable to provide the collection schedule for your street
+we keep your information safe by storing it in an encrypted database and using strong access control to prevent unauthorised access
+you have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong
+if you’d like to ask for a copy of your information, or to have it corrected, please contact us at alexa@hindmar

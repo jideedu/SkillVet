@@ -1,0 +1,256 @@
+skip to main content
+franchise business and support
+franchise business and support
+do not sell my info
+thank you for using this service, which is owned and operated by regis corporation (“regis,” “we,” “us,” or “our”)
+scope of this policy
+this privacy policy (this “policy”) applies to information collected through www
+com and any other website that is owned or controlled by regis and on which we post a link to this policy, including your access to any optimized version of this website via a mobile or tablet device (“website(s)”), and any regis mobile application owned or controlled by regis and on which we post a link to this policy (“app”) (collectively, the websites and the app are referred to as the “service”)
+terms such as “we”, “us” and “our” refer to regis corporation and its subsidiaries and affiliates but do not include regis’s franchisees
+for information regarding how regis handles personal information of canadian residents, please view the canadian privacy policy
+some of the information we collect through the service may be “personal information” - information that identifies you personally, alone or in combination with other information available to us
+other information may be nonpersonally identifiable, such as information collected by cookies
+please take a few minutes to review this policy
+by using the service, you are consenting to the collection, use, and disclosure of your personal information as set forth in this policy
+if you do not agree to be bound by this policy, you may not access or use the service
+this policy is part of our terms of use
+this policy is part of the terms of use that govern your use of the service
+we typically provide a link to our terms of use in the universal footer of our websites and found within our app
+this policy may be supplemented or amended from time to time by “privacy notices” posted on the service
+these privacy notices provide a level of detail that we cannot provide in this more general description of our privacy practices
+for example, certain pages of the service may contain privacy notices providing details about the personal information we collect on those pages, why we need that information, and choices you may have about the ways we use that information
+your consent to other agreements
+if you enter into any other agreement with regis, for example, sweepstakes, contests or surveys, or if you purchase products online, you may be asked to agree to additional terms governing your entry into the sweepstakes, contest, or survey or your product purchase (“additional terms”)
+in such cases, you may be asked to expressly consent to the additional terms, for example, by checking a box or clicking on a button marked “i agree
+” if any of the terms of the additional terms are different than the terms of these terms, the terms of the additional terms will supplement or amend these terms, but only with respect to the matters governed by the additional terms
+contests that are managed by third-party vendors on our behalf may be governed by the relevant vendor’s terms and privacy policy
+types of personal information we collect
+information you manually provide
+regis collects the personal information you manually provide (using your keyboard, mouse, or touchpad) when you use the service
+some of the information you manually provide may be personal information
+for example, if you register for an account, download the app, and/or subscribe to our digital products and services, we may ask you to provide your name, email address, and other information
+additionally, for potential employment purposes, you may provide us employment history, professional license information, and other relevant information when you apply for a job via the service
+some features and services require additional personal information or demographic information
+for example, when you enter contests you may be asked to provide your phone number so that we can reach you in the event you win a prize
+we may also collect any personal information you submit on or through the service when you provide feedback or contact us with questions
+for example, we collect the personal information you provide when you subscribe to one of our newsletters, review or comment on one of our products, or contact us with questions
+some of the information you post to the service may constitute user generated content
+all user generated content must comply with our terms of use
+information others manually provide
+in certain areas of the service, users can submit information about other people
+for example, if someone orders a gift or gift card or certificate online and wants to send it directly to you, they must submit your name and address
+we use this information to send the gift to you
+information from third-party social media platforms
+you may be able to choose to register, log-on, or enhance your profile on the service through a third-party social media platform, such as facebook connect
+by doing this, you are asking the third-party social media platform to send us registration information from your profile on that platform
+we treat that information as we do any other information you give to us when you register, log-on, or enhance your profile
+after you have connected, the third party may also send us additional information from your profile that allows us to offer certain functionalities on the pages you view
+information sent to us by your web browser
+we collect information that is sent to us automatically by your web browser
+this information typically includes your ip address, the identity of your internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit
+please check your browser if you want to learn what information your browser sends or how to change your settings
+generally, we do not link the information provided by your browser to your personal information
+more about ip addresses
+your ip address is the identifier assigned to your particular computer when you access the internet
+depending on how you connect to the internet, your ip address may always be the same, or it may change each time you access the internet
+ip addresses do not include your name, email address or other personal information, but in some cases, they can be used to identify you
+for example, if you have registered with the service, we may link your ip address to account information that identifies you personally
+we may also provide your ip address to our third-party service providers who can use it to identify information such as your state and zip code
+if we suspect inappropriate or criminal activity or a threat to the service or their users, we may also share our server logs—which contain users’ ip addresses—with the appropriate investigative authorities, who could use that information to trace and identify individuals
+cookies and similar technologies
+most websites use cookies and/or similar technologies to place information about a user’s visit to that website in a small data text file that is stored on the user’s computer
+in general, we use cookies and other web technologies to
+collect information about the ways visitors use the service—which pages they visit, which links they use, and how long they stay on each page
+support the features and functionality of the service—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits
+personalize your experience when you use the service, including by serving targeted advertisements
+generally, the information we collect using these web technologies does not identify you personally
+if, however, you have created a user account, we may link the information we collect using these web technologies to other information that identifies you personally
+if you do not wish to receive cookies, you may be able to set the browser of your computer or mobile or tablet device to reject cookies or to alert you when a cookie is delivered
+you may also be able to delete our cookies as soon as you leave the service
+although you are not required to accept our cookies when you visit the service, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of the service
+information from your mobile or tablet device
+if you download our app or access one of our websites through your mobile or tablet device, we may automatically collect certain information from or about your mobile or tablet device
+the types of information we may collect include the type of device you use, your device’s unique id, the ip address of your device, your device’s operating system, the type of mobile or tablet internet browsers you use, and information about the way you use the app
+using gps technology, we may also collect precise, real-time location information from your mobile or tablet device and use that information to deliver tailored content through our mobile websites or through our app
+for example, if our app recognizes that you are near a particular regis location, we may send a message to your mobile or tablet device letting you know about an offer from that regis location
+we may also share information about your location with your friends and other contacts, to the extent you interact with them using the social networking tools available on the service
+your mobile or tablet device may allow you to adjust your settings so that location information is not available to any mobile website or the app
+if you have questions about the security and privacy settings of your mobile or tablet device, please refer to instructions from your mobile service provider or the manufacturer of your device
+information about third-party cookies and interest-based advertising
+in addition to the cookies regis delivers to your computer or mobile or tablet device through the service, certain third parties may deliver cookies to you for a variety of reasons
+for example, we may use third-party web analytics services, such as adobe analytics, google analytics, and facebook analytics, a web analytics tool that helps us understand how visitors engage with the service
+to learn more about google analytics, click here
+for further information about adobe analytics and how they use analytics data, click here
+other third parties may deliver cookies to your computer or mobile or tablet device for the purpose of tracking your online behaviors across nonaffiliated websites and delivering targeted advertisements either on the service or on other websites
+you have choices about the collection of information by third parties on the service
+for example, if you don’t want information about your visit to the service sent to google analytics, you may download an opt-out browser add-on by clicking here
+please note that the add-on does not prevent information from being sent to regis
+to go directly to an opt-out tool for adobe analytics, click here
+to learn more about opting out of data collection through google analytics, click here
+to opt out of collection and use of your information for ad targeting through facebook analytics, visit your facebook account settings and follow facebook’s instructions
+you may choose whether to receive some interest-based advertising by submitting opt-outs
+some of the advertisers and service providers that perform advertising-related services for us and for third parties may participate in the digital advertising alliance’s (“daa”) self-regulatory program for online behavioral advertising
+to learn more about how you can exercise certain choices regarding interest-based advertising, visit http
+info/choices/ , and http
+some of these companies may also be members of the network advertising initiative (“nai”)
+to learn more about the nai and your opt-out options for their members, see http
+it may be that some of the third parties that collect interest-based information on the service do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies
+in addition, we may serve ads on third-party services (such as facebook) that are targeted to reach users on those services who are also listed in one or more of our databases (“matched list ads”)
+this is done by matching common factors between our databases and the databases of the third-party services
+if we use facebook to serve matched list ads on facebook, you should be able to hover over the box in the right corner of such a facebook ad to find out how to opt out of our list
+if you opt out from our facebook matched list ads, we will remove the matching personal information from that list, however, this will not take effect immediately and if you have multiple accounts with us you may have to opt out separately for each one
+we are not responsible for third parties’ data security practices, failure to comply with opt-out instructions, or any inaccurate information they may provide about our matched list ads practices
+the user generated content you submit on or through the service is available to others who visit the service
+in addition, we may use user generated content you submit on or through the service in advertising campaigns and other promotions
+we may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes
+therefore, you should have no expectation of privacy with respect to user generated content you submit on or through the service
+you should not submit any content you do not wish to make available to the general public, and you must take special care to make sure your submissions comply with our terms of use
+in particular, your submissions must not violate the privacy or other rights of others
+how we use personal information collected through the service
+generally, we use the personal information we collect through the service
+to provide the information, products and services you request
+to provide payment processing and account management
+for security, credit or fraud prevention purposes
+to evaluate your application for employment
+to provide you with effective customer service
+to provide you with a personalized experience when you use the service
+to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us)
+to contact you with information and notices related to your use of the service
+to invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us)
+to better understand your needs and interests
+to provide you with push notifications, with your consent
+to allow you to set appointments, check in for appointments, or for other appointment-related purposes, such as to send you reminders about upcoming appointments
+to improve the content, functionality and usability of the service
+to improve our products and services
+to improve our marketing and promotional efforts
+for any other purpose identified in an applicable privacy notice, click-through agreement or other agreement between you and us
+as otherwise necessary or useful to conduct our business, so long as such use is permitted by law
+please see below for information about the choices you have about the ways we use your personal information
+use of aggregated information
+we may use information gathered through the service to create a compiled, aggregate view of the service’s audiences and their visitors’ usage patterns
+we use aggregated information to operate our services and to better understand our audience as we develop new products and services
+we may also share aggregated information with our third-party service providers as well as with potential investors, advertisers, and subscribers so they can better understand and/or market to our audience
+for example, we might share that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes
+aggregate information is not personally identifiable
+we respect your right to make choices about the ways we collect, use and disclose your personal information
+in most cases, we will ask you to indicate your choices at the time we collect your personal information
+for example, if you register with the service, we provide you with an opportunity to “opt out” of receiving certain communications from us
+in addition, we will include an “opt out” link in each promotional e-mail we send you, so that you can inform us that you do not wish to receive such communications from us in the future
+you may change previously expressed preferences regarding how we use your personal information
+if you have registered an account through the service, you may be able to change certain privacy preferences through your account settings
+you can opt out of receiving push notifications from us by following the instructions within the app
+with respect to geolocation data, you may restrict the collection of geolocation information about your device by altering the settings on your mobile device (for our app and for mobile use of our websites) or the settings on your browser (for our websites)
+for example, you may choose to allow geolocation data to be collected only while you are using the services on either your mobile device or on your computer, or you may disable geolocation services entirely
+please note that disabling geolocation services may limit the functionality of the services
+otherwise, if at any time you wish to be taken off our mailing lists, please contact us via this contact us form or by mail at 3701 wayzata boulevard, suite 500, minneapolis, mn
+please provide your full name, postal address and e-mail address so that we can find you in our database
+once we have the information we need, we will remove you from our mailing lists as you have requested
+we will respond to you within a reasonable time and, in any case, within the time limits established by applicable law
+we may ask you for additional information to verify your identity
+in most cases, we will correct or delete any inaccurate information you discover
+in some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identity
+do not track mechanisms
+because of the changing state of technology and indecision within the industry regarding the meaning of dnt signals, we currently do not make any guarantee that we will honor dnt signals
+steps we take to safeguard your personal information
+we maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of personal information you submit on or through the service
+unfortunately, no website, server or database is completely secure or “hacker proof
+” we therefore cannot guarantee that your personal information will not be disclosed, misused or lost by accident or by the unauthorized acts of others
+further, we cannot control dissemination of personal information contained in user generated content you post on or through the service, and you should have no expectation of privacy in such information
+how we share your personal information with others
+regis shares personal information collected through the service with third-party service providers who act for or on behalf of regis
+for example, we may use third-party vendors to design, operate, and/or host the service, to conduct surveys, to send emails and manage email campaigns, send push notifications through our app and to help us with our promotional efforts
+these third parties may need information about you to perform their functions
+with other users of the service
+the user generated content you submit on or through the service is available to others who visit the service
+any personal information contained in user generated content you submit can be read, collected, or used by others, and could be used to send you unsolicited messages
+in addition, we may use user generated content you submit on or through the service in connection with our news gathering and reporting activities or for advertising campaigns and other promotions
+we may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes
+therefore, you should have no expectation of privacy with respect to user generated content you submit on or through the service
+you should not submit any content you do not wish to make available to the general public, and you must take special care to make sure your submissions comply with our terms of use
+in particular, your submissions must not violate the privacy or other rights of others
+with other carefully selected business partners
+from time to time, we may share your personal information with selected third parties (other than our service providers) for their own marketing purposes
+for example, we partner with third parties to sponsor contests or other promotions, and we may share with these third parties the personal information you submit to us to participate in the contest or take advantage of the promotion
+before doing so, however, we may offer you the opportunity to “opt out” or “opt in” as required by applicable law
+in some cases, you will not be able to participate in a contest or take advantage of a promotion unless you consent to disclosure to our business partner of the personal information you submit in connection with the contest or promotion
+with our licensors, manufacturers and our affiliates
+we may share the information collected through the service with our affiliates, manufacturers and licensors (collectively “other parties”)
+our other parties may use the information in all the ways listed in this policy, provided that such use relates to services authorized by regis
+many of our stores are owned and operated by our franchisees
+we may choose to share information collected through the service with our franchisees, and they may be permitted to use it for any purpose consistent with this policy, or we may use the information collected on their behalf
+we may contemplate, for strategic or other reasons, selling, buying, merging, or otherwise reorganizing one or more of our businesses
+in negotiating with a third party about entering into such an arrangement, we may need to disclose your personal information
+in such cases, we will take reasonable measures to protect the personal information we disclose, for example, by requiring a prospective purchaser to sign a non-disclosure agreement limiting the use and protecting the confidentiality of the personal information
+we may transfer the personal information you submit on or through the service to any organization that acquires or merges with us
+compliance with laws and protection of our rights and the rights of others
+we may disclose your personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena
+we may also disclose your personal information to prevent or investigate a possible crime, such as fraud or identity theft
+to protect the security of the service
+to enforce or apply our terms of use or other agreements
+or to protect our own rights or property or the rights, property or safety of our users or others
+with third-party social media platforms
+we may provide functionality on the service that allows you to automatically post information to a third-party social media platform (such as facebook, twitter, or pinterest)
+if you choose to take advantage of this functionality, people with access to your profile on the third-party platform will be able to see your post
+thus, you should have no expectation of privacy in those actions
+further, if you choose to link your profile on the service with an account on a third-party social media platform, we may share the information in your profile with that third-party platform
+we may also use third-party social media platforms to offer you interest-based ads
+to offer such ads, we may convert your email address into a unique value which can be matched by our partner company with a user on their platform
+although we do not provide any personal information to these platform vendors, they may gain insights about individuals who respond to the ads we serve
+in aggregate or de-identified form
+we use information collected through the service to create a compiled, aggregate view of usage patterns
+we may share aggregate information with third parties so we and they can better understand our user base
+we may also share with third parties information about how particular individuals use the service, but only on a de-identified basis (“individualized data”)
+individualized data is not personally identifiable, but it does reflect the usage patterns of a particular site user, as opposed to site users collectively
+we may provide basic demographic information (gender and age) in conjunction with providing individualized data
+third parties typically use this information for analytical purposes and to market their own products and services
+as described in a privacy notice
+we reserve the right to disclose your personal information as described in any privacy notice posted on a page of the service where you provide that information
+by providing your personal information on that page you will be consenting to the disclosure of your personal information as described in that privacy notice
+as described in a click–through agreement
+we reserve the right to disclose your personal information as described in any click–through agreement to which you have agreed
+the service is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian
+if you believe that a child has submitted personal information on or through the service without the consent and supervision of a parent or guardian, please contact us using the information provided below ( contact us ) so that we can take appropriate action
+links to other sites
+the service may provide links to other websites operated by third parties
+we expect our partners, providers of content and services, and advertisers to be transparent about their data protection practices
+be aware, however, that we have no control over third-party websites
+this policy does not apply to personal information collected on any third-party website
+when you access third-party websites through a link on the service, please take a few minutes to review the privacy policy posted on that site
+this policy may change
+this policy describes regis’s current policies and practices with regard to the personal information we collect as outlined herein
+we are continually improving and adding to the features and functionality of the service and the services we offer through the service
+as a result of these changes (or changes in the law), we may need to update or revise this policy
+accordingly, we reserve the right to update or modify this policy at any time, without prior notice, by posting the revised version of this policy behind the link marked “privacy policy” in the universal footer of the websites governed by this policy and by making it available through the app governed by this policy
+your continued use of the service after we have posted the revised policy constitutes your agreement to be bound by the revised policy and your agreement that any information we previously collected from you may be used as described in the revised policy
+whenever this policy is changed, we will update the “effective date” at the top of this page
+if you have not used the service recently, be sure you check the effective date to see if this policy has been revised since your last visit
+we maintain appropriate physical, electronic, and procedural safeguards designed to protect personal information collected and received through the service
+although we use reasonable efforts to secure such information, transmission via the internet is not completely secure, and we cannot guarantee the security of your information transmitted to us through the service
+your california privacy rights
+we may from time to time elect to share certain personal information (as defined by california’s “shine the light” law) about you with third parties for those third parties’ direct marketing purposes
+california law permits customers in california to request certain details about how their personal information (as that term is defined by the relevant statute) is shared with third parties and, in some cases, affiliates for direct marketing purposes
+if this applies, you may obtain the categories of personal information shared and the names and addresses of third parties that received personal information for their direct marketing purposes during the immediately prior calendar year (e
+requests made in 2018 will receive information about 2017 sharing activities)
+to make such a request, please provide sufficient information for us to determine if this applies to you, attest to the fact that you are a california resident and provide a current california address for our response
+you may make this request by writing to
+regis corporation, 3701 wayzata boulevard, suite 500, minneapolis, mn
+department cs – privacy inquiry), or by emailing privacyrequest@regiscorp
+any such request must include “california privacy rights request” in the first line of the description and include your name, street address, city, state, and zip code
+please note that we are only required to respond to one request per customer each year
+information for users outside the united states
+if you are visiting any of the service from outside the united states, please be aware that information we collect through the service may be transferred to and stored on our servers in the united states
+by using the service, you acknowledge and consent to the transfer and processing of your personal data in the united states as described in this privacy policy
+the data protection laws and regulations applicable to your personal data transferred to the united states may be different from the laws in your country of residence
+the term “content” refers to all of the software and code comprising or used to operate the service, and all of the text, photographs, images, illustrations, graphics, sound recordings, video and audio-video clips, and other materials available on the service, including user generated content
+the term “feedback” refers to the content you post on or through the service that is specifically about how we can improve the service and the products and services we make available through the service
+the term “personal information” refers to information that identifies you personally, alone or in combination with other information available to us
+examples of personal information include your name, address, and e-mail address
+the term “user generated content” refers to all of the photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions, or other content, any of which may include personal information you post (a) on or through the service, or (b) any social media platform (e
+, instagram, twitter, facebook, pinterest or google+) with a hashtag that relates to one or more of our brands (e
+, #regisstyle), and that you give us permission to use
+examples of user generated content include comments posted to discussion boards and photographs you may post on the service
+to contact us regarding this privacy policy or with questions about our privacy practices, you may email us at privacyrequest@regiscorp
+com (please include “privacy inquiry” in the subject line of your email), or send postal mail to
+privacy officer 3701 wayzata boulevard, suite 500 minneapolis, mn
+do not sell my info
+© copyright 2020 regis corporation major league baseball trademarks and copyrights are used with permission of mlb advanced media, l

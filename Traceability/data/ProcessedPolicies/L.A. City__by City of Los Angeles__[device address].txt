@@ -1,0 +1,159 @@
+purpose of this statement is to define the city of los angeles' policy with
+regards to the collection and use of personally identifiable information (pii
+- any information relating to an identified or identifiable individual who is
+the subject of the information)
+the city of los angeles collects two kinds of
+– anonymous information and personally identifiable information (pii)
+information that does not identify specific individuals and is automatically
+transmitted by your browser
+this information can consist of
+the url (uniform resource locator or address) of the web page you previously
+the domain names and/or ip addresses which are numbers that are automatically
+assigned to your computer whenever you are connected to the internet or world
+the browser version you are using to access the site
+this information is used to help improve our web site
+none of the information
+can be linked to any individual
+personally identifiable information (pii) is
+information that could include
+the city will make every reasonable effort to protect your privacy
+access to your personal identifiable information to those employees that will
+respond to your request
+the city does not intentionally disclose any personal
+information about our users to any third parties inside or outside the city
+except as required by law
+the city only collects personally identifiable information that is required
+you can decline to provide us with any personal information
+on any site on the internet at any time
+however, if you should choose to withhold
+requested information, we may not be able to provide you with the online services
+dependent upon the collection of that information
+to personally identifiable information
+to personally identifiable information in public records at state and local
+levels of government in los angeles is controlled primarily by the california
+public records act (government code section 6250, et seq
+is generally available under the public records act may be posted for electronic
+access through the city's web site
+while the public records act sets the general
+policies for access to city records, other sections of california code as well
+as federal laws also deal with confidentiality issues
+e-mail addresses obtained through the web site will not be sold or given to
+other private companies for marketing purposes
+the information collected is
+subject to the access and confidentiality provisions of the public records act,
+other applicable sections of the california code as well as federal laws
+or other information requests sent to the city web site may be maintained in
+order to respond to the request, forward that request to the appropriate agency
+within the city, communicate updates to the city page that may be of interest
+to citizens, or to provide the city web designer with valuable customer feedback
+to assist in improving the site
+individuals can cancel any communications regarding
+new service updates at any time
+some city applications use "cookies
+" a cookie is a small data file that certain
+web sites write to your hard drive when you visit them
+a cookie file can contain
+information such as a user id that the site uses to track the pages you have
+but the only personal information a cookie can contain is information
+a cookie is only a text file and cannot read data off your
+hard disk or read cookie files created by other sites
+cookies can track user
+traffic patterns, recognize your computer's browser when you return, and could
+provide personalized content without requiring sign-in
+you can refuse cookies by turning them off in your browser
+be required to use some of the web applications on the city's site
+google analytics cookie tracking
+some city applications use google analytics cookies to log user sessions and help us understand traffic and behavior
+this helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs
+we only use this information for statistical analysis purposes
+some city applications include the google analytics display advertising feature used to provide demographics and interest reporting
+this feature uses a third party doubleclick cookie
+to provide website visitors the ability to prevent their data from being used by google analytics, google has developed the google analytics opt-out browser add-on for the google analytics javascript (ga
+this add-on instructs the google analytics javascript (ga
+js) running on websites to prohibit sending information to google analytics
+however, the google analytics opt-out browser add-on does not prevent data from being sent to the city’s site
+com/dlpage/gaoptout/ for more info on how to opt out
+please note that updates to your browser or operating system may affect the functionality of the opt-out add-on
+the latest versions of internet explorer sometimes load the google analytics opt-out add-on after sending data to google analytics
+therefore, if you are using internet explorer, the add-on will set cookies on your computer
+these cookies ensure that any collected data is immediately deleted from the collection server
+please make sure that third party cookies aren’t disabled for your internet explorer browser
+if you delete your cookies, the add-on will, within a short timeframe, reset these cookies to ensure that your google analytics browser add-on remains fully functional
+the following chart is a detailed list of google analytics cookies that would be used
+to throttle request rate
+to distinguish users and sessions
+the cookie is created when the javascript
+library executes and no existing __utma cookies exists
+the cookie is updated
+every time data is sent to google analytics
+to throttle request rate
+to determine new sessions/visits
+the cookie is created when the javascript
+library executes and no existing __utmb cookies exists
+the cookie is updated
+every time data is sent to google analytics
+set for interoperability with urchin
+cookie operated in conjunction with the __utmb cookie to determine whether the
+user was in a new session/visit
+the traffic source or campaign that explains how the user reached your site
+the cookie is created when the javascript library executes and is updated every
+time data is sent to google analytics
+to store visitor-level custom variable data
+this cookie is created when
+a developer uses the _setcustomvar method with a visitor level custom variable
+this cookie was also used for the
+the cookie is updated every time data is sent to
+analytics demographics and interest reporting
+any information collected by any city site from children under 13 are subject
+to the same guidelines as the general city privacy policy
+following guidelines will be followed for any information collected by or for
+any child under 13
+information that could be collected from or for a minor includes but might
+not be limited to name, address, telephone number, e-mail address, school,
+parental (including legal guardian) consent
+consent will be obtained before collecting, using or disclosing personal
+information about a child
+if any information practices change in a "material" way, new consent will
+be obtained from the parents
+this includes changes in the kinds of material
+being collected, a change in how that information is being used, or if there
+is a change in the third parties that have access to that information
+parents will be able to review the personal information collected from their
+children which includes verification of the identity of the requesting parent
+see individual requests for information for specifics
+parents will be allowed to revoke their consent and delete information collected
+from or for their children on request
+when consent is revoked, the website
+will stop collecting, using or disclosing information from or for that child
+revocation may end a child's participation in an activity if the information
+collected was necessary for participation on the website
+additional information can be obtained at the ftc's consumer response center
+html ) and the children’s privacy ( https
+the city of los angeles is committed to data security and the data quality of
+personally identifiable information that is either available from or collected
+by our web site and has taken reasonable precautions to protect such information
+from loss, misuse or alteration
+the city operates "secure data networks" protected by industry standard firewalls
+and password protection systems
+only authorized individuals have access to
+the information provided by our users
+when a city application accepts credit cards or any other particularly sensitive
+information for any of its services, it encrypts all ordering information, such
+as your name and credit card number, in order to protect its confidentiality
+unless otherwise prohibited by state or federal law, rule or regulation you
+will be granted the ability to access and correct any personally identifiable
+we will take reasonable steps to verify your identity before granting
+access to review or make corrections to your information
+service that collects personally identifiable information will allow for review
+and update of that information
+see individual requests for information for
+non-city web sites may be linked through the city's web site
+sites may or may not be subject to the public records act and may or may not
+be subject to other sections of california code or federal law
+such sites are advised to check the privacy statements of such sites and to
+be cautious about providing personally identifiable information without a clear
+understanding of how the information will be used
+visitors may also wish to
+consult privacy guidelines such as those recommended by the online privacy alliance
+if you have any questions or concerns about this privacy policy, please send
+us an email at ita

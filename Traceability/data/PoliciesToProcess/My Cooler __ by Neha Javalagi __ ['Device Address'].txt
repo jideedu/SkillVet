@@ -1,0 +1,9 @@
+my cooler skill privacy policy
+we, the developers of the my cooler skill highly value your privacy
+hence, we wish to be explicit about the information we are collecting from you
+after you enable the alexa skill 'my cooler' you need to explicitly provide permission for the skill to read your address as set in the alexa app
+your address is the only personal information we read, so that we can provide you with localised weather information
+you may withdraw this permission at any time
+we read the address every time and do not persist any information
+you may disable the skill at any time
+feedback please send any feedback to

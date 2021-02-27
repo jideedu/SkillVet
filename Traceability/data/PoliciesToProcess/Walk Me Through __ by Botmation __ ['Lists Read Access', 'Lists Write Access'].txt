@@ -1,0 +1,29 @@
+walk me through privacy policy
+through skill allows you create a custom list of instructions on your
+it does this by accessing your alexa lists
+for walk me through to work, you need to give the skill permission to
+create a list and add
+items to your list ("write permission")
+the skill will read the list of instructions you
+the skill will read through the titles of
+your lists in order to determine the existence of list titled
+"alexawalkmethrough" (used for storing your instructions given to this
+the skill will not read items already on other lists, nor does it
+log or store the names of items you add using walk me through outside of
+the walk me through skill does not collect any
+data, nor personally identifiable data, even if you add personal
+information to your list via the skill
+account linking is required, and nothing from the
+skill is stored in a database or retrieval system outside of amazon's
+if the nature or funtionality of the walk me through
+skill changes such that this privacy statement requires an update,
+users will be notified via the skill description in the alexa app,
+and also via the welcome message in the skill
+share to twitter share to facebook share to pinterest
+1 contrib lib on jetson nano quick start guide with facial recognition
+game of thrones drogon interactive dragon
+game of thrones drogon interactive dragon
+links to my sites
+view my complete profile
+this site uses cookies from google to deliver its services and to analyse traffic
+your ip address and user agent are shared with google, together with performance and security metrics, to ensure quality of service, generate usage statistics and to detect and address abuse

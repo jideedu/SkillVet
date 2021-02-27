@@ -1,0 +1,13 @@
+search this site ultrasignup ultrasignup how to use this
+enable the skill / app
+make sure you allow the skill to access your location when prompted to start using, say "ask ultrasignup" or "talk to ultrasignup" when prompted for a distance, just say "look up races for 50 miles" or "look up 100 mile races near 95134" ps
+if you're using this with alexa, results are also displayed as a card in the alexa app on your mobile device
+huge thanks to ultrasignup
+privacy policy all images used in this skill are used under creative commons
+the skill uses your amazon device's location to fetch the races from ultrasignup
+com in the upcoming 12 months
+this skill does not store any personal data such as name or address of the user
+report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

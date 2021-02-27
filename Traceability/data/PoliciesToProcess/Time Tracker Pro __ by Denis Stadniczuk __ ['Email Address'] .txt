@@ -1,0 +1,53 @@
+privacy policy for alexa skill
+last update on 17th march 2018
+this statement of privacy applies to our practices in connection with the alexa voice skill, i
+‘skill’ or ‘alexa skill’ protecting your private information is our priority
+this privacy policy describes the treatment of information collected and posted on the alexa skill
+we (the creators of the alexa skills) fully respect your (hereinafter referred to as 'you', 'your', 'user') right to privacy and would like to safeguard the information you provide to us and will not use or collect any personal information on this alexa skill without your permission
+any personal information which you voluntarily submit/provide to us will be treated with the highest standard of security and confidentiality and shall be used strictly for the purposes of the services provided by us and alexa skill only
+by using the alexa skill, you consent to the data practices described in this statement
+by using the alexa skill you signify your agreement to the terms of this privacy policy and we reserve the right, in its sole discretion to change, modify, add and/or delete portions of the terms of this privacy policy at any time with immediate effect of such change
+this privacy policy does not apply to the practises of third parties that we do not own, control, or manage including but not limited to any third party websites, services, applications, or businesses
+we do not take responsibility for the content or privacy policies of those third party services
+we encourage you to carefully review the privacy policies of all third party services you access
+if you do not agree to any of the provisions of this privacy policy, you should not enable and use the alexa skill
+we may revise, alter, add, amend or modify this privacy policy at any time by updating this page
+by enabling and/or using this alexa skill, you agree to be bound by any such alteration, amendment, addition or modification
+collection and use of your personal information
+we will use the personal data which you have provided to us for the purposes of fulfilling your application for any of our services and products, credit checks in the case of applications, and for understanding how we can improve its services to you
+where appropriate, we may also use the information for internal research on our user demographics, interests and behaviour, for providing you with the latest news, information, updates, where we think you may be interested in its services and/or services of some of our affiliates or third parties
+we may combine personal information collected from you with information from other services or third parties to provide a better user experience, that display customized content and advertising including customizing content for you
+we require the compliance of our privacy policy where we hire third parties for aid and assistance in case of upgradation of our research and analysis, product improvements, feature enhancements, bug fixing, and technological advancement
+we may also share the information with any third party, in limited circumstances, for national security and integrity or on an order from any court or competent authority
+we will also use your internet protocol address and e-mail addresses to help diagnose problems with our servers and to administer the alexa skill
+if you don't want your personal information to be displayed to third party visitors you need to contact us in that behalf
+please remember that any information that is disclosed in the public areas of this alexa skill becomes in fact public and you should exercise caution when deciding to post your personal data
+our primary purpose in collecting information from you is to allow you to use the alexa skill and various features and services made available on or in relation to the alexa skill, app or any websites or for any services provided by us or our affiliates or our various service providers or business partners and advertisers
+to record your information and details as permitted and required under applicable laws, statutory direction or judiciary orders
+to serve various promotion materials and advertising materials to you
+and such other uses as provided in this privacy policy
+we may also use your information for news or/and content recommendations, transactional emails or to provide you with information, direct marketing, online and offline advertising and other materials regarding products, services and other offers from time to time in connection with us or our parent, subsidiary and affiliated companies and our joint ventures
+you can decide not to participate in the promotion if you do not want your data to be shared
+promotions that run on the alexa skill may be sponsored by companies other than us or may be co-sponsored by another company
+some or all data collected during a promotion may be shared with the sponsor
+additionally, we further state that we track down some traffic data
+each time a visitor comes to the alexa skill, the alexa skill’s server logs some basic technical information such as operating system, device information, platform, visitor's domain name, referral data,
+we are also processing the visitor's activity through the alexa skill
+all this information is statistical and doesn't allow us to identify you or contact you in any way
+also, we use third-party advertising companies to serve ads when you visit the website
+these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you
+if you would like more information about this practice and to know your choices about not having this information used by these companies, contact us
+we co-operate with mandated government and law enforcement agencies or to any third parties by an order under law for the time being in force to enforce and comply with the law
+we will also disclose any information about you to the government and law enforcement agencies or private parties without your permission as we, in our sole discretion, believe it to be necessary or appropriate to respond to valid claims and legal processes, to protect the property and rights of the alexa skill or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity
+we may also provide your information to various tax authorities upon any demand or request from them
+unfortunately, no data transmissions over the internet can be guaranteed to be completely secure
+as a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us via the internet, and you do so at your own risk
+once we have received your transmission, we will use its reasonable endeavour to ensure its safety & security on our systems
+nothing contained in this policy is intended to create a contract or agreement between us and any user providing identifiable information in any form
+we will take all necessary steps to comply with this privacy policy
+however, to the extent permitted by law, nothing in this policy is intended to hold us liable for any failure to comply with this privacy policy
+your acceptance of these terms of privacy policy
+by using this alexa skill, you are signifying your acceptance of this privacy policy
+if you do not agree to this privacy policy, you shall not access or use this alexa skill
+your continued access or use of the alexa skill following the posting of changes to this privacy policy will be deemed to be the acceptance of these changes by the user
+if you have any questions about this privacy policy, practices of this alexa skill or your dealings with the alexa skill or any of the features or any legal queries about the alexa skill,

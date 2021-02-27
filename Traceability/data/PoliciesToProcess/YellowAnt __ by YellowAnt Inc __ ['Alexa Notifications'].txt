@@ -1,0 +1,88 @@
+this privacy policy has been compiled to better serve those who are concerned with how their 'personally identifiable information' (pii) is being used online
+pii, as used in indian privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personally identifiable information in accordance with our website
+what personal information do we collect from the people that visit our blog, website or app
+when registering on our site, as appropriate, you may be asked to enter your name, email address, organization or other details to help you with your experience
+what application data do we store
+we store the following application data
+encrypted user application keys and tokens
+commands and action objects executed by the user and application message responses
+when do we collect information
+we collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site
+how do we use your information
+we may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways
+to personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested
+to improve our website in order to better serve you
+to allow us to better service you in responding to your customer service requests
+to quickly process your transactions
+to send periodic emails regarding your order or other products and services
+how do we use your slack oauth information
+we use your slack information in the following ways
+to get your basic profile information like first name, last name, email and profile image
+to get the basic profile information like first name, last name, email and profile image of all your team administrator, who by default becomes the administrator of the yellowant team, if a non-slack-administrator user signs up on yellowant with their slack oauth
+if you add the yellowant bot to your slack team, the bot will be used to send commands and receive messages to and from the team slack(through the @yellowant bot or /yellowant slash commands
+how do we use your microsoft teams oauth information
+we use your teams information in the following ways
+to get your basic profile information like first name, last name, email and profile image
+to get the basic profile information like first name, last name, email and profile image of all your team administrator, who by default becomes the administrator of the yellowant team, if a non-teams-administrator user signs up on yellowant with their teams oauth
+if you add the yellowant bot to your teams team, the bot will be used to send commands and receive messages to and from the team channel(through the @yellowant bot or /yellowant commands
+how do we use your app information
+you may choose to integrate yellowant with products like gmail, calendar, drive, jira, servicenow, jenkins, pagerduty, etc
+once you authenticate these apps with yellowant, yellowant will use your credentials
+to execute application commands issued by you to yellowant
+to execute workflows defined by you in yellowant
+to get you application notifications(if subscribed) from these applications from yellowant
+we store the following data from your apps
+output of yellowant commands issued to integrated apps for logging purposes, which you can view in your logs
+how do we protect visitor information
+your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential
+in addition, all sensitive/credit information you supply is encrypted via secure socket layer (ssl) technology
+we implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information
+all transactions are processed through a gateway provider and are not stored or processed on our servers longer than 30 days in order
+do we use 'cookies'
+cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information
+for instance, we use cookies to help us remember and process the items in your shopping cart
+they are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services
+we also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future
+we use cookies to
+understand and save user's preferences for future visits
+compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future
+we may also use trusted third-party services that track this information on our behalf
+you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies
+you do this through your browser (like internet explorer) settings
+each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies
+if users disable cookies in their browser
+if you disable cookies off, some features will be disabled it will turn off some of the features that make your site experience more efficient and some of our services will not function properly
+we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice
+this does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential
+we may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety
+however, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses
+california online privacy protection act
+caloppa is the first state law in the united states to require commercial websites and online services to post a privacy policy
+the law's reach stretches well beyond california to require a person or company in the united states (and conceivably the world) that operates websites collecting personally identifiable information from california consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy
+- see more at
+users can visit our site anonymously
+once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website
+our privacy policy link includes the word 'privacy' and can be easily be found on the page specified above
+users will be notified of any privacy policy changes
+• on our privacy policy page users are able to change their personal information
+• by logging in to their account
+how does our site handle do not track signals
+we don't honor do not track signals and do not track, plant cookies, or use advertising when a do not track (dnt) browser mechanism is in place
+we don't honor them because
+currently we are implementing cookie-driven sessions
+does our site allow third-party behavioral tracking
+it's also important to note that we do not allow third-party behavioral tracking
+coppa (children online privacy protection act)
+when it comes to the collection of personal information from children under 13, the children's online privacy protection act (coppa) puts parents in control
+the federal trade commission, the nation's consumer protection agency, enforces the coppa rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online
+we do not specifically market to children under 13
+the fair information practices principles form the backbone of privacy law in the united states and the concepts they include have played a significant role in the development of data protection laws around the globe
+understanding the fair information practice principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information
+in order to be in line with fair information practices we will take the following responsive action, should a data breach occur
+we will notify the users via email within 7 business days we also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law
+this principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors
+the can-spam act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations
+if at any time you would like to unsubscribe from receiving future emails, you can email us and we will promptly remove you from all correspondence
+if there are any questions regarding this privacy policy you may contact us using the information below
+no 226b 15th main road koramangala 4th block bangalore, karnataka 560034 india vishwa@yellowant

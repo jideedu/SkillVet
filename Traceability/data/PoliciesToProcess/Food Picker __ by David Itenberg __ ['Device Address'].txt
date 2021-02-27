@@ -1,0 +1,26 @@
+this privacy policy describes how food picker protects and makes use of the information you give the skill when you use food picker
+to use the skill, it requires that you speak to alexa, and responses will be received aloud
+therefore any communication to alexa will be treated by food picker as a communication authorized by you, and any communication via the alexa skill in response to a request received from alexa will be treated by food picker as a communication to you
+you are responsible for all of the interactions with the alexa voice skill
+for this reason it is imperative that you consult the agreements that you have in place with amazon to ensure that you are using alexa safely and correctly
+once you set up your alexa voice skill, you are authorizing alexa to provide information to the skill
+this means that you are responsible for how the alexa voice skill is used, including any communication to or from the skill itself
+to prevent unauthorised disclosure or access to your information, we rely on alexa’s and aws lambda’s (amazon’s) physical and electronic security safeguards
+food picker uses but does not store the device’s location
+no other personal information about you is used, shared, or stored
+what is a cookie
+a cookie is a small file placed on your computer’s hard drive
+cookies allow skills, applications and websites to store your preferences in order to present content, options or functions that are specific to you
+alexa may use cookies during the processing of voice requests
+amazon’s privacy policy may be found here
+we may change, suspend, or discontinue the skill, or any part of it, at any time without notice
+this policy is updated from time to time
+the latest version is published at https
+your continued use of the skill after the effective date of the revised terms constitutes acceptance of the terms
+if you have any questions about this policy, please email alexafoodpicker@gmail
+this website privacy policy was updated on
+foodpickerblog posted on october 4, 2017 october 4, 2017
+create a free website or blog at wordpress
+this site uses cookies
+by continuing to use this website, you agree to their use
+to find out more, including how to control cookies, see here

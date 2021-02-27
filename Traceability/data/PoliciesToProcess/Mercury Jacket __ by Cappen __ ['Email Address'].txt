@@ -1,0 +1,93 @@
+sign up for account
+thank you for visiting our website www
+com (the “ site ”)
+the site is operated by ministry of supply (collectively, “ ministry of supply doing business as ministry ,” “ we ,” or “ us ”)
+ministry of supply is serious about protecting your privacy
+we understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly
+this policy (this “ privacy policy ”) describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it
+this privacy policy is incorporated into and is a part of the ministryofsupply
+com terms of use
+by accessing and using the site, you agree that you have read and understand this privacy policy, and you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this privacy policy
+what information do we collect
+in order to use the site to learn about our company and its products and to purchase and return our products, you will need to create an account
+when you register for an account, we collect personally identifiable information about you (“ personal information ”), which may include, but is not limited to, your
+• credit card information
+you may choose not to provide your personal information
+however, creating an account is a prerequisite for using the full functions of the site and if you do not provide your personal information you may not be able to use the site
+we also provide an email forwarding service that enables you to invite friends to visit the site
+these messages are sent in your name, with your email address as the return address and your full name and contact information is provided as part of the submission
+these messages will only be sent at your request
+as with many other web sites, the web servers used to operate the site may collect certain data pertaining to you and the equipment and communications method that you use to access the internet and the site
+for security reasons and to confirm the integrity of our data, we may combine components of this data with other sources of information which may identify you
+unless otherwise described in this privacy policy or our terms of use, such identifying information will be used for our internal business purposes
+in addition, the information we collect may reveal such things as the internet protocol (“ ip ”) address assigned to your computer, specific pages that you accessed on the site or immediately prior to visiting the site, and the length of time you spent at the site
+the purposes for which this information is collected and used include facilitating site operation and system administration, generating aggregate, non-identifiable statistical information, monitoring and analyzing site traffic and usage patterns, and improving the content and content delivery with regard to the site and the online media, content, materials, opportunities and services that we describe or make available on the site
+like many other web sites, our site may at any time, in our discretion, use “cookies” or other tracking mechanisms to help us recognize visitors when they return to the site or as they move among the different portions of the site or to collect personal or individually identifiable information
+collectively, the type of information described in this paragraph is referred to as “ usage data ” and together with your personal information, as “ collected information
+while some aspects of the site may provide information that is intended for children, we do not knowingly or intentionally collect personal or identifying information from children
+finally, the site provides you with several opportunities to become a guest or to otherwise agree to receive communications about special offers or programs from ministry of supply, and any of our affiliated brands or divisions (“ opt-in ”)
+if you provide your email address via a channel that does not include a mechanism for you to affirmatively opt-in, such as by email, you agree that by providing your email address, you are completing an opt-in and that you will be responsible for opting-out of receiving any future communications about special offers or programs by clicking on the link provided at the bottom of each email communication (each an “ opt-out ”)
+special consideration for payment information
+if you provide credit card information to complete a purchase, it is our policy to use party payment processing systems that comply with the payment card industry data security standard (pci-dss), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (ssl) and storage with aes-256 encryption
+although no method of transmission over the internet or electronic storage is 100% secure, we follow all pci-dss requirements and implement additional generally accepted industry standards
+if we use a third party payment processor, your credit card information will also be subject to that processor’s privacy policy in addition to ours
+please read the privacy policy on the website of any payment processor that you are directed to regarding the use, storage and protection of your credit card information before submitting any credit card information
+all information that you provide to us or our third party payment processor must be accurate, current and complete
+in the event of a dispute, we may issue you with a provisional credit to your card or a store credit until the dispute is resolved
+if we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit
+if we issue store credit and the dispute is resolved in your favor, we will convert the store credit to a refund on your debit card or credit card at your request
+you expressly consent to this reversal if you falsely or incorrectly dispute a charge
+if you wish to dispute a charge by mail or telephone please contact us at q@ministryofsupply
+if we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge
+in the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals
+ministry of supply complies with all legal requirements of your state’s applicable laws regarding providing refunds for unauthorized charges
+when you make a charge, we shall display a completed charge screen
+this is your electronic receipt
+you should print or save this electronic receipt for your records
+you represent and warrant that you have the legal right to use any credit cards, debit cards or other payment means used to initiate any transaction
+how do we use the information that we collect
+in addition to the uses mentioned or described above, or otherwise described in our terms of use, we use the information that you submit to us to accomplish the purpose for which it was submitted
+we may also use the information that we collect from or about you to analyze and improve the content, features, materials and opportunities that we make available on the site, to notify you of changes made to the site or new opportunities made available on or through the site, to evaluate your needs and customize the site content delivered to you according to those needs, to send you promotional materials that you request from us, and for other legitimate and lawful business purposes
+you understand and agree that ministry of supply may (a) collect, process and aggregate any data used with, stored in, or related to the site and create aggregate data records (“aggregate data”) by removing any personal information from the underlying data
+(b) use such aggregate data to improve our products and services, develop new products and services, understand site usage and demand trends and general industry trends, develop white papers, reports, or databases summarizing the foregoing, and generally for any legitimate purpose related to ministry of supply’s business
+and (c) share aggregate data with third parties or publish any reports, white papers, or other summaries based on aggregate data
+for clarity, aggregate data shall not include any personal information nor otherwise identify you
+with whom do we share information that we collect
+in addition to the uses mentioned or described above, or otherwise described in our terms of use, in the course of conducting our business, we may transfer collected information, whether solicited or unsolicited, to our offices throughout the world, catalog and add such collected information to our databases, and transmit such collected information to our affiliates, contractors and other third parties (e
+, other organizations with a similar mission)
+we may also produce reports on site traffic or usage patterns and share these reports with our business partners and other third parties (e
+, other organizations with a similar mission)
+we may disclose information about you if we become subject to a subpoena or court order, or if we are otherwise legally required to disclose information
+we may also use and disclose information about you to establish or exercise our legal rights, to enforce the terms of use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person
+what choices do you have
+when corresponding with ministry of supply or our representatives, or when making a request for information or otherwise interacting with ministry of supply or others through the site, you choose what information to supply, whether you wish to receive further information, and by what method of communication such information should be delivered
+please take care to share only such information as is needed or that you believe is appropriate
+if you have any reason to believe that collected information about you that is stored and maintained by us is incorrect, please contact us by email at
+you may change any of your collected information by editing your profile on the site or by sending an email to us at q@ministry
+you may also request deletion of your collected information, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain period of time, in which case we will comply with your deletion request only after we have fulfilled such requirements)
+when we delete any information, it will be deleted from the active database, but may remain in our archives
+we may retain collected information, and any other information that you provide to us, for fraud prevention or similar purposes
+how do we protect information collected about you
+in addition to the encryption described for credit card and debit card information, we also take commercially reasonable measures to secure and protect all other information transmitted via or stored on the site and transmitted to and from the site
+nevertheless, no security system is impenetrable
+we cannot and do not guarantee that information that users of the site may happen to transmit or otherwise supply, or that any communications conducted on or through the site, is or will be secure
+you agree to immediately notify us of any breach of site security, this privacy policy or the terms of use of which you become aware
+ministry of supply expressly disclaims any representation or warranty, whether express or implied, with respect to ensuring, guaranteeing or otherwise offering any definitive promise of security in connection with your collected information or any other information that you provide to us through the site or directly to ministry of supply
+for your convenience, some hyperlinks may be posted on the site that link to other web sites not under our control
+we are not responsible for, and this privacy policy does not apply to, the privacy practices of those sites or of any companies or organizations that we do not own or control
+we encourage you to seek out and read the privacy policy of each web site that you visit
+in addition, should you happen to initiate a transaction on a web site that our site links to, even if you reached that site through our site, the information that you submit to complete that transaction becomes subject to the privacy practices of the operator of that linked site
+you should read that site’s terms of use and privacy policies to understand how personal information that is collected about you is used and protected
+changes to privacy policy
+we may change our privacy practices and this privacy policy at any time and from time-to-time because of changes in relevant and applicable legal or regulatory requirements, our business practices, or in our attempts to better serve your needs and those of our other customers
+notice of such changes to our privacy practices and this privacy policy will be given in the manner described in the terms of use and a revised privacy policy will be posted on the site
+who can you contact for more information
+if you have any questions or suggestions about the site, ministry of supply, or our privacy practices, please contact us at q@ministryofsupply
+by accessing or using the site, you acknowledge that you have read, understand, and consent to the privacy practices, and to the uses and disclosures of information that we collect about you, that are described in this privacy policy, and you agree to be bound by the terms of use referenced above
+free returns & exchanges
+100 day returns on all orders
+designed, built and tested to work
+ministry of supply stamp of approval
+sign up for our exclusive offers
+your cart is empty
+sending as a gift

@@ -1,0 +1,19 @@
+bath bin day alexa skill is a free service
+this service is provided by at no cost and is intended for use as is
+this page is used to inform visitors regarding policies with the collection, use, and disclosure of personal information
+if you choose to use this service, then you agree to the collection and use of information in relation to this policy
+the personal information that i collect is used for providing and improving the service
+the following personal information is required to use this alexa skill
+first line of address
+this information is collected from the alexa apis (application programming interface) provided by amazon
+you can revoke access to this information (or skill) at any time by using the alexa app
+use of personal information
+your address and postal code ("personal information") are used to obtain your waste collection information from bath council
+this information is logged for diagnostics purposes for a maxiumum of 14 days
+the information is not tracable back to an individual device or user
+aside from the diagnostics, your personal information is not stored elsewhere
+your personal information is not sent to any 3rd parties
+changes to this privacy policy
+we may update our privacy policy from time to time
+thus, you are advised to review this page periodically for any changes
+these changes are effective immediately after they are posted on this page

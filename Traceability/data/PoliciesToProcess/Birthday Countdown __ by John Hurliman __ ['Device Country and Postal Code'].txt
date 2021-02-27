@@ -1,0 +1,28 @@
+no suggested jump to results
+github is home to over 36 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+19 lines (10 sloc) 1
+this privacy notice discloses the privacy practices for birthday countdown
+this privacy notice applies solely to information collected by this alexa skill
+it will notify you of the following
+what personally identifiable information is collected from you through the alexa skill, how it is used and with whom it may be shared
+the security procedures in place to protect the misuse of your information
+information collection, use, and sharing
+we are the sole owners of the information collected on this site
+we only have access to/collect information that you voluntarily give us via email or other direct contact from you
+we will not sell or rent this information to anyone
+we will use your information to respond to you, regarding the reason you contacted us
+we will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e
+to ship an order
+we take precautions to protect your information
+when you submit sensitive information via the alexa skill, your information is protected both online and offline
+wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way
+while we use encryption to protect sensitive information transmitted online, we also protect your information offline
+only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information
+the computers/servers in which we store personally identifiable information are kept in a secure environment
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

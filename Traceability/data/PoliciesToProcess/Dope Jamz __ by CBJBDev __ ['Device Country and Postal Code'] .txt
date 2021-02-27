@@ -1,0 +1,4 @@
+privacy policy for indyjamz alexa skill
+this alexa skill (indyjamz) does not collect any information other than your general location (zip code), if you allow it
+no personal information is collected
+thank you, on behalf of the developer, for using dope jamz

@@ -1,0 +1,15 @@
+privacy and hipaa statement
+the developer of symptom helper, rak, wants you to know how
+we use and protect the important information you provide to us
+the following summarizes our policy, procedures, and practices
+for symptom helper to help you log your symptoms, including information about them, and help you organize them to share with your healthcare clinicians, we collect a first name
+you choose to use which may be fictitious or your real name
+that information is saved in a database that also saves
+information that will enable the skill to recognize your amazon/echo devices
+in this way, after you register and open the skill, it will recognize you and whomever else in your household that has previously registered
+for most functionalities, it will ask for the name to be used to store or retrieve information when that functionality is requested
+that information is not shared with any entity and is used only to enable you to better communicate your symptoms with your healthcare clinicians
+the purpose of this skill is not to provide medical advice
+the user of the skill should consult with their physician or pharmacist regarding any questions they may have about their medications
+as far as the health insurance portability and accountability act of 1996 (hipaa)
+the developer of this skill, bob kolock, is neither a covered entity nor a business associate as defined under hipaa regulations (45 cfr 160

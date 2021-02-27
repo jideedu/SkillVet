@@ -1,0 +1,30 @@
+eve navigator privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+we never collect your data
+data around errors in our service are collected but only contain your alexa-userid and have no other identifying information such as your name or any other personal information
+changes third-party account linking
+account linking through eve navigator requires the end-user to allow access to their eve online account through eve's api
+at no point in the linking process is the end-users password readable by eve navigator or amazon
+eve navigator does not store any data relating to your in-game character
+eve navigator is not associated with ccp games or eve online, their privacy policy can be found on the ccp website https
+our skills or parts of it may change or be updated at any time
+further, this privacy policy might change
+you can find a link to this policy on the description page of the skill in the alexa app or the alexa store
+your continued use of our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of both
+eve navigator privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+we never collect your data
+data around errors in our service are collected but only contain your alexa-userid and have no other identifying information such as your name or any other personal information
+changes third-party account linking
+account linking through eve navigator requires the end-user to allow access to their eve online account through eve's api
+at no point in the linking process is the end-users password readable by eve navigator or amazon
+eve navigator does not store any data relating to your in-game character
+eve navigator is not associated with ccp games or eve online, their privacy policy can be found on the ccp website https
+our skills or parts of it may change or be updated at any time
+further, this privacy policy might change
+you can find a link to this policy on the description page of the skill in the alexa app or the alexa store
+your continued use of our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of both

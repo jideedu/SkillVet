@@ -1,0 +1,357 @@
+sorry, you need to enable javascript to visit this website
+skip to main content
+social links facebook linkedin twitter instagram youtube
+prior versions of this policy are available here
+to download and/or print this privacy policy ("privacy policy"), click here
+an overview of this sony pictures entertainment inc
+privacy policy is below
+to see the full text click on the links provided
+this privacy policy applies to your use of any online services ( e
+, website or mobile app) that posts a link to this privacy policy, regardless of how you access or use it
+click here to view our terms of use
+a children’s privacy policy may be posted on applicable portions of the service
+your choices and your ca privacy rights
+you have certain choices regarding information collection and communications options explained here , including
+california residents have certain privacy rights detailed here
+although spe does not look for or respond to "do not track" signals, you can find information on tracking technologies here and certain choice options regarding tracking technologies here
+your options regarding accessing and changing certain of your personal information are available here
+your options regarding promotional communications are explained here
+children’s and minors’ privacy rights, and notice to parents of these rights, are explained here
+questions and how to contact spe
+for more information about spe’s privacy practices regarding the service, read the full privacy policy
+you can also contact spe here if you have questions or concerns
+the information spe collects is used for a variety of purposes as detailed in this privacy policy
+for example, your information helps spe provide and improve the service, communicate with you, serve advertising and offers to you, and operate spe’s business
+spe may ask you to provide personal information ( e
+, name, address, e-mail, phone number, gender, etc
+), as well as other information ( e
+), which may be required to access certain content, features, and functionality
+spe and third parties may collect information from you automatically as you access the service ( e
+, information about the devices you use to access the service and your usage activities)
+this may include use of cookies and other technologies to keep track of your interactions with the service, and to serve you with ads on spe sony company, and third-party services, to offer you a more personalized and relevant experience
+the information spe receives via the service may be combined with information spe receives from third parties and sources outside of the service
+spe’s policies and practices regarding personal information collected from children are explained here
+spe may share the information spe receives from or about you via the service (or give others access to it), including your personal information, for a variety of purposes, as detailed in this privacy policy
+these include, without limitation
+to deliver and improve spe’s services
+for sony group companies’ (defined below in section 1c ) marketing and other purposes
+in connection with corporate transactions ( e
+, merger or sale)
+to display your posts or send your messages more
+in connection with your use of third-party services more
+in connection with sweepstakes, contests and promotions more
+spe obtains your consent ( e
+, opt-in, opt-out), however, before knowingly sharing personal information spe collects from you on the service with third parties (other than sony group companies, except as otherwise required by applicable law) for their own direct marketing purposes
+spe may share your non-personal information, aggregate and/or de-identified information about you except as prohibited by applicable law
+full spe privacy policy
+thank you for visiting an online service ( e
+, website or mobile app) that posts a link to this privacy policy ("service") owned or operated by sony pictures entertainment inc
+or one of its family of companies (collectively, "spe")
+this privacy policy will provide you with information as to how spe collects, uses, and shares information about you, including the choices spe offers with respect to that information, and applies to your use of any service, regardless of how you access or use it
+it does not apply to spe’s data collection activities offline or otherwise outside of the service (unless otherwise stated below or at the time of collection)
+for certain services, there may be additional notices about information practices and choices
+please read those additional privacy disclosures to understand how they apply to you
+by visiting or otherwise using the service, you agree to the service’s terms of use and consent to spe’s collection, use, and disclosure practices, and other activities as described in this privacy policy, and any additional privacy statements that may be posted on an applicable part of the service (including any children’s privacy policy)
+if you do not agree and consent, please discontinue use of the service, and uninstall service downloads and applications
+spe, and/or its service providers (defined below), may collect information you provide directly to spe and/or its service providers via the service
+for example, spe collects information when you use or register for the service, subscribe to notifications, post on the service, participate in promotional activities, or communicate or transact with spe through the service
+in addition, when you interact with third-party services (defined below), you may be able to provide information to those third parties
+for more information on third- party services’ data collection and practices click here
+for more information on service provider data collection and practices click here
+information spe, its service providers and/or third-party services may collect may include
+(1) personally identifiable information, which is information that identifies, or is reasonably capable of identifying you personally, such as your first and last name, e-mail address, phone number, address, and full payment account number, or your device, including certain digital identifiers, such as cookie ids ("personal information")
+and (2) non-personal information, such as (to the extent permitted by applicable law) your interests ("non-personal information")
+in addition, personal information, including, without limitation, spe-collected pi (defined below), once "de-identified" (i
+, the removal of personal identifiers from data or other means to make it no longer reasonably identifiable and no attempt made to reidentify the information to an individual) is also non-personal information and may be used and shared without obligation to you, except as prohibited by applicable law
+to the extent any non- personal information is combined by or on behalf of spe with personal information spe itself collects directly from you on the service ("spe-collected pi"), spe will treat the combined data as spe-collected pi under this privacy policy
+spe, its service providers, and/or third-party services may also automatically collect certain information about you when you access or use the service ("usage information")
+usage information may include ip address, device identifier, browser type, operating system, information about your use of the service, and data regarding network connected hardware (e
+, computer or mobile device)
+for more information on third-party services’ data collection and practices click here
+for more information on service provider data collection and practices click here
+for information on choices some of these third parties may offer you regarding automated data collection click here
+the methods that may be used on the service to collect usage information include
+log information is data about your use of the service, such as ip address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data, and may be stored in log files
+information collected by cookies and other tracking technologies
+cookies , web beacons (also known as "tracking pixels"), embedded scripts , location-identifying technologies , fingerprinting , device recognition technologies , in-app tracking methods and other tracking technologies now and hereafter developed ("tracking technologies") may be used by spe and third parties including other sony group companies to collect information about interactions with the service or e-mails, including information about your browsing and purchasing behavior
+a cookie is a small text file that is stored on a user’s device, which may be session id cookies or tracking cookies
+session cookies make it easier for you to navigate the service and expire when you close your browser
+tracking cookies remain longer and help in understanding how you use the service, and enhance your user experience
+cookies may remain on your device for an extended period of time
+if you use your browser’s method of blocking or removing cookies, some but not all types of cookies may be deleted and/or blocked and as a result some features and functionalities of the service may not work
+a flash cookie (or locally shared object) is a data file which may be placed on a device via the adobe flash plug-in that may be built-in to or downloaded by you to your device
+html5 cookies can be programmed through html5 local storage
+flash cookies and html 5 cookies are locally stored on your device other than in the browser and browser settings won’t control them
+to identify certain types of local shared objects on your device and adjust your settings, please visit
+the service may associate some or all of these types of cookies with your devices
+web beacons ("tracking pixels")
+web beacons are small graphic images, also known as “internet tags” or “clear gifs,” embedded in web pages and e-mail messages
+web beacons may be used, without limitation, to count the number of visitors to the service, to monitor how users navigate the service, to count content views, and to measure the effectiveness of our advertising and email marketing
+an embedded script is programming code designed to collect information about your interactions with the service
+it is temporarily downloaded onto your computer from spe’s web server, or from a third party with which spe works, and is active only while you are connected to the service, and deleted or deactivated thereafter
+gps (global positioning systems) software, geo-filtering and other location-aware technologies locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content and advertising based on your location
+collection and analysis of information from your device, such as, without limitation, your operating system, plug-ins, system fonts, and other data, for purposes of identification and/or tracking
+technologies, including application of statistical probability to data sets, as well as linking a common unique identifier to different device use ( e
+, facebook id), which attempt to recognize or make assumptions about users and devices ( e
+, that a user of multiple devices is the same user or household)
+there are a variety of tracking technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings
+some use device identifier, or other identifiers such as “ad ids” to associate app user activity to a particular app and to track user activity across apps and/or devices
+some information about your use of the service and certain third-party services may be collected using tracking technologies across time and services, and used by spe, sony group companies, and third parties for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the service and certain thirdparty services
+see section 11 regarding certain choices regarding these activities
+spe is giving you notice of the tracking technologies and your choices regarding them explained in section 11 so that your consent to encountering them is meaningfully informed
+information spe collects from partners and other sources
+spe may also obtain information about you from other sources, including spe’s affiliates ("sony group companies"), service providers and third-party services, and combine that with spe-collected pi
+such third-party-sourced, or non-service-sourced, information (including personal information) will only be treated as spe-collected pi to the extent it is combined with spe-collected pi
+spe is not responsible or liable for the accuracy of the information provided by third parties or for third party policies or practices
+spe may use information about you, including spe-collected pi and other personal information, for any purposes consistent with spe’s statements under this privacy policy and not prohibited by applicable law, including, without limitation, the following
+allow you to participate in the features we offer on the service
+facilitate, manage, personalize, and improve your online experience
+process your registration and/or upload your user generated content ("ugc")
+(for more information on how ugc is treated under the service’s terms of use click here
+for more on the public nature of ugc, see section 5 )
+transact with you, provide services or information you request, respond to your comments, questions and requests, serve you content and/or advertising, and send you notices
+for sony group companies’ marketing and other purposes including identity resolution
+improve the service and for any other internal business purposes
+tailor our content, advertisements, emails, sms/text messages and offers
+fulfill other purposes disclosed at the time you provide personal information or otherwise where we are legally permitted or are required to do so
+determine your location and manage digital content rights ( e
+prevent and address fraud, breach of policies or terms, and threats or harm
+spe may share non-personal information, and personal information that is not deemed spe-collected pi hereunder (provided that spe is aware of no restrictions on spe’s use, if any), with third parties, including without limitation other sony group companies for any purpose
+spe’s sharing of spe-collected pi is, however, subject to the following
+while on the service, you may have the opportunity to consent (which may be by opt-in or election not to opt-out) to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of spe-collected pi with a third party
+absent your consent (which may be by means of third party interaction described in the next bullet point), however, spe will not share your spe-collected pi with third parties, other than sony group companies (except as otherwise required by applicable law), for their own direct marketing purposes, except in connection with corporate transactions (defined below)
+your disclosure or consent
+as more fully described in section 5 (information you disclose publicly or to others) and section 6 (third-party services, social features, advertising and analytics), your activities on the service may, by their nature, result in the sharing of your spe-collected pi (as well as your other personal information and your non-personal information) with third parties, and by engaging in these activities you consent to that and further sharing and disclosure to third parties
+such third party data receipt and collection is subject to the privacy and business practices of that third party, not spe
+spe may also share any information about you (including, without limitation, spe-collected pi) for any purposes consistent with this privacy policy, or otherwise not prohibited by applicable law, including, without limitation
+to spe’s agents, vendors, consultants, and other service providers (collectively "service providers") who may receive, or be given access to your information, including, without limitation, personal information, non-personal information, and usage information, in connection with their work on spe’s behalf
+for more information on choices service providers may offer you click here
+to comply with the law, law enforcement or other legal process, and in response to a government request
+if spe believes your actions are inconsistent with spe’s terms of use, user agreements, applicable terms or policies, or to protect the rights, property, life, health, security and safety of spe, the service or its users, or any third party
+spe may share your spe-collected pi (as well as your other personal information and your non-personal information), in connection with or during negotiations of any proposed or actual merger, purchase, sale, joint venture, or any other type of acquisition or business combination of all or any portion of spe assets, or transfer of all or a portion of spe’s business to another company ("corporate transactions")
+sweepstakes, contests, and promotions
+spe may offer sweepstakes, contests, and other promotions (each, a "promotion"), including promotions jointly sponsored or offered by third parties, which may require submitting personal information
+if you voluntarily choose to enter a promotion, your information, including personal information, may be disclosed to spe, co-sponsors, service providers, sony group companies, and other third parties, including for administrative purposes and as required by law (e
+, on a winners list)
+by entering, you are agreeing to the official rules that govern that promotion, which may include consent to additional or differing data practices from those contained in this privacy policy
+please review those rules carefully
+information you disclose publicly or to others
+the service may permit you to post or submit ugc including, without limitation, written content, user profiles, audio or visual recordings, computer graphics, pictures, data, or other content, including personal information
+if you choose to submit ugc to any public area of the service, your ugc will be considered “public” and will be accessible by anyone, including spe
+notwithstanding anything to the contrary, personal information included in ugc is not subject to spe’s usage or sharing limitations, or other obligations, regarding spe-collected pi or other personal information under this privacy policy or otherwise, and may be used and shared by spe and third parties to the extent consistent with this privacy policy or not prohibited by applicable law
+spe encourages you to exercise caution when making decisions about what you disclose in such public areas
+for more information on how ugc is treated under the service’s terms of use click here
+california minors should see section 9 regarding potential removal of certain ugc they have posted on the service
+additionally, the service may offer you the option to send a communication to a friend
+if so, spe relies on you to only send to people that have given you permission to do so
+the friend’s personal information you provide ( e
+, name, e-mail address) will be used to facilitate the communication, but not used by spe for any other marketing purpose unless spe obtains consent from that person
+your contact information and message may be included in the communication
+third-party services, social features, advertising and analytics
+the service may include hyperlinks to, or include on or in connection with, the service (e
+, apps and plug-ins), websites, locations, platforms, applications or services operated by third parties ("third-party service(s)"
+these third-party services may use their own cookies, web beacons, and other tracking technology to independently collect information about you and may solicit personal information from you
+their privacy policies apply in such cases, and not this privacy policy
+certain functionalities on the service permit interactions that you initiate between the service and certain third- party services, such as third-party social networks ("social features")
+examples of social features include
+enabling you to send content such as contacts and photos between the service and a third-party service
+“liking” or “sharing” spe’s content
+logging in to the service using your third-party service account ( e
+, using facebook connect to sign-in to the service)
+and to otherwise connect the service to a third-party service( e
+, to pull or push information to or from the service)
+if you use social features, and potentially other third party services, information you post or provide access to may be publicly displayed on the service (see section 5 ) or by the third- party service that you use
+similarly, if you post information on a third-party service that references the service ( e
+, by using a hashtag associated with spe or sony group companies in a tweet or status update), your post may be used on or in connection with the service or otherwise by spe and sony group companies
+also, both spe and the third party may have access to certain information about you and your use of the service and any third-party service
+spe may engage and work with service providers and other third parties to serve advertisements on the service and/or on third-party services
+some of these ads may be tailored to your interest based on, for example, your browsing of the service and elsewhere on the internet, sometimes referred to as “interest-based advertising” and “online behavioral advertising” ("interest-based advertising"), which may include sending you an ad on a third-party service after you have left the service (i
+spe may use service providers for analytics services such as, without limitation, google analytics
+these analytics services may use cookies and other tracking technologies to help spe analyze service users and how they use the service
+information generated by these services ( e
+, your ip address and other usage information) may be transmitted to and stored by these service providers on servers in the u
+(or elsewhere) and these service providers may use this information for purposes such as evaluating your use of the service, compiling statistic reports on the service’s activity, and providing other services relating to service activity and other internet usage
+except to the extent spe combines information from service providers, third-party services, or other third parties with spe-collected pi, in which case spe will treat the combined information as spe-collected pi under this privacy policy (see section 1(c) ), data obtained by spe from a third party, even in association with the service, is not subject to spe’s limitations regarding spe-collected pi under this privacy policy
+however such data remains subject to any restrictions imposed on spe by the third party, if any
+otherwise, the information collected, stored, and shared by third parties remains subject to their privacy policies and practices, including whether they continue to share information with spe, the types of information shared, and your choices on what is visible to others on third- party services
+spe is not responsible for and makes no representations regarding the policies or business practices of any third parties, including, without limitation, analytics service providers and third-party services associated with the service, and encourages you to familiarize yourself with and consult their privacy policies and terms of use
+see section 11 for more on certain choices offered by some third parties regarding their data collection and use, including regarding interest-based advertising and analytics
+data security and monitoring
+spe takes reasonable measures to protect spe-collected pi (excluding ugc) from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction
+nevertheless, transmission via the internet and online digital storage are not completely secure and spe cannot guarantee the security of your information collected through the service
+to help protect you and others, spe and its service providers may (but make no commitment to) collect and use information including usage of the service, spe-collected pi and other personal information for all purposes not prohibited by applicable law or inconsistent with this privacy policy, including, without limitation, to identify fraudulent activities and transactions
+prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the service
+ensure compliance with the terms of use and this privacy policy
+investigate violations of or enforce these agreements
+and otherwise to protect the rights and property of spe and sony group companies, their partners, and customers
+such monitoring may result in the collection, logging, and analysis of online activity or communications through our service
+if you do not consent to these conditions, you must discontinue your use of the service
+spe is based in the u
+and the information spe and its service providers collect is governed by u
+if you are accessing the service from outside of the u
+, please be aware that information collected through the service may be transferred to, processed, stored, and used in the u
+data protection laws in the u
+may be different from those of your country of residence
+your use of the service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of your information, including personal information, in the u
+as set forth in this privacy policy
+the service is intended for a general audience and not directed to children less than 13 years of age
+some portions of the service, however, may be intended as appropriate for a mixed audience of users under and over 13 years of age ( e
+, a separate “kids” section), or exclusively for users under 13 years of age
+for further information on how spe treats children’s personal information (defined below) in connection with any children’s or mixed-use portions of the service (if any), please see the children’s privacy policy posted thereon, which will be deemed incorporated herein for purposes of that part of the service
+spe does not knowingly collect personal information as defined by the u
+children’s privacy protection act ("coppa") ("children’s personal information") in a manner that is not permitted by coppa, and for any children’s or mixed-use portions of the service (if any) spe will comply with coppa
+if you are a parent or guardian and believe spe has collected children’s personal information in a manner not permitted by coppa, please contact spe here and spe will remove such data to the extent required by coppa
+any california residents under the age of eighteen (18) who have registered to use the service, and who have posted content or information on the service, can request removal by contacting spe here , detailing where the content or information is posted and attesting that you posted it
+spe will then make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified to the extent required by applicable law
+this removal process cannot ensure complete or comprehensive removal
+for instance, third parties may have republished or archived content by search engines and others that spe does not control
+spe does not "sell" (as that term is defined by the california consumer privacy act (ccpa)) personal information gathered from sites that link to the children's privacy policy
+for further information regarding the sale of personal information under the ccpa, please see section 12
+accessing and changing information
+if you have registered an account with spe, spe provides you with tools and account settings to access, correct, delete, or modify the information you provided to us and associated with your account
+spe will make good faith efforts to make such requested changes in spe’s then-active databases as soon as practicable, but it is not always possible to completely change, remove or delete all your information or public postings from spe’s databases (california minors see section 9 ) and residual and/or cached data may remain archived thereafter
+further, we reserve the right to retain data (a) as required by applicable law
+and (b) for so long as reasonably necessary to fulfill the purposes for which the data is retained except to the extent prohibited by applicable law
+tracking and communications options
+regular cookies and tracking pixels, among other tracking technologies, may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings
+browsers offer different functionalities and options so you may need to set them separately
+also, tools from commercial browsers may not be effective with regard to flash cookies (also known as locally shared objects), html5 cookies, or other tracking technologies
+for information on disabling flash cookies, go to adobe’s website http
+you can also manage the use of some tracking technologies such as without limitation cookies and tracking pixels by using spe’s cookie consent tool
+please be aware that every website utilizes its own cookies, so cookie preferences should be set for each spe website
+if you choose to opt out of any tracking technologies such as without limitation cookies and pixels, a preference cookie will be placed on your device in order to honor that opt-out
+if you later clear your browser and delete cookies from your device, by doing so you will also remove the preference cookie
+therefore, in order to remain opted out of tracking technologies, you will have to go back to the cookie consent tool and renew your choices
+please remember that if you disable or remove these technologies, some parts of the service may not work and that when you revisit the service your ability to limit browser-based tracking technologies is subject to your browser settings and limitations
+app-related tracking technologies in connection with non-browser usage ( e
+, most functionality of a mobile app) can be disabled by uninstalling the app and in some instances by using the cookie consent tool in the app you are using
+to uninstall an app, follow the instructions from your operating system or device manufacturer
+your browser settings may allow you to automatically transmit a “do not track” signal to online services you visit
+note, however, there is no consensus as to what “do not track” means in this context
+like many online services, spe currently does not alter spe’s practices when spe receives a “do not track” signal from a visitor’s browser
+to find out more about “do not track,” you can visit https
+com , but spe is not responsible for the completeness or accuracy of this third party information
+some third parties, however, may offer you choices regarding their tracking technologies
+spe is not responsible for the completeness or accuracy of third party choice notices or choice mechanisms
+for specific information on some of the choice options offered by third party analytics and advertising providers, see the next section
+analytics and advertising tracking technologies
+you may exercise choices regarding the use of cookies from google analytics by going to https
+com/dlpage/gaoptout or downloading the google analytics opt-out browser add-on
+you may exercise choices regarding the use of cookies from microsoft by going to http
+you may choose whether to receive some interest-based advertising by submitting opt-outs
+some of the advertisers and service providers that perform advertising-related services for us and our partners may participate in the digital advertising alliance’s("daa") self-regulatory program for online behavioral advertising
+to learn more about how you can exercise certain choices regarding interest-based advertising online, visit http
+info/choices/ , and http
+info/appchoices for information on the daa’s opt-out program for mobile apps
+some of these companies may also be members of the network advertising initiative (“nai”)
+to learn more about the nai and your opt-out options for their members, see http
+opting out does not mean that you will no longer receive ads, but that the ads you see will no longer be relevant to your preferences
+also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use of a different device or web browsers or use a non-browser-based method of access ( e
+, mobile app), your nai / daa browser-based opt-out may not, or may no longer, be effective
+spe supports the ad industry’s 2009 self-regulatory principles for online behavioral advertising ( https
+spe is not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs
+with respect to spe’s mobile apps ("apps"), you can stop all collection of data generated by use of the app by uninstalling the app
+also, you may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device
+see also the prior section regarding the daa’s mobile interest-based advertising choices
+you can opt out of receiving certain promotional communications (emails or text messaging) from spe at any time by (i) for promotional e-mails, following the instructions provided in emails to click on the unsubscribe link, or if available by changing your communication preferences by logging onto your account
+and (ii) for text messages, following the instructions provided in text messages from spe to text the word, “stop”
+please note that your opt- out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions
+if you opt- out of only certain communications, other subscription communications may continue
+even if you opt-out of receiving promotional communications, spe may, subject to applicable law, continue to send you non-promotional communications, such as those about your account, transactions, servicing, or spe’s ongoing business relations
+the service may feature nielsen proprietary measurement software, which will enable you to contribute to market research, such as nielsen tv ratings
+to learn more about the information that nielsen software may collect and how to opt out, please see the nielsen digital measurement privacy policy at http
+your california privacy rights
+california's "shine the light" law
+spe only knowingly shares personal information (as defined by california’s “shine the light” law), with non- affiliated third parties (i
+, parties other than sony group companies except as otherwise required by applicable law) for their own direct marketing purposes if you specifically opt-in, or are offered the opportunity to opt-out and elect not to opt-out, to such sharing at the time you provide personal information or choose to participate in a feature on the service
+if you do not opt in or if you opt-out at that time, spe will not knowingly share the personal information that was collected in connection therewith with such identified non-affiliated third party(ies) (or sony group companies where required by applicable law) for its/their own direct marketing purposes, but may continue to seek your consent to sharing with the same or other non-affiliated third parties (or sony group companies where required by applicable law) for their own direct marketing purposes from time-to-time
+each consent notice and opportunity will be treated separately so it is possible that you may consent to some sharing but not to others
+in addition, california residents may request information about spe’s compliance with the shine the light law and the sony group companies with which spe may have shared personal information for their direct marketing purposes by contacting spe here or by sending a letter to sony pictures entertainment inc
+washington, jimmy stewart building, culver city, ca 90232 (attention
+privacy program, information security)
+requests must include “california privacy rights request” in the first line of the description and include your name, street address, city, state, and zip code
+please note that spe is only required to respond to one such request per customer each year, and spe is not required to respond to requests made by means other than through the provided e-mail address or mail address
+the california consumer privacy act (also known as the “ccpa”)
+if you are a california resident, california law also provides you with specific rights regarding your personal information which are set forth in more detail below
+the right to delete personal information and the right to know about personal information collected, disclosed, or sold
+as a california resident you have the right to request spe to delete personal information which spe has collected from you and the right to request from spe what personal information about you it has collected, used, disclosed, and “sold” about you (as the term “sale” is defined under the ccpa
+“the selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to another business or a third party for monetary or other valuable consideration”)and the right to request that we stop any such “sales
+” spe does not share consumers’ personal information in exchange for money
+spe shares personal information with third parties and service providers in compliance with the law in order to deliver more meaningful ads and other communications to consumers, and for other similar reasons provided in this policy
+spe does not sell personal information gathered from sites that link to the children's privacy policy referenced in section 9 above
+spe will take reasonable steps to verify your identity using information you submit with your request before the request will be processed
+we may request additional information from you
+to submit a request, you can click here or contact us at 1-800-782-6588
+if you have visited the spe studios in culver city, california in person, please click here
+your request is subject to exceptions allowed by law
+please note that spe is only required to respond to two such requests per california resident each year and only requests from california residents whose identity spe can reasonably verify
+right to opt out of the sale of personal information
+a california resident has the right to opt- out of the sale of their personal information by a business
+to submit such a request, please click here or call us at 1-800-782-6588
+submitting such a request will not impact what information is collected from you via tracking technologies including cookies and tracking pixels, that help us and others better understand you and serve you more relevant content and ads
+to opt out of certain tracking technologies, click here
+please be aware that every website utilizes its own cookies, so cookie preferences should be set for each spe website by clicking on the "cookie consent tool" in that website’s footer
+if you choose to opt out of any tracking technologies such as without limitation cookies and pixels, a preference cookie will be placed on your device in order to honor that opt-out
+if you later clear your browser and delete cookies from your device, by doing so you will also remove the preference cookie
+therefore, in order to remain opted out of tracking technologies, you will have to go back to the cookie consent tool and renew your choices
+right to non-discrimination for the exercise of a consumer's privacy rights
+a california consumer has the right not to receive discriminatory treatment by a business for the exercise of their privacy rights conferred by the ccpa
+a california resident may designate an authorized agent to make a request on his or her behalf
+to make such a request to delete or to receive information regarding personal information that spe has about you, your authorized agent should submit the request here
+to submit an opt-out request, they should click here
+they and/or you will be asked to provide proof of such authorization, i
+, a power of attorney or a letter of authorization and proof of identity
+we will contact your agent and/or you with additional details after the request has been received
+personal information collected, sold or disclosed
+spe may collect the following categories of personal information
+identifiers such as name, mailing address, online identifier, internet protocol address and telephone numbers
+characteristics of protected classifications under california or federal law such as gender or date of birth
+commercial information such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+internet or other electronic network activity
+information such as browser type, operating system, traffic to and from websites
+advertising data and other standard weblog information collected via cookies
+access-control location data gathered about visitors while on an spe property
+audio, visual, or similar information including without limitation closed-circuit television images of visitors while on an spe property
+inferences drawn from any of the information identified above
+this information may be used for the purposes disclosed in this privacy policy including to provide services requested, managing accounts including registration and participation in products and services
+maintaining and improving spe sites, products and services
+identity resolution, personalizing customer experiences including tailoring content
+consumer marketing including push notifications, online and mobile ads, emails, and sms/text messaging from spe and other sony group companies
+to maintain security on spe properties and conduct security screenings to the extent permitted by law
+and to satisfy compliance and legal obligations
+spe may have collected any of the above categories of personal information about california residents during the past 12 months for the purposes described in this policy
+this information may have been collected from consumers and data resellers such as data management platforms, and the information may have been shared with third parties such as advertising networks, internet service providers, data analytics providers, operating systems and platforms, social networks and sony group companies which may not share common branding
+spe may have disclosed or sold any of the above categories of personal information to third parties, including sony group companies which may not share common branding, for a business or commercial purpose in the past 12 months
+spe does not sell the personal information of california residents under 16 years of age without affirmative authorization
+in certain instances, such as in the context of spe’s wheel watchers club (wwc), spe offers benefits that may qualify as financial incentive programs (fip) under california law
+california consumers who opt in to the fip may withdraw from the fip at any time by contacting spe at spe_privacy@spe
+participation in an fip is voluntary
+if you choose to participate in an fip, spe may retain, use and/or disclose personal information it may have collected about you as described in this privacy policy, including the information you provide on the registration page when you join the fip, in exchange for providing you with fip benefits (in the case of the wwc, such benefits are described here ) and as otherwise offered by spe to fip members from time to time
+spe does not calculate the value of personal information which it collects
+rather, to the extent spe creates overall value from its fips to its business that could be directly or reasonably related to the value of personal information it collects from fip members, spe makes a good-faith estimate for california residents which could include any costs and commercial benefits reasonably related to the fips
+changes to this privacy policy
+spe reserves the right to revise and reissue this privacy policy at any time
+any changes will be effective upon the posting of the revised privacy policy unless otherwise stated in the revised sections
+your continued use of the service indicates your consent to the privacy policy then posted
+if you do not agree, discontinue use of the service and uninstall service downloads and applications
+if you have a subscription to a service offering, material changes to this privacy policy will only become effective with respect to the aspect of that subscription at the end of the then current term unless you otherwise consent
+if you have any questions about this privacy policy, please contact spe here or at sony pictures entertainment inc
+washington, jimmy stewart building, culver city, ca 90232 (attention
+privacy program, information security)
+about sony pictures senior management team divisions corporate impact studio tours help (faq) services sony pictures imageworks sony pictures studios sony pictures stock footage sony pictures film clips & still licensing sony pictures audio library group sales supplier information sony pictures on the web sony pictures animation sony pictures classics sony pictures museum sony pictures television sony pictures worldwide acquisitions about sony corporation sony
+net investor relations sony corp
+of america sony rewards press room press resources press releases
+social facebook linkedin twitter instagram youtube
+do not sell my personal information
+© 2020 sony pictures digital productions inc
+sony pictures stock footage
+sony pictures film clips & still licensing
+sony pictures audio library
+sony pictures on the web
+sony pictures worldwide acquisitions
+social links facebook linkedin twitter instagram youtube
+do not sell my personal information
+© 2019 sony pictures digital productions inc
+our site uses cookies and other technologies to run this site, improve its operation and to deliver ads and other marketing materials to you
+to learn more about how we use cookies, please see our privacy policy
+to manage the cookies we use with you, please click here

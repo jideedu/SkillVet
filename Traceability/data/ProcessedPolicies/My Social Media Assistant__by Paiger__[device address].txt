@@ -1,0 +1,186 @@
+this data processing agreement (the “data processing agreement”) specifies the data protection obligations of the parties which arise in connection with the provision of the services whilst the customer is using the services provided by paiger
+it applies to all activities performed in connection with the customer use of the services in which processor and, if and insofar permissible, a third party acting on behalf of processor may come into contact with personal data of the customer
+the relevant types of personal data, the individuals these personal data refer to and the types of processing of personal data being undertaken are set out below
+users details including the name and contact details are stored to provide access to the system and personalisation
+the mobile telephone number is used for interaction and notifications, while the email is additionally used to identify the user in the system
+where jobs are shared, the email may be used to provide a call to action or application path
+all connections to 3rd party systems made by the user are made through official apis and 3rd party tokens are stored
+this data processing agreement shall remain in force for such time as the customer is using the services
+for the purposes of this data processing agreement, both parties hereby acknowledge and confirm that the customer is the data controller, (hereinafter “controller”) and paiger limited is the data processor, (hereinafter “processor”)
+“data protection legislation” means the eu general data protection regulation and all other applicable laws and regulations relating to the processing of personal data and privacy
+“personal data” means any information relating to an identified or identifiable natural individual as defined by applicable data protection legislation
+“processing” means processing of personal data on behalf of controller as defined by applicable data protection legislation
+“instruction” means a written instruction, issued by controller to processor, and directing processor to perform a specific action with regard to personal data (including, but not limited to, depersonalizing, blocking, deletion, making available)
+these instructions may from time to time or case to case thereafter, be amended, amplified or replaced by controller in separate written instructions (individual instructions)
+“services” shall be software provided by paiger limited to the customer “customer” shall be the entity named on the order form completed when signing up for the services
+both parties shall assist each other in complying with its applicable obligations under the data protection legislation
+each party shall at all times comply with the data privacy applicable laws and regulatory requirements with regards to the provision of the services under this order and shall under no circumstances make the other party in breach with these laws, rules or regulations
+processor shall process personal data on behalf of controller and always in accordance with the data protection legislation and codes of practice applying to the processor
+processor shall process personal data only within the scope of controller’s instructions
+processors interpretation of those instructions in so far as it applies to the services is set out below
+personal data is held to enable the service to personalise messaging and to communicate with the user for notifications, system updates and support
+controller hereby acknowledges that the processing specified above comprise it’s instructions to the processor
+if processor is required to process the personal data for any other purpose by applicable law, processor will inform the controller of this legal requirement, to the extent permitted to do so by the applicable law
+processor shall not process personal data for its own purposes and shall keep controller’ personal data logically separate to data processed on behalf of any third party
+processor shall notify controller immediately if, in processor’s reasonable opinion, an instruction breaches the data protection legislation
+processor shall take appropriate technical and organizational measures to adequately protect controller’s personal data against unauthorised or unlawful processing and against accidental loss, destruction, damage, alteration or disclosure taking into account the nature of the processing, the processor has set out below a summary of those measures adopted in the provision of the services
+passwords are encrypted, alongside offsite backups and the service itself can only
+be accessed by a secure protocol (https)
+all authentication methods to end channels
+(social media) are done so using official methods and apis, with paiger never seeing
+the controller acknowledges that the technical and organizational measures set out above are subject to technical progress and development
+processor may implement without advance notification to the controller adequate alternative measures, providing these are no less adequate than the level of security provided by those they replace
+updated measures shall be incorporated into this data processing agreement and made available on the website of paiger limited
+if processor becomes aware of known or suspected breaches of security leading to or which may have led to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data that processor has processed (“personal data breach”)
+processor shall provide controller with a description of the personal data breach, the types of data that was the subject of the personal data breach and the identity of each affected person as soon as such information can be collected or otherwise becomes available, as well as any other information controller may reasonably request relating to the personal data breach
+in the event of a personal data breach, processor will without undue delay (i) take action immediately to investigate the personal data breach and to identify, prevent recurrence and make reasonable efforts to mitigate the effects of any such personal data breach and (ii) to carry out any recovery or other action necessary to remedy the personal data breach
+processor shall not release or publish any filing, communication, notice, press release or report concerning any personal data breach in respect of controller’s personal data without controller’s prior written approval
+controller agrees that an unsuccessful security incident will not be subject to disclosure as per clause 14
+an unsuccessful security incident is one that does not lead to any unauthorised access to personal data of the controller or to any of the hardware or facilities of the processor used for storing personal data of the controller
+this includes but is not limited to port scans, denial of service attacks, pings and other such broadcast attacks on firewalls and unsuccessful log-on attempts
+the processor shall ensure that all personnel who have access to personal data belonging to controller under the terms of this data processing agreement maintain confidentiality, such obligations are contractually imposed
+processor shall ensure that access to controller’s personal data is limited to those persons who need access in order to meet the processor’s obligations under this data processing agreement and that such access is only granted to such parts of the controller’s personal data as is strictly necessary in relation to that person’s particular duties
+processor shall ensure that all personnel who have access to the personal data are reliable and have undertaken training appropriate to their role in relation to the handling of personal data and applicable data protection legislation
+processor shall maintain records of all personal data processing activities carried out on behalf of controller containing the information prescribed in applicable data protection legislation (including but not limited to the type of personal data processed and the purposes for which they are processed)
+the processor has made these records available a
+processor will immediately notify controller of any monitoring, auditing or control activities and measures undertaken by a supervisory authority
+the personal data will be processed and used by processor exclusively within the territory of a member state of the european union or the european economic area
+any transfer of personal data to a third country requires the prior written consent of controller
+processor acknowledges and agrees that all right, title and interest in controller’s personal data (including all intellectual property rights subsisting therein) shall vest solely in controller
+processor shall permit a supervisory authority to access its premises, computer and other information systems, records, documents and records (where permitted by applicable data protection legislation) to enable the supervisory authority to satisfy themselves that processor is complying with its obligations under this data processing agreement and applicable data protection legislation
+during the term of the order the controller is authorised to audit the technical and organisational measures taken by the processor (hereinafter “audit”) in order to ensure processor complies with its obligations under this data processing agreement
+all audits are defined by the controller, who shall be responsible for all costs
+audits may be carried out by (i) controllers suitably qualified employees, (ii) external auditors of the controller, (iii) regulators of the controller, (iv) independent consultants appointed by the controller and /or (v) voluntary disclosures from the processor
+should the controller wish the audit to be performed by an external auditor or an independent consultant, the controller must inform the processor to allow it to raise the potential situation of conflicts of interest with the proposed external auditor or this independent consultant
+the absence of an issue raised by processor within 5 days following the date of notice will amount to a tacit approval
+during the audit, processor will provide with no undue delay information, reasonable assistance and access to its premises as may be necessary in order that those conducting the audit may fully and promptly carry out each audit
+where controller intends to access the premises of the processor it shall provide the latter with a prior written notice a minimum of ten (10) working days before the beginning of the audit
+the controller acknowledges that due to security constraints physical access to the subcontracted hosting facilities utilized by processor may not be possible and this will not be considered a breach of the controllers right to audit
+controller and processor shall each be responsible for complying with their applicable obligations under the data protection legislation
+controller is responsible for securing data subject’s rights
+any additional reasonable costs arising in connection with the return or deletion of personal data after the termination or expiration of this order shall be borne by controller
+controller is solely responsible for securing all necessary consents from any data subjects in respect of the personal data it collects and requires the processor to process
+controller hereby indemnifies processor against all claims, and other applicable actions brought by any data subject/s where controller has failed to obtain the correct and necessary consents
+enquiries by data subjects to controller
+where controller is obliged, under the data protection legislation, to provide information to an individual or a government, regulatory or supervisory authority about the processing of his or her personal data, processor shall assist controller in making this information available promptly and no later than 10 working days from receipt of such written request from the controller
+if a data subject should apply directly to processor to request access to, or the rectification, erasure, restriction or portability of, his personal data, or to object to the processing of his personal data, processor will forward this request to controller without delay, and no later than 5 working days after receipt
+processor will only correct, delete or block the personal data processed on behalf of controller when instructed to do so in writing by the controller
+the engagement of subcontractors by processor requires controller’s prior written consent
+a list of subcontractors used by the processor in the processing of controllers data is set out below
+voodoo sms – https
+digital ocean – https
+in signing this order form controller hereby gives consent to processor to use these subcontractors
+where processor engages subcontractors with consent of controller, processor shall contractually require such subcontractors to comply with obligations that are substantially similar to those set forth herein, including in particular, but not limited to, the contractual requirements for confidentiality, data protection and data security
+processor shall restrict subcontractor’s access to personal data of the controller to the extent necessary for them to provide their services
+for the avoidance of doubt, where a subcontractor fails to fulfil its obligations under any sub-processing agreement, processor will remain fully liable to controller for the fulfilment of its obligations under this data processing agreement
+deletion and/or return of data and data retention
+within 15 days of the controller ceasing to be a customer of the processor the controller will delete the personal data of the controller in compliance with the data protection legislation
+the processor will retain all personal data of the controller whilst the controller maintains a contractual relationship with the processor and utilises the services of the processor
+duties to inform, mandatory written form
+in the event that processor (i) is required by law, court order, warrant, subpoena, or other legal judicial process to disclose any of controller’s personal data to any person other than controller or (ii) receives any inquiry, communication, request or complaint from any governmental, regulatory or supervisory authority, processor shall immediately notify controller in writing and shall furnish all reasonable assistance in a timely manner to controller to enable it to respond or object to, or challenge any such inquiries, communications, requests, or complaints and to meet applicable statutory or regulatory deadlines
+no change of or amendment to this data processing agreement or any of its requirements, including any commitment issued by processor, shall be valid and binding unless made in writing and unless they make express reference to being a change or amendment to this data processing agreement
+any waiver of any provision of this data processing agreement shall be recorded in written form
+follow our journey to 500 customers
+we’re open sourcing our marketing strategy, wins, losses and what we’re doing to grow paiger
+we’d love you to follow our journey by subscribing to our weekly updates
+connect with our ceo, darren westall, on linkedin for product insights and marketing tips
+beer with darren podcast every week darren interviews leading sales and marketers to deep dive into their background, stories and tips for success
+the other stuff alternative to outsourcing
+privacy & cookie policy
+download our #smarketing survey
+copyright 2020 paiger all rights reserved
+we use cookies to ensure that we give you the best experience on our website
+if you continue to use this site we will assume that you are happy with it
+this data processing agreement (the “data processing agreement”) specifies the data protection obligations of the parties which arise in connection with the provision of the services whilst the customer is using the services provided by paiger
+it applies to all activities performed in connection with the customer use of the services in which processor and, if and insofar permissible, a third party acting on behalf of processor may come into contact with personal data of the customer
+the relevant types of personal data, the individuals these personal data refer to and the types of processing of personal data being undertaken are set out below
+users details including the name and contact details are stored to provide access to the system and personalisation
+the mobile telephone number is used for interaction and notifications, while the email is additionally used to identify the user in the system
+where jobs are shared, the email may be used to provide a call to action or application path
+all connections to 3rd party systems made by the user are made through official apis and 3rd party tokens are stored
+this data processing agreement shall remain in force for such time as the customer is using the services
+for the purposes of this data processing agreement, both parties hereby acknowledge and confirm that the customer is the data controller, (hereinafter “controller”) and paiger limited is the data processor, (hereinafter “processor”)
+“data protection legislation” means the eu general data protection regulation and all other applicable laws and regulations relating to the processing of personal data and privacy
+“personal data” means any information relating to an identified or identifiable natural individual as defined by applicable data protection legislation
+“processing” means processing of personal data on behalf of controller as defined by applicable data protection legislation
+“instruction” means a written instruction, issued by controller to processor, and directing processor to perform a specific action with regard to personal data (including, but not limited to, depersonalizing, blocking, deletion, making available)
+these instructions may from time to time or case to case thereafter, be amended, amplified or replaced by controller in separate written instructions (individual instructions)
+“services” shall be software provided by paiger limited to the customer “customer” shall be the entity named on the order form completed when signing up for the services
+both parties shall assist each other in complying with its applicable obligations under the data protection legislation
+each party shall at all times comply with the data privacy applicable laws and regulatory requirements with regards to the provision of the services under this order and shall under no circumstances make the other party in breach with these laws, rules or regulations
+processor shall process personal data on behalf of controller and always in accordance with the data protection legislation and codes of practice applying to the processor
+processor shall process personal data only within the scope of controller’s instructions
+processors interpretation of those instructions in so far as it applies to the services is set out below
+personal data is held to enable the service to personalise messaging and to communicate with the user for notifications, system updates and support
+controller hereby acknowledges that the processing specified above comprise it’s instructions to the processor
+if processor is required to process the personal data for any other purpose by applicable law, processor will inform the controller of this legal requirement, to the extent permitted to do so by the applicable law
+processor shall not process personal data for its own purposes and shall keep controller’ personal data logically separate to data processed on behalf of any third party
+processor shall notify controller immediately if, in processor’s reasonable opinion, an instruction breaches the data protection legislation
+processor shall take appropriate technical and organizational measures to adequately protect controller’s personal data against unauthorised or unlawful processing and against accidental loss, destruction, damage, alteration or disclosure taking into account the nature of the processing, the processor has set out below a summary of those measures adopted in the provision of the services
+passwords are encrypted, alongside offsite backups and the service itself can only
+be accessed by a secure protocol (https)
+all authentication methods to end channels
+(social media) are done so using official methods and apis, with paiger never seeing
+the controller acknowledges that the technical and organizational measures set out above are subject to technical progress and development
+processor may implement without advance notification to the controller adequate alternative measures, providing these are no less adequate than the level of security provided by those they replace
+updated measures shall be incorporated into this data processing agreement and made available on the website of paiger limited
+if processor becomes aware of known or suspected breaches of security leading to or which may have led to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data that processor has processed (“personal data breach”)
+processor shall provide controller with a description of the personal data breach, the types of data that was the subject of the personal data breach and the identity of each affected person as soon as such information can be collected or otherwise becomes available, as well as any other information controller may reasonably request relating to the personal data breach
+in the event of a personal data breach, processor will without undue delay (i) take action immediately to investigate the personal data breach and to identify, prevent recurrence and make reasonable efforts to mitigate the effects of any such personal data breach and (ii) to carry out any recovery or other action necessary to remedy the personal data breach
+processor shall not release or publish any filing, communication, notice, press release or report concerning any personal data breach in respect of controller’s personal data without controller’s prior written approval
+controller agrees that an unsuccessful security incident will not be subject to disclosure as per clause 14
+an unsuccessful security incident is one that does not lead to any unauthorised access to personal data of the controller or to any of the hardware or facilities of the processor used for storing personal data of the controller
+this includes but is not limited to port scans, denial of service attacks, pings and other such broadcast attacks on firewalls and unsuccessful log-on attempts
+the processor shall ensure that all personnel who have access to personal data belonging to controller under the terms of this data processing agreement maintain confidentiality, such obligations are contractually imposed
+processor shall ensure that access to controller’s personal data is limited to those persons who need access in order to meet the processor’s obligations under this data processing agreement and that such access is only granted to such parts of the controller’s personal data as is strictly necessary in relation to that person’s particular duties
+processor shall ensure that all personnel who have access to the personal data are reliable and have undertaken training appropriate to their role in relation to the handling of personal data and applicable data protection legislation
+processor shall maintain records of all personal data processing activities carried out on behalf of controller containing the information prescribed in applicable data protection legislation (including but not limited to the type of personal data processed and the purposes for which they are processed)
+the processor has made these records available a
+processor will immediately notify controller of any monitoring, auditing or control activities and measures undertaken by a supervisory authority
+the personal data will be processed and used by processor exclusively within the territory of a member state of the european union or the european economic area
+any transfer of personal data to a third country requires the prior written consent of controller
+processor acknowledges and agrees that all right, title and interest in controller’s personal data (including all intellectual property rights subsisting therein) shall vest solely in controller
+processor shall permit a supervisory authority to access its premises, computer and other information systems, records, documents and records (where permitted by applicable data protection legislation) to enable the supervisory authority to satisfy themselves that processor is complying with its obligations under this data processing agreement and applicable data protection legislation
+during the term of the order the controller is authorised to audit the technical and organisational measures taken by the processor (hereinafter “audit”) in order to ensure processor complies with its obligations under this data processing agreement
+all audits are defined by the controller, who shall be responsible for all costs
+audits may be carried out by (i) controllers suitably qualified employees, (ii) external auditors of the controller, (iii) regulators of the controller, (iv) independent consultants appointed by the controller and /or (v) voluntary disclosures from the processor
+should the controller wish the audit to be performed by an external auditor or an independent consultant, the controller must inform the processor to allow it to raise the potential situation of conflicts of interest with the proposed external auditor or this independent consultant
+the absence of an issue raised by processor within 5 days following the date of notice will amount to a tacit approval
+during the audit, processor will provide with no undue delay information, reasonable assistance and access to its premises as may be necessary in order that those conducting the audit may fully and promptly carry out each audit
+where controller intends to access the premises of the processor it shall provide the latter with a prior written notice a minimum of ten (10) working days before the beginning of the audit
+the controller acknowledges that due to security constraints physical access to the subcontracted hosting facilities utilized by processor may not be possible and this will not be considered a breach of the controllers right to audit
+controller and processor shall each be responsible for complying with their applicable obligations under the data protection legislation
+controller is responsible for securing data subject’s rights
+any additional reasonable costs arising in connection with the return or deletion of personal data after the termination or expiration of this order shall be borne by controller
+controller is solely responsible for securing all necessary consents from any data subjects in respect of the personal data it collects and requires the processor to process
+controller hereby indemnifies processor against all claims, and other applicable actions brought by any data subject/s where controller has failed to obtain the correct and necessary consents
+enquiries by data subjects to controller
+where controller is obliged, under the data protection legislation, to provide information to an individual or a government, regulatory or supervisory authority about the processing of his or her personal data, processor shall assist controller in making this information available promptly and no later than 10 working days from receipt of such written request from the controller
+if a data subject should apply directly to processor to request access to, or the rectification, erasure, restriction or portability of, his personal data, or to object to the processing of his personal data, processor will forward this request to controller without delay, and no later than 5 working days after receipt
+processor will only correct, delete or block the personal data processed on behalf of controller when instructed to do so in writing by the controller
+the engagement of subcontractors by processor requires controller’s prior written consent
+a list of subcontractors used by the processor in the processing of controllers data is set out below
+voodoo sms – https
+digital ocean – https
+in signing this order form controller hereby gives consent to processor to use these subcontractors
+where processor engages subcontractors with consent of controller, processor shall contractually require such subcontractors to comply with obligations that are substantially similar to those set forth herein, including in particular, but not limited to, the contractual requirements for confidentiality, data protection and data security
+processor shall restrict subcontractor’s access to personal data of the controller to the extent necessary for them to provide their services
+for the avoidance of doubt, where a subcontractor fails to fulfil its obligations under any sub-processing agreement, processor will remain fully liable to controller for the fulfilment of its obligations under this data processing agreement
+deletion and/or return of data and data retention
+within 15 days of the controller ceasing to be a customer of the processor the controller will delete the personal data of the controller in compliance with the data protection legislation
+the processor will retain all personal data of the controller whilst the controller maintains a contractual relationship with the processor and utilises the services of the processor
+duties to inform, mandatory written form
+in the event that processor (i) is required by law, court order, warrant, subpoena, or other legal judicial process to disclose any of controller’s personal data to any person other than controller or (ii) receives any inquiry, communication, request or complaint from any governmental, regulatory or supervisory authority, processor shall immediately notify controller in writing and shall furnish all reasonable assistance in a timely manner to controller to enable it to respond or object to, or challenge any such inquiries, communications, requests, or complaints and to meet applicable statutory or regulatory deadlines
+no change of or amendment to this data processing agreement or any of its requirements, including any commitment issued by processor, shall be valid and binding unless made in writing and unless they make express reference to being a change or amendment to this data processing agreement
+any waiver of any provision of this data processing agreement shall be recorded in written form
+follow our journey to 500 customers
+we’re open sourcing our marketing strategy, wins, losses and what we’re doing to grow paiger
+we’d love you to follow our journey by subscribing to our weekly updates
+connect with our ceo, darren westall, on linkedin for product insights and marketing tips
+beer with darren podcast every week darren interviews leading sales and marketers to deep dive into their background, stories and tips for success
+the other stuff alternative to outsourcing
+privacy & cookie policy
+download our #smarketing survey
+copyright 2020 paiger all rights reserved
+we use cookies to ensure that we give you the best experience on our website
+if you continue to use this site we will assume that you are happy with it

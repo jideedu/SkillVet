@@ -1,0 +1,796 @@
+click here to return to amazon web services homepage
+create an aws account
+networking & content delivery
+security, identity, & compliance
+amazon ec2 virtual servers in the cloud
+amazon simple storage service (s3) scalable storage in the cloud
+amazon aurora high performance managed relational database
+amazon dynamodb managed nosql database
+amazon rds managed relational database service for mysql, postgresql, oracle, sql server, and mariadb
+aws lambda run code without thinking about servers
+amazon vpc isolated cloud resources
+amazon lightsail launch and manage virtual private servers
+amazon sagemaker build, train, and deploy machine learning models at scale
+read the latest aws blogs
+what's new on aws
+see announcements for aws services
+find documentation and resources for aws services
+find tutorials for aws services
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon athena query data in s3 using sql
+amazon cloudsearch managed search service
+amazon emr hosted hadoop framework
+amazon elasticsearch service run and scale elasticsearch clusters
+amazon kinesis analyze real-time video and data streams
+amazon managed streaming for apache kafka fully managed apache kafka service
+amazon redshift fast, simple, cost-effective data warehousing
+amazon quicksight fast business analytics service
+aws data pipeline orchestration service for periodic, data-driven workflows
+aws glue prepare and load data
+aws lake formation build a secure data lake in days
+read the latest blog posts on big data
+what's new on aws
+see announcements for big data and analytics on aws
+find big data software in the aws marketplace
+find tutorials for big data and analytics
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws step functions coordination for distributed applications
+amazon eventbridge serverless event bus for saas apps & aws services
+amazon mq managed message broker for activemq
+amazon simple notification service (sns) managed message topics for pub/sub
+amazon simple queue service (sqs) managed message queues
+aws appsync power your apps with the right data from many sources, at scale
+read the latest application integration blogs for aws compute
+what's new on aws
+see announcements for application integration on aws
+find certified partners to help with application integration
+join an online workshop
+build a modern web application
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon sumerian build and run ar and vr applications
+watch a guided intro to using amazon sumerian
+get an inside look at amazon sumerian
+watch our full collection of how-to videos
+find documentation and resources for amazon sumerian
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws cost explorer analyze your aws cost and usage
+aws budgets set custom cost and usage budgets
+aws cost and usage report access comprehensive cost and usage information
+reserved instance reporting dive deeper into your reserved instances (ris)
+what's new on aws
+see announcements for aws cost management
+introduction to aws billing and cost management
+find ap and billing software in the aws marketplace
+how to optimize aws usage and manage costs
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon managed blockchain create and manage scalable blockchain networks
+amazon quantum ledger database (qldb) fully managed ledger database
+read jeff barr's announcement about blockchain on aws
+what's new on aws
+see announcements for blockchain on aws
+read the technical guide for amazon managed blockchain
+discover blockchain capabilities and benefits on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+alexa for business empower your organization with alexa
+amazon chime frustration-free meetings, video calls, and chat
+amazon workmail secure email and calendaring
+read the latest blogs for business productivity
+what's new on aws
+see announcements for business productivity
+find cloud monitoring software in the aws marketplace
+introduction to business productivity services on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon ec2 virtual servers in the cloud
+amazon ec2 auto scaling scale compute capacity to meet demand
+amazon ec2 container registry store and retrieve docker images
+amazon elastic container service run and manage docker containers
+amazon elastic kubernetes service run managed kubernetes on aws
+amazon lightsail launch and manage virtual private servers
+aws batch run batch jobs at any scale
+aws elastic beanstalk run and manage web apps
+aws fargate run containers without managing servers or clusters
+aws lambda run code without thinking about servers
+aws outposts run aws infrastructure on-premises
+aws serverless application repository discover, deploy, and publish serverless applications
+vmware cloud on aws build a hybrid cloud without custom hardware
+read the latest blogs for aws compute
+join an online workshop
+build a modern web application
+find compute software in the aws marketplace
+visit the aws developer center
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon connect cloud-based contact center service
+amazon pinpoint personalized user engagement across channels
+amazon simple email service (ses) email sending and receiving
+read about customer engagement
+read about customer analytics
+find business collaboration software in the aws marketplace
+what's new on aws
+see announcements for customer engagement on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon aurora high performance managed relational database
+amazon documentdb (with mongodb compatibility) fully managed document database
+amazon dynamodb managed nosql database
+amazon elasticache in-memory caching service
+amazon neptune fully managed graph database service
+amazon quantum ledger database (qldb) fully managed ledger database
+amazon rds managed relational database service for mysql, postgresql, oracle, sql server, and mariadb
+amazon rds on vmware automate on-premises database management
+amazon redshift fast, simple, cost-effective data warehousing
+amazon timestream fully managed time series database
+aws database migration service migrate databases with minimal downtime
+read the latest aws database blogs
+find database and caching software in the aws marketplace
+what's new on aws
+see announcements for databases on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon corretto production-ready distribution of openjdk
+aws cloud development kit model cloud infrastructure using code
+aws cloud9 write, run, and debug code on a cloud ide
+aws codebuild build and test code
+aws codecommit store code in private git repositories
+aws codedeploy automate code deployments
+aws codepipeline release software using continuous delivery
+aws codestar develop and deploy aws applications
+aws command line interface unified tool to manage aws services
+aws tools and sdks tools and sdks for aws
+aws x-ray analyze and debug your applications
+join an online workshop
+build a modern web application
+read the latest blogs on devops
+find application and web development software in the aws marketplace
+visit the aws developer center
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon workspaces virtual desktops in the cloud
+0 stream desktop applications securely to a browser
+amazon workdocs secure enterprise document storage and sharing
+amazon worklink enable mobile access to internal websites
+read the latest on end user computing
+read the esg analyst whitepaper on desktop and app streaming
+find application and web development software in the aws marketplace
+what's new on aws
+see announcements on end user computing from aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon gamelift simple, fast, cost-effective dedicated game server hosting
+amazon lumberyard a free cross-platform 3d game engine, with full source, integrated with aws and twitch
+find videos, presentations, and whitepapers on gaming
+read the latest blogs on game tech
+read how aws powers innovation in gaming
+what's new on aws
+see announcements for gaming on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon freertos iot operating system for microcontrollers
+aws iot 1-click one click creation of an aws lambda trigger
+aws iot analytics analytics for iot devices
+aws iot button cloud programmable dash button
+aws iot core connect devices to the cloud
+aws iot device defender security management for iot devices
+aws iot device management onboard, organize, and remotely manage iot devices
+aws iot events iot event detection and response
+aws iot greengrass local compute, messaging, and sync for devices
+aws iot sitewise iot data collector and interpreter
+aws iot things graph easily connect devices and web services
+aws partner device catalog curated catalog of aws-compatible iot hardware
+read the latest blogs on iot
+what's new on aws
+see announcements for aws internet of things
+find 10-minute tutorials on internet of things
+watch an introduction to aws internet of things
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon sagemaker build, train, and deploy machine learning models at scale
+amazon comprehend discover insights and relationships in text
+amazon elastic inference deep learning inference acceleration
+amazon forecast increase forecast accuracy using machine learning
+amazon lex build voice and text chatbots
+amazon personalize build real-time recommendations into your applications
+amazon polly turn text into life-like speech
+amazon rekognition analyze image and video
+amazon sagemaker ground truth build accurate ml training datasets
+amazon textract extract text and data from documents
+amazon translate natural and fluent language translation
+amazon transcribe automatic speech recognition
+aws deep learning amis deep learning on amazon ec2
+aws deep learning containers docker images for deep learning
+aws deeplens deep learning enabled video camera
+aws deepracer autonomous 1/18th scale race car, driven by ml
+aws inferentia machine learning inference chip
+apache mxnet on aws scalable, open-source deep learning framework
+tensorflow on aws open-source machine intelligence library
+read about benefits and use cases of machine learning on aws
+read the latest blogs on machine learning
+find trainings and tutorials for machine learning on aws
+what's new on aws
+see announcements for machine learning on aws
+dive deep into machine learning with 30+ digital courses
+get aws certified - validate your machine learning skills using the aws cloud
+amazon cloudwatch monitor resources and applications
+aws auto scaling scale multiple resources to meet demand
+aws cloudformation create and manage resources with templates
+aws cloudtrail track user activity and api usage
+aws command line interface unified tool to manage aws services
+aws config track resources inventory and changes
+aws control tower set up and govern a secure, compliant multi-account environment
+aws console mobile application access resources on the go
+aws license manager track, manage, and control licenses
+aws management console web-based user interface
+aws managed services infrastructure operations management for aws
+aws opsworks automate operations with chef and puppet
+aws organizations central governance and management across aws accounts
+aws personal health dashboard personalized view of aws service health
+aws service catalog create and use standardized products
+aws systems manager gain operational insights and take action
+aws trusted advisor optimize performance and security
+aws well-architected tool review and improve your workloads
+read how devops can increase organizational velocity
+read the latest blogs on management tools
+find project management software in the aws marketplace
+what's new on aws
+see announcements for management & governance on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon elastic transcoder easy-to-use scalable media transcoding
+amazon kinesis video streams process and analyze video streams
+aws elemental mediaconnect reliable and secure live video transport
+aws elemental mediaconvert convert file-based video content
+aws elemental medialive convert live video content
+aws elemental mediapackage video origination and packaging
+aws elemental mediastore media storage and simple http origin
+aws elemental mediatailor video personalization and monetization
+aws elemental appliances & software on-premises media solutions
+read the latest posts from the aws media blog
+what's new on aws
+see announcements for aws media services
+find media business software in the aws marketplace
+explore how aws powers innovation for companies
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws migration hub track migrations from a single place
+aws application discovery service discover on-premises applications to streamline migration
+aws database migration service migrate databases with minimal downtime
+aws datasync simple, fast, online data transfer
+aws server migration service migrate on-premises servers to aws
+aws snow family physical devices to migrate data into and out of aws
+aws transfer for sftp fully managed sftp service
+cloudendure migration automate your mass migration to the aws cloud
+read the latest blogs on enterprise strategy
+deep dive into aws migration hub
+find migration infrastructure software in the aws marketplace
+what's new on aws
+see announcements for migration on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws amplify build and deploy mobile and web applications
+amazon api gateway build, deploy, and manage api's
+amazon pinpoint personalized user engagement across channels
+aws appsync power your apps with the right data from many sources, at scale
+aws device farm test android, ios, and web apps on real devices in the aws cloud
+learn more about aws amplify cli toolchain
+read the latest on mobile
+find additional resources for mobile
+watch an introduction to aws appsync
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+networking & content delivery
+amazon vpc isolated cloud resources
+amazon api gateway build, deploy, and manage apis
+amazon cloudfront global content delivery network
+amazon route 53 scalable domain name system (dns)
+aws app mesh monitor and control microservices
+aws cloud map service discovery for cloud resources
+aws direct connect dedicated network connection to aws
+aws global accelerator improve application availability and performance
+aws privatelink securely access services hosted on aws
+aws transit gateway easily scale vpc and account connections
+aws vpn securely access your network resources
+elastic load balancing (elb) distribute incoming traffic across multiple targets
+read the latest blogs on networking and content delivery
+what's new on aws
+see announcements for networking and content delivery
+find network infrastructure software in the aws marketplace
+join an online workshop
+build a modern web application
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws robomaker develop, test, and deploy robotics applications
+develop and deploy a robotics app step-by-step
+read our interview with the ceo of open robotics
+read the technical guide for aws robomaker
+find resources to get started with aws robomaker
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+aws ground station fully managed ground station as a service
+read about ingesting and processing data from satellites
+what's new on aws
+see announcements for satellite services on aws
+read about aws ground station features
+find answers to common questions about aws ground station
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+security, identity, & compliance
+aws identity and access management (iam) manage user access and encryption keys
+amazon cloud directory create flexible cloud-native directories
+amazon cognito identity management for your apps
+amazon guardduty managed threat detection service
+amazon inspector analyze application security
+amazon macie discover, classify, and protect your data
+aws artifact on-demand access to aws’ compliance reports
+aws certificate manager provision, manage, and deploy ssl/tls certificates
+aws cloudhsm hardware-based key storage for regulatory compliance
+aws directory service host and manage active directory
+aws firewall manager central management of firewall rules
+aws key management service managed creation and control of encryption keys
+aws resource access manager simple, secure service to share aws resources
+aws secrets manager rotate, manage, and retrieve secrets
+aws security hub unified security and compliance center
+aws shield ddos protection
+aws single sign-on cloud single sign-on (sso) service
+aws waf filter malicious web traffic
+learn about aws compliance offerings
+find resources and articles on cloud security
+find security infrastructure software in the aws marketplace
+what's new on aws
+see announcements for security, identity, and compliance on aws
+build your technical skills with free digital training
+validate your technical expertise by getting aws certified
+amazon simple storage service (s3) scalable storage in the cloud
+amazon elastic block store (ebs) ec2 block storage volumes
+amazon elastic file system (efs) fully managed file system for ec2
+amazon fsx for lustre high-performance file system integrated with s3
+amazon fsx for windows file server fully managed windows native file system
+amazon s3 glacier low-cost archive storage in the cloud
+aws backup centralized backup across aws services
+aws snow family physical devices to migrate data into and out of aws
+aws storage gateway hybrid storage integration
+what’s new on aws
+see recent announcements for aws storage
+read the latest aws storage blogs
+watch technical sessions, live demos, and q&a with experts
+find resources and tutorials on aws storage
+access the aws storage learning library
+access the aws storage learning path
+archiving affordable solutions for data archiving from gigabytes to petabytes
+backup and restore durable, cost-effective options for backup and disaster recovery
+blockchain shared ledgers for trusted transactions among multiple parties
+business applications simplify management and lower the cost of existing business applications
+containers fully managed services for every workload
+content delivery accelerate websites, apis, and video content
+database migrations save time and cost by migrating to fully managed databases
+data lakes and analytics comprehensive, secure, scalable, and cost-effective data lake and analytics solutions
+devops rapidly and reliably build and deliver products using devops practices
+e-commerce drive small or large e-commerce businesses with our secure and highly scalable solutions for online sales and retail
+high performance computing enhanced networking and cloud-scale clusters for complex problems
+hybrid cloud architectures extend your it infrastructure to the aws cloud
+internet of things easily scale to billions of devices and trillions of messages
+machine learning build with powerful services and platforms, and the broadest machine learning framework support anywhere
+mobile services a range of services to help you develop mobile apps that can scale to hundreds of millions of users globally
+modern application development develop and evolve applications through cycles of rapid innovation
+scientific computing analyze, store, and share massive data sets
+serverless computing build and run applications without thinking about servers
+websites reliable, highly scalable, and low cost website and web application hosting
+quickly deploy solutions on aws using gold-standard reference deployments
+read the latest blogs on topics covering data lakes, compute, and more
+learn, measure, and build using architectural best practices
+find aws whitepapers covering a span of topics such as architecture, security, and economics
+download the connected home iot e-book
+open source projects and community
+automotive build intelligent connected experiences and accelerate time to market for every touchpoint of the customer journey
+digital marketing drive your digital marketing business with flexible, highly scalable, elastic and low-cost solutions to build on
+education solutions to help facilitate teaching, learning, student engagement, and better learning outcomes as well as modernize enterprise wide it operations
+financial services develop secure and innovate solutions to increase customer and shareholder value
+game tech services to enable game development across all genres and platforms, from aaa games to small independent studios
+government services designed to help government agencies modernize, meet mandates, reduce costs, drive efficiencies, and delivery mission outcomes
+healthcare and life sciences solutions for increasing the pace of innovation, data lifecycle management, incorporating new technology into care delivery, and improving security and compliance
+manufacturing develop smart, connected products and services to drive efficiencies throughout your operations
+media and entertainment solutions for ingesting, processing, storing, delivering, and analyzing all of your video and media content
+nonprofit services enabling more mission for the money to minimize costs and optimize scale and donor engagement to further nonprofits and ngo's serving their causes
+oil and gas solutions to accelerate decision-making, increase profitability, and improve efficiencies in oil and gas
+power and utilities solutions to extract deep insights from data to manage distributed energy networks and to deliver engaging new customer experiences
+retail cloud solutions that help retailers accelerate innovation, optimize operations, and delight customers
+telecommunications accelerate innovation, scale with confidence, and add agility with cloud-based telecom solutions
+learn, measure, and build using architectural best practices
+talks about ai, iot, and machine learning
+build your technical skills with free digital training
+explore how aws powers innovation for companies across all industries
+validate your technical expertise by getting aws certified
+deepen your knowledge of aws to better serve your customers
+enterprise amazon web services delivers a mature set of services specifically designed for the unique security, compliance, privacy, and governance requirements of large organizations
+startups from the spark of an idea, to your first customer, to ipo and beyond, let amazon web services help you build and grow your startup
+public sector paving the way for innovation and supporting world- changing projects in government, education and nonprofit organizations
+learn, measure, and build using architectural best practices
+deepen your knowledge of aws to better serve your customers
+validate your technical expertise by getting aws certified
+read how aws powers innovation for all types of organizations
+build your technical skills with free digital training
+work with a certified aws expert
+learn about aws pricing
+with aws, you pay only for the individual services you need for as long as you use them without requiring long-term contracts or complex licensing
+aws free tier includes offers that are always free, offers that expire 12 months following sign up, and short-term free trial offers
+learn what steps to take to effectively optimize your aws costs
+our calculators allow you to estimate the cost savings for your total aws costs (tco) or individual services (smc)
+simple monthly calculator (smc) »
+find technical documentation for aws services, sdks and toolkits, use cases, scenarios, and tasks
+browse user guides, developer guides, tutorials, and api references
+view all documentation »
+view documentation for popular services
+amazon simple storage service
+aws command line interface (cli)
+aws identity and access management
+learn about aws cloud solutions, products, and general information on cloud computing
+what is cloud computing »
+aws global infrastructure »
+getting started with aws
+get started with easy-to-use free learning resources like tutorials, projects, and more
+learn from aws experts, advance your skills and knowledge, build your future in the aws cloud
+apn partner training »
+sdks, ide toolkits, and command line tools for developing and managing your aws applications
+tools and sdks »
+learn about how our customers are using aws services to power innovation
+about the partner network
+featured partners and stories »
+find a competency partner solution »
+deploy with quick start »
+launch a customer ready solution »
+become a consulting partner »
+become a technology partner »
+partner success stories »
+build as saas »
+grow as a partner
+log into apn partner central »
+join a partner program »
+earn a competency »
+sign up for training »
+additional partner resources »
+aws marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on aws
+go to the aws marketplace »
+events and webinars »
+aws in the news »
+aws architecture center »
+technical product faq's »
+customer support center »
+aws personal health dashboard »
+how to buy aws for public sectors »
+professional & managed services
+aws professional services »
+aws managed services »
+compare support plans »
+visit the knowledge center »
+learn more about aws support »
+careers at aws »
+click here to return to amazon web services homepage
+amazon simple storage service (s3)
+amazon managed streaming for apache kafka
+amazon simple queue service (sqs)
+amazon simple notification service (sns)
+aws cost and usage report
+amazon quantum ledger database (qldb)
+amazon ec2 auto scaling
+amazon ec2 container registry
+amazon elastic container service
+amazon elastic kubernetes service
+aws serverless application repository
+vmware cloud on aws
+amazon simple email service (ses)
+amazon documentdb (with mongodb compatibility)
+amazon quantum ledger database (qldb)
+amazon rds on vmware
+aws database migration service
+aws cloud development kit
+aws command line interface
+aws tools and sdks
+aws iot device defender
+aws iot device management
+aws iot things graph
+aws partner device catalog
+amazon sagemaker ground truth
+aws deep learning amis
+aws deep learning containers
+apache mxnet on aws
+aws command line interface
+aws console mobile application
+aws personal health dashboard
+amazon kinesis video streams
+aws elemental appliances & software
+aws application discovery service
+aws database migration service
+aws server migration service
+aws transfer for sftp
+networking & content delivery
+security, identity, & compliance
+aws identity and access management (iam)
+aws key management service
+aws resource access manager
+amazon simple storage service (s3)
+amazon elastic block store (ebs)
+amazon elastic file system (efs)
+amazon fsx for lustre
+amazon fsx for windows file server
+data lakes and analytics
+healthcare and life sciences
+learn about aws pricing
+what is cloud computing
+getting started with aws
+getting started resource center
+see all customer stories
+about the partner network
+about the partner network
+featured partners and stories
+deploy with quick start
+launch a customer ready solution
+become a consulting partner
+become a technology partner
+grow as a partner
+join a partner program
+login to apn central
+sign up for training
+aws in the news
+aws personal health dashboard
+how to buy aws for public sectors
+professional & managed services
+learn more about aws support
+download the mobile app
+this privacy notice describes how we collect and use your personal information in relation to aws websites, applications, products, services, events, and experiences that reference this privacy notice (together, “aws offerings”)
+this privacy notice does not apply to the “content” processed, stored, or hosted by our customers using aws offerings in connection with an aws account
+see the agreement governing your access to your aws account and the aws data privacy faq for more information about how we handle content and how our customers can control their content through aws offerings
+this privacy notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice
+personal information we collect
+how we use personal information
+how we share personal information
+location of personal information
+how we secure information
+internet advertising and third parties
+retention of personal information
+contacts, notices, and revisions
+eu-us and swiss-us privacy shield
+additional information for certain jurisdictions
+examples of information collected
+personal information we collect
+we collect your personal information in the course of providing aws offerings to you
+here are the types of information we gather
+information you give us
+we collect any information you provide in relation to aws offerings
+click here to see examples of information you give us
+we automatically collect certain types of information when you interact with aws offerings
+click here to see examples of information we collect automatically
+information from other sources
+we might collect information about you from other sources, including service providers, partners, and publicly available sources
+click here to see examples of information we collect from other sources
+how we use personal information
+we use your personal information to operate, provide, and improve aws offerings
+our purposes for using personal information include
+we use your personal information to provide and deliver aws offerings and process transactions related to aws offerings, including registrations, subscriptions, purchases, and payments
+measure, support, and improve aws offerings
+we use your personal information to measure use of, analyze performance of, fix errors in, provide support for, improve, and develop aws offerings
+we use your personal information to recommend aws offerings that might be of interest to you, identify your preferences, and personalize your experience with aws offerings
+comply with legal obligations
+in certain cases, we have a legal obligation to collect, use, or retain your personal information
+for example, we collect bank account information from aws marketplace sellers for identity verification
+we use your personal information to communicate with you in relation to aws offerings via different channels (e
+, by phone, email, chat) and to respond to your requests
+we use your personal information to market and promote aws offerings
+we might display interest-based ads for aws offerings
+to learn more, please read our interest-based ads notice
+fraud and abuse prevention and credit risks
+we use your personal information to prevent and detect fraud and abuse in order to protect the security of our customers, aws, and others
+we may also use scoring methods to assess and manage credit risks
+purposes for which we seek your consent
+we may also ask for your consent to use your personal information for a specific purpose that we communicate to you
+to enable our systems to recognize your browser or device and to provide aws offerings to you, we use cookies
+for more information about cookies and how we use them, please read our cookies notice
+how we share personal information
+information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others
+we share personal information only as described below and with amazon
+and the subsidiaries that amazon
+controls that are either subject to this privacy notice or follow practices at least as protective as those described in this privacy notice
+transactions involving third parties
+we make available to you services, software, and content provided by third parties for use on or through aws offerings
+you can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party
+for example, you can order services, software, and content from sellers using the aws marketplace and we provide those sellers information to facilitate your subscription, purchases, or support
+we employ other companies and individuals to perform functions on our behalf
+delivering aws hardware, sending communications, processing payments, assessing credit and compliance risks, analyzing data, providing marketing and sales assistance (including advertising and event management), conducting customer relationship management, and providing training
+these third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes
+further, they must process that information in accordance with this privacy notice and as permitted by applicable data protection law
+as we continue to develop our business, we might sell or buy businesses or services
+in such transactions, personal information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the individual consents otherwise)
+also, in the unlikely event that aws or substantially all of its assets are acquired, your information will of course be one of the transferred assets
+protection of us and others
+we release account and other personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and other agreements, or protect the rights, property, or security of aws, our customers, or others
+this includes exchanging information with other companies and organizations for fraud prevention and detection and credit risk reduction
+other than as set out above, you will receive notice when personal information about you might be shared with third parties, and you will have an opportunity to choose not to share the information
+location of personal information
+amazon web services, inc
+is located in the united states, and our affiliated companies are located throughout the world
+depending on the scope of your interactions with aws offerings, your personal information may be stored in or accessed from multiple countries, including the united states
+whenever we transfer personal information to other jurisdictions, we will ensure that the information is transferred in accordance with this privacy notice and as permitted by applicable data protection laws
+how we secure information
+at aws, security is our highest priority
+we design our systems with your security and privacy in mind
+we maintain a wide variety of compliance programs that validate our security controls
+click here to learn more about our compliance programs
+we protect the security of your information during transmission to or from aws websites, applications, products, or services by using encryption protocols and software
+we follow the payment card industry data security standard (pci dss) when handling credit card data
+we maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information
+our security procedures mean that we may request proof of identity before we disclose personal information to you
+internet advertising and third parties
+aws offerings may include third-party advertising and links to other websites and applications
+third party advertising partners may collect information about you when you interact with their content, advertising, or services
+for more information about third-party advertising, including interest-based ads, please read our interest-based ads notice
+you can view, update, and delete certain information about your account and your interactions with aws offerings
+click here for a list of examples of information that you can access
+if you cannot access or update your information yourself, you can always contact us for assistance
+you have choices about the collection and use of your personal information
+many aws offerings include settings that provide you with options as to how your information is being used
+you can choose not to provide certain information, but then you might not be able to take advantage of certain aws offerings
+if you want to add, update, or delete information related to your account, please go to the aws management console
+when you update or delete any information, we usually keep a copy of the prior version for our records
+if you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the aws management console or the aws email preference center
+if you do not want to receive in-app notifications from us, please adjust your notification settings in the app or your device
+if you don’t want to see interest-based ads, please adjust your advertising preferences
+the help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether
+sellers and amazon partners
+sellers and amazon partner network members can add, update, or delete information in the aws marketplace and apn partner central , respectively
+we don’t provide aws offerings for purchase by children
+if you’re under 18, you may use aws offerings only with the involvement of a parent or guardian
+retention of personal information
+we keep your personal information to enable your continued use of aws offerings, for as long as it is required in order to fulfill the relevant purposes described in this privacy notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you
+how long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law
+contacts, notices, and revisions
+if you have any concern about privacy at aws or want to contact one of our data controllers, please contact us with a thorough description, and we will try to resolve it
+you may also contact us at the addresses below
+for any prospective or current customers of amazon web services, inc
+, our mailing address is
+amazon web services, inc
+, 410 terry avenue north, seattle, wa 98109-5210, attn
+for any prospective or current customers of amazon web services emea sarl, our mailing address is
+amazon web services emea sarl, 38 avenue john f
+kennedy, l-1855, luxembourg, attn
+for any prospective or current customers of amazon internet services private limited, our mailing address is
+amazon internet services private limited, ground floor, eros corporate towers, nehru place, new delhi, 110 019, india, attn
+if you interact with aws offerings on behalf of or through your organization, then your personal information may also be subject to your organization’s privacy practices, and you should direct privacy inquiries to your organization
+our business changes constantly, and our privacy notice may also change
+you should check our website frequently to see recent changes
+you can see the date on which the latest version of this privacy notice was posted
+unless stated otherwise, our current privacy notice applies to all personal information we have about you and your account
+we stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice
+eu-us and swiss-us privacy shield
+amazon web services, inc
+participates in the eu-us and swiss-us privacy shield frameworks
+click here to learn more
+additional information for certain jurisdictions
+we provide additional information about the privacy, collection, and use of personal information of prospective and current customers of aws offerings located in certain jurisdictions
+for any prospective or current customers of aws offerings in canada
+subject to applicable law, you have the right to
+ask whether we hold personal information about you and request copies of such personal information and information about how it is processed
+request that inaccurate personal information is corrected
+request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements
+lodge a complaint with us regarding our practices related to your personal information
+you can exercise your rights of access, rectification, erasure, restriction, or complaint by contacting us
+if you wish to do any of these things and you are an aws customer, please contact us
+if you are not an aws customer, please contact us at the address stated under notice and revisions above
+for any prospective or current customers of aws offerings in the european economic area (eea)
+controller of personal information
+amazon web services emea sarl, 5 rue plaetis, l-2338 luxembourg, is the data controller of personal information collected or processed through aws offerings
+amazon web services emea sarl, is the authorized representative of amazon web services, inc
+we process your personal information on one or more of the following legal bases
+as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide aws offerings, to respond to requests from you, or to provide customer support
+where we have a legitimate interest, as described in this privacy notice (see how we use personal information above)
+as necessary to comply with relevant law and legal obligations, including to
+respond to lawful requests and orders
+subject to applicable law, you have the right to
+ask whether we hold personal information about you and request copies of such personal information and information about how it is processed
+request that inaccurate personal information is corrected
+request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements
+request us to restrict the processing of personal information where the processing is inappropriate
+object to the processing of personal data
+request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means
+lodge a complaint with our principal supervisory authority, the commission nationale pour la protection des données in luxembourg www
+lu, or with a local authority
+you can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us
+if you wish to do any of these things and you are an aws customer, please contact us
+if you are not an aws customer, please contact us at the address under notice and revisions above
+when you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose
+please refer to our cookies notice
+transfers outside of the eea
+when we transfer your personal information outside the eea we do so in accordance with the terms of this privacy notice and applicable data protection law
+this may include the transfer of data in accordance with the eu-us and swiss-us privacy shield frameworks (for transfers to the us) or pursuant to data transfer agreements that incorporate the standard contractual clauses approved by the eu commission
+for any prospective or current customers of aws offerings in japan
+any personal information provided to or gathered by amazon web services japan k
+is controlled primarily by amazon web services japan k
+any personal information collected by amazon web services, inc
+is controlled primarily by amazon web services, inc
+we use information in accordance with this privacy notice jointly with our domestic and foreign subsidiaries of amazon
+, including amazon web services, inc
+, amazon web services japan k
+, amazon web services emea sarl, and other global entities
+amazon web services japan k
+is the business operator primarily responsible for managing jointly used information
+we might create de-identified information using your email address, name, address, customer id, order id, session id, and other information
+for any prospective or current customers of aws offerings in south korea
+aws has contracts in place with the following third party service provider(s) to perform functions on behalf of aws in korea, and they may have access to your personal information as needed to perform their functions described below
+when deleting personal information, aws will take standard commercially reasonable measures to make the personal information practically irrecoverable or irreproducible
+the specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us
+electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable
+non-electronic documents or files containing personal information will be shredded, incinerated, or both
+if you have any privacy questions or requests please contact
+aws korea privacy email
+examples of information collected
+information you give us
+you provide information to us when you
+search for, subscribe to, or purchase aws offerings
+create or administer your aws account (and you might have more than one account if you have used more than one email address when using aws offerings)
+configure your settings for, provide data access permissions for, or otherwise interact with aws offerings
+register for or attend an aws event
+purchase or use content, products, or services from third-party providers through the aws marketplace (or other similar venues operated or provided by us)
+offer your content, products, or services on or through aws offerings or the aws marketplace (or other similar venues operated or provided by us)
+communicate with us by phone, email, or otherwise
+complete a questionnaire, a support ticket, or other information request forms
+post on aws websites or participate in community features
+depending on your use of aws offerings, you might supply us with such information as
+your name, email address, physical address, phone number, and other similar contact information
+payment information, including credit card and bank account information
+information about your location
+information about your organization and your contacts, such as colleagues or people within your organization
+usernames, aliases, roles, and other authentication and security credential information
+content of feedback, testimonials, inquiries, support tickets, and any phone conversations, chat sessions and emails with or to us
+your image (still, video, and in some cases 3-d), voice, and other identifiers that are personal to you when you attend an aws event or use certain aws offerings
+information regarding identity, including government-issued identification information
+corporate and financial information
+vat numbers and other tax identifiers
+we collect information automatically when you
+visit, interact with, or use aws offerings (including when you use your computer or other device to interact with aws offerings)
+download content from us
+open emails or click on links in emails from us
+interact or communicate with us (such as when you attend an aws event or when you request customer support)
+examples of the information we automatically collect include
+network and connection information, such as the internet protocol (ip) address used to connect your computer or other device to the internet and information about your internet service provider
+computer and device information, such as device, application, or browser type and version, browser plug-in type and version, operating system, or time zone setting
+the location of your device or computer
+authentication and security credential information
+content interaction information, such as content downloads, streams, and playback details, including duration and number of simultaneous streams and downloads
+aws offerings metrics, such as offering usage, occurrences of technical errors, diagnostic reports, your settings preferences, backup information, api calls, and other logs
+the full uniform resource locators (url) clickstream to, through, and from our website (including date and time) and aws offerings, content you viewed or searched for, page response times, download errors, and page interaction information (such as scrolling, clicks, and mouse-overs)
+email addresses and phone numbers used to contact us
+identifiers and information contained in cookies (see our cookies notice )
+information from other sources
+examples of information we receive from other sources include
+marketing, sales generation, and recruitment information, including your name, email address, physical address, phone number, and other similar contact information
+subscription, purchase, support, or other information about your interactions with products and services offered by us, our affiliates (such as aws training courses), or third parties (such as products offered through the aws marketplace) in relation to aws offerings
+search results and links, including paid listings (such as sponsored links)
+credit history information from credit bureaus
+information you can access
+examples of information you can access through aws offerings include
+your name, email address, physical address, phone number, and other similar contact information
+usernames, aliases, roles, and other authentication and security credential information
+your subscription, purchase, usage, billing, and payment history
+payment settings, such as payment instrument information and billing preferences
+email communication and notification settings
+if you participate in the aws marketplace or amazon partner network (or other similar venues operated or provided by us), your account, your status, subscriptions, and other information
+customers can access the information above through aws offerings, such as the aws management console (including the my account , billing dashboard , bills , payment methods , payment history , preferences and tax settings pages), the aws email preference center , aws marketplace , and apn partner central
+sign in to the console
+what is cloud computing
+what is a container
+what is a data lake
+product and technical faqs
+file a support ticket
+uk modern slavery statement
+create an aws account
+amazon is an equal opportunity employer
+minority / women / disability / veteran / gender identity / sexual orientation / age
+© 2019, amazon web services, inc
+we use cookies to provide and improve our services
+by using our site, you consent to cookies
+billing & cost management
+aws personal health dashboard

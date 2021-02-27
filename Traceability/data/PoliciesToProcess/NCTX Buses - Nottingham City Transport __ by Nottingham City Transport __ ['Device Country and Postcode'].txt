@@ -1,0 +1,488 @@
+facial coverings and safer travel guidance
+you have javascript disabled
+your experience using this site will be limited and you may not be able to access information about services
+learn how to enable javascript
+if you're unable to turn javascript on, why not try our smartphone app
+it looks like you're using an outdated version of google chrome
+the website may not function as intended
+please upgrade your version of chrome
+it looks like you're using an outdated version of internet explorer
+the website may not function as intended
+please upgrade to the latest version of microsoft edge
+uk uses cookies to make the site simpler
+find out more about cookies
+this customer privacy policy is effective from monday 18th march 2019 and replaces the previous version, dated 25 may 2018
+this privacy policy applies to all products, services, websites, apps and the alexa skill offered by nottingham city transport limited, registered at lower parliament street, nottingham, ng1 1gg
+these products, services, websites, apps and the alexa skill are referred to collectively as “services” in this policy
+in addition to our privacy policy, customers should familiarise themselves with the following
+nct terms and conditions of carriage
+easyrider terms and conditions of issue
+nctx buses app terms and conditions
+wi-fi terms and conditions
+alexa skill terms of use
+where abbreviated, “gdpr”, refers to the general data protection regulation
+we will only collect and process your personal data in accordance with data protection legislation and we will adhere to the principles (as applicable) contained within gdpr
+we collect and process your personal data to comply with our legal obligations
+to pursue our legitimate interests as a business and where you have given us consent to do so
+the information we collect
+we collect personal data in order to be able to provide you with our services
+to access some of our services, e
+mobile ticketing in the nctx buses app, topping up an easyrider card or viewing “favourites”, you must register for an account
+the types of personal data we collect are
+name, postal address, email address, date of birth, telephone number, social media handle
+we collect usage information about you whenever you interact with our services
+this includes the pages you have visited, what you click on, your device settings, how you arrived on our website, search queries etc
+we collect information from your device and the application you use to access our services
+device data includes your ip address, operating system version, device type, system and performance information and browser type
+if you are using a mobile device, we also collect the uuid for that device
+some services make use of location data sent from a customer’s device
+you can turn this functionality off at any time by turning off the location settings on your device
+we use third party tracking services that employ cookies to collect data about visitors to our websites and apps
+this data includes usage and user statistics
+please refer to our cookies policy below
+our web servers keep log files that record data each time a device accesses those servers
+the log file contains data about the nature of the access, including (but not exclusively)
+originating ip addresses, internet service providers, files viewed, operating system versions, device type and time stamps, choice of language, page you enter and exit the website
+if you make a payment to nottingham city transport, we require you to provide your name, address, email address and financial details
+these financial details can include your card number, issue and expiry date, cvc number, account name and number and sort code
+we record all calls made to our travel centre (0115 950 60 70) and use a suppression facility when personal data (e
+bank card details) are passed
+how we use the information we collect
+we process personal data about you, with your consent or in order to improve our services and develop new products and features
+information collected from use of our services is used to allow us to track the most visited and most useful parts of those services
+to identify what are our most popular services
+to deliver these services effectively, to troubleshoot problems, fix bugs, monitor abuse, track behaviour (aggregated / anonymously) to understand trends and to develop new features
+information provided by you for the creation of an account is required so we can provide you with our services, charge you for our services, provide you with customer support and contact you about our services or account
+we use contact information to respond to customer queries, send customers information as part of providing the services and to send marketing information
+customers can opt out of receiving marketing information
+we use a customer’s email address to send them marketing newsletters, unless you opt out of general updates on your account or by clicking “unsubscribe”
+we occasionally contact customers about matters that are of a ‘transactional nature’, which includes service-related announcements, payment, changes to policies or services, welcome email, notification of a direct debit payment change
+you cannot opt out of these communications because they are required to provide our services to you
+information collected when using our on bus wi-fi is outlined under the section headed “wi-fi”
+we collect information using cookies to ensure full functionality of the services provided
+to determine the success of our advertising campaigns and to measure the performance of email messaging to improve email deliverability and open rates
+please refer to our “cookies” section of this policy
+to manage our services, we will use your information and data internally to enforce terms and agreements
+to prevent illegal activities
+to screen for abuse of services and to improve our products and services (anonymised)
+to respond to legal requests or to prevent fraud, we may need to use and disclose information or data we hold about you to the police or home office
+as a result of the data we collect, we profile this information with third party sources, which enables us to make our sales and marketing more relevant to you and to personalise our marketing campaigns and website experiences
+you can view their privacy policies below
+in order to provide certain aspects of our services, we use trusted key partners for
+provision of our websites and apps
+facilitating customers making payments through our websites and apps
+delivering and tracking marketing and advertising
+we have written agreements with all of our trusted partners that cover data protection and privacy and they must demonstrate to us that they are gdpr compliant on a routine basis
+trusted partners currently used are
+ambidect, campaign monitor, facebook, google, global iris, icomera, page one media, passenger technology group, stripe, twitter, we are base, amazon
+com inc and its affiliates
+you can view their privacy policies below
+we are a participant in the robin hood travel scheme and information relating to travel use is provided to the administrators of that scheme, nottingham city council, in order for customers to be charged the appropriate price and for nct to be paid for the appropriate customers carried
+we provide a staff travel scheme with employers, that enables employees to pay for their travel through their salary
+your employer will share with us with your details in order for you to join and leave the scheme
+any personal data, not relating to clauses 31 and 32, that is shared with third party organisations will be anonymised
+we also have to share information or data in order to
+meet applicable laws and regulations
+comply with police and home office requests
+enforce policies and agreements
+detect, prevent and address fraud, security or technical issues
+cookies are small bits of data stored on the device you use to access our websites or apps, which are used to recognise repeat users
+we use cookies to collect data about visitors to our websites and apps, which optimises the functionality of these services
+we use cookies for the following main reasons
+collecting data about how customers interact and use our services
+make our websites and apps easier to use e
+staying signed in for when you revisit the site
+to authenticate your identity
+provide you with customised content e
+favourite stops, journeys, buses
+advertise to you, either directly or through trusted third parties
+the cookies we use are
+__utma, __utmb, __utmc, __utmt, __utmz, _ga
+google analytics cookies are used to collect information about how visitors use our website
+this information is used to help us improve the way the website works
+the cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they have visited
+this is a cookie that is set by the site to make sure that you have chosen to accept cookies
+it collects no other data and has no other function
+user logged in state
+this is a cookie that is set by the site to record the your logged in state across sessions
+it is only set if the user logs in and is removed when they log out
+these cookies contain information about your geographic location
+they have no impact on your user experience and store no personal information
+this cookie is set when hiding the disruptions alert that appears at the top of pages
+it will set the date at the current time and ensure you do not see any further disruptions until there are new ones
+it collects no other data and has no other function
+it expires after 7 days
+this cookie is designed to help protect a site against at particular type of software attack on web forms
+redirect to current page
+this cookie allows us to return you to the same page you are currently viewing after logging in
+this is used to identify individual clients behind a shared ip address and apply security settings on a per-client basis
+for example, if the visitor is in a coffee shop where there are a bunch of infected machines, but the specific visitor’s machine is trusted (e
+because they’ve completed a challenge within your challenge passage period), the cookie allows us to identify that client and not challenge them again
+it does not correspond to any user id in your web application, and does not store any personally identifiable information
+anonymous cookie to help keep track of a user’s session
+this helps us keep the website stable and monitored
+uses facebook pixel to anonymously track facebook users to allow us to serve relevant and targeted ads
+you can choose to remove or disable cookies through your browser settings at any time
+nottingham city transport and passenger technology group act as joint data controller for personal data gathered from our apps
+this means the responsibility for data protection is shared between both parties, though nottingham city transport is the point of contact for data subjects, as outlined under “your rights and contact us”
+we take our responsibility to protect and secure your information seriously
+all personal data is securely stored within data centres inside the european economic area
+we provide training to staff on how to recognise a data breach and all data breaches are evaluated within 48 hours
+data breaches are managed under gdpr regulations and logged in a data breach log and reported to the information commissioner’s office where applicable
+you are responsible for maintaining the security of your account, user names, passwords and personal details when using our services on your device
+you are responsible for ensuring that your device is operating to the latest operating versions and with appropriate security measures in place
+we regularly review operating systems and browsers and implement new security measures as they are released
+to ensure we can protect your data, we routinely stop supporting older browsers and operating systems and you should ensure you are using a supported version, which for the main browsers are
+ios – 9 or above
+android – kitkat (4
+internet explorer – v11 or above
+safari – 9 or above
+chrome – 40 or above
+we retain data in order to be able to effectively provide our customers with services and for the business to function
+personal data is removed where possible or anonymised if the record entity is required (for example, for accounting purposes or trends analysis)
+data is securely erased and/or deleted, using approved software or collection services
+this follows industry best practices, for example the use of paper shredding and computer file shredding software
+retention periods for key data we collect and process are outlined below
+relating to an account on our digital services
+until you notify us you wish to close the account of use the “forget me” function to delete it
+until you notify us you no longer require the card
+customer query or complaint
+2 years, unless required to defend legal cases, where it will be retained as necessary
+28 days before it is recorded over
+personal injuries (adults) – 4 years
+personal injuries (under 16) – until their 21st birthday plus 3 months
+internal investigations and customer complaints – 3 months or until the necessary processes have been completed and the images no longer required
+circumstances that may result in litigation – until the matter is closed
+paper receipts for purchases in the travel centre
+5 years from the end of the tax year to which the records relate
+information submitted through the website or apps feedback channels
+records relevant for tax purposes
+8 years from the end of the tax year to which the records relate
+eu – us privacy shield
+we comply with the us-eu privacy shield framework regarding the collection, use and retention of personal data that may be subject to onward transfer to organisations within the us
+in certain circumstances, passenger technology group will process personal data that originates from the eu in the united states
+passenger technology group provide a level of protection of privacy that complies with the eu rules
+to ensure this, passenger technology group only use vendors certified under the privacy shield
+we sometimes take photographs or undertake filming on and off our buses or in our travel centre in order to market and promote the company
+where photography or filming is taking place, you must express to the photographer at the time you do not want to be included
+where photography or filming is taking place with pre-arranged models or customers, a photography agreement must be completed, which will outline the purpose of the shoot, the intended use of the images or filming and the period for which they will be used and retained
+our preferred photography agency uses a secure, online data storage facility to transmit their photographs and films to nct
+we are subject to rules and privacy laws when marketing to our customers
+for example, a data subject’s prior consent will be required for electronic direct marketing (for example, by email, text or automated calls)
+the limited exception for existing customers known as “soft opt in” allows us to send marketing texts or emails if we have obtained contact details in the course of a sale to you (through the nctx buses app or purchase of an easyrider or uni id card product), we are marketing similar products or services, and we give you the opportunity to opt out of marketing when first collecting the details and in every subsequent message
+you can opt out of receiving our marketing emails by pressing the unsubscribe link included on all of our emails
+your objection to direct marketing will be promptly honoured and when a customer opts out at any time, their details will be supressed as soon as practicable
+suppression will involve retaining minimal information to ensure that marketing preferences are respected in the future
+our on-bus wi-fi is provided by a third party, icomera uk limited, who collect and process the personal data on our behalf as a data processor, in order to deliver internet connectivity to customers and other end users
+to be able to provide the wi-fi service for you, we need to process your mac address (device identification), train gps position, ip address, timestamp and session id
+this data will be stored in our systems for a maximum period of 12 months and will only be used to maintain the service quality and for support issues, if necessary
+during the user login process, your device id (mac-address) is used to authenticate the device after the terms and conditions have been accepted
+the terms and conditions can be viewed here
+the mac-address is stored with associated timestamps, accounting and duration of the session, in order to offer functions such as throttling, auto-login and session termination
+icomera, in their role of data processor, will sometimes process additional information on behalf of nottingham city transport, but will not associate any mac-address with additional personal data and will process it in accordance with gdpr regulations
+under other legislations (e
+telecommunication acts, surveillance acts, terror acts) icomera may be required to store information for a longer period than necessary for the delivery of the service, and perform additional processing activities if requested by law enforcements through legal due process
+nottingham city transport has cctv installed on the interior and exterior of all buses and within the travel centre and will use the images for the following purposes
+public and employee safety
+road traffic collision and accident investigation
+the detection, prevention and investigation of crime
+external complaints and internal reports of claims of irregularities
+to ensure compliance with company policies and procedures
+a notification sign is placed in the vicinity of the cameras so that customers are aware that they are entering an area covered by cctv
+cctv footage is viewed only in relation to the purposes outlined in clause 65 and by directors and managers of nottingham city transport and employees who work in our insurance, customer services and schools liaison teams
+cctv footage is retained for
+personal injuries (adults) – 4 years
+personal injuries (under 16) – until their 21st birthday plus 3 months
+internal investigations and customer complaints – 3 months or until the necessary processes have been completed and the images no longer required
+circumstances that may result in litigation – until the matter is closed
+you have the right to access personal data about yourself, including cctv images and footage
+images and footage will only be provided upon receipt of a subject access request and the provision of suitable id to confirm the identity of the person requesting this footage
+you can request a subject access request form by writing to the cctv supervisor, nottingham city transport, lower parliament street, nottingham, ng1 1gg or by emailing cctv@nctx
+if we cannot comply with the request, the reasons for not being able to do so will be documented and you will be advised of these reasons in writing
+your rights and contact us
+children have the same rights as adults over their personal data
+these include the rights to access their personal data
+object to processing and have their personal data erased
+in the uk, the age of consent, i
+e when a child is required or able to give their consent for the processing of their own personal data, is 13 years old
+an individual is only entitled to their own personal data, and not to information relating to other people
+in some cases, where a third party is acting on behalf of an individual, we may disclose information if we are satisfied that the third party making the request is entitled to act on behalf of the individual
+it is the third party’s responsibility to provide evidence of this entitlement
+you may make a formal request for access to personal data that we hold about you at any time
+this is known as a subject access request (“sar”)
+we must respond within one month of receipt of your request
+please note that under the gdpr we are permitted to extend the one month time period for responding by an additional two months where in our view your request is complex or numerous in nature
+we may also charge a reasonable fee based on administrative costs where, in our view, your request is manifestly unfounded or excessive or a request for further copies
+alternatively, we may refuse to comply with the request in such circumstances
+you have a right to ensure that the personal data we hold about you is corrected where it is inaccurate
+is erased where it is no longer required and is transferred to another person upon your request
+we will honour your requests relating to these matters
+our marketing manager is responsible for overseeing the day to day operation of the functions outlined within this policy (except cctv) and queries relating to it and subject access requests should be directed to nctmarketing@nctx
+uk or to the marketing manager, nottingham city transport, lower parliament street, nottingham, ng1 1gg
+you may complain to a supervisory body if you are concerned about the way we have processed your personal data
+in the uk this is the ico – ico
+subject to clause 19, you can opt out of receiving direct marketing materials from us by contacting nctmarketing@nctx
+uk and asking to be withdrawn from the mailing list
+when you wish to close a website or app account or stop using an easyrider travel card, notify us by contacting travelcentre@nctx
+uk or if you have a ‘my easyrider’ account, using the “forget me” link available
+you can choose to remove or disable cookies through your browser settings at any time
+changes to this policy
+we may change this policy from time to time and will notify customers when such changes occur through our website, social media channels and directly to customers electronically, where we have permission to do so
+if you do not agree with any updated elements of the customer privacy policy, you must let us know straight away and stop using the services
+or, find your stop on the map
+add favourites by selecting the star on a stop's departure board
+swap the start point with the destination
+select when you would like to travel
+add favourites by selecting the star on a journey plan
+0115 950 60 70
+follow us on twitter
+follow us on facebook
+download the nctx buses app
+learn more about the nctx buses app
+get on board to receive news updates and get exclusive offers direct to your inbox
+sign up to our newsletter
+© nottingham city transport ltd 2020
+facial coverings and safer travel guidance
+you have javascript disabled
+your experience using this site will be limited and you may not be able to access information about services
+learn how to enable javascript
+if you're unable to turn javascript on, why not try our smartphone app
+it looks like you're using an outdated version of google chrome
+the website may not function as intended
+please upgrade your version of chrome
+it looks like you're using an outdated version of internet explorer
+the website may not function as intended
+please upgrade to the latest version of microsoft edge
+uk uses cookies to make the site simpler
+find out more about cookies
+this customer privacy policy is effective from monday 18th march 2019 and replaces the previous version, dated 25 may 2018
+this privacy policy applies to all products, services, websites, apps and the alexa skill offered by nottingham city transport limited, registered at lower parliament street, nottingham, ng1 1gg
+these products, services, websites, apps and the alexa skill are referred to collectively as “services” in this policy
+in addition to our privacy policy, customers should familiarise themselves with the following
+nct terms and conditions of carriage
+easyrider terms and conditions of issue
+nctx buses app terms and conditions
+wi-fi terms and conditions
+alexa skill terms of use
+where abbreviated, “gdpr”, refers to the general data protection regulation
+we will only collect and process your personal data in accordance with data protection legislation and we will adhere to the principles (as applicable) contained within gdpr
+we collect and process your personal data to comply with our legal obligations
+to pursue our legitimate interests as a business and where you have given us consent to do so
+the information we collect
+we collect personal data in order to be able to provide you with our services
+to access some of our services, e
+mobile ticketing in the nctx buses app, topping up an easyrider card or viewing “favourites”, you must register for an account
+the types of personal data we collect are
+name, postal address, email address, date of birth, telephone number, social media handle
+we collect usage information about you whenever you interact with our services
+this includes the pages you have visited, what you click on, your device settings, how you arrived on our website, search queries etc
+we collect information from your device and the application you use to access our services
+device data includes your ip address, operating system version, device type, system and performance information and browser type
+if you are using a mobile device, we also collect the uuid for that device
+some services make use of location data sent from a customer’s device
+you can turn this functionality off at any time by turning off the location settings on your device
+we use third party tracking services that employ cookies to collect data about visitors to our websites and apps
+this data includes usage and user statistics
+please refer to our cookies policy below
+our web servers keep log files that record data each time a device accesses those servers
+the log file contains data about the nature of the access, including (but not exclusively)
+originating ip addresses, internet service providers, files viewed, operating system versions, device type and time stamps, choice of language, page you enter and exit the website
+if you make a payment to nottingham city transport, we require you to provide your name, address, email address and financial details
+these financial details can include your card number, issue and expiry date, cvc number, account name and number and sort code
+we record all calls made to our travel centre (0115 950 60 70) and use a suppression facility when personal data (e
+bank card details) are passed
+how we use the information we collect
+we process personal data about you, with your consent or in order to improve our services and develop new products and features
+information collected from use of our services is used to allow us to track the most visited and most useful parts of those services
+to identify what are our most popular services
+to deliver these services effectively, to troubleshoot problems, fix bugs, monitor abuse, track behaviour (aggregated / anonymously) to understand trends and to develop new features
+information provided by you for the creation of an account is required so we can provide you with our services, charge you for our services, provide you with customer support and contact you about our services or account
+we use contact information to respond to customer queries, send customers information as part of providing the services and to send marketing information
+customers can opt out of receiving marketing information
+we use a customer’s email address to send them marketing newsletters, unless you opt out of general updates on your account or by clicking “unsubscribe”
+we occasionally contact customers about matters that are of a ‘transactional nature’, which includes service-related announcements, payment, changes to policies or services, welcome email, notification of a direct debit payment change
+you cannot opt out of these communications because they are required to provide our services to you
+information collected when using our on bus wi-fi is outlined under the section headed “wi-fi”
+we collect information using cookies to ensure full functionality of the services provided
+to determine the success of our advertising campaigns and to measure the performance of email messaging to improve email deliverability and open rates
+please refer to our “cookies” section of this policy
+to manage our services, we will use your information and data internally to enforce terms and agreements
+to prevent illegal activities
+to screen for abuse of services and to improve our products and services (anonymised)
+to respond to legal requests or to prevent fraud, we may need to use and disclose information or data we hold about you to the police or home office
+as a result of the data we collect, we profile this information with third party sources, which enables us to make our sales and marketing more relevant to you and to personalise our marketing campaigns and website experiences
+you can view their privacy policies below
+in order to provide certain aspects of our services, we use trusted key partners for
+provision of our websites and apps
+facilitating customers making payments through our websites and apps
+delivering and tracking marketing and advertising
+we have written agreements with all of our trusted partners that cover data protection and privacy and they must demonstrate to us that they are gdpr compliant on a routine basis
+trusted partners currently used are
+ambidect, campaign monitor, facebook, google, global iris, icomera, page one media, passenger technology group, stripe, twitter, we are base, amazon
+com inc and its affiliates
+you can view their privacy policies below
+we are a participant in the robin hood travel scheme and information relating to travel use is provided to the administrators of that scheme, nottingham city council, in order for customers to be charged the appropriate price and for nct to be paid for the appropriate customers carried
+we provide a staff travel scheme with employers, that enables employees to pay for their travel through their salary
+your employer will share with us with your details in order for you to join and leave the scheme
+any personal data, not relating to clauses 31 and 32, that is shared with third party organisations will be anonymised
+we also have to share information or data in order to
+meet applicable laws and regulations
+comply with police and home office requests
+enforce policies and agreements
+detect, prevent and address fraud, security or technical issues
+cookies are small bits of data stored on the device you use to access our websites or apps, which are used to recognise repeat users
+we use cookies to collect data about visitors to our websites and apps, which optimises the functionality of these services
+we use cookies for the following main reasons
+collecting data about how customers interact and use our services
+make our websites and apps easier to use e
+staying signed in for when you revisit the site
+to authenticate your identity
+provide you with customised content e
+favourite stops, journeys, buses
+advertise to you, either directly or through trusted third parties
+the cookies we use are
+__utma, __utmb, __utmc, __utmt, __utmz, _ga
+google analytics cookies are used to collect information about how visitors use our website
+this information is used to help us improve the way the website works
+the cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they have visited
+this is a cookie that is set by the site to make sure that you have chosen to accept cookies
+it collects no other data and has no other function
+user logged in state
+this is a cookie that is set by the site to record the your logged in state across sessions
+it is only set if the user logs in and is removed when they log out
+these cookies contain information about your geographic location
+they have no impact on your user experience and store no personal information
+this cookie is set when hiding the disruptions alert that appears at the top of pages
+it will set the date at the current time and ensure you do not see any further disruptions until there are new ones
+it collects no other data and has no other function
+it expires after 7 days
+this cookie is designed to help protect a site against at particular type of software attack on web forms
+redirect to current page
+this cookie allows us to return you to the same page you are currently viewing after logging in
+this is used to identify individual clients behind a shared ip address and apply security settings on a per-client basis
+for example, if the visitor is in a coffee shop where there are a bunch of infected machines, but the specific visitor’s machine is trusted (e
+because they’ve completed a challenge within your challenge passage period), the cookie allows us to identify that client and not challenge them again
+it does not correspond to any user id in your web application, and does not store any personally identifiable information
+anonymous cookie to help keep track of a user’s session
+this helps us keep the website stable and monitored
+uses facebook pixel to anonymously track facebook users to allow us to serve relevant and targeted ads
+you can choose to remove or disable cookies through your browser settings at any time
+nottingham city transport and passenger technology group act as joint data controller for personal data gathered from our apps
+this means the responsibility for data protection is shared between both parties, though nottingham city transport is the point of contact for data subjects, as outlined under “your rights and contact us”
+we take our responsibility to protect and secure your information seriously
+all personal data is securely stored within data centres inside the european economic area
+we provide training to staff on how to recognise a data breach and all data breaches are evaluated within 48 hours
+data breaches are managed under gdpr regulations and logged in a data breach log and reported to the information commissioner’s office where applicable
+you are responsible for maintaining the security of your account, user names, passwords and personal details when using our services on your device
+you are responsible for ensuring that your device is operating to the latest operating versions and with appropriate security measures in place
+we regularly review operating systems and browsers and implement new security measures as they are released
+to ensure we can protect your data, we routinely stop supporting older browsers and operating systems and you should ensure you are using a supported version, which for the main browsers are
+ios – 9 or above
+android – kitkat (4
+internet explorer – v11 or above
+safari – 9 or above
+chrome – 40 or above
+we retain data in order to be able to effectively provide our customers with services and for the business to function
+personal data is removed where possible or anonymised if the record entity is required (for example, for accounting purposes or trends analysis)
+data is securely erased and/or deleted, using approved software or collection services
+this follows industry best practices, for example the use of paper shredding and computer file shredding software
+retention periods for key data we collect and process are outlined below
+relating to an account on our digital services
+until you notify us you wish to close the account of use the “forget me” function to delete it
+until you notify us you no longer require the card
+customer query or complaint
+2 years, unless required to defend legal cases, where it will be retained as necessary
+28 days before it is recorded over
+personal injuries (adults) – 4 years
+personal injuries (under 16) – until their 21st birthday plus 3 months
+internal investigations and customer complaints – 3 months or until the necessary processes have been completed and the images no longer required
+circumstances that may result in litigation – until the matter is closed
+paper receipts for purchases in the travel centre
+5 years from the end of the tax year to which the records relate
+information submitted through the website or apps feedback channels
+records relevant for tax purposes
+8 years from the end of the tax year to which the records relate
+eu – us privacy shield
+we comply with the us-eu privacy shield framework regarding the collection, use and retention of personal data that may be subject to onward transfer to organisations within the us
+in certain circumstances, passenger technology group will process personal data that originates from the eu in the united states
+passenger technology group provide a level of protection of privacy that complies with the eu rules
+to ensure this, passenger technology group only use vendors certified under the privacy shield
+we sometimes take photographs or undertake filming on and off our buses or in our travel centre in order to market and promote the company
+where photography or filming is taking place, you must express to the photographer at the time you do not want to be included
+where photography or filming is taking place with pre-arranged models or customers, a photography agreement must be completed, which will outline the purpose of the shoot, the intended use of the images or filming and the period for which they will be used and retained
+our preferred photography agency uses a secure, online data storage facility to transmit their photographs and films to nct
+we are subject to rules and privacy laws when marketing to our customers
+for example, a data subject’s prior consent will be required for electronic direct marketing (for example, by email, text or automated calls)
+the limited exception for existing customers known as “soft opt in” allows us to send marketing texts or emails if we have obtained contact details in the course of a sale to you (through the nctx buses app or purchase of an easyrider or uni id card product), we are marketing similar products or services, and we give you the opportunity to opt out of marketing when first collecting the details and in every subsequent message
+you can opt out of receiving our marketing emails by pressing the unsubscribe link included on all of our emails
+your objection to direct marketing will be promptly honoured and when a customer opts out at any time, their details will be supressed as soon as practicable
+suppression will involve retaining minimal information to ensure that marketing preferences are respected in the future
+our on-bus wi-fi is provided by a third party, icomera uk limited, who collect and process the personal data on our behalf as a data processor, in order to deliver internet connectivity to customers and other end users
+to be able to provide the wi-fi service for you, we need to process your mac address (device identification), train gps position, ip address, timestamp and session id
+this data will be stored in our systems for a maximum period of 12 months and will only be used to maintain the service quality and for support issues, if necessary
+during the user login process, your device id (mac-address) is used to authenticate the device after the terms and conditions have been accepted
+the terms and conditions can be viewed here
+the mac-address is stored with associated timestamps, accounting and duration of the session, in order to offer functions such as throttling, auto-login and session termination
+icomera, in their role of data processor, will sometimes process additional information on behalf of nottingham city transport, but will not associate any mac-address with additional personal data and will process it in accordance with gdpr regulations
+under other legislations (e
+telecommunication acts, surveillance acts, terror acts) icomera may be required to store information for a longer period than necessary for the delivery of the service, and perform additional processing activities if requested by law enforcements through legal due process
+nottingham city transport has cctv installed on the interior and exterior of all buses and within the travel centre and will use the images for the following purposes
+public and employee safety
+road traffic collision and accident investigation
+the detection, prevention and investigation of crime
+external complaints and internal reports of claims of irregularities
+to ensure compliance with company policies and procedures
+a notification sign is placed in the vicinity of the cameras so that customers are aware that they are entering an area covered by cctv
+cctv footage is viewed only in relation to the purposes outlined in clause 65 and by directors and managers of nottingham city transport and employees who work in our insurance, customer services and schools liaison teams
+cctv footage is retained for
+personal injuries (adults) – 4 years
+personal injuries (under 16) – until their 21st birthday plus 3 months
+internal investigations and customer complaints – 3 months or until the necessary processes have been completed and the images no longer required
+circumstances that may result in litigation – until the matter is closed
+you have the right to access personal data about yourself, including cctv images and footage
+images and footage will only be provided upon receipt of a subject access request and the provision of suitable id to confirm the identity of the person requesting this footage
+you can request a subject access request form by writing to the cctv supervisor, nottingham city transport, lower parliament street, nottingham, ng1 1gg or by emailing cctv@nctx
+if we cannot comply with the request, the reasons for not being able to do so will be documented and you will be advised of these reasons in writing
+your rights and contact us
+children have the same rights as adults over their personal data
+these include the rights to access their personal data
+object to processing and have their personal data erased
+in the uk, the age of consent, i
+e when a child is required or able to give their consent for the processing of their own personal data, is 13 years old
+an individual is only entitled to their own personal data, and not to information relating to other people
+in some cases, where a third party is acting on behalf of an individual, we may disclose information if we are satisfied that the third party making the request is entitled to act on behalf of the individual
+it is the third party’s responsibility to provide evidence of this entitlement
+you may make a formal request for access to personal data that we hold about you at any time
+this is known as a subject access request (“sar”)
+we must respond within one month of receipt of your request
+please note that under the gdpr we are permitted to extend the one month time period for responding by an additional two months where in our view your request is complex or numerous in nature
+we may also charge a reasonable fee based on administrative costs where, in our view, your request is manifestly unfounded or excessive or a request for further copies
+alternatively, we may refuse to comply with the request in such circumstances
+you have a right to ensure that the personal data we hold about you is corrected where it is inaccurate
+is erased where it is no longer required and is transferred to another person upon your request
+we will honour your requests relating to these matters
+our marketing manager is responsible for overseeing the day to day operation of the functions outlined within this policy (except cctv) and queries relating to it and subject access requests should be directed to nctmarketing@nctx
+uk or to the marketing manager, nottingham city transport, lower parliament street, nottingham, ng1 1gg
+you may complain to a supervisory body if you are concerned about the way we have processed your personal data
+in the uk this is the ico – ico
+subject to clause 19, you can opt out of receiving direct marketing materials from us by contacting nctmarketing@nctx
+uk and asking to be withdrawn from the mailing list
+when you wish to close a website or app account or stop using an easyrider travel card, notify us by contacting travelcentre@nctx
+uk or if you have a ‘my easyrider’ account, using the “forget me” link available
+you can choose to remove or disable cookies through your browser settings at any time
+changes to this policy
+we may change this policy from time to time and will notify customers when such changes occur through our website, social media channels and directly to customers electronically, where we have permission to do so
+if you do not agree with any updated elements of the customer privacy policy, you must let us know straight away and stop using the services
+or, find your stop on the map
+add favourites by selecting the star on a stop's departure board
+swap the start point with the destination
+select when you would like to travel
+add favourites by selecting the star on a journey plan
+0115 950 60 70
+follow us on twitter
+follow us on facebook
+download the nctx buses app
+learn more about the nctx buses app
+get on board to receive news updates and get exclusive offers direct to your inbox
+sign up to our newsletter
+© nottingham city transport ltd 2020

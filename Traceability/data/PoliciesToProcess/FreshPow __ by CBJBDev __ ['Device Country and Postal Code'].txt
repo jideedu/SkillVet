@@ -1,0 +1,4 @@
+privacy policy for freshpow alexa skill
+this alexa skill (freshpow) does not collect any information other than your general location (zip code), if you allow it
+no personal information is collected
+thank you, on behalf of the developer, for using freshpow

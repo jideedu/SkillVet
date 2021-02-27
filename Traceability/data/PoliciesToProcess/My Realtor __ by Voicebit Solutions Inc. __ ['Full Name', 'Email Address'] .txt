@@ -1,0 +1,127 @@
+, a massachusetts corporation ("voicebit", "us", "our", "we") is the owner and data controller ("owner")
+we take your privacy very seriously
+this privacy policy describes how voicebit solutions inc
+collects and uses the personal information you provide on our website voicebit
+voice bit app, home search app, home properties app ("application")
+it also describes the choices available to you regarding our use of your personal information
+and how you can access and update this information
+this privacy policy is designed to be read in connection with the terms of service
+which are available at http
+if you have any questions about this privacy policy,
+how we use your personally identifiable information, or our data use practices in general,
+please feel free to contact us at
+by using our services, you give your consent that all personally identifiable information and other data,
+that you submit may be processed by us in the manner and for the purposes described in this privacy policy
+if you do not agree to this privacy policy or the terms of service, please do not use our services
+types of data collected
+among the types of personal data that this website or application collects, by itself or through third parties, there are
+approximate location permission (continuous)
+apple's speech recognition servers permission
+complete details on each type of personal data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the data collection
+personal data may be freely provided by the user, or, in case of usage data, collected automatically when using this application
+unless specified otherwise, all data requested by this application is mandatory and failure to provide this data may make it impossible for this application to provide its services
+in cases where this application specifically states that some data is not mandatory, users are free not to communicate this data without consequences to the availability or the functioning of the service
+users who are uncertain about which personal data is mandatory are welcome to contact the owner
+any use of cookies – or of other tracking tools – by this application or by the owners of third-party services used by this application serves the purpose of providing the service required by the user, in addition to any other purposes described in the present document and in the cookie policy, if available
+users are responsible for any third-party personal data obtained, published or shared through this application and confirm that they have the third party's consent to provide the data to the owner
+mode and place of processing the data
+the owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the data
+the data processing is carried out using computers and/or it enabled tools, following organizational procedures and modes strictly related to the purposes indicated
+in addition to the owner, in some cases, the data may be accessible to certain types of persons in charge, involved with the operation of this application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, it companies, communications agencies) appointed, if necessary, as data processors by the owner
+the updated list of these parties may be requested from the owner at any time
+legal basis of processing
+the owner may process personal data relating to users if one of the following applies
+users have given their consent for one or more specific purposes
+under some legislations, the owner may be allowed to process personal data until the user objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases
+this, however, does not apply, whenever the processing of personal data is subject to european data protection law
+provision of data is necessary for the performance of an agreement with the user and/or for any pre-contractual obligations thereof
+processing is necessary for compliance with a legal obligation to which the owner is subject
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the owner
+processing is necessary for the purposes of the legitimate interests pursued by the owner or by a third party
+in any case, the owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract
+the data is processed at the owner's operating offices and in any other places where the parties involved in the processing are located
+depending on the user's location, data transfers may involve transferring the user's data to a country other than their own
+to find out more about the place of processing of such transferred data, users can check the section containing details about the processing of personal data
+users are also entitled to learn about the legal basis of data transfers to a country outside the european union or to any international organization governed by public international law or set up by two or more countries, such as the un, and about the security measures taken by the owner to safeguard their data
+if any such transfer takes place, users can find out more by checking the relevant sections of this document or inquire with the owner using the information provided in the contact section
+personal data shall be processed and stored for as long as required by the purpose they have been collected for
+personal data collected for purposes related to the performance of a contract between the owner and the user shall be retained until such contract has been fully performed
+personal data collected for the purposes of the owner’s legitimate interests shall be retained as long as needed to fulfill such purposes
+users may find specific information regarding the legitimate interests pursued by the owner within the relevant sections of this document or by contacting the owner
+the owner may be allowed to retain personal data for a longer period whenever the user has given consent to such processing, as long as such consent is not withdrawn
+furthermore, the owner may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority
+once the retention period expires, personal data shall be deleted
+therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period
+the purposes of processing
+the data concerning the user is collected to allow the owner to provide its services, as well as for the following purposes
+analytics, contacting the user and device permissions for personal data access
+users can find further detailed information about such purposes of processing and about the specific personal data used for each purpose in the respective sections of this document
+device permissions for personal data access
+depending on the user's specific device, this application may request certain permissions that allow it to access the user's device data as described below
+by default, these permissions must be granted by the user before the respective information can be accessed
+once the permission has been given, it can be revoked by the user at any time
+in order to revoke these permissions, users may refer to the device settings or contact the owner for support at the contact details provided in the present document
+the exact procedure for controlling app permissions may be dependent on the user's device and software
+please note that the revoking of such permissions might impact the proper functioning of this application
+if user grants any of the permissions listed below, the respective personal data may be processed (i
+e accessed to, modified or removed) by this application
+apple's speech recognition servers permission
+used for sending the user's data to apple's speech recognition servers
+approximate location permission (continuous)
+used for accessing the user's approximate device location
+this application may collect, use, and share user location data in order to provide location-based services
+used for sending the user's data to google assistant (an artificial intelligence-powered virtual assistant)
+used for accessing the google home and chromecast devices and enabling this application to interact with physical accessories in the user's surrounding environment
+detailed information on the processing of personal data
+personal data is collected for the following purposes and using the following services
+the rights of users
+users may exercise certain rights regarding their data processed by the owner
+in particular, users have the right to do the following
+withdraw their consent at any time
+users have the right to withdraw consent where they have previously given their consent to the processing of their personal data
+object to processing of their data
+users have the right to object to the processing of their data if the processing is carried out on a legal basis other than consent
+further details are provided in the dedicated section below
+users have the right to learn if data is being processed by the owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the data undergoing processing
+verify and seek rectification
+users have the right to verify the accuracy of their data and ask for it to be updated or corrected
+restrict the processing of their data
+users have the right, under certain circumstances, to restrict the processing of their data
+in this case, the owner will not process their data for any purpose other than storing it
+have their personal data deleted or otherwise removed
+users have the right, under certain circumstances, to obtain the erasure of their data from the owner
+receive their data and have it transferred to another controller
+users have the right to receive their data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance
+this provision is applicable provided that the data is processed by automated means and that the processing is based on the user's consent, on a contract which the user is part of or on pre-contractual obligations thereof
+users have the right to bring a claim before their competent data protection authority
+details about the right to object to processing
+where personal data is processed for a public interest, in the exercise of an official authority vested in the owner or for the purposes of the legitimate interests pursued by the owner, users may object to such processing by providing a ground related to their particular situation to justify the objection
+users must know that, however, should their personal data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification
+to learn, whether the owner is processing personal data for direct marketing purposes, users may refer to the relevant sections of this document
+how to exercise these rights
+any requests to exercise user rights can be directed to the owner through the contact details provided in this document
+these requests can be exercised free of charge and will be addressed by the owner as early as possible and always within one month
+additional information about data collection and processing
+the user's personal data may be used for legal purposes by the owner in court or in the stages leading to possible legal action arising from improper use of this application or the related services
+the user declares to be aware that the owner may be required to reveal personal data upon request of public authorities
+additional information about user's personal data
+in addition to the information contained in this privacy policy, this application may provide the user with additional and contextual information concerning particular services or the collection and processing of personal data upon request
+system logs and maintenance
+for operation and maintenance purposes, this application and any third-party services may collect files that record interaction with this application (system logs) use other personal data (such as the ip address) for this purpose
+information not contained in this policy
+more details concerning the collection or processing of personal data may be requested from the owner at any time
+please see the contact information at the beginning of this document
+how “do not track” requests are handled
+this application does not support “do not track” requests
+to determine whether any of the third-party services it uses honor the “do not track” requests, please read their privacy policies
+changes to this privacy policy
+the owner reserves the right to make changes to this privacy policy at any time by giving notice to its users on this page and possibly within this application and/or - as far as technically and legally feasible - sending a notice to users via any contact information available to the owner
+it is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom
+should the changes affect processing activities performed on the basis of the user’s consent, the owner shall collect new consent from the user, where required
+we will let you know via email and/or a prominent notice on our service, prior to the change becoming effective and update the "effective date" at the top of this privacy policy
+you are advised to review this privacy policy periodically for any changes
+changes to this privacy policy are effective when they are posted on this page
+if you have any questions about this privacy policy, please contact us by email
+"ok google, ask home search "
+"alexa, ask my realtor "
+© 2020 voicebit solutions inc

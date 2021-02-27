@@ -1,0 +1,103 @@
+skip to main content
+select the department you want to search in
+health & personal care
+home & business services
+musical instruments & dj
+pc & video games
+stationery & office supplies
+deliver to london ec2v‌
+gift cards & top up
+help & customer service
+amazon device support › alexa feature help › alexa and alexa device terms, warranties and notices ›
+alexa, echo devices, and your privacy
+amazon knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly
+alexa is a cloud service that you control with your voice and is always getting smarter—the more you use alexa, the more alexa adapts to your speech patterns, vocabulary, and personal preferences
+we handle any personal information we receive through alexa in accordance with amazon’s privacy notice
+this page provides additional detail about how we use your personal information to provide and improve your experience and our services
+what happens when i speak to alexa
+when you speak to alexa, a recording of what you asked is sent to amazon’s servers so our systems for speech recognition and natural language understanding can process and respond to your request
+we associate your requests with your amazon account to allow you to access other amazon services (e
+, so you can ask alexa to read your kindle books and play audiobooks from audible) and to provide you with a more personalised experience
+for example, keeping track of the songs you have listened to helps alexa choose what songs to play when you say, “alexa, play music
+at times, alexa may make recommendations to you based on your requests
+for example, if you are a prime music user and you request a song that is not available through prime music, alexa may offer you the ability to subscribe to amazon music unlimited
+alexa may also recommend alexa skills you might like based on the alexa skills you use
+we also use your requests to improve our services, including training the speech recognition and natural language understanding systems
+is alexa recording all my conversations
+echo devices are designed to detect only your chosen wake word (alexa, amazon, computer or echo)
+the device detects the wake word by identifying acoustic patterns that match the wake word
+no audio is stored or sent to the cloud unless the device detects the wake word (or alexa is activated by pressing a button)
+how do i know when audio is being sent to the cloud
+for echo devices, any time audio is sent to the cloud, a visual indicator appears on your device
+for instance, the light ring on amazon echo will turn blue or a blue bar will appear on echo show
+you can also configure certain echo devices to play a short audible tone any time audio is sent to the cloud
+can i “mute” my echo device
+our echo devices are equipped with a microphone on/off button
+when the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated
+when the microphones are turned off, your device cannot stream audio to the cloud
+can i review, manage and delete my voice recordings
+you can review your voice recordings associated with your account, manage the use of your voice recordings in the development of new features, and delete those voice recordings one by one or all at once by visiting settings
+alexa privacy in the alexa app or at https
+does alexa use other information
+depending on how you use alexa, we may also collect other types of information and use that information to provide and improve your experience and our services
+here are some examples
+smart home – if you interact with or operate a smart home product with alexa, such as a light, thermostat or outlet, we will receive information about that smart home product’s device type, features, and status, which allows you to see information about and control that product from your alexa app
+alexa calling and messaging - if you use alexa calling and messaging and grant alexa access to your contacts, we will periodically import and store your contacts, which allows us to connect you with your contacts and identify the most likely contact you intend to call or message (e
+, which bill you want to call when you ask alexa to “call bill”)
+if you use alexa calling and messaging to send voice or text messages to another alexa calling and messaging user (e
+, on echo, "alexa, send a message to mom" or, in the alexa app, tapping on the message icon on mom's contact card), we will process your messages in the cloud to convert voice messages to text, and vice versa
+you can turn off alexa’s use of your messages to improve message transcription accuracy from alexa privacy in the settings menu of your alexa app or in the manage your content and devices section of your account
+item or barcode scanning feature - if you use echo show’s item or barcode scanning feature, we will process the scanned image in the cloud to return search results from amazon
+uk for the scanned item or barcode
+you can delete the scanned images associated with your account by visiting the manage your content and devices page at www
+voice profile – if you consent to create a voice profile, we will use recordings of your voice to create an acoustic model of your voice characteristics and store it in the cloud so alexa can recognise your voice, call you by name, and do more to personalise your experience
+creation of a voice profile is an optional feature and you can withdraw your consent and delete any voice profile you've created by selecting “delete my voice” in the alexa app
+if your voice is not recognised for three years, we will automatically delete your voice profile
+if you use a third party service through alexa, we will exchange related information with that third party so they may provide the service
+for example, if you interact with a third party alexa skill, we provide the content of your requests (but not the voice recordings) to the skill so the skill can respond accordingly
+if you use a third party alexa skill that requires your location (such as a car service) and grant the skill access to your location, we will share that information with the skill
+information you provide to an alexa skill will be subject to the skill developer’s privacy practices
+you can find the privacy notices provided to us by the developers of alexa skills that collect personal information on the detail page for those skills in your alexa app
+some alexa skills are directed to children, as identified by the developers of those skills
+kid skills are turned off by default
+if you want to use kid skills, please turn all kid skills on in the settings menu of your alexa app
+you can turn all kid skills off at any time by changing that setting
+you can learn more about alexa in our alexa terms of use
+for more commonly asked questions, including how other amazon alexa-enabled devices and features work, please visit alexa and alexa device faqs
+was this information helpful
+thank you for your feedback
+please select what best describes the information
+this information is confusing or wrong
+this isn't the information i was looking for
+i don't like this policy
+while we're unable to respond directly to your feedback,
+we'll use this information to improve our online help
+alexa and alexa device terms alexa terms of use
+alexa and alexa device faqs alexa, echo devices, and your privacy amazon echo spot power consumption about kid skills amazon echo power consumption amazon echo show device power consumption amazon echo (2nd generation) power consumption
+deliver books, apps to your device
+deliver books, apps to your device
+view purchased books & apps
+view purchased books & apps
+digital and device forum
+digital and device forum
+get to know us careers about us uk modern slavery statement make money with us sell on amazon sell under private brands sell on amazon business sell on amazon handmade sell your services on amazon associates programme fulfilment by amazon seller fulfilled prime advertise your products independently publish with us amazon pay › see all amazon payment methods amazon platinum mastercard amazon classic mastercard amazon money store gift cards amazon currency converter payment methods help shop with points top up your account top up your account in store let us help you track packages or view orders delivery rates & policies amazon prime returns & replacements manage your content and devices amazon mobile app amazon assistant help
+australia brazil canada china france germany india italy japan mexico netherlands spain turkey united arab emirates united states
+stream millions of songs
+books, art & collectables
+audiobook publishing made easy
+scalable cloud computing services
+books with free delivery worldwide
+book reviews & recommendations
+handpicked professionals happiness guarantee
+movies, tv & celebrities
+indie digital publishing made easy
+2-hour delivery on everyday essentials
+deep discounts open-box products
+service for business customers
+we believe in real food
+pass it on, trade it in, give it a second life
+conditions of use & sale privacy notice cookies notice interest-based ads notice © 1996-2019, amazon
+unlimited one-day delivery and more
+prime members enjoy fast & free shipping, unlimited streaming of movies and tv shows with prime video and many more exclusive benefits
+there's a problem loading this menu at the moment
+learn more about amazon prime

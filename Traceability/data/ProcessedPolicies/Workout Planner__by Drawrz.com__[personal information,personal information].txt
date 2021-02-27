@@ -1,0 +1,6 @@
+this privacy policy sets out how fast food calorie counter uses and protects any information that you give when you use this chatbot
+we do not collect any personal information about the individual making the query
+what we do with the information we gather
+the platform does collect raw information about different interactions, and will be analyzed to improve the ability to answer queries
+we are committed to ensuring that your information is secure
+this is why we are not asking for any personal information about you in our skill

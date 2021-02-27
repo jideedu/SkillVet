@@ -1,0 +1,278 @@
+livexlive, including its subsidiaries, affiliates and associated companies (collectively, "livexlive", "we", or "us") recognizes that its users value their privacy and we take your privacy seriously
+this privacy policy ("policy") explains our privacy practices, including what types of personal information we collect from you and how we may use it, our rights to share and disclose such information with other entities and how you can review and modify information that you provide to us and your preferences regarding our use and disclosure of such information
+this policy applies to all personal information collected during any written, electronic, and oral communications or collected online (collectively, the "services"), which include
+the website located www
+com and all corresponding webpages and websites that link to this policy ("site")
+livexlive mobile, web, console, desktop and other applications (e
+, apple ios apps, etc
+) (collectively and individually, "livexlive app")
+any other content, applications, features, functionality, information and services offered by us though the site and/or the livexlive apps, including, without limitation, viral, embeddable or application/device-based features and related technology (e
+, mobile, web, console, desktop and other apis, widgets, plugins, applications, etc
+before using our services, please carefully read our terms of use agreement, which you can view here
+com/terms ("terms of use"),
+and this policy, which is part of the terms of use
+any capitalized terms that are not defined in this policy shall have the meaning given in the terms of use
+our terms of use and this policy apply regardless of the device you use to access the services and whether you are accessing the services as a registered user or not
+by using the services, you accept and agree to our terms of use, including the provisions in this policy
+if you do not agree with our policy and terms of use, please do not participate in the services or any features, activities or services offered through the services
+this policy and the terms of use will remain in full force and effect, even if your use of the services or any particular service, feature, function or promotional activity offered through the services terminates, expires, ceases, is suspended or deactivated for any reason
+changes to the policy
+from time to time we may modify this policy to reflect industry initiatives, third-party requirements, changes in the law or our how we process personal information
+such modifications shall be effective upon posting
+your continued use of the services after we post a revised policy signifies your acceptance of the revised policy
+it is therefore important that you review this policy regularly to ensure you are updated as to any changes
+whenever material changes to this policy are made, we will provide you with notice before the modifications are effective, such as by posting a notice on our site or sending a message to the email address associated with your account
+the effective date of the policy is the date indicated at the top of the policy
+by continuing to access or use the services after changes to this policy become effective, you agree to be bound by the revised policy
+if any changes are unacceptable to you, you may stop using our services
+we also may provide additional "just-in-time" disclosures or additional information about the data collection, use and sharing practices of specific services
+such notices may supplement or clarify our privacy practices or may provide you with additional choices about how we process your personal information
+personal information we collect
+this policy governs only the personal information collected by us from you and provided to us by third-party platforms in connection with your use of our services
+when we use the term "personal information" we mean any information that we collect on or in connection with the services that relates to you, identifies you personally or could be used to identify you, such as your full name, address, email, telephone number, or your music preferences
+we may combine your personal information with other information we collect about you from other sources, such as information you have provided to third parties, including, but not limited to, our affiliated companies, marketing companies or advertisers, and, if we do so, our use of the resulting combined personal information will be subject to this policy
+the types of personal information that we may collect about you are
+information you provide to us in order to access and use certain features, content or functions, of the services, we may ask you to provide certain personal information
+this information may include, but not to be limited to, your email, legal name, date of birth, music, artist or band preferences, and other account information associated with third-party platforms
+we may also ask for your physical address, and applicable payment data (e
+, payment card number and expiration date) to process payments in relation to our services
+at times, you may be presented with the opportunity to sign up to receive newsletters, email communications, or other communications from us in order for us to provide up-to-date information about the services, and to publicize and promote certain content, products and services offered by us, our partners and/or other third parties
+when there is a separate sign-up for newsletters, we may ask for your contact information such as your name and email, and in certain circumstances your demographic and profile information
+we may also have features that allow you to submit information, questions or feedback to us
+in those instances, we may retain the information you submit to help us to serve you better and for our internal purposes
+contests, sweepstakes and surveys to participate in our promotions, including, but not limited to, contests, sweepstakes and surveys, you may be required to submit your personal information, including your full name, email, address, telephone number, demographic and profile information
+we will use this information to conduct the promotion (for example, to contact you if you have won)
+you may also have an opportunity to opt-in to receive special promotions or offers from our advertisers as a result of your use of the services
+automatic data collection our services include features that automatically collect certain personal information such as a unique device identifier assigned to your device ("udid"), third-party platform anonymous identifiers, your internet protocol ("ip") address, location data, and other information regarding your use of the services
+this information is collected to assist us in authenticating your usage and/or device, keeping track of your preferences, creating a more tailored user experience and better serving your particular interests
+please see section 4 to learn more about our automatic data collection practices
+information from advertising service providers we use a variety of third-party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "third-party advertising service providers") to, for example, serve advertisements on the services, facilitate targeted advertisements and measure effectiveness of our services
+as part of their services to us, these third-party advertising service providers may provide us with information about your use of other websites, services and platforms
+information you provide to our affiliates and subsidiaries we may receive personal information about you from any company controlled by or under common control with livexlive
+cookies and other tracking technologies
+we may use cookies, embedded scripts, and other similar tracking technologies ("tracking technologies") to collect additional personal information automatically as you interact with the services and to personalize your experience with our services
+cookies cookies are small web files that a site or its provider transfers to your device's hard drive through your web browser that enables the site's or provider's system to recognize your browser and remember certain information
+we use first-party and third-party cookies for the following purposes
+to make our services function properly, to improve our services,
+to make login to our services easier (such as by remembering your user id), to recognize you when you return to our site, to track your interaction with the services, to enhance your experience with the services (e
+, for tracking your sessions and use of the playbar, what videos you have in your playbar, etc
+), to remember information you have already provided, to collect information about your activities over time and across third party websites or other online services in order to deliver content and advertising tailored to your interests
+and to provide a secure browsing experience during your use of our services
+the length of time a cookie will stay on your browsing device depends on whether it is a "persistent" or "session" cookie
+session cookies will only stay on your device until you stop browsing
+persistent cookies stay on your browsing device until they expire or are deleted (i
+after you have finished browsing)
+we may place cookies from third-party service providers who may use information about your visits to other websites to target advertisements for products and services available from livexlive
+we do not control the types of information collected and stored by these third-party cookies
+you should check the third-party's website for more information on how they use cookies
+the following types of cookies are used on our services
+these cookies are essential because they enable you to use our services
+for example, strictly necessary cookies allow you to access secure areas on our services
+without these cookies, some services cannot be provided
+these cookies do not gather information about you for marketing purposes
+this category of cookies is essential for our services to work and they cannot be disabled
+functional or preference cookies
+we use functional cookies to remember your choices so we can tailor our services to provide you with enhanced features and personalized content
+for example, these cookies can be used to remember your name or preferences on our services
+we do not use functional cookies to target you with online marketing
+while these cookies can be disabled, this may result in less functionality during your use of our services
+performance or analytic cookies
+these cookies collect passive information about how you use our services, including webpages you visit and links you click
+we use the information collected by such cookies to improve and optimize our services
+we do not use these cookies to target you with online marketing
+you can disable these cookies
+advertising or targeting cookies
+these cookies are used to make advertising messages more relevant to you
+they perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests
+our third-party advertising partners may use these cookies to build a profile of your interests and deliver relevant advertising on other sites
+you may disable the use of these cookies as set forth below
+other tracking technologies we may also use tracking technologies to collect "clickstream" data, such as the domain name of the service providing you with internet access, your device type, ip address used to connect your computer to the internet, your browser type and version, operating system and platform, the average time spent on our services, webpages viewed, content searched for, access times and other relevant statistics, and assign unique identifiers to the device or other credentials you use to access the services for the same purposes
+we may associate the information obtained through these tracking technologies, and your udid, third-party platform anonymous identifiers and other identifiers and data, with your personal information so we can better customize your experience using the services and provide tailored advertisements, promotions, recommendations and other content related to your specific interests, activities or profile (e
+, playlist recommendations, etc
+) your choices your browser may provide you with the option to refuse some or all browser cookies
+you may also be able to remove cookies from your browser
+you can exercise your preferences in relation to cookies served on our sites by taking the steps outlined below
+you can use the browser with which you are viewing this site to enable, disable or delete cookies
+to do this, follow the instructions provided by your browser (usually located within the "help", "tools" or "edit" settings)
+please note, if you set your browser to disable cookies, you may not be able to access secure areas of the site
+also, if you disable cookies other parts of the services may not work properly
+you can find more information about how to change your browser cookie settings at http
+you can opt out of having your mobile advertising identifiers used for certain types of advertising by accessing the settings in mobile device and following the instructions
+if you opt-out, we will remove all data about you and will not collect any further data
+the random id previously assigned to you will be removed
+thus, if at a later stage, you decide to opt-in, we will be unable to continue and track you using the prior id and you will for all practical purposes be a new user
+to opt-out of third-party advertising networks and similar entities that use advertising cookies go to http
+once you click the link you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising entities
+for more information about third-party advertising networks and similar entities that use these technologies, please see http
+some internet browsers, such as internet explorer, firefox, and safari, include the ability to transmit "do not track" or "dnt" signals
+since uniform standards for "dnt" signals have not been adopted, our sites do not currently process or respond to "dnt" signals
+if you do not want flash cookies stored on your computer, you can adjust the settings of your flash player to block flash cookies storage using the tools contained in the website storage settings panel
+you can also control flash cookies by going to the global storage settings panel and following the instructions
+setting the flash player to restrict or limit acceptance of flash cookies may reduce or impede the functionality of some flash applications, including, potentially, flash applications used in connection with our services or online content
+how we use information
+we will only use your personal information as described in this policy or as disclosed to you prior to such processing taking place
+the purposes for which we may use your personal information include
+providing any services or products that you request or purchase in connection with the services
+contacting you regarding the administration of any features or functions of the services you have registered to use
+sending you marketing and promotional emails
+responding to your questions or other requests
+allowing you to participate in the community and other features of the services
+tailoring your experience on the services and/or otherwise customizing what you see when you visit and use the services
+saving your user account, registration and profile data or other personal information (so you do not have to re-enter it each time you visit or use the services)
+tracking your return visits to and use of the services
+for research purposes, for marketing/promotional purposes and to provide anonymous reporting for internal and external clients and business partners
+accumulating and reporting aggregate, statistical information in connection with the services and user activity
+determining which features and services users like best to help us operate the services, enhance and improve our services and the services and display advertising and marketing information
+tailoring your experience on the services and/or otherwise customizing what you see when you visit and use the services
+keeping you secure and safe while using our services, which requires us to process your personal information to combat spam, malware, malicious activities or security risks
+improving and enforcing our security measures
+maintaining legal and regulatory compliance
+enforcing compliance with our terms and conditions and policies
+protecting you, others and our business, including, without limitation, using information for fraud prevention
+for any other purpose disclosed to you prior to you providing us your personal information or which are reasonably necessary to provide the services or other related products and/or services requested
+sharing and disclosure of personal information
+we may share, disclose and/or sell your personal information with the following entities
+public information certain personal information associated with a user posting, such as your username, will be made publicly available
+service providers we disclose your personal information to third parties to administer and maintain our services
+we will refer to these third parties as "service providers"
+for example, we share your personal information with vendors who help us manage our it infrastructure or who fulfill your purchases
+some vendors may be located outside of the united states
+we will also disclose your personal information for order fulfillment purposes if you buy tickets via our platform, or with a third party who provides you with ticket insurance, order fulfillment, merchandise, payment processing, data analysis, marketing, auditing and other services
+these service providers may only use your personal information to provide livexlive with specified services and are contractually obligated to protect your information as disclosed in this policy
+our partners if you access our services directly from a partner website, we may share your personal information with that partner
+other than this use, we do not share your personal information unless we have your permission or as otherwise stated in this policy
+social networking websites when you use our services, you may share personal information with social networking websites
+we do not share information with them unless you direct us to share it
+their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites
+co-branded services and features our services may be offered as part of co-branded services and features
+we will share your personal information with our co-branded partners based on your voluntary use of or participation in a co-branded service or feature
+the co-branded partners will be identified on the co-branded feature or service, along with an applicable co-branded partner's privacy policy
+use of your personal information by a co-branded partner will be subject to a co-branded partner's privacy policy
+if you wish to opt-out of a co-branded partner's future use of your personal information, you will need to contact the co-branded partner directly
+related entities we may disclose personal information to our affiliated companies for marketing and/or administrative purposes
+we will require these entities to comply with the terms of this policy with regard to their use of your information
+corporate transactions if livexlive sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, livexlive may transfer your personal information to the party or parties involved in the transaction
+when required by law livexlive may access or disclose your personal information in the following circumstances
+to protect or defend the legal rights or property of livexlive, our affiliated companies or their employees, agents and contractors (including enforcement of our agreements)
+to protect the safety and security of our services and users
+to protect against fraud or for risk management purposes
+if we believe your actions violate the terms of use, this policy, any rules and/or additional terms
+or to comply with law or legal process
+with your consent we also may share or disclose your personal information with your consent or at your direction
+as descried below, we provide you with the ability to access, correct, delete and limit our usage of your personal information
+access, correction and deletion rights you have the right to access, correct and delete your personal information that you shared with us on our services
+however, please note that if we are required to retain a record of your personal information to comply with applicable federal, state or local law, we will not be able to delete it
+please note that it is your responsibility to give us current, complete, truthful and accurate information, including personal information, and to keep such information up to date
+we cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete personal information or you fail to update such information
+we will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this policy
+usage limitation right our services also allow you to limit the visibility of your user profile and user postings (including, without limitation, your playlists) with the public and/or other users of the services
+limit the provision of certain information to us, such as location data
+and limit our ability to take certain actions that may disclose your information (e
+, posting status messages, notes, photos, videos etc
+to third-party platforms on your behalf)
+please be aware that that if you limit the sharing of certain personal information, you may not be able to use all of the features and functionality of the services
+how to exercise your access, correction, deletion and usage limitation rights you can exercise your rights by
+modifying your privacy preferences (e
+, hiding your user profile, deactivating your user account, etc
+) on the services
+responding to request alerts or notifications that may be presented to you on your device prior to or following the collection of the relevant personal information
+navigating to the settings, account or privacy section of your device, the applicable third-party platform and/or the applicable service and limiting certain service functionality (e
+, location services, etc
+using other available methods of controlling your options and settings
+and by sending an email to us at privacy@livexlive
+com describing your request
+marketing opt-out at times, you may be presented with the option of whether to receive marketing and promotional communications from us and others that we think will be of interest to you
+recipients of such communications can unsubscribe by either following the specific instructions included in such communications or you may "opt-out" of receiving marketing and promotional emails from us at any time by sending an email to us at privacy@livexlive
+com describing your request
+please note that "opt-out" and "unsubscribe" requests may not take effect immediately and may take a reasonable amount of time to receive, process and apply, during which time your information shall remain subject to the prior privacy settings
+additionally, you should be aware that any information provided to third parties prior to your election to opt-out or unsubscribe will not be retrieved or rescinded, unless required by applicable law
+notice for california residents
+this section applies only to california residents
+pursuant to the california consumer privacy act of 2018 ("ccpa")
+below is a summary for the last twelve (12) months of the personal information categories, as identified and defined by the ccpa (see california civil code section 1798
+140 (o)), that we collect, the reason we collect the personal information, where we obtain the personal information, and the categories of third parties that we may share the personal information
+we generally collect the following categories of personal information about your when you use our services
+identifiers such as a name, address, unique personal identifier, email, phone number, your device's ip address, software, and identification numbers associated with your devices
+commercial information such as records of products or services purchased, obtained, or considered by you
+internet or other electronic information regarding you browsing history, search history, the webpage visited before you came to our site, length of visit and number of page views, click-stream data, locale preferences, your mobile carrier, date and time stamps associated with transactions, and system configuration information
+your geolocation, to the extent you have configured your device to permit us to collect such information
+audio recordings of your voice to the extent you call us, as permitted under applicable law
+inferences about your preferences, characteristics, behavior and attitudes
+we generally do not collect protected classifications about our users, biometric information, professional or employment-related information, or education-related information
+for more information about the personal information we collect and how we collect it, please refer to sections 3 and 4 above
+we collect your personal information for various business purposes as described in section 5, how we use your information
+the ccpa defines a "business purpose" as the use of personal information for the business's operational purposes, or other notified purposes, provided the use of personal information is reasonably necessary and proportionate to achieve the operational purpose for which the personal information was collected or another operational purpose that is compatible with the context in which the personal information was collected
+the following activities are considered "business purposes" under the ccpa
+auditing related to a current interaction with the consumer and concurrent transactions, and auditing compliance with laws and other standards
+detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+performing services on behalf of the business, including maintaining or servicing accounts, providing customer service, verifying customer information
+repairing errors that impair existing intended functionality
+internal research for technological development
+verifying or maintaining the quality or safety of, and improving, upgrading, or enhancing, a service or device that is owned, manufactured by, manufactured for, or controlled by the company
+the categories of third parties with whom we may share your personal information are listed above in section 6, sharing and disclosure of personal information
+privacy rights if you are a california resident, you have rights in relation to your personal information
+however, your rights are subject to certain exceptions
+for instance, livexlive cannot disclose specific pieces of personal information if the disclosure would create a substantial, articulable, and unreasonable risk to the security of the personal information, your account with us or the security of our network systems
+you have the right not to be discriminated against for exercising any of the rights described in this section
+we will not discriminate against you for exercising your right to know, delete or opt-out of sales
+you have the right to know the categories of personal information we have collected about you, the categories of sources from which we collected that information, why we collected that information about you, the categories of third parties with whom we shared your personal information, the categories of personal information that the business disclosed about you for a business purpose, and the specific pieces of personal information we have collected about you
+you have the right to request a copy of the specific personal information we collected about you during the 12 months before your request
+you have the right to request us delete any personal information we have collected from you or maintain about you, subject to certain exceptions
+to assert your right to know or your right to delete your personal information, please contact us as privacy@livexlive
+to verify your identity, we may ask you to verify personal information we already have on file for you
+if we cannot verify your identity from the information we have on file, we may request additional information from you, which we will only use to verify your identity, and for security or fraud-prevention purposes
+right to opt-out of selling
+as described in the policy, in certain situations we may share your personal information with our partners, third parties or affiliates for our marketing or other purposes
+to the extent such sharing is considered a "sale" under the ccpa, as a california resident you have the right to opt-out of such sharing
+if you would like us to no longer share your personal information in this way, please visit our privacy preference center, located at https
+if you opt-out, we may be unable to offer you some of our services which require sharing of personal information
+other rights if you are california resident, you can control whether your personal information is used by third parties (such as advertisers) for their direct marketing purposes by exercising your opt-out (which we may sometimes refer to as "unsubscribe") or opt-in rights by contacting us using the details below
+therefore, pursuant to the california law, we are not required to disclose personal information categories that we disclosed about you to the third parties and a list of third parties that received your personal information for marketing purposes during the preceding year
+if you are a california resident and wish to request information about how to exercise your opt-out or opt-in rights, please send a request by email to privacy@livexlive
+com or by postal mail to livexlive, corp, livexlive
+com, c/o privacy administrator, 269 south beverly drive, suite #1450, beverly hills, ca 90212, attn
+your california privacy rights
+all requests must be labeled "your california privacy rights" on the email subject line or envelope or post card
+for all requests, please clearly state that the request is related to "your california privacy rights", include your name, street address, city, state, zip code and email (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail)
+we will not accept requests via the telephone or by fax
+we are not responsible for notices that are not labeled or sent properly, or do not have complete information
+in addition, a business subject to california business and professions code section 22581 must allow california residents under age 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted
+please send your request to at https
+your request should include a detailed description of the specific content or information to be removed
+please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances
+data collection from children
+we do not knowingly collect personal information from children under 16
+without appropriate parental notice and consent
+if we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information from our files
+while no data transmission over the internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your personal information
+however, regardless of our efforts and the device you use to access the services, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission
+we also limit access to the services by our own employees, contractors, service providers and those individuals who are authorized for the proper handling of such information
+we request that our third-party contractors and service providers follow similar standards of security and confidentiality
+we use the following controls to protect your personal information
+use ssl to safeguard information when transmitted from your web browser to us
+encrypt sensitive personal information, such as credit card numbers and user names
+restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do
+bind third-party vendors and suppliers with contractual, technical, and organizational measures to protect your personal information
+although we do take (and require third parties that we work with to take) security precautions regarding your personal information, due to the open nature of the internet, we cannot guarantee that any of your personal information stored on our servers, or transmitted to or from a user, will be free from unauthorized access
+by using our services, you acknowledge that you understand and agree to assume these risks
+where your personal information is processed
+we may process personal information on computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction
+we are headquartered in and process personal information in the united states
+if you are visiting from the european economic area, the united kingdom or switzerland, please note that by using our services you are agreeing to the transfer of your personal information to the united states to us for processing to provide our services
+we will use our best efforts to ensure your personal information is treated securely in accordance with this privacy policy, but if you do not agree with our terms and the conditions set forth in this privacy policy, you should cease using our services
+integration of third-party platforms and services
+the services may be linked to, rely on and be integrated with websites, applications, interfaces, services and platforms operated by other companies, including third-party services
+the services may also feature advertisements from these companies
+livexlive is not responsible for the privacy practices of such websites, applications, interfaces, services and platforms operated by third parties that are linked to, rely on and/or integrated with the services or for the privacy practices of third party advertising companies
+once you leave this services via a link, access a third-party service or click on an advertisement, you should check applicable privacy policies to determine, among other things, how related companies process personal information they may collect about you
+this policy applies solely to information collected by livexlive
+if you have any questions about our privacy practices or any of the terms or conditions of this policy, please feel free to contact us at
+or by mail at livexlive corp, attn
+privacy matters, 269 south beverly drive, suite #1450, beverly hills, ca 90212
+upgrade to see what's up next
+go premium and get no ads, unlimited skips, and listen offline
+stay up-to-date and sign up for our newsletter
+get the mobile app learn more
+do not sell my personal information
+©2020 livexlive all rights reserved
+by closing this message, you consent to livexlive's use of cookies on this device in accordance with its terms of service and privacy policy , unless you have already disabled cookies in your browser settings

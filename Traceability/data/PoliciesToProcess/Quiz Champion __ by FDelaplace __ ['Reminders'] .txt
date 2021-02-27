@@ -1,0 +1,13 @@
+privacy policy for quiz champion
+quiz champion (“the app”, “the skill”) is an amazon alexa skill that is available for free, while also offering the possibility for users to subscribe to premium content
+information collection and use
+quiz champion does not collect any personal information related to the users
+the app only stores the user id, which is a non-personally identifiable key assigned automatically by the amazon alexa services to a user when enabling the skill
+this key is used to identify any user having previously used the app, in order to provide a more tailored experience as well as retrieving any game-related data saved from previous sessions, e
+score, current question, etc
+all the features of the skill, including the subscription to premium content, rely on the alexa services made available by amazon
+more information about the associated privacy policies can be found here
+changes to this privacy policy
+as the skill evolves and new features are introduced, this privacy policy may be updated
+any change to the privacy policy will be made on this page directly, and will be in effect immediately after being posted
+therefore, you should check this page periodically to stay informed on the privacy policies in effect

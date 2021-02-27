@@ -1,0 +1,23 @@
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+3 lines (2 sloc) 213 bytes
+utah air quality alexa skill privacy policy
+this skill does not store any of your personal information
+it uses the zip code registered to your device to determine which county in the state of utah you are in
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+we use optional third-party analytics cookies to understand how you use github
+com so we can build better products
+you can always update your selection by clicking cookie preferences at the bottom of the page
+for more information, see our privacy statement
+we use essential cookies to perform essential website functions, e
+they're used to log you in
+we use analytics cookies to understand how you use our websites so we can make them better, e
+they're used to gather information about the pages you visit and how many clicks you need to accomplish a task

@@ -1,0 +1,3 @@
+Manual_Traceability3_15.10_21.46.csv - This csv should contain traceability information about the policies found in folder /PoliciesToProcess
+/PoliciesToProcess - Contains a list of policies in txt file format and processed (splitted into lines!).
+/ProcessedPolicies - Contains a copy of all policies processed by the PoliciAnalyser

@@ -1,0 +1,138 @@
+prospector theater privacy policy this privacy policy was last updated on
+notice of arbitration provisions
+your use of our site or other service is subject to binding individual arbitration of any disputes which may arise, as provided in paragraph 18 of the terms of use
+please read the arbitration provisions carefully and do not use our site or other service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this privacy policy or our privacy practices) as provided in the terms of use
+this privacy policy ("policy") sets forth the privacy policies that apply to your use of www
+org or any of our other websites (collectively, the "site") and any other services or products and any related software applications (collectively, the "service") offered and/or operated by prospects, opportunity and enrichment, inc
+("prospector" or "we" or "our" or "us")
+by visiting our site or otherwise signing up for and/or using our service, you are subject to these privacy policies
+1) prospector is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information
+this policy outlines the type of information that we collect and receive from you while you are using our site or other service
+additionally this policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information
+please review this policy carefully, especially before providing any personal information through our site or other service
+our site and service are operated in and controlled from the united states of america
+if you have any questions about this policy or don't see your concerns addressed here, please use the contact information provided at the end of this policy to contact us
+what this privacy policy covers
+the practices described in this policy only apply to the following
+1) information collected online on this site
+a) like many other websites, we may now or in the future provide other websites or mobile services with, and allow users to "snag" or place, our rss feeds, video players and other applications on websites or mobile services we do not control
+this policy applies to any information we collect when you use our rss feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or mobile services or other third parties that may provide content or services to those websites or mobile services
+what this privacy policy does not cover
+this policy does not cover any of the following
+1) information you give to us offline, for example when you send a letter to our business address or leave a message on our voicemail system
+2) information collected by third parties, even if collected on or through our site or other service
+for example, we may embed a content feed, video player or other application from a third party on our site or other service
+these third party applications may appear to be part of our site or other service, but the content is provided by a third party server
+by accessing this third party application, the third party owner may send its own cookies and collect its own data regarding your interaction with the application and may solicit your personal information as part of your use of such application
+we are not responsible for the actions and privacy policies of these third party providers and you should review such privacy policies prior to providing any personally identifiable information to them
+3) this policy will be posted on this site for your review and from time to time as part of registering or providing information in connection with this site or other service, we may provide you with a short notice reminding you to refer to this policy and other relevant information from us when using our site or other service
+please review this policy and the terms of use for this site and/or service carefully
+your use of this site and/or service signifies your agreement to such policy and terms of use
+1) what types of information prospector collects a) our goal is to collect and use only that information that we think is required for our legitimate non-profit interests, in order to better understand your interests and to improve your experience of using our site or other service
+in order to do so, we collect the following types of information
+i) personally identifiable information personally identifiable information is any information that identifies a living individual, such as your first and last name, mailing address, phone number, mobile phone number email address, photograph, credit/debit card number and expiration date (or other payment-method information), login id, member name and password and other information about a specific individual that identifies the individual ("personally identifiable information")
+when you sign up for or use the site or other service, prospector collects some amount of personally identifiable information from you
+prospector also collects personally identifiable information that you may voluntarily provide when you use the site or other service, that you may disclose in a public area of the site or other service (such as a rating/review page, message board or chat room), or that you may include if you communicate with prospector, such as by responding to polls or survey, registering for sweepstakes, contests and other promotional opportunities, or submitting requests to our prospector team
+in some instances, when you use certain features of the site or other service, prospector may collect the email addresses or other personally identifiable information of others that you may provide
+unless stated otherwise at the point of collection, we will treat any such personally identifiable information that you submit about other people in accordance with this policy
+ii) non-personally identifiable information prospector collects information from you automatically when you use the site or other service
+non-personally identifiable information is information that does not specifically identify a living individual and is not used with personally identifiable information to determine an individual's identity, including a computer's internet protocol ("ip") address, a mobile device's unique identifier, computer and device connection information such as browser type or version, demographic information, such as a person's age, zip code and other data collected automatically through the operation of this site or other service ("non-personally identifiable information")
+we may collect site usage data and other non-personally identifiable information (such as which site pages are visited and in what sequence) through the use of various technologies
+for example, our web servers automatically collect ip addresses from computers and other devices that visit the site
+an ip address is a number that is automatically assigned to a computer by the internet service provider whenever the computer is connected to the internet
+web servers, the computers that "serve up" and deliver web pages, automatically identify a computer by its ip address, and when a page is requested from a website, its servers log the ip address of the computer requesting the page
+when we are collecting information regarding what pages and content on this site or other service a computer is accessing and using, in general we do not link that computer's ip addresses to any personally identifiable information, so although the site usage data associated with a computer's ip address will be logged, your identity will remain anonymous to us and the site
+for portions of the site or other service that may require registration or a log-in, we may also collect your registration, username and password information from you when you register or log in to those portions of the site or other service
+during some visits, we and/or third party providers may use software tools, such as javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page
+b) how prospector collects information i) cookies like many sites, we and third parties that provide content on and through the site or other service use "cookies" or other similar technologies to collect information
+a cookie is a small text file that is sent to your computer from a web server and stored on your computer's hard drive when you visit a website
+prospector's cookies contain personally identifiable information, such as your login id and your email address, as well as non- personally identifiable information
+prospector uses cookies to allow you to log in automatically and to ensure that you have agreed to the terms, conditions and policies that govern your use of the site or other service
+in addition, prospector uses cookies to measure traffic activity on the site, track your use of the site or other service, and provide you with a more personalized user experience by allowing prospector to provide targeted advertising and determine which areas of the site or other service may be the most popular or useful to you
+similarly, if you have asked us to send you information about upcoming products and promotions, by using cookies we collect information about which site pages you have visited and in what order that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences
+most browsers are initially set to accept cookies
+if you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the site or other service may not function properly if you do so
+for more information about cookies and how to disable them, please consult the information provided by the interactive advertising bureau at www
+certain internet browsers, such as internet explorer, chrome, firefox and safari, also allow you to block, control and remove cookies from your computer
+for more information regarding your specific browser, please consult the browser's help section or browser provider's website
+ii) ip address an ip address is a number that is assigned to your computer automatically when you use the internet
+prospector logs your ip address and uses your ip address to track your usage of the site or other service
+iii) other methods where authorized and as permitted by ftc guidelines and all other applicable laws, rules and regulations, prospector may also use or allow the use of trusted vendors and other third party companies who may gather data for appropriate business purposes such as managing advertising and/or generating reports on site traffic and statistics
+we may also use other monitoring technologies to gather anonymous statistics about our site visitors
+2) how prospector uses information a) personally identifiable information we will use your personally identifiable information for the purposes for which it was provided
+for example, prospector may use your personally identifiable information to notify you of changes to the site or other service, to let you know about opportunities and other products or services you may be interested in, to notify you of upcoming events, special offers, quests, contests and to request your participation in surveys or other promotions
+you can choose not to receive certain communications from prospector by unsubscribing from our e-mail mailing list
+prospector also uses your personally identifiable information to provide you with information that you request, and deliver content to you that is relevant to your interests
+if you use prospector to give a gift, prospector may use the email addresses you provide to send your gifts, and other communications relating to such transaction, and any further communications as may be authorized by the recipient
+we also may send information or offers to selected groups of site or service users on behalf of other businesses
+when we do this, we do not give those businesses your name or address
+under certain circumstances (for example, if you win a contest) we may post your personally identifiable information on this site
+we will notify you of this possibility when you provide the personally identifiable information and if possible, when the personally identifiable information is posted
+cookies and similar tools may be used to relate your use of the site or other service and non-personally identifiable information to personally identifiable information obtained from you
+if any non-personally identifiable information is linked with personally identifiable information, the linked non-personally identifiable information will then be treated as personally identifiable information
+b) anti-spam policy i) prospector is 100% opposed to unsolicited commercial email ("spam")
+we do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide user email addresses to any unauthorized third party in violation of this policy
+all of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you
+c) disclosure of information to third parties i) disclosure to affiliates prospector reserves the right to share any personally identifiable information or other information about you which you provide to (or which is gathered from) the prospector site or other service with any or all of its subsidiaries and affiliates (collectively, our "affiliates") (subject to the opt-out right described below, with respect to disclosures of personally identifiable information to affiliates for their direct marketing uses)
+subject to the applicable privacy policies under which such information was collected, prospector may also have access to any information you provide to (or which is gathered from) the web sites of any of our affiliates
+ii) disclosure to service providers or business partners like many businesses, we sometimes hire other companies to perform certain business- related functions on our behalf such as hosting specific portions of the site or other service, maintaining databases, providing wireless services, providing fulfillment services, sending e-mails, and processing payments
+when we employ a third party to perform these functions, that third party will only be provided with the particular personally identifiable information it needs to perform its function, and is required to protect the personally identifiable information
+for third-party sponsored sweepstakes, contests or promotions, we may request personally identifiable information from you that may be shared with the sponsor upon request
+if prospector sells all or part of the site and/or other service or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your personally identifiable information to a third party as part of or in connection with that transaction
+upon such transfer, the privacy policies of the acquiring entity may govern the further collection and use of your personally identifiable information
+iii) disclosure to others in addition, we may disclose personally identifiable information under the following circumstances to
+(1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors
+(2) protect the safety and security of visitors to our web sites or other properties
+(3) protect against fraud or other illegal activity or for risk management purposes
+(4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities
+(5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain
+(6) enforce our terms of use
+or (7) comply with subpoenas, search warrants, the law or other legal process
+3) social media plug-ins and sharing with other sites you may authorize social media plug-ins of social networks, which may include but are not limited to facebook, twitter, tumblr and pinterest, may be integrated into our site and other services
+where our site or other service contains a plug-in to a social networking site, these are clearly marked (i
+if you choose to click on one of these buttons or links, you browser will connect directly to the servers of the relevant social networking site
+the social media network directly transmits the content of the plug-in to your browser
+if you are a member of a social network service or you use other internet sites where you have authorized them to gather information about your online behavior on the prospector site or other service, including your use of a plug-in or other participation in any behavioral reporting program that they may operate on or off of their own site, prospector may share information regarding your activities on our site or other service with those third parties pursuant to your authorization, and they may associate that information with personally identifiable information they already have about you (such as your facebook profile) and use it to improve their site or services or for other purposes
+prospector does not control the privacy policies of such third parties, and their privacy policies will govern their use of your information once it has been transmitted by prospector
+prospector assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise
+accordingly, make sure you are aware of and comfortable with the privacy policies of any third parties that you authorize to gather information from prospector
+4) third party advertising and links to other sites a) prospector does not control the privacy policies of its advertisers or other third parties that have web sites linked to the site or other service or with whom we may share your information in accordance with this policy
+if you click on an advertisement or link, the privacy policies of the web site that you link to will govern the use of your information by that web site's operator
+prospector assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise
+accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party web sites you link to
+5) guidelines regarding children (coppa) a) prospector is not designed or intended for use by children under 13
+if you are under 18, you should use prospector only with involvement of a parent or guardian
+at various places on the site or other service, we may ask users for their age
+children under 13 are expressly prohibited from submitting any personally identifiable information (as defined below) to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it
+6) public forums a) please remember that information posted to message boards, chat rooms, blogs and other user forums become public information
+please use caution when posting
+individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in an area of the site or other service where posting might become public
+if you voluntarily disclose personally identifiable information in a public area of the site or other service, such as a rating/review page, chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes
+prospector does not control the actions of users in public areas of the site or other service
+if you disclose personally identifiable information in a public area, you do so at your own risk
+please see our terms of use for the standards of behavior that must be followed when using these portions of the site or other service
+7) how we protect and secure your information a) we maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the personally identifiable information under our control
+please be advised, however, that the internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our control
+while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any personally identifiable information you transmit to us
+any transmission is done at your own risk
+accordingly, prospector assumes no responsibility or liability for disclosure of your information (personally identifiable or otherwise) due to errors in transmission, unauthorized third-party access or other causes beyond prospector's reasonable control
+8) applicable law a) the interpretation and application of this privacy policy shall be governed by the laws of the united states and the state of connecticut without regard to its conflict of law provisions
+this site or other service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the united states
+please note that we do not represent or warrant that the site or other service is appropriate for use in any particular jurisdiction
+those who choose to access the site or other service do so at their own initiative and are responsible for complying with all local laws, rules and regulations
+if you are located in a country outside the united states and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the united states as provided in this policy
+9) acceptance of this privacy policy a) when you use the site or other service, you are accepting the terms and conditions of this policy, and prospector will have the right to use your personally identifiable information or other information about you as described in this policy
+if you do not agree to have your information used in any of the ways described in this policy, you must not use the site or other service and you must follow the opt-out provisions above
+if you have questions or concerns about this policy, please e-mail info@prospectortheater
+10) changes to this privacy policy a) from time to time, we may revise this policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use
+you can determine when this policy was last revised by referring to the "last updated" legend at the top of this page
+any changes to this policy will become effective upon posting of the revised policy on the internet, accessible through the site
+by continuing to use the site or other service following such changes, you will be deemed to have agreed to such changes
+if you do not agree with the terms of this policy, as it may be amended from time to time, please do not continue using the site or other service
+to the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this policy would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this policy being deemed illusory or unenforceable
+11) terms of use a) your access to and use of the site or other service is also subject to the terms of use
+12) contact information info@prospectortheater
+contact prospector (203) 438-0136 25 prospect street ridgefield, ct 06877
+stay involved subscribe to our email newsletter to receive updates and event notifications
+you don't have to worry, we'll respect your inbox
+© 2020 prospector theater

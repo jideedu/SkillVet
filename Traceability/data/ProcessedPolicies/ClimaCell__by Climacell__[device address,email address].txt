@@ -1,0 +1,88 @@
+our site uses cookies to enhance the user experience
+find out more on how we use cookies
+accept this app works best with javascript enabled
+ready for a better forecast
+be one of the first to try hypercast 2
+products b2b api & widgets documentation cbam hypercast™ hypercast™ aviation b2c consumer app industries aviation construction energy trading financial services insurance media / advertising on-demand economy retail sports / outdoor transportation uas / drones utilities weather solutions historical weather data road risk scores urban flooding forecast technology science validation reports data partners academia relations company about blog careers customer stories newsroom playbooks login hypercast™ microweather™ api let's talk
+hypercast and api privacy policy b2b terms of service hypercast and api privacy policy b2c consumer app end user license agreement consumer app privacy policy climacell skill for amazon alexa terms of use website website privacy policy website cookie policy compliance open source notice product privacy policy last updated
+december 12th, 2018 welcome to “climacell”, an online weather forecasting platform that provides advanced weather tools for generating high-definition weather maps for its users (“you” and “your”) through microweather™ api and/or hypercast™ (each, a “service” or “platform”) and our mobile application (the “app”)
+the service is owned and operated by climacell inc
+(the “company”, “we”, “us” and “our”), and is available through our website climacell
+this privacy policy (the “policy”) describes our privacy practices with respect to the service, including the ways your personal information and data is collected, stored, used and shared
+providing us your information is optional and voluntary on your part – you are not legally obligated to provide us information
+we do, however, require it in order to allow you to use our service
+this policy is incorporated by reference to the terms of service (the “terms”) as agreed upon and signed between climacell and your organization, and constitutes an integral part of them
+information we collect registration
+when you first subscribe for the service you will be asked to provide information, such as your company name, full name, mobile phone number and business address (“user profile”)
+additionally, to use the service, you will need to provide your email address and set a password used as login to access your account on the service
+we may also collect information about your geolocation and any information you provide us in order for us to create, update, and analyze weather maps we create for you
+analytics and device information
+when you access or use the platform, whether as a registered user or not, we, through the use of third party analytics tools, such as google analytics, automatically collect information about your use of the platform
+this information includes your session durations, the content you accessed on the platform, your interactions and user-interface clicks with respect to such content, referring urls, the frequency and scope of your use of the platform, the internet protocol (ip) address of the device from which you accessed the service, the browser you use, its version and language (i
+locale) preferences, and the general geographic area from which you accessed the platform
+when you submit a customer-service request to us or a request for a demonstration, we may ask you to provide additional personal information depending on the nature of the request
+children’s privacy we do not knowingly or intentionally collect personal information about children who are under 16 years of age
+using collected information we use the information we collect, as outlined above for the following purposes
+operating, the platform and providing you with its features (mainly to create and analyze weather maps)
+sending you service-related alerts via text messages and/or email massages
+improving and customizing the service and developing new services
+contacting you about new features, services, products and other service-related updates and announcements
+providing you with support, handling complaints and contact you when we believe it to be necessary
+collecting statistical and aggregated information about users of the service and their use of the service
+enforcing the terms and this policy and preventing misuse of the service
+complying with any applicable law and assisting law enforcement agencies and competent authorities, if we believe it is necessary or justified
+and taking any action in any case of a dispute or abuse report involving you, with respect or in relation to the service sharing collected information other than as described below, we will not knowingly or intentionally share your personal information, including email address or other identifier, with third parties
+we may share the information about you, in whole or in part, with others in any of the following instances
+we may share the information we collect about you with service providers, suppliers, third party vendors, in order to operate, maintain and enhance the service
+we may use aggregated or statistical information for the purpose of examining usage patterns and system performance
+if you have breached the terms, abused your rights to use the service, or violated any applicable law
+your information may be shared with competent authorities and with any third party, if we believe it is necessary or justified
+in any case of dispute, or legal proceeding of any kind involving you with respect to the service
+if the operation of the service is organized within a different framework, or through another legal structure or entity (such as due to a merger or acquisition), provided that those entities agree to be bound by the provisions of this policy, with reasonably necessary changes taken into consideration
+we may share personally identifiable information with our corporate group entities, but their use of such information must comply with the policy
+in any case other than the above, your personal information will only be shared with others if you provide your explicit prior consent
+accessing, updating or deleting your personal information and obtaining a copy of it you may ask to access the personal information about you that is stored in our systems, or have us update, correct or delete such information
+depending on applicable law, you may also be entitled to obtain from us the personal data you provided us (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another company
+if you wish to exercise any of these rights, contact us at
+retaining and deleting collected information we may store and retain all information you provide us, including your user profile information, but are not obligated to do so
+we encourage you to access, review, correct and update your profile regularly
+we retain personally identifiable information for as long as we deem necessary for the purposes set forth above
+we may delete information from our systems, without notice to you, once we deem it is no longer necessary for the purposes set forth above
+if you wish to delete your profile on the platform along with all information related thereto please contact us at
+in order to process your request, we may require additional information or corroborative documents from you, to verify your account and confirm your identity
+once we complete processing your request, we will delete your information from our systems (unless we require the data to establish, exercise or defend against legal claims)
+however, be advised that following such deletion, some information, though not accessible in the ordinary course of business, may still be retrievable from back-up copies or may still residually reside in our systems
+aggregated information we may use the information we collect from you to create de-identified, statistical or aggregated information
+we may use and share, publish, post, disseminate, transmit or otherwise communicate or make available such de-identified, statistical or aggregated information with other third party, in our sole discretion, provided however, that we will not knowingly, or intentionally share information that can be reasonably used to reveal your identity without your consent
+cookies we and our third party website analytics providers may use cookies on the service
+“cookies” are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers
+the cookies may contain a variety of information, such as the web pages you have accessed, session durations and ip addresses
+cookies are used for various purposes, such as to collect statistical information about your use of the service and save you the need to re-login with your username and password when you use the service
+cookies are saved on your computer’s hard drive
+if you wish to block cookies, you may do so through your browser’s settings
+please refer to the browser’s help menu for further information
+however, bear in mind that disabling cookies may adversely affect your user experience on the service
+for more information on the cookies we use and the purposes for which we use them, please refer to our
+for information about opting-out of google analytics cookies, click here
+transfer of data outside your territory we may store and process information in the united states
+we may also process information using cloud services, using servers located in other countries
+the laws in those other countries may provide a lesser degree of data protection than the laws of your own country
+you agree to the transfer of your information to such other countries for the purpose of processing as described in this policy, including through cloud services
+california residents the following disclosure is made pursuant to california online privacy act (ca civil code § 22575)
+when you use our service and alexa skill, other parties, such as google, may collect personally identifiable information about your online activities over time and across different websites or online services
+information security we implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information
+however, these measures do not provide absolute information security
+therefore, although efforts are made to secure your personal information, it is not guaranteed and you cannot expect that the service will be immune from information security risks
+changes to privacy policy we may change this policy from time to time
+substantial changes will take effect 30 days after we give you notice of such changes through the service or by other means
+other changes will take effect 7 days after we give you notice of such changes
+however, if the policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required
+the most up-to-date policy will always be accessible through our website and app
+in any event, we will seek your explicit consent if we wish to have substantial changes to the policy apply to personal information we collected prior to those changes
+your explicit consent to the amended policy, or continued use of the service after the changes take effect, each indicates your acceptance of the amended policy
+contact us if you have any questions about this policy, you may contact us by sending an email to support@climacell
+products b2b api & widgets documentation cbam hypercast™ hypercast™ aviation b2c consumer app company about blog careers customer stories newsroom playbooks contact +1 (800) 735-7075 , info@climacell
+280 summer st, 8th floor, boston, ma 02210 climacell tlv
+platinum tower, ha'arba'a st
+, 20th floor, tel aviv, 6473921 climacell boulder
+5541 central avenue west, suite 270, boulder, co 80301 legal copyright © 2019 climacell, inc

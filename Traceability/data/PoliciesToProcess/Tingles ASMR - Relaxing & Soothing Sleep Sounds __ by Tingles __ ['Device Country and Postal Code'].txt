@@ -1,0 +1,112 @@
+at tingles, we want to provide you with the best possible experience regarding your privacy
+with changes regulated by eu general data protection regulation (gdpr) we
+make it easier for you to understand which data we collect and how we use it
+give you increased control over your data
+provide a detailed explanation of your rights as a user
+more information in the gdpr compliance section below
+data controller and owner
+2035 sunset lake road, suite b-2 newark, de 19702 owner contact email
+types of data collected
+among the types of personal data that this application collects, by itself or through third parties, there are
+cookies, usage data and email address
+other personal data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the data collection
+the personal data may be freely provided by the user, or collected automatically when using this application
+any use of cookies - or of other tracking tools - by this application or by the owners of third party services used by this application, unless stated otherwise, serves to identify users and remember their preferences, for the sole purpose of providing the service required by the user
+failure to provide certain personal data may make it impossible for this application to provide its services
+users are responsible for any personal data of third parties obtained, published or shared through this application and confirm that they have the third party's consent to provide the data to the owner
+mode and place of processing the data
+methods of processing the data controller processes the data of users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the data
+the data processing is carried out using computers and/or it enabled tools, following organizational procedures and modes strictly related to the purposes indicated
+in addition to the data controller, in some cases, the data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, it companies, communications agencies) appointed, if necessary, as data processors by the owner
+the updated list of these parties may be requested from the data controller at any time
+place the data is processed at the data controller's operating offices and in any other places where the parties involved with the processing are located
+for further information, please contact the data controller
+retention time the data is kept for the time necessary to provide the service requested by the user, or stated by the purposes outlined in this document, and the user can always request that the data controller suspend or remove the data
+the use of the collected data
+the data concerning the user is collected to allow the owner to provide its services, as well as for the following purposes
+the personal data used for each purpose is outlined in the specific sections of this document
+detailed information on the processing of personal data
+personal data is collected for the following purposes and using the following services
+analytics the services contained in this section enable the owner to monitor and analyze web traffic and can be used to keep track of user behavior
+google analytics (google inc
+) google analytics is a web analysis service provided by google inc
+google utilizes the data collected to track and examine the use of this application, to prepare reports on its activities and share them with other google services
+google may use the data collected to contextualize and personalize the ads of its own advertising network
+cookies and usage data
+us mixpanel (mixpanel) mixpanel is an analytics service provided by mixpanel inc
+cookies and usage data
+us testflight (apple inc
+) testflight is an analytics service provided by apple inc
+cookies, email address and usage data
+additional information about data collection and processing
+legal action the user's personal data may be used for legal purposes by the data controller, in court or in the stages leading to possible legal action arising from improper use of this application or the related services
+the user declares to be aware that the data controller may be required to reveal personal data upon request of public authorities
+additional information about user's personal data in addition to the information contained in this privacy policy, this application may provide the user with additional and contextual information concerning particular services or the collection and processing of personal data upon request
+system logs and maintenance for operation and maintenance purposes, this application and any third party services may collect files that record interaction with this application (system logs) or use for this purpose other personal data (such as ip address)
+information not contained in this policy more details concerning the collection or processing of personal data may be requested from the data controller at any time
+please see the contact information at the beginning of this document
+the rights of users users have the right, at any time, to know whether their personal data has been stored and can consult the data controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons
+requests should be sent to the data controller at the contact information set out above
+this application does not support “do not track” requests
+to determine whether any of the third party services it uses honor the “do not track” requests, please read their privacy policies
+changes to this privacy policy the data controller reserves the right to make changes to this privacy policy at any time by giving notice to its users on this page
+it is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom
+if a user objects to any of the changes to the policy, the user must cease using this application and can request that the data controller remove the personal data
+unless stated otherwise, the then-current privacy policy applies to all personal data the data controller has about users
+definitions and legal references
+personal data (or data) any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number
+usage data information collected automatically from this application (or third party services employed in this application), which can include
+the ip addresses or domain names of the computers utilized by the users who use this application, the uri addresses (uniform resource identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc
+), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e
+, the time spent on each page within the application) and the details about the path followed within the application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's it environment
+user the individual using this application, which must coincide with or be authorized by the data subject, to whom the personal data refers
+data subject the legal or natural person to whom the personal data refers
+data processor (or data supervisor) the natural person, legal person, public administration or any other body, association or organization authorized by the data controller to process the personal data in compliance with this privacy policy
+data controller (or owner) the natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another data controller, to make decisions regarding the purposes, and the methods of processing of personal data and the means used, including the security measures concerning the operation and use of this application
+the data controller, unless otherwise specified, is the owner of this application
+this application the hardware or software tool by which the personal data of the user is collected
+cookies small piece of data stored in the user's device
+legal information notice to european users
+this privacy statement has been prepared in fulfillment of the obligations under art
+10 of ec directive n
+95/46/ec, and under the provisions of directive 2002/58/ec, as revised by directive 2009/136/ec, on the subject of cookies
+this privacy policy relates solely to this application
+is a data controller per gdpr definition
+you can contact us at dataprotection@gettingles
+you can contact our data protection officer at dataprotection@gettingles
+com email address with any questions regarding our data protection policy
+which data we collect and process
+is not selling any personal data and we are trying to collect a minimal dataset
+for example, in our user account system we use email addresses, but only to give you the option to reset your password
+it is also possible to create an account with facebook without an email address
+username - used on the chat and when you decide to tip an artist
+password - used to confirm access to your account - tingles, inc
+is never storing your password in the plain text form
+email address - used to reset your password / can be replaced with facebook login
+as you are using tingles app it is learning and trying to give you the best user experience by customizing the content that you see
+in this process we collect some additional information about you
+country and device language - to help you discover artists from your country or creating content in the language that you know
+date and time when you are using an app - to learn and understand how you are using tingles app
+for example to give you sleep sound recommendation when you need it the most
+favorite and exciting artists and videos - to allow you to migrate data between devices and keep your history safe
+we also use this to recommend new content from artists that you love already and let you discover artists you might like
+facebook - tingles app allows you to log in with your facebook account
+during this process, we only access your facebook account id and optionally email to enable you to convert your account login from facebook to tingles only
+mixpanel - tingles app is using mixpanel to collect necessary application usage information like - videos that you played, artists that you like or things that you are interested in by using tingles app search tab
+see mixpanel gdpr compliance for more information
+front app - used for email password reset procedure
+see front app gdpr compliance for more information
+to allow our artists to run a referral program, we are using branch app which uses cookies for tracking
+see branch gdpr compliance
+sharing of personal data
+is not sharing personal data with third parties except in cases described in runtime information section that are justified as “business need”
+how long we store data
+your data will be stored on our system as long as you are registered
+beyond that, we are only storing data if it is legally necessary or otherwise required by law
+some anonymised, non personally identifiable information may be retained after account cancellation for statistical analysis and reporting
+if you decide to delete your account, we will remove all the personal data about you except one that you make publicly available such as chat messages or tips
+deletion request does not affect legally necessary data
+for example data used for accounting purposes
+to access data that tingles app is storing about you to review it or transfer to another application
+to correct your data
+to delete your account and personal data information to the extent described in account deletion section

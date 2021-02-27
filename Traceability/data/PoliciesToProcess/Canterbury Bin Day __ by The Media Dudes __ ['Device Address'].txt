@@ -1,0 +1,52 @@
+privacy policy for alexa skills
+this privacy policy describes how "the media dudes" (anthony kuske) ("us" or
+user") privacy and your data
+before using any of our alexa skills ("our skills"), please
+skills terms of use, as well as the alexa terms of use and the privacy policies by the amazon digital
+regarding amazon, "alexa" means their alexa voice service which includes third party services (like
+if you use one of our skills you fully agree to this privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it
+understand what our skill should do for you
+this is absolutely necessary for our service to give you an
+the 'bin day' skill must collect the address you entered as your devices location
+the post code is sent to
+the canterbury city council website ( canterbury
+uk ) in order to determine which day your
+the first line of your address is used to determine which day your bin collection is
+first line of your address is used only by the skill and is not shared with canterbury city council
+your post code and first line of your address may be stored in log files to aid with debugging and development of the skill
+other address information is collected, stored, shared
+to improve our services we analyze automatically how often utterances are spoken and other analytics
+is done automatically by amazon in the amazon developer portal
+our skills or parts of it may change or be updated at any time
+further, this privacy policy might
+you can find a link to this policy on the description page of the skill in the alexa app or in the alexa
+your continued use of
+our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of
+privacy policy for alexa skills
+this privacy policy describes how "the media dudes" (anthony kuske) ("us" or
+user") privacy and your data
+before using any of our alexa skills ("our skills"), please
+skills terms of use, as well as the alexa terms of use and the privacy policies by the amazon digital
+regarding amazon, "alexa" means their alexa voice service which includes third party services (like
+if you use one of our skills you fully agree to this privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it
+understand what our skill should do for you
+this is absolutely necessary for our service to give you an
+the 'bin day' skill must collect the address you entered as your devices location
+the post code is sent to
+the canterbury city council website ( canterbury
+uk ) in order to determine which day your
+the first line of your address is used to determine which day your bin collection is
+first line of your address is used only by the skill and is not shared with canterbury city council
+your post code and first line of your address may be stored in log files to aid with debugging and development of the skill
+other address information is collected, stored, shared
+to improve our services we analyze automatically how often utterances are spoken and other analytics
+is done automatically by amazon in the amazon developer portal
+our skills or parts of it may change or be updated at any time
+further, this privacy policy might
+you can find a link to this policy on the description page of the skill in the alexa app or in the alexa
+your continued use of
+our skill after changes of the privacy policy or the skill itself will be seen as your acceptance of

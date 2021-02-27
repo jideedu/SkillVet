@@ -1,0 +1,13 @@
+election reminders alexa skill
+the voting reminder skill does not collect any personally identifiable information
+postal (zip) codes of
+users are logged for testing and qa purposes
+the time of day that was requested is also logged
+is shared with any third parties
+by using the voting reminders skill, you agree to these terms of use
+the voting reminders skill is for use in the united states
+the author of this skill is not responsible
+for any possible damages or inaccurate data
+the voting reminder skill is meant for convenience only
+please independently check all data vended by the skill
+do not use this skill if you do not agree to

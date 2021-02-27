@@ -1,0 +1,332 @@
+privacy policy mag interactive ab this is the privacy policy (the " policy ") of mag interactive ab (a company incorporated under the laws of sweden with company number 556804-3524) with its registered office at drottninggatan 95a, 113 60, stockholm, sweden, (" mag ", " we " or " us ")
+the policy describes how we collect and use information, including personal data, about you (" user " or " you ") on our websites such as maginteractive
+com or when you play any mag game such as ruzzle, wordbrain, ruzzle adventure, quiz duel or other future games (each a " game " and together the " games ") whether accessed via web browser, social networking sites (for example, facebook) or as apps via platforms (for example, apple’s ‘app store’, google play, windows phone, blackberry world or amazon appstore for android)
+if you have any queries about this policy, please contact mag at privacy@maginteractive
+com summary when you play our games we will get, and store some personal data about you that we will use for different purposes as explained in this policy
+most of that data is necessary for us to provide games to you and for you to play our games
+however, in some cases we may ask you to provide us with other personal data or use personal data for purposes that are not necessary to play our games
+in those cases, you do not have to provide that personal data to us or have the right to opt out from such use (if the same type of data is used also for other purposes)
+an example of this is that we may ask you for your email address for password retrieval
+as your email address is not required to be able to play our games, you don’t need to provide it if you don’t want to
+we will also never use that email address for any other purposes unless we explicitly inform you in advance and provide you the right to opt out or ask for your consent as applicable
+some of our games will also show advertisements, and on many devices, the ads you see are personalized with the help of a specific advertising identifier on your device
+it is possible to opt out of personalized advertising for all your apps, by turning off the advertising identifier on your device
+however, you will still receive advertisements, but they will not be personalized
+you can learn more about advertising and advertising identifiers in sections 6 and 7
+you have the right to object to how we use your personal data and you also have other rights to gain insight into and influence how we use your personal data
+these rights include that
+- you can ask for the personal data we have about you
+- you can ask that we correct any incorrect data we have about you
+- you can ask us to delete personal data we have about you
+- if you have any concerns with how we treat your personal data, you can file a complaint with the supervisory authorities
+your rights and how to make use of them are further explained in section 4
+please note that mag will have no possibility to know if you delete a game from your device and your personal data will thus be stored by us even if you delete a game
+if you want to request the data we have about you or want us to delete personal data we have about you, please follow the instructions in section 5
+these are examples of personal data that mag will collect when you use the games
+data related to your device (such as your ip-address, device identifier and advertising id)
+we use this data for example to be able to provide the games to you
+in games that contain advertisements we may also you the use this to provide more relevant ads (unless you have opted out from personalized advertisements through your device settings)
+contact and sign in details (your username, password and email)
+in some of our games, you can provide a username and password
+if you play one of those games we will store this information
+the purpose is to allow you to sign in to your account on multiple devices and to make it possible for you to retrieve your password if you forget it
+information regarding your purchases within the games
+when you make a purchase in our games, we will store a log of that purchase
+the purpose is to fulfill regulatory requirements as well as to assist customer support if there are any problems with a purchase you have made
+gaming history when you play one of our games we will save information about what games you played, general activities in the game and for how long you played that game
+this information is used for data analysis of how the game works and to be enable us to improve the game
+in some games you can personalize your game avatar with your own profile picture
+this will in some cases mean that we will store that profile picture on our servers, please also see our terms and conditions for further information
+if you sign into one of the games through a social network and your privacy features on your social network allow it, mag is able to access certain information about you through that social network
+if you do not want us to collect this information please do not sign into any game through your social network
+other information provided to customer service (information you choose to provide when contacting us for technical or other support)
+based on the ip-address we will determine your geographical location on a country and city level
+this is used in games to provide you with localized game experiences
+information provided in a chat function
+in some games we provide a chat functionality
+we will process and store any personal data that you provide in the chat
+if you do not want us to collect this information, please do not use the chat functionality in these games
+please note that you should never submit any personal data related to anyone else in any such chat and must in particular not submit any data that is related to health, sexual orientation, race or ethnicity, political or religious beliefs or membership in any trade union
+please report to us if you encounter any chat messages in breach of this rule
+we will delete any chats that we consider to be in breach of this rule or that may be defamatory or otherwise illegal or inappropriate, as decided in our sole discretion
+your personal data will be transferred to companies outside the
+eu that we have engaged to provide services to us
+the relevant countries' legislation may not ensure the same level of protection for personal data as where you live
+below follows a more detailed description on how we use personal data
+who this policy applies to this policy applies to everyone who uses the games or who otherwise may come in contact with us for example by email or telephone or our websites, such as maginteractive
+when this policy applies
+this policy applies to mag's processing of personal data
+the term "personal data" is any piece of information that, either on its own or together with any other pieces of information, can be used to identify a living individual, and any other data that qualifies as personal data in accordance with the law applicable to mag, including the general data protection regulation (the " gdpr ")
+what legal grounds do we rely on when processing your personal data
+mag can only use personal data if there is a legally valid ground to support the relevant use
+mag relies on the following legal grounds
+performance of a contract
+we rely on this legal ground when the use of personal data is necessary for mag to be able to deliver a game or other product or service that a user has requested such as to enable the user to sign into its account, play the games, improve your player experience of the games, including to adjust the difficulty of a game based on your progress, to make it possible for you to play against other users or as part of a team, complete your transactions in respect of your purchases within the games and to receive help from mag's customer service
+certain types of use of personal data are based on what mag considers to be a legitimate interest for mag to use the personal data
+we rely on this legal ground for example to improve our games, to show personalized advertisements and to prevent fraud and other illegal activities
+a requirement for mag to rely on this legal ground is that such a legitimate interest is not overridden by the interests, fundamental rights or freedoms of the users and the users have the right to object to the relevant use
+you may contact us at any time to request more information on how we have reached the conclusion that our use of personal data that is based on a legitimate interest is not overridden by your interests
+we rely on this ground when we must process personal data to comply with a legal obligation applicable to mag, e
+financial information that needs to be stored for bookkeeping- and financial reporting purposes
+when we have asked for your consent to certain types of processing, and you have agreed to provide your consent, we will use your personal data for the use of data that you have consented to, for example if we have asked to use your email for any purpose that requires consent
+you can at any time revoke your consent and we will then cease any future use of your personal data that is based on such consent
+what are your rights
+right to object you are entitled to object to processing of personal data that we base on our legitimate interest on grounds relating to your particular situation
+if you lodge an objection, and the processing is based on a legitimate interest, we will no longer process your personal data unless we can demonstrate compelling and legitimate reasons for such processing that overrides your privacy interest
+you can always also object to us sending you direct marketing or that we use personal data for profiling related to direct marketing, and we will then stop such use
+you can also opt out from personalized advertisements that are based on your profile
+read more about this in sections 6 and 7
+however, please note that even if you object to certain processing, mag may still continue such processing if it is based on another legal ground, for example to provide the games to you (should you still want to use them) or to fulfil legal obligations
+right to restrict you can request that our use of certain personal data is restricted, for example, if the personal data is not correct or if you believe that mag does no longer need the personal data for the purposes as set out in this policy or if you have objected to our use of personal data that is based on a legitimate interest
+right to access and rectification upon your request, we will inform you in more detail of how we use your personal data
+the information that you are entitled to receive include what personal data mag processes regarding you, from where we have collected the data, for what purposes the data has been used, and the identity of parties to whom the data has been provided
+mag may charge a reasonable administrative fee for repetitive requests
+if a request is manifestly unfounded or excessive, in particular because of its repetitive character, mag may also refuse to act on the request
+we may also ask you to specify what information that you want to access
+you have also the right to, at any time, request a correction of any inaccurate or incomplete personal data
+right to erasure ('right to be forgotten') you can request us to erase your personal data, for example if you have terminated an account with us and the personal data is no longer necessary in relation to the purposes for which it was collected, you withdraw your consent and there is no other legal ground for processing or you object to our use of your data that is based on a legitimate interest
+your personal data can be erased also in other circumstances
+please contact mag to receive further information on erasure of your personal data
+right to withdraw consent if you have provided a consent to mag for processing of personal data, you can always withdraw such consent for any future processing that is based on such consent
+right to data portability you have the right to receive the personal data concerning you, which you have provided to us and that we use based on your consent or to perform a contract with you, in a commonly used and machine-readable format and to have this information provided to another controller, where this is technically possible
+accessing your data or request to be forgotten if you want to access or want us to delete data we have about you, you can do so in the privacy section of the preferences of a game
+not all games have implemented this feature
+if a certain game does not have this privacy section, please download one of the games that do, e
+wordbrain, to make use of these rights
+if you need help with how to do that, please contact customer support
+when you request access to your information, you will get the personal information that we have about you concerning all of our games
+when you request to be forgotten, we will remove all personal information we have about you in all our games
+this means that you will lose progress and purchases in all games made by us and we will not be able to restore this
+for all our inquiries please contact customer support
+advertisements some of our games show advertisements
+this might be banners, full screen ads or short videos
+in most of those games, you can through an in-app purchase avoid advertisements to be shown
+in addition to that, you will sometimes have the ability to gain something, such as an extra life, by watching a short advertisement video
+the advertisements you see are provided by third parties
+a complete list of our advertising partners is provided here
+mag advertising partners advertising identifiers advertising identifiers are identifiers that devices, such as mobile phones, provide to identify that device to advertising partners
+this identifier is used by advertisers to serve more relevant personalized advertisements in apps and games
+you can opt out of receiving personalized ads on your phone, by turning off the advertising identifier on your device
+the exact procedures vary from device to device but typically you can change it in the privacy section of your device preferences
+please note that you will still see advertisements if you turn off the advertising identifier, but they will not be based on your profile and may therefore be less relevant to you
+for how long will personal data be stored
+mag will store and use your personal data for as long you have an account with us and for as long we consider it to be required to fulfill the purposes set out herein
+this means that we will use different categories of data for different periods
+we will for example use contact and sign in details, gaming history and data related to your device for as long you play our games and as long as we need to provide you with your account in any future games
+we will also use payment details for a longer period in order to fulfil legal obligations such as for bookkeeping and financial reporting
+you can at any time contact us to receive more information on how long we store different categories of personal data
+with whom will personal data be shared
+companies within the mag group your personal data may be provided to other companies within the mag group for the purposes of providing the games to you and for the mag group's internal administrative purposes
+companies engaged by mag your personal data will be transferred to and processed by third party providers and suppliers which perform services for mag (data processors)
+such companies will be located both within and outside the eu
+all third party providers and suppliers must follow mag's instructions and applicable written data processor agreements and any other agreements that are in place between mag and its third party providers/suppliers, and must implement appropriate technical and organizational measures for the protection of the personal data
+the third parties can be grouped into
+core infrastructure we host our server infrastructure using google cloud services, and some parts using amazon aws
+your personal data will be stored with these parties, either within eu or in the united states
+customer support we use global step, alchemic dream and supportyourapp to handle customer support cases, so if you contact customer support, personnel from either of these companies will see your support case
+marketing we use other companies in our own marketing activities
+so if you see an advertisement for one of our games, some information such as your ip address or advertising identifier will be seen by our marketing partners
+a complete list of our marketing partners, and their privacy policies can be seen here
+advertisements in some games we show advertisements
+those advertisements are provided by our advertising partners
+when you see or interact with an advertisement, some data, such as an ip-address or and advertising identifier will be seen by them
+a complete list of our advertising partners and their privacy policies can be seen here
+mag advertising partners authorities mag may need to provide personal data to relevant authorities (e
+tax authorities or the police) in accordance with applicable law and in order to fulfill legal mandatory obligations in each jurisdiction where mag operates to the extent allowed under applicable data protection law
+in the event of data breaches, certain personal data may need to be provided to the relevant data protection authorities
+links to third party websites and third party advertisements the advertisements that we show in the games will market not only mag's but also third parties' products and service
+mag is not responsible for the privacy policies and practices of other sites or apps even if you access them using links from the games, advertisements in the games or from advertisements on a webpage when you are playing the games
+mag recommends that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions
+in addition, if you link to the games from a third party site or via a social network (e
+twitter, facebook), mag is not responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions
+to what countries will personal data be transferred
+your personal data will be transferred to companies in other countries both within and outside the eu that we have engaged to, among other things, be able to provide games to you and to allow you to play our games
+the relevant countries outside the eu may not ensure the same level of protection for personal data as your country
+in such cases, mag will ensure that the personal data is adequately protected by the receiving parties in such countries
+adequate protection may typically be to impose on the receiving party contractual obligations in accordance with model clauses that have been approved by the european commission that ensure that such party maintains the same high level of privacy and data security as practiced by mag
+you will find more information here https
+security mag has implemented technology and policies to safeguard your privacy and personal data from unauthorized access and improper use
+in particular we do not aim to collect information about you which makes it possible for us to identify you directly, including your name or address, but we will collect information that may indirectly identify you such as device id and we will collect and share your facebook id in accordance with facebook’s policies and as described above
+however, you may occasionally also be able to provide your e-mail address, but you don't have to provide that if you don't want to
+children you need to be over a certain age to play our games or use our services
+the minimum age varies depending on your country of origin
+for information about the minimum age in your country, see below
+we do not to our knowledge collect information, or ask for personal information, or serve personalized ads to any person under the minimum age requirements below
+if you think that we might have information about a user younger than the minimum age requirements, please contact us
+france, germany, hungary, lithuania, luxemburg, netherlands, slovakia 15 years
+all other countries what should you do if you have any complaints
+if you have any complaints on how we use your personal data, or would like further information, we would ask you to first contact us using the contact details set forth below or the functionality for contacting us as provided in our games
+however, you can also always make a complaint about how we process your personal data with the relevant public supervisory authority, specifically the authority where you live, work or where the alleged infringement has occurred
+use the following link to locate the relevant authority in europe
+in addition to make complaints you may also bring proceedings before the competent courts, including the courts of the eu member state where you live
+contact details if at any time you would like to contact mag about your views on this policy or any enquiry relating to your personal information or for any matters referred to in this policy, you can do so by sending an e-mail to us at privacy@maginteractive
+com or write to us at mag interactive ab, drottninggatan 95a, 113 60, stockholm, sweden
+updates this personal data policy may be modified by mag at any time
+should mag wish to use personal data other than as stipulated in the policy in force at the time of data collection, notice of any such modifications will be provided to the data subjects in a visible manner (e
+such notice may be posted on mag's website or through a pop-up in our games)
+privacy policy mag interactive ab this is the privacy policy (the " policy ") of mag interactive ab (a company incorporated under the laws of sweden with company number 556804-3524) with its registered office at drottninggatan 95a, 113 60, stockholm, sweden, (" mag ", " we " or " us ")
+the policy describes how we collect and use information, including personal data, about you (" user " or " you ") on our websites such as maginteractive
+com or when you play any mag game such as ruzzle, wordbrain, ruzzle adventure, quiz duel or other future games (each a " game " and together the " games ") whether accessed via web browser, social networking sites (for example, facebook) or as apps via platforms (for example, apple’s ‘app store’, google play, windows phone, blackberry world or amazon appstore for android)
+if you have any queries about this policy, please contact mag at privacy@maginteractive
+com summary when you play our games we will get, and store some personal data about you that we will use for different purposes as explained in this policy
+most of that data is necessary for us to provide games to you and for you to play our games
+however, in some cases we may ask you to provide us with other personal data or use personal data for purposes that are not necessary to play our games
+in those cases, you do not have to provide that personal data to us or have the right to opt out from such use (if the same type of data is used also for other purposes)
+an example of this is that we may ask you for your email address for password retrieval
+as your email address is not required to be able to play our games, you don’t need to provide it if you don’t want to
+we will also never use that email address for any other purposes unless we explicitly inform you in advance and provide you the right to opt out or ask for your consent as applicable
+some of our games will also show advertisements, and on many devices, the ads you see are personalized with the help of a specific advertising identifier on your device
+it is possible to opt out of personalized advertising for all your apps, by turning off the advertising identifier on your device
+however, you will still receive advertisements, but they will not be personalized
+you can learn more about advertising and advertising identifiers in sections 6 and 7
+you have the right to object to how we use your personal data and you also have other rights to gain insight into and influence how we use your personal data
+these rights include that
+- you can ask for the personal data we have about you
+- you can ask that we correct any incorrect data we have about you
+- you can ask us to delete personal data we have about you
+- if you have any concerns with how we treat your personal data, you can file a complaint with the supervisory authorities
+your rights and how to make use of them are further explained in section 4
+please note that mag will have no possibility to know if you delete a game from your device and your personal data will thus be stored by us even if you delete a game
+if you want to request the data we have about you or want us to delete personal data we have about you, please follow the instructions in section 5
+these are examples of personal data that mag will collect when you use the games
+data related to your device (such as your ip-address, device identifier and advertising id)
+we use this data for example to be able to provide the games to you
+in games that contain advertisements we may also you the use this to provide more relevant ads (unless you have opted out from personalized advertisements through your device settings)
+contact and sign in details (your username, password and email)
+in some of our games, you can provide a username and password
+if you play one of those games we will store this information
+the purpose is to allow you to sign in to your account on multiple devices and to make it possible for you to retrieve your password if you forget it
+information regarding your purchases within the games
+when you make a purchase in our games, we will store a log of that purchase
+the purpose is to fulfill regulatory requirements as well as to assist customer support if there are any problems with a purchase you have made
+gaming history when you play one of our games we will save information about what games you played, general activities in the game and for how long you played that game
+this information is used for data analysis of how the game works and to be enable us to improve the game
+in some games you can personalize your game avatar with your own profile picture
+this will in some cases mean that we will store that profile picture on our servers, please also see our terms and conditions for further information
+if you sign into one of the games through a social network and your privacy features on your social network allow it, mag is able to access certain information about you through that social network
+if you do not want us to collect this information please do not sign into any game through your social network
+other information provided to customer service (information you choose to provide when contacting us for technical or other support)
+based on the ip-address we will determine your geographical location on a country and city level
+this is used in games to provide you with localized game experiences
+information provided in a chat function
+in some games we provide a chat functionality
+we will process and store any personal data that you provide in the chat
+if you do not want us to collect this information, please do not use the chat functionality in these games
+please note that you should never submit any personal data related to anyone else in any such chat and must in particular not submit any data that is related to health, sexual orientation, race or ethnicity, political or religious beliefs or membership in any trade union
+please report to us if you encounter any chat messages in breach of this rule
+we will delete any chats that we consider to be in breach of this rule or that may be defamatory or otherwise illegal or inappropriate, as decided in our sole discretion
+your personal data will be transferred to companies outside the
+eu that we have engaged to provide services to us
+the relevant countries' legislation may not ensure the same level of protection for personal data as where you live
+below follows a more detailed description on how we use personal data
+who this policy applies to this policy applies to everyone who uses the games or who otherwise may come in contact with us for example by email or telephone or our websites, such as maginteractive
+when this policy applies
+this policy applies to mag's processing of personal data
+the term "personal data" is any piece of information that, either on its own or together with any other pieces of information, can be used to identify a living individual, and any other data that qualifies as personal data in accordance with the law applicable to mag, including the general data protection regulation (the " gdpr ")
+what legal grounds do we rely on when processing your personal data
+mag can only use personal data if there is a legally valid ground to support the relevant use
+mag relies on the following legal grounds
+performance of a contract
+we rely on this legal ground when the use of personal data is necessary for mag to be able to deliver a game or other product or service that a user has requested such as to enable the user to sign into its account, play the games, improve your player experience of the games, including to adjust the difficulty of a game based on your progress, to make it possible for you to play against other users or as part of a team, complete your transactions in respect of your purchases within the games and to receive help from mag's customer service
+certain types of use of personal data are based on what mag considers to be a legitimate interest for mag to use the personal data
+we rely on this legal ground for example to improve our games, to show personalized advertisements and to prevent fraud and other illegal activities
+a requirement for mag to rely on this legal ground is that such a legitimate interest is not overridden by the interests, fundamental rights or freedoms of the users and the users have the right to object to the relevant use
+you may contact us at any time to request more information on how we have reached the conclusion that our use of personal data that is based on a legitimate interest is not overridden by your interests
+we rely on this ground when we must process personal data to comply with a legal obligation applicable to mag, e
+financial information that needs to be stored for bookkeeping- and financial reporting purposes
+when we have asked for your consent to certain types of processing, and you have agreed to provide your consent, we will use your personal data for the use of data that you have consented to, for example if we have asked to use your email for any purpose that requires consent
+you can at any time revoke your consent and we will then cease any future use of your personal data that is based on such consent
+what are your rights
+right to object you are entitled to object to processing of personal data that we base on our legitimate interest on grounds relating to your particular situation
+if you lodge an objection, and the processing is based on a legitimate interest, we will no longer process your personal data unless we can demonstrate compelling and legitimate reasons for such processing that overrides your privacy interest
+you can always also object to us sending you direct marketing or that we use personal data for profiling related to direct marketing, and we will then stop such use
+you can also opt out from personalized advertisements that are based on your profile
+read more about this in sections 6 and 7
+however, please note that even if you object to certain processing, mag may still continue such processing if it is based on another legal ground, for example to provide the games to you (should you still want to use them) or to fulfil legal obligations
+right to restrict you can request that our use of certain personal data is restricted, for example, if the personal data is not correct or if you believe that mag does no longer need the personal data for the purposes as set out in this policy or if you have objected to our use of personal data that is based on a legitimate interest
+right to access and rectification upon your request, we will inform you in more detail of how we use your personal data
+the information that you are entitled to receive include what personal data mag processes regarding you, from where we have collected the data, for what purposes the data has been used, and the identity of parties to whom the data has been provided
+mag may charge a reasonable administrative fee for repetitive requests
+if a request is manifestly unfounded or excessive, in particular because of its repetitive character, mag may also refuse to act on the request
+we may also ask you to specify what information that you want to access
+you have also the right to, at any time, request a correction of any inaccurate or incomplete personal data
+right to erasure ('right to be forgotten') you can request us to erase your personal data, for example if you have terminated an account with us and the personal data is no longer necessary in relation to the purposes for which it was collected, you withdraw your consent and there is no other legal ground for processing or you object to our use of your data that is based on a legitimate interest
+your personal data can be erased also in other circumstances
+please contact mag to receive further information on erasure of your personal data
+right to withdraw consent if you have provided a consent to mag for processing of personal data, you can always withdraw such consent for any future processing that is based on such consent
+right to data portability you have the right to receive the personal data concerning you, which you have provided to us and that we use based on your consent or to perform a contract with you, in a commonly used and machine-readable format and to have this information provided to another controller, where this is technically possible
+accessing your data or request to be forgotten if you want to access or want us to delete data we have about you, you can do so in the privacy section of the preferences of a game
+not all games have implemented this feature
+if a certain game does not have this privacy section, please download one of the games that do, e
+wordbrain, to make use of these rights
+if you need help with how to do that, please contact customer support
+when you request access to your information, you will get the personal information that we have about you concerning all of our games
+when you request to be forgotten, we will remove all personal information we have about you in all our games
+this means that you will lose progress and purchases in all games made by us and we will not be able to restore this
+for all our inquiries please contact customer support
+advertisements some of our games show advertisements
+this might be banners, full screen ads or short videos
+in most of those games, you can through an in-app purchase avoid advertisements to be shown
+in addition to that, you will sometimes have the ability to gain something, such as an extra life, by watching a short advertisement video
+the advertisements you see are provided by third parties
+a complete list of our advertising partners is provided here
+mag advertising partners advertising identifiers advertising identifiers are identifiers that devices, such as mobile phones, provide to identify that device to advertising partners
+this identifier is used by advertisers to serve more relevant personalized advertisements in apps and games
+you can opt out of receiving personalized ads on your phone, by turning off the advertising identifier on your device
+the exact procedures vary from device to device but typically you can change it in the privacy section of your device preferences
+please note that you will still see advertisements if you turn off the advertising identifier, but they will not be based on your profile and may therefore be less relevant to you
+for how long will personal data be stored
+mag will store and use your personal data for as long you have an account with us and for as long we consider it to be required to fulfill the purposes set out herein
+this means that we will use different categories of data for different periods
+we will for example use contact and sign in details, gaming history and data related to your device for as long you play our games and as long as we need to provide you with your account in any future games
+we will also use payment details for a longer period in order to fulfil legal obligations such as for bookkeeping and financial reporting
+you can at any time contact us to receive more information on how long we store different categories of personal data
+with whom will personal data be shared
+companies within the mag group your personal data may be provided to other companies within the mag group for the purposes of providing the games to you and for the mag group's internal administrative purposes
+companies engaged by mag your personal data will be transferred to and processed by third party providers and suppliers which perform services for mag (data processors)
+such companies will be located both within and outside the eu
+all third party providers and suppliers must follow mag's instructions and applicable written data processor agreements and any other agreements that are in place between mag and its third party providers/suppliers, and must implement appropriate technical and organizational measures for the protection of the personal data
+the third parties can be grouped into
+core infrastructure we host our server infrastructure using google cloud services, and some parts using amazon aws
+your personal data will be stored with these parties, either within eu or in the united states
+customer support we use global step, alchemic dream and supportyourapp to handle customer support cases, so if you contact customer support, personnel from either of these companies will see your support case
+marketing we use other companies in our own marketing activities
+so if you see an advertisement for one of our games, some information such as your ip address or advertising identifier will be seen by our marketing partners
+a complete list of our marketing partners, and their privacy policies can be seen here
+advertisements in some games we show advertisements
+those advertisements are provided by our advertising partners
+when you see or interact with an advertisement, some data, such as an ip-address or and advertising identifier will be seen by them
+a complete list of our advertising partners and their privacy policies can be seen here
+mag advertising partners authorities mag may need to provide personal data to relevant authorities (e
+tax authorities or the police) in accordance with applicable law and in order to fulfill legal mandatory obligations in each jurisdiction where mag operates to the extent allowed under applicable data protection law
+in the event of data breaches, certain personal data may need to be provided to the relevant data protection authorities
+links to third party websites and third party advertisements the advertisements that we show in the games will market not only mag's but also third parties' products and service
+mag is not responsible for the privacy policies and practices of other sites or apps even if you access them using links from the games, advertisements in the games or from advertisements on a webpage when you are playing the games
+mag recommends that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions
+in addition, if you link to the games from a third party site or via a social network (e
+twitter, facebook), mag is not responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions
+to what countries will personal data be transferred
+your personal data will be transferred to companies in other countries both within and outside the eu that we have engaged to, among other things, be able to provide games to you and to allow you to play our games
+the relevant countries outside the eu may not ensure the same level of protection for personal data as your country
+in such cases, mag will ensure that the personal data is adequately protected by the receiving parties in such countries
+adequate protection may typically be to impose on the receiving party contractual obligations in accordance with model clauses that have been approved by the european commission that ensure that such party maintains the same high level of privacy and data security as practiced by mag
+you will find more information here https
+security mag has implemented technology and policies to safeguard your privacy and personal data from unauthorized access and improper use
+in particular we do not aim to collect information about you which makes it possible for us to identify you directly, including your name or address, but we will collect information that may indirectly identify you such as device id and we will collect and share your facebook id in accordance with facebook’s policies and as described above
+however, you may occasionally also be able to provide your e-mail address, but you don't have to provide that if you don't want to
+children you need to be over a certain age to play our games or use our services
+the minimum age varies depending on your country of origin
+for information about the minimum age in your country, see below
+we do not to our knowledge collect information, or ask for personal information, or serve personalized ads to any person under the minimum age requirements below
+if you think that we might have information about a user younger than the minimum age requirements, please contact us
+france, germany, hungary, lithuania, luxemburg, netherlands, slovakia 15 years
+all other countries what should you do if you have any complaints
+if you have any complaints on how we use your personal data, or would like further information, we would ask you to first contact us using the contact details set forth below or the functionality for contacting us as provided in our games
+however, you can also always make a complaint about how we process your personal data with the relevant public supervisory authority, specifically the authority where you live, work or where the alleged infringement has occurred
+use the following link to locate the relevant authority in europe
+in addition to make complaints you may also bring proceedings before the competent courts, including the courts of the eu member state where you live
+contact details if at any time you would like to contact mag about your views on this policy or any enquiry relating to your personal information or for any matters referred to in this policy, you can do so by sending an e-mail to us at privacy@maginteractive
+com or write to us at mag interactive ab, drottninggatan 95a, 113 60, stockholm, sweden
+updates this personal data policy may be modified by mag at any time
+should mag wish to use personal data other than as stipulated in the policy in force at the time of data collection, notice of any such modifications will be provided to the data subjects in a visible manner (e
+such notice may be posted on mag's website or through a pop-up in our games)

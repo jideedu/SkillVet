@@ -1,0 +1,238 @@
+you need to enable javascript to run this app
+logo get started login logo get started login logo get started login logo get started login privacy policy thanks for choosing alphavoice
+please carefully read this privacy policy as it provides important information about alphavoice’s privacy practices
+if you have any questions about this privacy policy, please contact us at privacy@alphavoice
+(dba alphavoice), a delaware corporation, and its affiliates (collectively, “alphavoice”, “we”, “us” or “our”) are committed to protecting the privacy of information you provide to us
+accordingly, alphavoice provides this privacy policy to inform you about our online information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can request access, correction, portability, or deletion of such information (our “privacypolicy”)
+all undefined capitalized terms used in this privacy policy have the meaning set forth in the terms of use
+“personal information” is any information relating to an identified or identifiable natural person
+an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
+“process” or “processing” means any operation which is performed upon personal information, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
+except where otherwise indicated, this privacy policy applies to individuals who
+(a) visit alphavoice’s websites (“websites”)
+(b) register to attend alphavoice’s online or offline events (“events”)
+(c) use alphavoice’s email delivery platform and related services through the websites (“platform”)
+or (d) use any other, present or future, online or offline, programs, services, or offerings of alphavoice (“offerings”) (collectively, the websites, events, platform and offerings constitute the alphavoice “services”)
+when we say “customer,” we are referring to the person or entity that is registered with us to use the platform or offerings
+when we say “you,” we are referring to customers and/or to some other individual who visits any of our websites or attends or events
+alphavoice provides the platform to customers so they may provide information to, market to, and stay in contact with their subscribers and other individuals (“recipients”) through email
+when we process personal information of recipients (“recipient personal information”) on behalf of our customers, we process such personal information only as a data processor and in accordance with our customers’ instructions
+if you are a recipient of one of our customers, you should review that customer’s privacy policy, terms, or other notices to learn how that customer collects and uses information about you, including through the platform
+if a customer has submitted personal information pertaining to you as an individual to us as recipient personal information and you wish to exercise any rights you may have to access, correct, port, or delete such personal information, please inquire with the applicable customer directly
+because alphavoice personnel have limited ability to access recipient personal information, if you wish to make your request directly to alphavoice, please provide the name of the applicable alphavoice customer
+we will refer your request to that customer and will support them as needed in responding to your request within the timeframe required by applicable law
+information we collect we collect your personal information in the following ways
+information you voluntarily provide to us
+when you sign up for and/or use the services, consult with our customer service team, send us an email, post on our blog, fill out a form on our websites, integrate the services with another website or service (for example, when you choose to connect your application to the platform), or communicate with us in any way, you are voluntarily giving us information that we collect
+that information may include your name, physical address, email address, phone number, billing information, as well as details including occupation, location, purchase history, and other demographic information
+by giving us this information, you agree to this information being collected, used, disclosed, transferred, and stored by us as described in our terms of use (available at
+com/policies/terms-of-use ) and in this privacy policy
+information we collect automatically
+we may collect information about your visit to our websites, your usage of the services, and your web browsing
+that information may include your ip address, your operating system, your browser id, your browsing activity, and other information about how you interacted with our websites or other websites
+we may collect this information as a part of log files as well as through the use of cookies or other tracking technologies
+our use of cookies and other tracking technologies is discussed more below
+information from your use of the services
+we may receive information about how and when you use the services, store it in log files or other types of files associated with your account, and link it to other information we collect about you
+this information may include, for example, your ip address, time, date, browser used, and actions you have taken within the application
+this type of information helps us to improve our services for both you and for all of our customers
+we and our partners may use various technologies to collect and store information when you use our services, and this may include using cookies and similar tracking technologies on our website, such as pixels and web beacons, to analyze trends, administer the website, track your movements around the website, serve targeted advertisements, and gather demographic information about our user base as a whole
+you can control the use of cookies at the individual browser level through its settings and preferences
+we partner with third parties to display advertising on our websites or to manage and serve our advertising on other sites
+our third-party partners may use cookies or similar tracking technologies in order to provide you advertising or other content based upon your browsing activities and interests
+this type of advertising is sometimes called interest-based advertising
+we use web beacons, also called pixel tags, on our websites and in our emails
+when we send emails to customers, we may track behavior such as who opened the emails and who clicked the links
+this allows us to measure the performance of our email campaigns and to improve our features for specific segments of customers
+to do this, we include a single pixel tag in emails we send
+these tags allow us to collect information about when you open the email, your ip address, your browser or email client type, and other similar details
+we also include single pixel tags in the emails we deliver, through the platform, on our customer’s behalf
+we use the data from those web beacons to create reports about how our customer’s email campaign performed and what actions their recipients took with respect to that email
+similarly, reports are also available to us when we send email to you, so we may collect and review that information to analyze how our email campaigns to customers performed and what actions our customers took with respect to that email
+we may, from time to time, offer surveys, contests, sweepstakes, or other promotions on our websites or through social media (collectively, “promotions”)
+your participation in our promotions is completely voluntary
+information requested for entry may include personal contact information such as your name, address, date of birth, phone number, email address, username, and similar details
+we use the information you provide to administer our promotions
+we may also, unless prohibited by the promotion’s rules or law, use the information provided to communicate with you, or other people you select, about our services
+we may share this information with our affiliates and other organizations or service providers in line with this policy and the rules posted for the promotion
+we have public blogs on our websites
+any information you include in a comment on our blog may be read, collected, and used by anyone
+if your personal information appears on our blogs and you want it removed, please contact us at privacy@alphavoice
+if we are unable to remove your information, we will tell you why
+social media platforms and widgets
+our websites may include social media features, such as the facebook like button
+these features may collect information about your ip address and which page you are visiting on our website, and they may set a cookie to make sure the feature functions properly
+social media features and widgets are either hosted by a third party or hosted directly on our website
+we also maintain presences on social media platforms including facebook, twitter, and linkedin
+any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy
+we cannot control the actions of other users of these platforms or the actions of the platforms themselves
+your interactions with those features and platforms are governed by the privacy policies of the companies that provide them
+information from other sources
+we may, from time to time, obtain information about you from third party sources, such as public databases, third party data providers, and our joint marketing partners
+we take steps to ensure that such third parties are legally permitted or required to disclose such information to us
+examples of the information we may receive from other sources include
+demographic information, company information, device information (such as ip addresses), location, and online behavioral data (such as information about your use of social media websites, page view information, and search results and links)
+we use this information, alone or in combination with other information (including personal information) we collect, to enhance our ability to provide relevant marketing and content to you and to develop and provide you with more relevant products features, and services
+use and disclosure of your personal information we may use and disclose your personal information only for the following purposes
+to promote use of our services to you and others
+for example, if we collect your personal information such as your email address when you visit our websites and do not sign up for any of the services, we may send you an email inviting you to sign up where permitted by applicable law
+if you use any of our services and we think you might benefit from using another service we offer, we may send you an email about that
+you can stop receiving our promotional emails by following the unsubscribe instructions included in every promotional email we send
+in addition, we may use information we collect in order to advertise our services to you or suggest additional features of our services that you might consider using
+in addition, we may use your personal information to advertise our services to potential or other users like you
+to send you informational and promotional content in accordance with your marketing preferences
+you can manage your preferences to receive specific content in our subscription center (which is available by clicking the “email subscription center” link found in the footer of our marketing emails) or choose to stop receiving these emails altogether by following the unsubscribe instructions included in every marketing email
+to bill and collect money owed to us by our customers
+this includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number
+we use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments
+to send you important messages about the services
+for example, we may inform you of temporary or permanent changes to our services, such as scheduled maintenance, new features, version updates, releases, abuse warnings, and changes to our privacy policy
+to communicate with our customers about their account and provide customer support
+to enforce compliance with our terms of use and applicable law
+this may include developing and using tools that help detect fraud and prevent violations
+to protect the rights and safety of our customers and third parties, as well as our own
+to meet legal requirements, including complying with court orders, valid discovery requests, valid subpoenas, and other appropriate legal mechanisms
+to provide information to representatives and advisors, including attorneys and accountants, to help us comply with legal, accounting, or security requirements
+to prosecute or defend a court, arbitration, or any other legal proceeding
+to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements
+to provide, support, and improve the services we offer
+this includes our use of the data that our customers provide us in order to enable our customers to use the services to communicate with their recipients
+this also includes, for example, aggregating information from your use of the services and sharing this information with third parties to improve our services
+this might also include sharing your information or the information you provide us about your recipients with third parties in order to provide and support our services or to make certain features of the services available to you
+when we do have to share personal information with third parties, we take steps to protect your information by requiring these third parties to enter into a contract with us that require them to use the personal information we transfer to them in a manner that is consistent with this policy
+to transfer your information in the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition
+in that event, we will endeavor to require any acquirer to be subject to our obligations under this privacy policy, including your rights to access and choice
+we will notify you of the change either by sending you an email or posting a notice on our website
+we may combine personal information with other information we collect or obtain about you (such as information we source from our third party partners), to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for interest-based advertising purposes in accordance with this privacy policy
+when we combine personal information with other information in this way, we treat the entire data set as personal information, and apply all of the safeguards in this privacy policy applicable to personal information
+disclosure of personal information to third parties we may disclose personal information to the following types of third parties for the purposes described in this privacy policy
+sometimes, we share personal information with our third-party service providers who help us provide and support our services (“service providers”)
+for example, if it is necessary to provide you something you have requested, then we may share your personal information with a service provider for that purpose
+our service providers enter into a contract with us that requires them to use the personal information only for the provision of services to us and in a manner that is consistent with this privacy policy
+examples of service providers include payment processors, hosting services, and content delivery services
+we may partner with third party advertising networks and exchanges to display advertising on our websites or to manage and serve our advertising on other sites and may share your personal information with them for this purpose
+we and our third-party partners may use cookies and other tracking technologies, such as pixel tags and web beacons, to gather information about your activities on our websites and other sites in order to provide you with targeted advertising based on your browsing activities and interests
+from time to time, alphavoice may partner with other companies to jointly offer products, services or programs including, for example, webinars, events, downloadable content, or integrated features
+if you purchase, specifically express interest in, or register for a jointly offered product, service, or program from or through alphavoice, we may share your personal information collected in connection with your purchase or expression of interest with our business partners
+alphavoice does not control our business partners’ use of shared personal information and their use of such information will be in accordance with their own privacy policies
+if you do not wish for your information to be shared in this manner, you may opt to not purchase or specifically express interest in a jointly offered product or service
+information disclosed for our protection and the protection of others
+we may disclose information about you to third parties
+(a) if we are required to do so by law, court order or legal process
+(b) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements
+(c) under the discovery process in litigation
+(d) to enforce alphavoice policies or contracts
+(e) to collect amounts owed to alphavoice
+(f) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity
+or (g) if we, in good faith, believe that disclosure is otherwise necessary or advisable
+in addition, from time to time, server logs may be reviewed for security purposes including, for example, to detect unauthorized activity on the services
+in such cases, server log data containing personal information may be shared with law enforcement bodies so that they may identify users in connection with their investigation of the unauthorized activities
+data collected for and by our customer as a customer, you may import into our system personal information you have collected from your recipients
+we have no direct relationship with your recipients and for this reason, you are responsible for making sure you have the appropriate permission for us to collect and process information about those recipients
+we may transfer recipient personal information to our service providers
+all service providers enter into a contract with us that protects recipient personal information and restricts their use of any recipient personal information consistent with this privacy policy
+as part of our services, we may use and incorporate the information you have provided, we have collected from you, or we have collected about recipients into features
+if you are a recipient and no longer want to be contacted by one of our customers, please unsubscribe directly from that customer’s emails or contact the customer directly to update or delete your data
+if you contact us, we may remove or update your information within a reasonable time and after providing notice to the customer of your request
+disclosure of anonymized information alphavoice reserves the right to use and disclose anonymized information, aggregated information or publicly available information that has not been combined with nonpublic personal information for any purposes including without limitation alphavoice’s internal use and research
+however, alphavoice will not disclose information, even in anonymized, aggregate, or derivative forms, that is made available by our connection to email providers such as gmail, including api calls relating to checking, reading, or sending email, in accordance with the additional requirements for restricted scopes as specified by google
+when connecting to email providers such as gmail, alphavoice will only make use of the information necessary to render our service so that we can display our user interface and perform requested actions on your account
+third-party email account syncing alphavoice allows you to connect our services to your various third-party email accounts (such as gmail) for the purpose of sending email and for us to check your inbox for replies and bounces
+we require a small set of permissions on your third-party email account to be able to do this and will only use it for the purpose of providing you with our services or for diagnosing issues related to your third-party email account
+alphavoice will not use your email account information for any purpose other than providing the services to you
+alphavoice is not responsible for any issues related to your third-party email account
+alphavoice’s use of information received from gmail apis will adhere to google's limited use requirements
+permissions alphavoice requires “view your email messages and settings” alphavoice will access your basic profile information including photo, name, and email address so that we can properly label your account
+alphavoice will periodically check your inbox for messages
+our app will check your inbox to find replies to emails sent by your alphavoice campaigns in order to present this information to you within the alphavoice application, turn recipients into leads as necessary, and stop follow-up messages from sending when a reply causes someone to become a lead
+we also look for unsubscribe requests and bounces to emails sent by alphavoice to keep your contact lists up to date and help you with deliverability
+in rare cases, our engineers may use an internal tool to attempt to locate emails related to your alphavoice campaigns to either resolve a support request you submitted, to solve a bug, or to investigate a potential security issue
+this is always done in such a manner that the engineers view the least amount of information possible
+“send email on your behalf” alphavoice needs this permission to be able to run your campaigns and send emails to “the reason a narrower scope is not sufficient” in order to run a full email campaign, send emails on your behalf and report back on the effectiveness of those emails
+alphavoice needs permission to send emails, and read the emails in your inbox to classify
+whether emails bounced, whether individuals asked to unsubscribe, or whether individuals responded in a positive manner
+content of emails sent when a customer sends an email to a recipient, it bounces from server to server as it crosses the internet
+along the way, server administrators can read what you send
+email was not built for sending confidential information and most emails end up in an unencrypted inbox
+please do not use the services to send confidential information
+sometimes we review the content of our customer’s email campaigns to make sure they comply with our terms of use
+to improve that process, we employ software that helps us find email campaigns that may violate our terms of use
+our employees or independent contractors may review those particular email campaigns
+this benefits all customers who comply with our terms of use because it reduces the amount of spam being sent through our servers and helps us maintain high deliverability
+usage data and aggregate data where permitted by applicable law and subject to the restrictions set forth in our terms of use and/or customer agreements, alphavoice may
+and pseudonymously store the email address of a recipient (“recipient email address”)
+(b) collect and use data generated from our customers’ use and operation of the service (“usage data”) including, without limitation, routing data (e
+, server hostnames, server ip addresses, and timestamps), delivery data (e
+, whether, when, where, and how an email was sent or delivered), engagement data (e
+, whether, when, where, and how an email was opened or clicked), and message data (e
+, message type, tone, length, and presentation)
+and (c) aggregate or compile usage data with other data, including data obtained via third parties and the usage data of other alphavoice customers (“aggregate data”)
+alphavoice may use such information in a number of ways, including research, internal analysis, analytics, intelligence, and any other legally permissible purpose subject to restrictions as set forth in our terms of use and/or customer agreements
+we may share this information within alphavoice and with third parties for our or their purposes in a pseudonymous and/or aggregated form that is designed to prevent anyone from identifying you personally
+you have the right to opt out of certain uses and disclosures of your personal information, as set out in this privacy policy
+general where you have consented to alphavoice’s processing of your personal information, you may withdraw that consent at any time and opt out by following the instructions below
+additionally, before we use personal information for any new purpose not originally authorized by you, we will provide information regarding the new purpose and give you the opportunity to opt out
+note that, due to the nature of the services, you may have to provide the email address or other identifying value that is associated with your personal information in order for alphavoice to segregate out the use and retention of such personal information
+where consent of the individual for the processing of personal information is otherwise required by law or contract, alphavoice will comply with the law or contract
+sensitive personal data “sensitive personal data” is a subset of personal information, which due to its nature, has been classified by law or by policy as deserving additional privacy and security protections
+sensitive personal data includes personal information regarding eu-residents that is classified as a “special category of personal data” under eu law, which consists of the following data elements
+(a) race or ethnic origin
+(c) religious or philosophical beliefs
+(d) trade union membership
+(f) biometric data where processed to uniquely identify a person
+(h) sexual orientation or information about the individual’s sex life
+or (i) information relating to the commission of a criminal offense
+alphavoice does not collect sensitive personal data from you
+however, if we do ever collect it, we will, prior to disclosing it to a third party or processing it for a purpose other than its original purpose or the purpose authorized subsequently by the individual, obtain your consent
+where consent of the individual for the processing of personal information is otherwise required by law or contract, alphavoice will comply with the law or contract
+email communications an “unsubscribe” button will be provided in each marketing communication sent to you by alphavoice so that you can opt-out of such communications
+however, we may continue to send transaction-related emails regarding products or services you have requested in response to such request including, for example, a support inquiry
+we may need to send you certain communications regarding the services and you will not be able to opt out of those communications, including for example, communications regarding updates to our terms of use or this privacy policy
+“do not track” do not track (“dnt”) is a privacy preference that users can set in certain web browsers
+dnt is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services
+at this time, there is no general agreement on how companies like alphavoice should interpret dnt signals
+therefore, alphavoice does not recognize or respond to browser-initiated dnt signals, whether that signal is received on a computer or a mobile device
+alphavoice retains the personal information we receive as described in this privacy policy for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws
+for personal information provided by customers such as recipient personal information, alphavoice processes such information as directed by each customer
+we take reasonable and appropriate measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in the processing and the nature of the personal information
+our credit card processing vendor uses security measures to protect your information both during the transaction and after it is complete
+our vendor is certified as compliant with card association security initiatives, including the visa cardholder information security and compliance (cisp), mastercard® (sdp), and discovery information security and compliance (disc)
+we also perform annual soc ii audits
+if you have any questions about the security of your personal information, you may contact us at security@alphavoice
+alphavoice accounts require a username and password to log in
+you must keep your username, password, and api key(s) secure, and never disclose them to a third party
+if you have reason to believe that your passwords or personal information is no longer secure, please promptly notify us at security@alphavoice
+if after reviewing this privacy policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at privacy@alphavoice
+alphavoice will address your concerns and attempt to resolve any privacy issues in a prompt manner
+other rights and important information
+children due to the nature of alphavoice’s business, our services are not marketed to minors
+alphavoice does not knowingly solicit or collect personal information from children under the age of 13 (and in certain jurisdictions under the age of 16)
+this applies to any personal information directly collected by us but does not apply to the personal information provided to us by third party services and organizations or from our customers regarding their recipients (please refer to the terms of their respective privacy policies)
+if we learn that we have collected personal information from a child under the age of 13 (and in certain jurisdictions under the age of 16) in relation to the services, we will promptly delete that information
+california privacy rights california law permits users who are california residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties
+if you are a california resident and would like to make such a request, please submit your request to privacy@alphavoice
+links to third party websites our websites include links to other websites, whose privacy practices may be different from ours
+if you submit personal information to any of those websites, your information is governed by such websites’ privacy policies
+we encourage you to carefully read the privacy policy of any website you visit
+data security alphavoice takes reasonable precautions to protect personal information provided to us through the site from loss, misuse, unauthorized access, disclosure, alteration and destruction
+alphavoice has put in place reasonable and appropriate physical, electronic and managerial procedures designed to safeguard and secure such personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction
+our security and privacy policies are periodically reviewed and enhanced as necessary
+while alphavoice strives to undertake such reasonable and necessary efforts to secure personal information provided to us through the site, even such security measures do not guarantee the security of all personal information, and alphavoice cannot guarantee that the personal information it collects, uses and retains will be protected in all circumstances, including those beyond alphavoice’s reasonable control
+particularly sensitive information is encrypted
+you can usually tell whether encryption is being used by noting the “locked” or other status indicator on the browser you are using
+if the browser you are using does not indicate that the session is secure (e
+, by displaying a lock, a key or a similar icon), you should assume that the connection is not secure and that third parties will receive the information shared by you and us during that part of the session
+your information may be transferred to and maintained on computer networks that may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction
+below is a non-exhaustive list of our security procedures
+all customer data has at-rest and in-transit encryption user passwords and other similar user secrets are salted and stored with a one-way hash using the sha-256 algorithm backups of data are stored for a maximum of 7 days alphavoice has no technical contractors at this time and if any are contracted in the future they will get minimal, temporary access to production on a need-to-have basis we rely on stripe for all our payment processing
+in terms of credit card information, we only store the last 4 digits of someone's card in our database changes alphavoice may update this privacy policy from time to time as it deems necessary in its sole discretion
+alphavoice will provide notification of any material changes to this privacy policy through the website or as otherwise required by applicable law
+we encourage you to review this privacy policy periodically to be informed regarding how alphavoice is using and protecting your information and to be aware of any policy changes
+your continued relationship with alphavoice after the posting or notice of any amended privacy policy will constitute your agreement to be bound by any such changes
+any changes to this privacy policy take effect immediately after being posted or otherwise provided by alphavoice
+contact us if you have any questions about this privacy policy or the services, please contact us directly at
+written inquiries may be addressed to
+privacy, 1535 mission st
+san francisco, ca 94103
+a powerful, multi-channel marketing solution with video-marketing funnels that convert
+solutions for event marketers for podcasters video-email recipe powered by alphavoice resources faq pricing guide company all categories all channels policies jobs legal privacy terms all

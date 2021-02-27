@@ -1,0 +1,65 @@
+name and address of the person responsible the responsible party and service provider is andrey dyachkov 2
+name and address of the data protection officer our data protection officer is andrey dyachkov
+you can contact our data protection officer at any time in relation to
+any matter relating to data protection
+the best way to contact us is to send an email to
+general information on data processing the collection and use of the personal data is only done to provide a required service and its functioning
+1 personal data personal data is information that can be associated with you as an individual
+examples include your name, address,
+postal address, telephone number and email address
+non-personal data is information such as the number of users of
+2 processing of personal data processing means any operation or series of operations carried out with or without the aid of automated procedures in
+relation to personal data, such as the collection, collation, organisation, sorting, storage, adaptation or alteration,
+reading, retrieval, use, disclosure by transmission, dissemination or any other form of provision, comparison or
+linking, restriction, erasure or destruction
+3 legal basis for the processing of personal data the collection and use of the personal data of our users takes place regularly only with the user's consent
+4 data erasure and storage time your master data is kept for the duration of the contract
+after you have initiated the termination of the business
+relationship, the data will be kept for a maximum of 4 years from your last transaction
+if we initiate the termination
+of the business relationship for security reasons or due to bankruptcy, we will keep your data for a maximum of 5 years
+after your last transaction
+5 security, tls technology we have taken technical and organisational measures to protect your personal data, in particular against accidental or
+intentional manipulation, loss, destruction or access by unauthorised persons
+these security measures are continually
+updated in line with technological developments
+the transmission of personal data between your computer or mobile
+device and our server is always encrypted (tls procedure, transport layer security)
+registration in the following we describe the processing of data within the registration process
+1 registration process the following personal data is collected as part of this registration process
+- username, password, date and time of registration we do not share data with third parties
+2 legal basis the legal basis for the processing of this data, which is necessary for the fulfilment of a contract or for the
+implementation of pre-contractual measures, is art
+your rights as an affected person 5
+1 right to information you have the right to ask us at any time about the data stored concerning you, as well as its origin, recipients or
+categories of recipients to whom this data is transmitted and the purpose of storage
+2 right of revocation if you have given your consent to the use of data, you can revoke this at any time without giving reasons with effect
+3 right of correction if your data stored with us is incorrect, you can have it corrected by us through our support page 5
+4 right of deletion and blocking you have the right to block and delete your personal data stored by us
+as a rule, your personal data will be deleted
+within a maximum of 2 working days after assertion of this right
+should the deletion contradict legal, contractual,
+fiscal or commercial-law storage obligations or other reasons based in law, your data can only be blocked, not deleted
+once your data has been deleted, it is no longer possible to provide information
+5 right to data transmission should you request the personal data provided to us, we will release or transmit the data to you or another person
+responsible, if you so desire, in a structured, current and machine-readable format
+the latter, however, shall only be
+the case if this is technically possible
+6 extended rights in relation to data processing for personalised data evaluation with regard to the data processing of personalised data evaluation, in addition to the aforementioned rights, you also
+have the right of participation granted to a natural person in the decision-making process, a right of appeal and a
+right to disclosure of our position
+7 contact for assertion of the rights of the persons affected for asserting your rights you are entitled to the means mentioned in section 2 of the privacy policy
+8 right of appeal to the supervisory authority you have the right to file a complaint with the competent supervisory authority against the processing of your personal
+data if you feel that your rights under the gdpr have been violated
+fabric in the following we describe data processing in the context of the use of fabric
+1 fabric this service helps us to catch application bugs and fix them as fast as possible to provide smooth user experience
+fabric's privacy policy https
+2 legal basis the legal basis for the processing of this data, which is necessary for the fulfilment of a contract or for the
+implementation of pre-contractual measures, is art
+facebook login you can log in to location family tracker using facebook login
+these services will authenticate your
+identity and provide you the option to share certain personal information with us such as your name and email
+address in order for use to register you in the system
+changes to the privacy policy this privacy policy may be subject to change over time
+we encourage you to regularly review the privacy policy for any
+this privacy policy was last updated on february 18, 2020

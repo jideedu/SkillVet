@@ -1,0 +1,323 @@
+responsible for the content of the page is kptncook gmbh
+kptncook gmbh mariendorfer weg 64, 12051 berlin, germany
+0176 /45 69 97 00
+eva hoefer, alexander reeg (anschrift wie oben)
+headquarter of the company is berlin handelregister berlin, hrb 155002b amtsgericht berlin charlottenburg
+verantwortlich gemäß § 55 rstv
+eva hoefer, alexander reeg plattform der eu-kommission zur online-streitbeilegung
+kptncook terms of use 08/26/2014
+welcome, and thank you for your interest in kptncook, corp
+(“kptncook”, “we,” or “us”) and our web site at kptncook
+com (the “site”), as well as all related web sites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to these terms of use is displayed (collectively, together with the site, our “service”)
+these terms of use are a legally binding contract between you and kptncook regarding your use of the service
+please read the following terms of use carefully
+you acknowledge that you have read, understood, and agree to be bound by the following terms and conditions, including the kptncook privacy policy (collectively, these “terms”)
+by accessing or using our service, you agree to be bound by these terms, which shall take effect immediately on your first use of our service
+if you are not eligible, or do not agree to these terms, then please do not use the service
+these terms of use provide that all disputes between you and kptncook will be resolved by binding arbitration
+you agree to give up your right to go to court to assert or defend your rights under this contract (except for matters that may be taken to small claims court)
+your rights will be determined by a neutral arbitrator and not a judge or jury and your claims cannot be brought as a class action
+please review the arbitration agreement below for the details regarding your agreement to arbitrate any disputes with kptncook
+(1) kptncook service overview
+the service provides recipes every day that you may choose to make
+the service accesses supermarket location and pricing data at its disposal to compare the prices of ingredients for recipes at local supermarkets
+the service operates on the data in kptncook’s possession to provide you with more information in making your food shopping choices, but price, nutritional value, product packaging size and other information available on or through the service may no longer be current and may vary by location, and you should always check the prices, nutritional value, product packaging size, and other characteristics of ingredients at the store(s) where you shop
+the service may also allow you to save favorite recipes in your favorites list, for an additional fee (see below)
+you must be at least thirteen (13) years of age to use the service
+by agreeing to these terms, you represent and warrant to us
+(i) that you are at least thirteen (13) years of age
+(ii) that you have not previously been suspended or removed from the service
+and (iii) that your registration and your use of the service is in compliance with any and all applicable laws and regulations
+if you are using the service on behalf of an entity, organization, or company, you represent and warrant that you have the authority to bind such organization to these terms and you agree to be bound by these terms on behalf of such organization
+(3) accounts and registration
+to access most features of the service, you must register for an account
+when you register for an account, you may be required to provide us with some information about yourself (such as your e-mail address or other contact information)
+you agree that the information you provide to us is accurate and that you will keep it accurate and up-to-date at all times
+when you register, you will be asked to provide a password
+you are solely responsible for maintaining the confidentiality of your account and password
+you agree to accept responsibility for all activities that occur under your account
+if you have reason to believe that your account is no longer secure, then you must immediately notify us at support@kptncook
+access to the service, or to certain features of the service, may require you to pay fees
+you will have 25 recipe save slots on your favorites list to which you may save recipes on the service (“save slots”) and you do not have to pay fees for these first 25 save slots
+you may not save more recipes than the number of save slots associated with your account and you may purchase additional save slots
+save slots are available in increments of 25 ($1
+99) or 100 ($5
+if you purchase save slots, you may use the save slots for any recipes you find on the service, and you may remove saved recipes from your save slots, although you will no longer have access to recipes you remove from your save slots
+before you are required to pay any fees, you will have an opportunity to review and accept the applicable fees that you will be charged
+fees are in u
+once purchased save slots are not refundable
+in case there are problems and our servers are temporary not accessible and the in-app purchase could not be fully processed
+while the payment was executed but the save slots were not booked to the account, please contact us at support@kptncook
+kptncook may change the fees for the service or any feature of the service, including by adding additional fees or charges, on a going-forward basis at any time
+kptncook or parties contracted with kptncook to process payments for kptncook (e
+, apple with respect to in-app purchases of save slots) will charge the payment method you specify at the time of purchase
+you authorize kptncook and parties contracted with kptncook to process payments for kptncook to charge all sums described herein to such payment method
+if you pay any applicable fees with a credit card, kptncook or parties contracted with kptncook to process payments for kptncook may seek pre-authorization of your credit card account prior to your purchase to verify that the credit card is valid and has the necessary funds or credit available to cover your purchase
+by using the service you agree not to
+use the service for any illegal purpose, or in violation of any local, state, national, or international law
+violate, or encourage others to violate, the rights of third parties, including by infringing or misappropriating third party intellectual property rights
+post, upload, or distribute any user content or other content that is unlawful, defamatory, libelous, inaccurate, or that a reasonable person could deem to be objectionable, profane, indecent, pornographic, harassing, threatening, embarrassing, hateful, or otherwise inappropriate
+interfere with security-related features of the service, including without limitation by (i) disabling or circumventing features that prevent or limit use or copying of any content, or (ii) reverse engineering or otherwise attempting to discover the source code of the service or any part thereof except to the extent that such activity is expressly permitted by applicable law
+interfere with the operation of the service or any user’s enjoyment of the service, including without limitation by (i) uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code, (ii) making unsolicited offers or advertisements to other users of the service, (iii) attempting to collect, personal information about users or third parties without their consent
+or (iv) interfering with or disrupting any networks, equipment, or servers connected to or used to provide the service, or violating the regulations, policies, or procedures of such networks, equipment, or servers
+perform any fraudulent activity including impersonating any person or entity, claiming false affiliations, accessing the service accounts of others without permission, or falsifying your age or date of birth
+sell or otherwise transfer the access granted herein or any materials (as defined in section 10 below) or any right or ability to view, access, or use any materials
+attempt to do any of the foregoing in this section 5, or assist or permit any persons in engaging in any of the activities described in this section 5
+(6) third-party services and linked websites
+kptncook may provide tools through the service that enable you to export information, including user content, to third party services, including through features that allow you to link your account on kptncook with an account on the third party service, such as twitter or facebook, or through our implementation of third party buttons (such as “like” or “share” buttons)
+by using these tools, you agree that we may transfer such information to the applicable third-party service
+such third party services are not under our control, and we are not responsible for their use of your exported information
+the service may also contain links to third-party websites
+such linked websites are not under our control, and we are not responsible for their content
+(7) termination of use
+discontinuation and modification of the service
+if you violate any provision of these terms, your permission to use the service will terminate automatically
+additionally, kptncook, in its sole discretion may terminate your user account on the service or suspend or terminate your access to the service at any time, with or without notice
+we also reserve the right to modify or discontinue the service at any time (including, without limitation, by limiting or discontinuing certain features of the service) without notice to you
+we will have no liability whatsoever on account of any change to the service or any suspension or termination of your access to or use of the service
+you may terminate your account at any time by contacting customer service at support@kptncook
+if you terminate your account, you will remain obligated to pay all outstanding fees, if any, relating to your use of the service incurred prior to termination
+please read the kptncook privacy policy [insert link] carefully for information relating to our collection, use, storage and disclosure of your personal information
+the kptncook privacy policy is hereby incorporated by reference into, and made a part of, these terms
+your use of the service is subject to any and all additional terms, policies, rules, or guidelines applicable to the service or certain features of the service that we may post on or link to on the service (the "additional terms"), such as end-user license agreements for any downloadable applications that we may offer, or rules applicable to particular features or content on the service, subject to section 9 below
+all such additional terms are hereby incorporated by reference into, and made a part of, these terms
+(9) modification of these terms
+we reserve the right, at our discretion, to change these terms on a going-forward basis at any time
+please check these terms periodically for changes
+in the event that a change to these terms materially modifies your rights or obligations, you will be required to accept such modified terms in order to continue to use the service
+material modifications are effective upon your acceptance of such the modified terms
+immaterial modifications are effective upon publication
+for the avoidance of doubt, disputes arising under these terms will be resolved in accordance with these terms in effect that the time the dispute arose
+the service is owned and operated by kptncook
+the visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the service (the “materials”) provided by kptncook are protected by all relevant intellectual property and proprietary rights and applicable laws
+all materials contained in the service are the property of kptncook or our third-party licensors
+except as expressly authorized by kptncook, you may not make use of the materials
+kptncook reserves all rights to the materials not granted expressly in these terms
+you agree that you will be responsible for your use of the service, and you agree to defend, indemnify, and hold harmless kptncook and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (collectively, the "kptncook entities") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with (i) your access to, use of, or alleged use of the service
+(ii) your violation of these terms or any representation, warranty, or agreements referenced herein, or any applicable law or regulation
+(iii) your violation of any third-party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right
+or (iv) any disputes or issues between you and any third party
+we reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (and without limiting your indemnification obligations with respect to such matter), and in such case, you agree to cooperate with our defense of such claim
+no warranties the service and all materials and content available through the service are provided "as is" and on an "as available" basis, without warranty or condition of any kind, either express or implied
+the kptncook entities specifically (but without limitation) disclaim all warranties of any kind, whether express or implied, relating to the service and all materials and content available through the service, including but not limited to (i) any implied warranties of merchantability, fitness for a particular purpose, title, quiet enjoyment, or non-infringement
+and (ii) any warranties arising out of course of dealing, usage, or trade
+the kptncook entities do not warrant that the service or any part thereof, or any materials or content offered through the service, will be uninterrupted, secure, correct, up-to-date, or free of errors, viruses, or other harmful components, and do not warrant that any of the foregoing will be corrected
+no advice or information, whether oral or written, obtained by you from the service or any materials or content available on or through the service will create any warranty regarding any of the kptncook entities or the service that is not expressly stated in these terms
+you assume all risk for all damages that may result from your use of or access to the service, your dealings with other service users, and any materials or content available through the service
+you understand and agree that you use the service and use, access, download, or otherwise obtain materials or content through the service and any associated sites or services at your own discretion and risk, and you will be solely responsible for any damage to your property (including your computer system used in connection with the service) or loss of data that results from the use of the service or the download or use of such materials or content
+some jurisdictions may prohibit a disclaimer of warranties and you may have other rights that vary from jurisdiction to jurisdiction
+(13) limitation of liability in no event will the kptncook entities be liable to you for any indirect, incidental, special, consequential or punitive damages (including, without limitation, damages for loss of profits, goodwill, use, data, or other intangible losses) arising out of or relating to your access to or use of, or your inability to access or use, the service or any materials or content on the service, whether based on warranty, contract, tort (including negligence), statute or any other legal theory, whether or not the kptncook entities have been informed of the possibility of such damage
+you agree that the aggregate liability of the kptncook entities to you for any and all claims arising out of relating to the use of or any inability to use the service (including any materials or content available through the service) or otherwise under these terms, whether in contract, tort, or otherwise, is limited to the greater of (i) the amounts you have paid to kptncook for access to and use of the service in the 12 months prior to the claim or (ii) $100
+some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages
+accordingly, the above limitation may not apply to you
+each provision of these terms that provides for a limitation of liability, disclaimer of warranties, or exclusion of damages is to allocate the risks under these terms between the parties
+this allocation is an essential element of the basis of the bargain between the parties
+each of these provisions is severable and independent of all other provisions of these terms
+the limitations in this section 13 will apply even if any limited remedy fails of its essential purpose
+these terms shall be governed by the laws of the state of california without regard to conflict of law principles
+to the extent that any lawsuit or court proceeding is permitted hereunder, you and kptncook agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within santa clara county, california for the purpose of litigating all such disputes
+we operate the service from our offices in california, and we make no representation that materials included in the service are appropriate or available for use in other locations
+these terms, together with the privacy policy and any other agreements expressly incorporated by reference herein, constitute the entire and exclusive understanding and agreement between you and kptncook regarding your use of and access to the service, and except as expressly permitted above may be amended only by a written agreement signed by authorized representatives of all parties to these terms
+you may not assign or transfer these terms or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent
+we may assign these terms at any time without notice
+the failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor shall a waiver of any breach or default of these terms or any provision of these terms constitute a waiver of any subsequent breach or default or a waiver of the provision itself
+use of section headers in these terms is for convenience only and shall not have any impact on the interpretation of particular provisions
+in the event that any part of these terms is held to be invalid or unenforceable, the unenforceable part shall be given effect to the greatest extent possible and the remaining parts will remain in full force and effect
+upon termination of these terms, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, sections 2 and 4 through 18
+(16) dispute resolution and arbitration
+in the interest of resolving disputes between you and kptncook in the most expedient and cost effective manner, you and kptncook agree that any and all disputes arising in connection with these terms shall be resolved by binding arbitration
+arbitration is more informal than a lawsuit in court
+arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts
+arbitrators can award the same damages and relief that a court can award
+our agreement to arbitrate disputes includes, but is not limited to all claims arising out of or relating to any aspect of these terms, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether the claims arise during or after the termination of these terms
+you understand and agree that, by entering into these terms, you and kptncook are each waiving the right to a trial by jury or to participate in a class action
+1, we both agree that nothing herein will be deemed to waive, preclude, or otherwise limit either of our right to (i) bring an individual action in small claims court, (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (iii) seek injunctive relief in a court of law, or (iv) to file suit in a court of law to address intellectual property infringement claims
+any arbitration between you and kptncook will be governed by the commercial dispute resolution procedures and the supplementary procedures for consumer related disputes (collectively, "aaa rules") of the american arbitration association ("aaa"), as modified by these terms, and will be administered by the aaa
+the aaa rules and filing forms are available online at www
+org, by calling the aaa at 1-800-778-7879, or by contacting kptncook
+a party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or federal express (signature required), or in the event that we do not have a physical address on file for you, by electronic mail ("notice")
+kptncook's address for notice is
+430 north wolfe road, sunnyvale, california 94085
+the notice must (i) describe the nature and basis of the claim or dispute
+and (ii) set forth the specific relief sought ("demand")
+we agree to use good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the notice is received, you or kptncook may commence an arbitration proceeding
+during the arbitration, the amount of any settlement offer made by you or kptncook shall not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any
+in the event our dispute is finally resolved through arbitration in your favor, kptncook shall pay you (i) the amount awarded by the arbitrator, if any, (ii) the last written settlement amount offered by kptncook in settlement of the dispute prior to the arbitrator’s award
+00, whichever is greater
+in the event that you commence arbitration in accordance with these terms, kptncook will reimburse you for your payment of the filing fee, unless your claim is for greater than $10,000, in which case the payment of any fees shall be decided by the aaa rules
+any arbitration hearings will take place at a location to be agreed upon in santa clara county, california, provided that if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted (i) solely on the basis of documents submitted to the arbitrator
+(ii) through a non-appearance based telephonic hearing
+or (iii) by an in-person hearing as established by the aaa rules in the county (or parish) of your billing address
+if the arbitrator finds that either the substance of your claim or the relief sought in the demand is frivolous or brought for an improper purpose (as measured by the standards set forth in federal rule of civil procedure 11(b)), then the payment of all fees will be governed by the aaa rules
+in such case, you agree to reimburse kptncook for all monies previously disbursed by it that are otherwise your obligation to pay under the aaa rules
+regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based
+the arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits
+you and kptncook agree that each may bring claims against the other only in your or its individual capacity and not as a plaintiff or class member in any purported class or representative proceeding
+further, unless both you and kptncook agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding
+in the event that kptncook makes any future change to this arbitration provision (other than a change to kptncook's address for notice), you may reject any such change by sending us written notice within 30 days of the change to kptncook's address for notice, in which case your account with kptncook shall be immediately terminated and this arbitration provision, as in effect immediately prior to the amendments you reject shall survive
+6 is found to be unenforceable or if the entirety of this section 16 is found to be unenforceable, then the entirety of this section 16 shall be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in section 14 shall govern any action arising out of or related to these terms
+(17) consent to electronic communications
+by using the service, you consent to receiving certain electronic communications from us as further described in our privacy policy
+please read our privacy policy to learn more about your choices regarding our electronic communications practices
+you agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing
+the services hereunder are offered by kptncook corp
+, located at 440 n wolfe road, sunnyvale, california 94085
+you may contact us by sending correspondence to the foregoing address or by emailing us at support@kptncook
+if you are a california resident, you may have these terms mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these terms
+this kptncook privacy policy (this “policy”) describes the collection of personal information by ktpncook corp
+, a delaware corporation (“company,” “we,” or “us”) from users of our kptncook app (the “kptncook”), as well as all related applications, web sites, widgets, software, tools, and other services provided by us and on which a link to this policy is displayed (collectively, together with the website, our “services”)
+this policy also describes our use and disclosure of such information
+by using our services, you consent to the collection, use, and disclosure of personal information in accordance with this policy
+this policy is incorporated by reference into the kptncook terms of use [link] and subject to the provisions of the kptncook terms of use
+“personal information” as used in this policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address
+personal information also includes information about an individual’s activities, such as information about his or her activity on our services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to personal information that identifies that individual
+personal information does not include “aggregate” or other non-personally identifiable information
+aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed
+we may use and disclose aggregate information, and other non-personally identifiable information, for various purposes
+collection of voluntarily-provided information we collect personal information that our users provide to us in a variety of ways on our services
+these include the following
+we may offer e-mail newsletters from time to time on our services
+if you sign up to receive a newsletter from us, we collect your e-mail address
+user accounts and profiles
+our services may give you the ability to register for a company account or to create and update a user profile on the applicable service
+if we offer user account or profile functionality on the services, we will collect the personal information that you provide to us in the course of registering for an account or creating or updating a user profile
+this information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you
+we may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional
+you may be given the option to access or register for the services through the use of your user name and passwords for certain services provided by third parties (each an “integrated service”), such as through the use of your facebook credentials through facebook connect
+by doing this, you authorize us to access and store the credentials you provide, your name, email address(es) and other information that the integrated service makes available to us, and to use and disclose it in accordance with this policy
+you should check your facebook or other integrated service privacy settings to understand and change the information sent to us through facebook connect or other integrated services
+please review each integrated service’s terms of use and privacy policies carefully before using their services and connecting to our services
+our services may contain interactive functionality that allows you to engage with other users on the services, post comments to forums, to upload photographs and other content (the “user materials”), participate in surveys, and otherwise to interact with the services and with other users
+if you use any interactive functionality on our services that request or permit you to provide us with personal information (including, for example, any services that allow you to post user materials on any of our services), we collect the personal information that you provide to us in the course of using these interactive features
+if you contact us by e-mail, using a contact form on the services, or by mail, fax, or other means, we collect the personal information contained within, and associated with, your correspondence
+we or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our services
+certain of these promotions may be co-branded with one of our advertisers or other business partners
+in these instances, the collection of your personal information may occur directly by the third-party partner on its website or other online service and may be shared with us
+the promotion will state the privacy policy or policies governing the collection of such personal information
+when you visit our services, some information is collected automatically
+for example, when you access our services, we and our service providers may automatically collect your browser’s internet protocol (ip) address, your browser type, the nature of the device from which you are visiting the services (e
+, a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the web site that you visited immediately prior to accessing any web-based services, the actions you take on our services, and the content, features, and activities that you access and participate in on our services
+we also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message
+we and our service providers may collect this information passively using technologies such as standard server logs, cookies, and clear gifs (also known as “web beacons”)
+we use passively-collected information to administer, operate, and improve the website and our other services and systems
+if we link or associate any information gathered through passive means with personal information, or if applicable laws require us to treat any information gathered through passive means as personal information, we treat the combined information as personal information under this policy
+otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form
+also, please be aware that third parties, such as companies providing services to us (“third-party sites”) that may be linked to from the services, may set cookies on your hard drive or use other means of passively collecting information about your use of their services, third-party sites or content
+we may not have access to, or control over, these third-party means of passive data collection
+information from other sources
+we may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you
+if we do so, this policy governs any combined information that we maintain in personally identifiable format
+use of personal information
+we may store personal information on our servers
+we use personal information to provide services and information that you request
+to enhance, improve, operate, and maintain our services, our programs, services, web sites, and other systems
+to prevent fraudulent use of our services and other systems
+to prevent or take action against activities that are, or may be, in violation of the kptncook terms of use or applicable law
+to maintain a record of our dealings with you
+for other administrative purposes
+and for any other purposes that we may disclose to you at the point at which we request your personal information, and pursuant to your consent
+we may also use personal information you provide to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest
+we allow you to opt-out from receiving marketing communications from us as described in the “choice” section below
+disclosure of personal information
+except as described in this policy, we will not disclose your personal information that we collect on the services to third parties without your consent
+we may disclose information to third parties if you consent to us doing so, as well as in the following circumstances
+service providers we may disclose personal information to third-party service providers (e
+, payment processing and data storage and processing facilities) that assist us in our work, such as papertrail (logging), mixpanel, google analytics, newrelic (monitoring and analytics),
+mongodb (backup) and apple (payment processing)
+we limit the personal information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such personal information
+for more information on how google uses your data, click here
+public areas please be aware that any personal information that you include within any user materials may be made available to other users of the services who view it
+you include personal information in user materials at your sole risk
+additionally, even after information posted on the services is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the services
+we cannot warrant or guarantee that any personal information that you provide on and in connection with the services will not be accessed, viewed, or used by unauthorized persons
+business transfers information about our users, including personal information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which personal information is transferred to one or more third parties as one of our business assets
+to protect our interests we also disclose personal information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our services and other users of the services
+if you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail
+you may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e
+, by postal mail) by sending your request to us by e-mail at support@kptncook
+com or by writing to us at the address given at the end of this policy
+additionally, if we offer user account functionality on the services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us
+please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period
+additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our services
+you may opt out of monitoring of you by our service provider mixpanel by clicking here
+if we offer the ability to create user accounts or profiles on our services, you may have the ability to access and update many categories of personal information that you provide to us by logging in to your account and accessing your account settings
+if you wish to access or amend any other personal information we hold about you, you may contact us at support@kptncook
+if you request that we delete your account on any of our services (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so
+the services may contain links to other web sites, products, or services that we do not own or operate
+the services also may contain links to third-party sites such as social networking services
+if you choose to visit or use any third-party sites or products or services available on or through such third-party sites, please be aware that this policy will not apply to your activities or any information you disclose while using those third-party sites or any products or services available on or through such third-party sites
+we are not responsible for the privacy practices of these third-party sites or any products or services on or through them
+additionally, please be aware that the services may contain links to web sites and services that we operate but that are governed by different privacy policies
+we encourage you to carefully review the privacy policies applicable to any web site or service you visit other than the services before providing any personal information on them
+children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children
+our services are not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent
+if we learn that we have collected personal information from a child under the age of 13 on our services, we will delete that information as quickly as possible
+if you believe that we may have collected any such personal information on our services, please notify us at support@kptncook
+our servers and data centers for the services are located in the united states
+if you choose to use the services from outside the u
+, then you should know that you are transferring your personal information outside of your region and into the u
+for storage and processing
+by providing your personal information to us through your use of the service, you agree to that transfer, storage, and processing in the u
+also, we may transfer your data from the u
+to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the services
+you should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region
+we use reasonable security measures that are designed to protect personal information from accidental loss, disclosure, misuse, and destruction
+please be aware, however, that no data security measures can be guaranteed to be completely effective
+consequently, we cannot ensure or warrant the security of any information that you provide to us
+you transmit information to us at your own risk
+notice to california residents
+we do not respond to “do not track” signals or other similar mechanisms
+we will not share your information with any third party for that third party’s marketing purposes without your prior consent
+updates to this policy
+we may occasionally update this policy
+when we do, we will also revise the “last updated” date at the beginning of the policy
+your continued use of our services after such changes will be subject to the then-current policy
+if we change this policy in a manner that is materially less restrictive of our use or disclosure of your personal information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any personal information that we collected from you prior to the date the change becomes effective
+we encourage you to periodically review this policy to stay informed about how we collect, use, and disclose personal information
+giveaway terms and conditions
+these rules apply to all competitions, prize draws, promotions, giveaways and suchlike that are promoted on and run through our website or social media channels
+to enter a competition you must enter as directed on our website or social media channels
+our competitions are free to enter (no purchase required, unless otherwise stated)
+promotions on social media are in no way sponsored, endorsed or administered by, or associated with, facebook, twitter, google plus, instagram, linkedin or any other social network
+you are providing your information to kptncook and not to any other party
+the information provided will be used in conjunction with our privacy policy
+(2) eligibility and entry restrictions
+to be eligible to enter a competition
+entrants must be a real person, at least 18 years old and permanently reside in the united kingdom or other country (proof of address or age may be required)
+entrants must not be our employee, officer or agent, or an employee, officer or agent of any person or organisation involved in the running of the competition, and you must not be a family relation of any such person
+the maximum number of entries to a competition per person is 1
+(3) start and closing dates
+a competition shall open for entries at the time and on the date specified on our website and/or social media channels, and similarly, shall close to entries at the time and on the date specified on our website and social media channels
+unless otherwise stated, these times and dates are set to those for utc+1
+any entries received before the opening or after the closing of the competition will be invalid and will not be entered into the competition
+no responsibility can be accepted for entries not received for whatever reason
+we reserve the right to cancel or amend the competition and these terms and conditions without notice in the event of a catastrophe, war, civil or military disturbance, act of god or any actual or anticipated breach of any applicable law or regulation or any other event outside of our control
+any changes to the competition will be notified to entrants as soon as possible by us
+entry into the competition will be deemed as acceptance of all of these terms and conditions
+competition entries shall be judged or winners selected on the basis of those criteria specified on our website and/or social media channels in relation to the competition
+if a competition entrant does not meet the eligibility requirements or is subject to any entry restrictions, that entrant shall not be entitled to be adjudged a winner, and will not be entitled to a prize in any circumstances
+our decision in respect of all matters to do with the competition will be final and no correspondence will be entered into
+the competition and these terms and conditions will be governed by german law and any disputes will be subject to the exclusive jurisdiction of the courts of germany
+(5) winners and prizes
+competition prizes for each competition shall be specified on our website or social media channels
+competition prize winners will be notified of the competition result by email (if address is asked for/provided) or by direct message on social media not more than 30 days following the closing date of the competition, and will receive their prizes not more than 60 days following that closing date
+reasonable efforts will be made to contact the prize winner for 14 days but if the winner fails to respond to our notification attempts within this time or provide an address for delivery of the prize or fails to meet any of the eligibility requirements or is otherwise unable to comply with the competition terms and conditions, we reserve the right to disqualify that entrant and offer the prize to the next eligible entrant and thereafter until a winner is found
+the results of a competition will be announced on our website within 30 days following the closing date of the competition
+the announcement may include the name and photograph, the town or region of residence and prize details of each prize winner
+no cash alternative to the prizes will be offered
+the prizes are not transferable
+prizes are subject to availability and we reserve the right to substitute any prize with another of equivalent value without giving notice
+(6) copyright and moral rights
+you warrant to us that you created your competition entries, that you own all of the copyright in those entries, and that our use of the entries in accordance with these rules will not infringe any person's intellectual property rights or other legal rights
+you grant to us an exclusive, worldwide, royalty-free, perpetual and irrevocable licence to copy, store, edit, distribute, transmit and publish your competition entries
+to the maximum extent permitted by applicable law, you irrevocable and unconditionally waive your rights to be identified as the author of your competition entries and to object to any derogatory treatment of your competition entries
+(7) what happens to entries
+competition entries will not be returned
+please, therefore, keep a copy of your competition entries
+we may undertake publicity activities relating to competitions and prize awards
+the winner therefore agrees to the use of their name, photograph and disclosure of town or region of residence in any post-prize-winning publicity names, surnames, towns or regions of residence and prize details
+all other personal details collected as part of the competition will be used in conjunction with our privacy policy
+if you have any questions or comments about this policy, please contact us using the following contact information
+440 north wolfe road sunnydale ca 94085
+mariendorfer weg 64, 12051 berlin, germany e-mail
+com verantwortlich für den inhalt

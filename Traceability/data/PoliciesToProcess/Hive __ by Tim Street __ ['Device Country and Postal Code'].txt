@@ -1,0 +1,25 @@
+javascript isn't enabled in your browser, so this file can't be opened
+some word features can't be displayed in google docs and will be dropped if you make changes view details hive - alexa skill privacy policy
+share sign in file edit view tools help accessibility debug error while saving changes see new changes
+hive - alexa skill privacy policy
+this privacy policy describes how tim street (“tim street”, “us” or “we”) protects your
+(“you”, “the user”) privacy and your data
+before using any of our alexa skills (“our skills”),
+please read this policy and our ​ alexa skills terms of use​ , as well as the ​ alexa terms of
+use​ and the ​ privacy policies​ by the amazon digital services llc (with its affiliates,
+regarding amazon, “alexa” means their alexa voice service which includes third party
+services (like our skills) and other related software
+if you use one of our skills you fully agree to this privacy policy
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and is
+where we use it to understand what our skill should do for you
+this is absolutely necessary
+for our service to give you an appropriate answer
+we will never share personal data related to the user
+the only information hive collects is general energy usage data about the user as it
+pertains to our ai’s reinforcement learning algorithm
+we neither store, nor collect any
+personal data from the user
+by using this skill, you agree to allow hive to use your general
+energy usage/consumption data (non-personal)
+toggle screen reader support

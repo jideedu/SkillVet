@@ -1,0 +1,10 @@
+your privacy is very important to us at mandato
+we will never sell or give away any of the information you provide
+to have a personalized experience, we ask you for your school district, and this is saved between sessions in our database
+we associate this with the alexa userid that is provided to the skill, which is unique between each alexa/amazon account
+we request permission to your country code/region in order to get your local time zone, to compare dates accurately
+this information is not stored or persisted after your alexa session ends (when you say exit or goodbye)
+the skill also looks for your locale (ex
+en-us) which may be used to provide localization/translations in the future
+for now we only provide responses in english
+no other information about you is gathered at this time

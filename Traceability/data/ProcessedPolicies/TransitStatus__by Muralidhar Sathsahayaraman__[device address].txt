@@ -1,0 +1,42 @@
+search this site alexa transit status skill privacy policy privacy policy last updated
+july 24, 2017 alexa transit status skill ("us", "we", or "our") operates the transit status skill at alexa skills section (the "service")
+this privacy policy governs your use of the transit status skill for amazon alexa
+what information do the applications obtain and how is it used
+user provided information the skill obtains the information you provide when you enable the skill
+when you enable the skill, you agree to the capture and usage of your location information in order for transit details to be fetched
+automatically collected information in addition, the applications may collect certain information automatically, including, but not limited to, the type of devices you use, your device unique ids, location information provided in alexa app, the ip address of your devices, your device operating system, and information about the way you use the skill
+the skill does capture information about the location you provided in your alexa app as that is crucial for the functionality of the skill
+for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon's software environment and services to help us improve the skill and our service
+we will share your information with third parties only in the ways that are described in this privacy statement
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+data retention policy, managing your information we will retain user provided data for as long as you use the skills and for a reasonable time thereafter
+we will retain automatically collected information for up to 24 months and thereafter may store it in aggregate
+if you’d like us to delete user provided data that you have provided via the skills, please contact us at alexa-transitstatus@outlook
+com and we will respond in a reasonable time
+please note that some or all of the user provided data may be required in order for the skills to function properly
+children's privacy our skill/service does not address anyone under the age of 13 ("children")
+we do not knowingly collect personally identifiable information from children under 13
+if you are a parent or guardian and you are aware that your children has provided us with personal information, please contact us
+what are my opt-out rights
+you can stop all collection of information by the skill easily by disabling the skill on your amazon alexa account
+you may use the standard uninstall/disable processes as may be available as part of your device, amazon account
+com to enquire if you have further questions
+changes to this privacy policy we may update our privacy policy from time to time
+we will notify you of any changes by posting the new privacy policy on this page
+you are advised to review this privacy policy periodically for any changes
+changes to this privacy policy are effective when they are posted on this page
+security we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches
+your consent by using the skill, you are consenting to our processing of your information as set forth in this privacy policy now and as amended by us
+"processing," means using information collected by the skills or by the computer network facilities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information
+contact us if you have any questions about this privacy policy,
+please contact us @ alexa-transitstatus@outlook
+com google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

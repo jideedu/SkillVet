@@ -1,0 +1,17 @@
+bin day - privacy policy
+the aim of this policy is to inform users of the south glos and bristol bin day alexa skills how we collect and use their data
+wherever this document refers to 'the authority' this refers to the relevant council in the area where the user's alexa device's address says it is
+because refuse collection schedules are specific to small groups of properties it is necessary to collect the full address of the device from amazon when location-specific functions within the skill are accessed
+this address information is used to identify the correct collection or subscription details for the property from the authority website, and it is then discarded
+the specific data items used by this skill are
+first line of property address
+the functions within the skill that require this information are
+'alexa, ask bin day when our next collection is
+'alexa, ask bin day when our next black bin collection is
+'alexa, ask bin day if i have a current green waste subscription'
+the usage of this information
+identification of the correct refuse collection schedule for the skill invoker, based on the assumption that the address configured in their alexa device is their home address
+third parties to whom this information is distributed
+either south gloucestershire or bristol council, via their refuse service web services, depending on which authority is relevant for the user
+this data is immediately discarded after alexa has finished answering the query in hand
+the skill creator can be contacted at andy@andrewarbon

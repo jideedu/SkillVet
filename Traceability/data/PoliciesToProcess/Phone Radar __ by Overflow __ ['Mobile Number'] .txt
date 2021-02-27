@@ -1,0 +1,17 @@
+privacy policy - find my phone
+this privacy policy describes how find my phone (overflow co
+limited) (“us”, “our”) protects your (“you”, “the user”) privacy and your data
+before using our alexa skill (“our skill”), please read carefully our privacy policy as well as our terms and conditions , as well as the amazon alexa terms of use and its privacy policy from amazon digital services llc (“amazon”)
+regarding amazon, “alexa” is referred to their alexa voice service that includes third party services (as our skill) and other correlated software
+using find my phone you accept entirely our privacy policy
+when you use our skill you have to speak to alexa
+voice recordings are sent to amazon and to us
+we use this data to understand what our skill should do
+this is absolutely necessary to deliver a correct answer
+we do not store or save any of your personal data on our skill, the data that we save in our database is related to your alexa-userid, but never to your name or other personal informations
+we store the phone numbers you provide and the one from your amazon account if you decide to allow it for the correct usage of the skill
+the phone numbers we store are related to your alexa-userid
+to improve our service we analyse how often some sentences are recorded in the amazon developer portal
+our skill can be changed and updated at any time as well as our privacy policy
+you can find a link to this privacy policy in the the alexa app or in the alexa skill store
+using our skill after updates or changes will be considered an acceptance of the new changes

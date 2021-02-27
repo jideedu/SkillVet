@@ -1,0 +1,84 @@
+you are not obliged to register to use wine-searcher
+however, access to certain services is only available to registered users eg
+pro subscribers have access to additional search functions and the ability to sychronize their personal tasting notes and ratings across different devices
+by using wine-searcher™ you accept our terms of use , privacy policy , cookies policy , acceptable use and copyright policy and agree to abide by them
+wine-searcher takes your security and the privacy very seriously
+we want to be open and clear about how we collect and store personal information
+personal information is information that relates to an identified or identifiable natural person
+how we use your personal information
+to keep wine-searcher users posted on latest news, product announcements and software updates
+to identify pro subscribers to enable log in and to synchronise information across different devices
+to help operate and improve wine-searcher services such as anti-fraud protection and data analysis and research into trends
+wine-searcher also de-identifies personal information to create aggregated anonymous reports such as the 'top 100 most popular wines'
+wine-searcher shares information with partners to provide technical services and for enabling payment for pro and conducting customer research
+these companies are obligated to protect your information and are forbidden from using information collected in any other way
+customer feedback provided by hotjar
+mailing list managed by mailchimp
+stripe, braintree, apple, google pay and paypal
+these providers may share with wine-searcher data or tokens that enable you to make purchases e
+credit or debit card type, expiration date, and some but not all digits of your card number
+technical support provided by limitless
+how we collect personal information
+we collect information that you give us
+wine-searcher pro accounts require you to sign up
+subscribers are asked to provide name, email address and to create a password
+wine-searcher newsletter subscribers are asked to provide an email address
+we collect information from interactions with our services
+servers automatically collect information such as search queries, clickthroughs
+to shops, and your wine ratings and personal tasting notes
+device specific information is collected such as activity, browser type, language, the date and time of your request and referral url
+cookies or similar technologies such as mobile device identifiers and sdk integrations help recognise you when you log in or return
+internet protocol address (ip) and network information
+device-specific information or unique device identifiers (uuid) identify hardware model, operating system version and mobile network information
+storage information on your device collects your recent searches, ratings and label images
+location information collected by various technologies such as ip address or gps and linked to your device to provide services such as find nearby stores
+unique application numbers about your installation such as, the operating system
+type and application version for automatic updates
+how to remove your personal information
+if you do not want to be on our mailing list, you can opt out anytime by clicking the unsubscribe link in a wine-searcher email
+pro subscribers can manage preferences in my account
+if you have signed up for a paid service such as pro we may from time to time use your personal information to send you important notices
+because this information is important to your transaction with wine-searcher you may not opt out of receiving these notices while your subscription is still active
+if you do not consent to the use of cookies, please block or disable these in your browser settings or the settings within the mobile apps
+in common with most other websites, we use cookies and similar technologies to help understand how people use wine-searcher and to help you get the best results from our services
+cookies are small text files that help to recognize you when you return to wine-searcher,
+and to remember settings such as which currency you prefer to use
+similar technologies such as mobile device identifiers and sdk integrations help recognise your device when you return to our app or otherwise use the services
+by continuing to use the wine-searcher platform you indicate your consent to receive all cookies and similar technologies from wine-searcher, and from hotjar, the company we use to collect customer feedback
+wine-searcher's acceptable use policy applies to all users of wine-searcher
+by using wine-searcher you are agreeing to abide by this policy
+you are independently responsible for complying with all relevant laws in your use of wine-searcher
+we prohibit anything that may be illegal or inappropriate
+wine-searcher may not be used in a manner that is harmful to others
+use of automatic query software is prohibited
+you may not attempt to gain unauthorized access to any portion of the site
+for the purpose of confirming your compliance with these terms, wine-searcher reserves the right to monitor and record activity on the website and app, and reserves the right to remove users who violate this policy
+all materials on www
+com are the intellectual property of wine-searcher ltd, unless otherwise indicated
+without explicit written permission from us, it is illegal to reproduce, modify or store any part of our content (text or image) for any reason other than personal, non-commercial use
+all wine-searcher content is protected by international copyright law
+all numeric data on www
+com is the intellectual property of wine-searcher ltd
+we do not grant permission for anyone to collect data from the website using automated query software
+we permit the translation of wine-searcher's own written content (exclusive of images) into languages other than english, provided the text has a clear, hyperlinked attribution to www
+com as the original source
+we do not permit the translation or use of any text or image that we use under license from a third party
+wine-searcher respects intellectual property rights, and takes any alleged intellectual property infringement seriously
+if you believe that your own work, or the work of a third party for whom you are authorized to act, is featured on the site or has been otherwise copied or made available in a way that constitutes copyright infringement, please provide us with the following details (as required by the digital millennium copyright act)
+an electronic or physical signature of the intellectual property owner, or an agent authorized to act on behalf of the owner
+a description of the work that you claim has been infringed (including the url, location, title, or other identifying characteristics)
+your name, company name, address, telephone number, fax number, and email address (and, if you are not the owner of the intellectual property, the name of the owner)
+a statement by you that you have a good-faith belief that the described use of the work is not authorized by the intellectual property owner, its agent, or the law
+a statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the intellectual property owner or an agent authorized to act on behalf of the intellectual property owner
+wine-searcher operates in a changing regulatory and technological environment
+accordingly wine-searcher may amend these policies from time to time
+occasionally, we may need to make urgent changes
+we reserve the right to amend this policy at any time, and without notice
+if you have any questions please contact us
+po box 15710 new lynn auckland 0640 new zealand
+3 totara avenue new lynn auckland 0600 new zealand
++64 9 825 0102 usa fax
++1 815 366 8145
+london, united kingdom - change
+click here to fix
+© 2019 wine-searcher™ all rights reserved

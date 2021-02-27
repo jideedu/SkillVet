@@ -1,0 +1,81 @@
+find trucks browse catering log in sign up privacy policy last updated
+january 5, 2016 this privacy policy explains how information about you is collected, used and disclosed by curbside provisions, inc
+this privacy policy applies to information we collect when you use our websites, mobile applications and other online products and services that link to this privacy policy (collectively, the ” services”) or when you otherwise interact with us
+we may change this privacy policy from time to time
+if we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification)
+we encourage you to review the privacy policy whenever you access the services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy
+collection of information information you provide to us we collect information you provide directly to us
+for example, we collect information when you create an account, participate in any interactive features of the services, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us
+the types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (including credit or debit card number, expiration date and security code) and any other information you choose to provide
+information we collect automatically when you use the services when you access or use our services, we automatically collect information about you, including
+we collect log information about your use of the services, including the type of browser you use, access times, pages viewed, your ip address and the page you visited before navigating to our services
+we collect information about the computer or mobile device you use to access our services, as provided to us by your computer or mobile device in standard web interactions, including the hardware model, operating system and version, unique device identifiers and mobile network information
+we may collect information about your location of your device when you affirmatively provide it to us following our request for such information
+for more details, please see “your choices” below
+information collected by cookies and other tracking technologies
+we and our service providers use various technologies to collect information, including cookies and web beacons
+cookies are small data files stored in your computer’s or device’s memory that help us improve our services and your experience, see which areas and features of our services are popular and count visits
+web beacons are electronic images that may be used in our services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness
+for more information about cookies, and how to disable them, please see “your choices” below
+information we collect from other sources we may also obtain information from other sources and combine that with information we collect through our services
+for example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, friend lists and account information, in accordance with the authorization procedures determined by such social media site
+additionally, if you are a vendor, we may use information from your social media sites to populate our food truck maps
+use of information we may use information about you for various purposes, including to
+provide, maintain and improve our services
+provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices, send you technical notices, updates, security alerts and support and administrative messages
+respond to your comments, questions and requests and provide customer service
+communicate with you about products, services, offers, promotions, rewards, and events offered by company and others, and provide news and information we think will be of interest to you
+monitor and analyze trends, usage and activities in connection with our services
+detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of company and others
+personalize and improve the services and provide advertisements, content or features that match user profiles or interests
+facilitate contests, sweepstakes and promotions and process and deliver entries and rewards
+link or combine with information we get from others to help understand your needs and provide you with better service
+and carry out any other purpose for which the information was collected
+company is based in the united states and the information we collect is governed by u
+by accessing or using the services or otherwise providing information to us, you consent to the processing and transfer of information in and to the u
+and other countries, where you may not have the same rights as you do under local law
+where this is the case, we will take appropriate measures to protect information about you in accordance with this privacy policy
+sharing of information we may share information about you as follows or as otherwise described in this privacy policy
+with vendors, consultants and other service providers who need access to such information to carry out work on our behalf
+in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process
+if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of company or others
+in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company
+between and among company and its current and future parents, affiliates, subsidiaries and other companies under common control and ownership
+and with your consent or at your direction
+we may also share aggregated or de-identified information, which cannot reasonably be used to identify you
+security company takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction
+social sharing features the services may offer social sharing features and other integrated tools (such as the facebook “like” button), which let you share actions you take on our services with other media, and vice versa
+your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature
+for more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features
+advertising and analytics services provided by others we may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications
+these entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the services and other websites and applications, including your ip address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information
+this information may be used by company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our services and other websites and better understand your online activity
+for more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www
+we may also work with third party social platforms, such as facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way by following the instructions provided by facebook or such applicable third party social platform
+your choices account information you may update, correct or delete information about you at any time by logging into your online account or emailing us at support@seattlefoodtruck
+if you wish to delete or deactivate your account, please email us at support@seattlefoodtruck
+com but note that we may retain certain information as required by law or for legitimate business purposes
+we may also retain cached or archived copies of information about you for a certain period of time
+location information from time to time, we may ask for your location in order to provide you with information about food trucks that may be near to you
+if you provide this information, we will collect it and provide you with information about such food trucks
+if you choose not to provide your location information, we will not be able to provide you with this information
+cookies most web browsers are set to accept cookies by default
+if you prefer, you can usually choose to set your browser to remove or reject browser cookies
+removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our services
+to delete or disable flash cookies please visit http
+html for more information
+please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services
+promotional communications you may opt out of receiving promotional emails or text messages from company by following the instructions in those emails or text messages or by emailing us at support@seattlefoodtruck
+if you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations
+mobile push notifications/alerts with your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device
+you can deactivate these messages at any time by changing the notification settings on your mobile device
+contact us if you have any questions about this privacy policy, please contact us at
+5425 ballard ave nw, suite 4, seattle wa 98107 or by email at support@seattlefoodtruck
+book a food truck bring seattle’s best food trucks to your next event
+book a food truck now
+on the blog top 5 food trucks
+best noodle dishes april 20, 2018 food truck q&a
+chebogz march 29, 2018 food truck q&a
+roll ok please march 21, 2018 join our mailing list submit get the details on pods, trucks and menus sent straight to your inbox
+about blog privacy policy terms of service powered by curbside provisions
+© 2020 all right reserved

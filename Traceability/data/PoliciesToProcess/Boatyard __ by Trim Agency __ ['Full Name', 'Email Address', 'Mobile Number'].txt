@@ -1,0 +1,158 @@
+get in touch ×
+please enter your name
+please enter a valid email address
+we'll be in touch with you soon
+how can we help you
+rec 90 fuel rec 90 fuel diesel fuel captain services boatyard wash boatyard detail service bottom clean boating lessons whatever
+enter a valid name
+enter a valid email
+enter a valid name
+enter a valid email
+share with my friend
+send a $10 boatyard credit to a friend and receive a $10 credit when they become a customer
+because friends don't let friends service their own boat
+, owner and operator of the boatyard
+com website and the boatyard and vandutch mobile applications (“apps”), (“boatyard”, “we”, “us”, or “our”) recognizes the importance of privacy
+in this privacy policy, we describe how we collect, use, and disclose information that we obtain about visitors to our website and apps (the “site”), and the services available through our website and apps (collectively, the “services”)
+by visiting the site or using any of our services, you agree that your personal information will be handled as described in this privacy policy
+your use of our site or services, and any dispute over privacy, is subject to this privacy policy and our terms of service, including its applicable limitations on damages and the resolution of disputes
+our terms of service are incorporated by reference into this privacy policy
+this policy is effective as of september 8, 2015
+boatyard may update this policy from time to time
+any changes to this policy will be posted below for a period of thirty (30) days and will be effective when posted
+the changes will also be immediately incorporated into this policy
+your continued use of the site and/or apps after any changes are made to this policy constitutes your acceptance of the changes
+if any of the changes are unacceptable to you, you should cease using the site and/or apps
+if any changes to this policy affect how boatyard treats or handles personally identifiable information already provided to boatyard by you, boatyard will notify you by email (if boatyard has a valid email address to use) and give you thirty (30) days to opt out of the changes as they pertain to your information
+the types of personal information we collect and how we use it
+we may collect personal information about you directly from you, through your use of the site or services, or from third parties
+in general, we collect the following types of information about you
+account information for boatyard
+if you would like to use the services, you must first register for an account (“user account”)
+you can register either through our mobile application or our website directly
+if you sign up for a user account, we ask you for your first and last name, billing address, mailing address, gender, age, telephone number, email address, boat information, and credit card information
+each user account is for a single user only
+we also may collect optional information such as your contact information and your location (see below) and certain demographic information
+information that we may collect about you through all of our services
+we may collect information about your transactions with us and with some of our business partners, including information about your use of services that we offer
+in the course of using the site or services, we may ask you to provide us with contact information that can be used to contact or identify you, including your home phone number, email address and mailing address
+mobile app user information
+when you launch our boatyard apps or services, we may collect your device type, the unique device id issued by the smartphone provider and/or your mobile provider (“ device id ”), operating system being used, browser version and ip address, if applicable
+we use the device id to authenticate users, and to understand how users use our service or third-party services that they access through our services
+in addition, we may use this information for advertising purposes
+our use of your device id enables us to identify you personally, and we store this information in connection with your boatyard user account information in order to make your log-in faster
+we may also collect other information about your use your use of our services and applications, and may, from time-to-time, ask users to participate in surveys
+how we use your personal information
+in general, we use the personal information we collect about users for the following reasons
+to respond to request or inquiries from users, and for other customer-service related purposes
+to enforce this policy and our terms
+to analyze how people use our site, services, and apps
+to improve the design, content and performance of our site and services
+for market research purposes
+notwithstanding anything else in policy to the contrary, we may freely use aggregate and non-personally-identifying information about users for marketing and research
+how we disclose your personal information
+boatyard may share personal information about users with select third parties, such as service providers and business partners, as stated below
+service providers and agents
+we may disclose the personal information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf
+these third parties have agreed to maintain the confidentiality, security and integrity of this personal information and to only use such information for the purposes for which they have been engaged by us
+if we are acquired by or merged with another company, if substantially all or a part of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the acquiring company
+in response to legal process
+we may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a subpoena
+to protect boatyard and others
+we may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of our terms or this policy, or to protect boatyard in litigation
+depending on the nature of the activity, such as when you upload/post content with personally identifiable information (“pii”) to the site and/or apps, other users may be able to view your pii
+boatyard also reserves the right to modify or delete any content or pii you upload/post to the site and/or apps
+we generally retain your pii indefinitely
+boatyard may use your pii to
+respond to questions or comments you have about boatyard and its services
+set up and administer your site/apps account and related user profile
+contact you about boatyard services
+verify your authority to enter or use the site and/or apps
+improve the content and general administration of the site and apps
+boatyard may collect additional pii in connection with contests and promotions in which you participate
+any additional pii collected will be identified in the rules appslicable to the contest or promotion
+boatyard will send emails containing newsletters, announcements relating to boatyard, the site and the apps, as well as promotions in which you may participate
+if you would like to opt out of receiving further promotional emails from boatyard, please follow the opt out instructions at the bottom of the email or send boatyard a detailed email to info@boatyard
+boatyard may use your pii and you other information, including geo-location information collected by the apps based on the location of your smartphone, to help us display information and advertising which is relevant to you and your interests
+the boatyard mobile apps
+standard data and other fees may be charged by your mobile phone carrier when using the apps, so please be aware of them
+review of collected pii
+if you would like to review or edit any pii boatyard collected from you, or wish boatyard to cease using your pii in the manners specified in this policy, please contact boatyard at info@boatyard
+please be as specific as possible in your request
+if the request relates to information that boatyard needs to make the site and/or apps function properly for you, you may not be able to use the site and/or apps properly moving forward
+you may also uninstall the apps if you want the apps to cease collecting information from you
+please note that boatyard reserves the right to maintain proper business and transactional records required by law, even if such records contain your pii
+response to “do not track” requests
+boatyard does not act on or respond to “do not track” requests
+cookies and log data
+when you interact with our site, we strive to make your experience easy and meaningful
+we or our third-party service providers may use cookies, web beacons (clear gifs, web bugs) and other technologies to track user activity and collect site data
+cookies are alphanumeric identifiers that websites transfer to your computer's hard drive through your web browser for record-keeping purposes
+cookies cannot damage user files, nor can they read information from a user's hard drive
+cookies allow websites to “remember” certain information about a user’s activities on a website
+we use cookies at our site to determine the number of unique visitors to the site and to track other information about user activities on the site
+we do not store any personal information in cookies, but we do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities
+we also use cookies to store user preferences and to allow you to remain logged in as you use our site
+boatyard alsouses google analytics advertising features to better understand the use of our website
+these features include remarketing, impression reporting, integration with double - click and demographic and interest reporting
+you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences
+the help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether
+if you disable cookies, you may still browse our site, but some of our features may not work
+web beacons (clear gifs/web bugs)
+we or the third parties we employ may use web beacons (a
+clear gifs/web bugs) on our site to help us better manage content on the site
+web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users
+in contrast to cookies, which are stored on your computer's hard drive, web beacons are embedded invisibly on web pages
+we may also use web beacons in our html-based emails, to let us know which emails have been opened or forwarded by recipients
+as noted above, we may employ third-party service providers to perform site functions for us, such as serving customer content, collecting ip address and anonymous traffic data, or performing site analytics
+these vendors may place and read cookies or web beacons on your browser to perform these functions
+in addition, we may participate in third party ad networks and make available to our site users specific offers from third-party companies
+these companies and ad networks may utilize cookies and web beacons in connection with the delivery of their offers and to serve ads based on your use of our site or other internet sites
+their use of cookies and other tracking technologies is subject to their respective privacy policies, not this one
+we will not share your personal information with these third parties
+opting out of third-party ad networks
+if you wish to opt-out of receiving cookies from certain third party ad networks, you may do so through the network advertising initiative cookie opt-out page, which can be found at http
+you may also visit www
+info to learn more about online advertising, and to opt-out of certain online behavioral advertising activities
+boatyard uses industry standard technological security measures that are reasonably designed to help protect your pii from loss, unauthorized access, or disclosure
+boatyard uses ssl encryption to help prevent unauthorized access to pii you transmit to the site
+while boatyard takes the issue of protecting your pii seriously, you should exercise discretion in what information you disclose and/or transmit to the site and/or through the apps
+boatyard cannot guarantee that information sent over the internet or through a mobile application is fully secure, and therefore the transmitted information may be intercepted by others before it reaches boatyard
+if you are concerned about sending information to boatyard over the internet or through a mobile application, please send the information by mail or call us to make other arrangements
+boatyard is not responsible for the security of information sent over the internet or through a mobile application
+the site and apps are meant for individuals within the united states
+boatyard only knowingly collects information from individuals within the united states
+if you provide information to boatyard from outside of the united states, you do so at your own risk
+if you are outside of the united states, you are responsible for complying with any local laws regarding use of the site and apps, and related data collection
+this policy only addresses data collection from individuals within the united states
+you also agree and acknowledge that by providing any information, including pii, through the site and/or apps, that such information will be transmitted to, and stored in, the united states
+external links and interaction with other sites
+the site and/or apps may contain links to external websites or other mobile applications not controlled by boatyard
+boatyard is not responsible for the privacy practices and data collection policies for such third party sites and mobile applications
+you should consult the privacy policies of those sites and mobile applications for details
+for example, you may be required to review and agree to the boatyard terms of use or other terms and conditions of the vendors who offer rewards through the site or apps
+also, since some your pii will be shared these vendors, links to the vendor’s privacy policies will be made available to you for review
+you should review any vendor privacy policy so you understand how the vendor may treat your personal information
+boatyard may also allow interaction between the site and/or apps with other sites or mobile applications such facebook or other social media providers
+this may include the “like” button or other plugins available through the site or apps that allow you to share information with persons outside of the site or apps
+please consult the privacy policies of those third party providers before using them to make sure you are comfortable with the level of sharing
+our services are not designed for children under thirteen (13) years of age
+if we discover that a child under 13 has provided us with personal information, we will promptly delete such information from our systems
+if you have any questions regarding this policy, please contact boatyard at
+it is the policy of boatyard to strictly enforce this policy
+if you believe there has been some violation of this policy, please contact boatyard
+this policy was last updated on september 8, 2015
+west palm beach fuel delivery
+following us is another great way to get involved
+thank you for your support
+enter a valid email
+don't have an account yet
+get signed up today
+it only takes a few minutes, and you're in
+join the boatyard family
+enter a valid first name
+enter a valid last name
+enter a valid email
+enter a valid phone number
+i agree to the terms of use
+your information has been saved

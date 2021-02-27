@@ -1,0 +1,992 @@
+tencent privacy protection platform
+technology is deployed for social good and data is put in manageable use
+it is tencent’s lifeline to protect users’ information security and privacy
+adhere to the tencent privacy protection pbd guideline
+p, stands for “person”, representing users’ privacy as
+the essence of our protection
+b, stands for “button”, providing “privacy button” (product design) to offer users
+a reasonable and efficient privacy protection channel
+d means “data”, representing data security, which we
+provide our users an overall data security protection
+security safeguard and reliance
+we try our best to prevent your information from breach, damage or loss via effective and
+reasonable information security technology and administrative process
+protection of communication secret
+we will strictly protect your communication secrets in compliance with the applicable laws
+we provide you convenient privacy management options so that you may make proper choices
+to control or manage your privacy
+we will collect necessary data so that we can provide you and other users with better
+service in order to achieve products' functions
+we endeavor to introduce our privacy policy in an easy and straightforward way and help
+you better understand our information process practice
+integrate privacy pbd principle with tencent’s product designs
+we take legal, product, design and other elements into considerations of every aspect of
+our product and service development, to integrate with privacy pbd principle, in order to carry out the
+methodology of tencent pbd privacy protection
+p, stands for “person”, representing our user-centric work attitude, and it stress on
+improving the transparency of user data processing
+b, stands for “button”, which represents controlling, by
+providing convenient information management function, to allow users to control their own personal information
+d, stands for “data”, representing data security, which we provide our users an overall data security
+protection with comprehensive and effective security techonologies and standard procedures
+· 我们如何使用收集的信息 how we use the information we collect
+· 我们如何使用cookie及相关技术 how we use cookies and relevant technologies
+· 您如何管理自己的信息 how to manage your own information
+· 我们可能向您发送的信息 information we may send to you
+· 存储信息的地点和期限 place and period of information retention
+· 什么是cookie what is a cookie
+· 腾讯使用cookie的目的 why do we use cookies
+· 如何管理cookie how to manage cookies
+tencent adheres to the following privacy protection principles and is committed to
+providing you with more secure and reliable service
+security safeguard and reliance
+we try our best to prevent your information from breach, damage or loss via effective
+and reasonable information security technology and administrative process
+we provide you convenient privacy management options so that you may make proper
+choices to control or manage your privacy
+protection of communication secret
+we will strictly protect your communication secrets in compliance with the applicable
+we will collect necessary data so that we can provide you and other users with better
+service in order to achieve products' functions
+we endeavor to introduce our privacy policy in an easy and straightforward way and
+help you better understand our information process practice
+integrate privacy pbd principle with tencent’s
+we take legal, product, design and other elements into considerations of every aspect
+of our product and service development, to integrate with privacy pbd principle, in order to carry out the
+methodology of tencent pbd privacy protection
+this privacy policy mainly explains
+what information we collect
+how we use that information
+we hope that you will read this privacy policy (this "privacy policy") to understand
+how we collect and use information in order for you to further understand our services and to make
+by using tencent service, you agree to the contents contained in this policy
+otherwise defined herein, the terms used in this privacy policy shall have the same meanings as those
+defined in the tencent service agreement
+should you have any queries, please contact
+based on the principle of lawfulness, fairness and necessity, we will only collect the
+following information that is necessary for the purpose of
+achieving the product's function
+information you provide to us
+information you provide to us when registering an account
+for example, the nickname and phone number provided by you when registering a qq or
+information you upload whilst using our services
+for example, your uploaded profile picture and pictures shared whilst using qq or
+information provided by you via our customer service or whilst participating in our
+for example, the questionnaire you completed when participating in our online
+activities may include your name, contact number, home address or other related information
+some of our service may need you to provide your selected sensitive personal information to achieve specific functions
+if you choose not
+to provide such information, you may not be able to use specific functions in the service, but it will not
+affect the usage of other functions
+if you provide your sensitive information for us voluntarily, you
+agree that we process your personal sensitive information in accordance with the purposes and methods
+provided in this policy
+information we may collect when you use our services
+日志信息。 当您使用我们的服务时，我们可能会 自动收集 相关信息并存储为服务日志信息。
+collect and store relevant information as the service log when you use our services
+例如， 设备 型号、操作系统版本、 唯一设备标识符 、电池、信号强度等信息。
+for example, device model,
+operating system version, unique device identifier ("udid"), battery, signal strength, and other information
+for example, software version and browser type
+to ensure the security of the
+operating environment or to provide the necessary services, we will collect information in relation to
+your usage of mobile applications and other softwares
+for example, information collected when you use our services to search or view,
+crash logs information, recommended sites and other information
+for example, the accounts you communicated with, the time and period when you use
+we may collect location data of your device when you use the location-related
+services, in order to provide relevant service for you
+在您使用服务时，我们可能会通过 ip地址 、 gps 、wlan（如 wifi )或 基站 等途径获取您的地理位置信息；
+we may collect your geographic location data via ip
+address , gps , wlan( wi-fi ),
+or base station when you use the services
+geographic location data provided by you or by other users when using the services
+for example, the location data detailed in your account, or geographical indications contained in photos
+shared by you or other users
+for you to better use our product or service, we will collect relevant information,
+for example, the friends list, group list information, and voice print
+also, if you choose to turn on
+"import contacts" feature we will encrypt name and phone number of your contacts and collect encrypted
+information in order to connect you with people you know who also use our service
+your information contained in the information shared by other users
+for example, photos or videos published by other users may contain your information
+information from third-party partners
+we may have cooperation with third-party partners
+therefore, we may obtain the
+information that is shared or generated when you use a third-party service
+for example, when you log in a
+third-party service with your wechat or qq account, we will know the name of such service and your log-in
+time so that it will be convenient for you to manage the authorization
+please read the third-party
+service user agreement or privacy policy carefully
+how we use the information we collect
+subject to applicable laws and regulations or agreements with users, we may use the
+collected information in the following ways
+if we use your information for purposes beyond the following
+purposes, we will explain to you again and ask for consent
+to provide you with our services
+to meet your personal needs
+for example, language settings, location settings and other personalized services
+product development and optimization
+for example, when our systems have malfunctions, we will record and analyze the
+information generated when the system crashes, so as to further optimize our services
+for example, we will use your information for identity authentication, safety
+precautions, anti-fraud monitoring, storage and backup, customer safety service and other applications
+for example, the safety software downloaded or installed by you will detect malicious programs or viruses,
+or identify fraudulent information
+to recommend ads, news etc
+that you may be interested in to you
+to evaluate and improve the effect of ads and other promotions in our services
+for example, software certification and software updates, etc
+to include your participation in survey activities about our product and services
+subject to applicable laws and regulations, in order to provide you with a better user
+experience and to improve our services, or upon your consent, we may apply the information collected from
+certain services to other services provided by us
+for instance, we may use your information collected or
+generated when you use our certain services to show you personalized content or advertisement and for user
+analysis and statistic service
+to ensure the security of our services, and to help us further understand the state of
+performance of our applications, we may record relevant information, for example, the frequency of your
+usage, crash logs information, overall usage, performance data and source of application
+we do not link the
+information we store within the mobile analytics software to personally identifiable information you submit
+within the mobile application
+how we use cookies and relevant technologies
+we and our third party partners may collect your information via safely inserted cookie and relevant technologies , for the purposes for
+providing you with more personalized user experience and service
+we will strictly require such third party
+partners to observe relevant requirements of this policy
+you may set or mange cookie via your browser settings
+but please be noted that you may
+not enjoy the best service experience and certain service may not be used if you stop using cookie
+hope to learn more information about the security of cookie, you may refer to the cookie policy statement
+our services may allow you to share your relevant information with your friends and
+family and other users
+for example, you can share texts and pictures publicly in your "wechat moments"
+please be noted that such information may contain sensitive information including your
+personal identity information and personal property information
+please prudently consider disclosure of
+your relevant personal sensitive information
+you may control the scope of information shared by you and you may also delete the
+information publicly shared using the service setting or according to our guidance
+information may still have been retained independently by other users or unrelated third parties which we
+are not able to control
+how to manage your own information
+you may access, amend and delete information provided by you during the registration
+of your account or other personal information when using our services, or contact us via the notice
+the scope and the way in which you access, amend or delete your personal information depend on
+the service you use
+for example, when using geographical related service, to stop sharing your
+geographical information, you can stop it by turning off cellphone positioning function, or according to
+methods provided by software and hardware service providers and communication service providers
+read relevant guidance carefully
+we will collect and use your information only for achieving the functions of our
+products or services in accordance with this policy
+if you find that our collection or use of your personal information is not in
+accordance with the laws, administrative regulations or the agreement of both parties, you can require us
+to delete such information
+if you find that we have collected or stored your wrong personal information, you can
+also require us to correct it
+please contact us via the
+contact details listed in this privacy policy
+for account security purposes, we may ask you to verify your identity before we allow
+you to access, amend and delete relevant information
+please understand that due to technical limitations, legal or regulatory
+requirements, we may not be able to meet all your requests
+we endeavor to respond to your requests within
+a reasonable period of time
+we will strictly limit the sharing of information in accordance with the laws and
+we may share your personal information with a third party other than our data
+processors with your prior consent
+for the purpose of external processing, we may share your personal information with
+third-party business partners (third-party service providers, contractors, agents, advertising partners,
+, for example, the telecommunication service providers who send out emails and
+push notifications on our behalf, or the map service providers who provide us with location service) (they
+may not be located in your jurisdiction), and require them to follow our instructions, the privacy policy
+and any other relevant confidentiality and security measures to process the above information for us and
+for the purposes of
+providing you with our services
+implementing the purpose of the section "how we use the information we collect"
+performing our obligations and excising our rights as provided in the tencent service agreement and this privacy policy
+understanding, maintaining and improving our services
+should we share your personal information with third parties mentioned above, we
+will use encryption, anonymization or other means to protect your information security
+with the development of our business, when mergers, acquisitions, asset transfer or
+other transactions happens, we will inform you of such circumstances by pushing notifications or notices,
+and continue to protect or require new controllers to continue to protect your personal information in
+accordance with the applicable laws and regulations and the standard of protection which will not be lower
+than that under this privacy policy
+we may use the collected information for big data analysis
+for example, we may use collected information for analysis to generate urban heat map
+or industry insight report which contains no personal identifiable information
+we may make it public and share it with our partners the post-processed information
+that does not contain personal identifiable information, to understand how users utilize our services or
+to enable the public to better understand the overall use of our services and other purposes
+we may disclose your personal information due to the following purposes
+to comply with the applicabl laws and regulations
+to comply with court decisions, rulings or requirements of other legal procedures
+to comply with the requirements of relevant government agencies or other relevant
+we have reasons to believe that we need to comply with applicable laws and
+reasonable and necessary purposes to implement relevant service agreements or this
+privacy policy, or to protect public interest, personal safety and property and other legitimate rights
+of our clients, ourselves, our affiliates, our users or employees
+information we may send to you
+when you use our services, we may send emails, text messages, news or push
+you may follow the relevant notice to unsubscribe on the device
+we may send you announcements related to service if necessary (for example, the
+suspension of certain service due to system maintenance)
+you may not be able to cancel these non-promotional service-related announcements
+place and period of information retention
+where we store information
+we will store users personal information collected within mainland china within the
+territory in accordance with applicable laws and regulations
+period of information retention
+in general, we will retain your personal information in the shortest possible time to
+fulfill the purpose of collection of such information
+however, for the following purposes, we may change
+the retention period for the purposes of compliance
+to comply with the relevant laws and regulations
+to comply with court decisions, rulings or requirements of other legal procedures
+to comply with the requirements of relevant government agencies or other legally
+we have reasons to believe that we need to comply with applicable laws and
+reasonable and necessary purposes to implement relevant service agreements or this
+privacy policy, or to protect public interest and to protect personal safety and property and other
+legitimate rights and interests of our clients, ourselves, our affiliates, our users or employees
+should the operation of our products or service terminate, we will inform you in the
+form of push notifications, announcements, etc
+, and delete or anonymize your personal information within a
+reasonable period of time
+we take security measures to protect your information against loss, improper use,
+unauthorized access or disclosure
+we will strictly protect users communication in accordance with the applicable laws
+we will work within the reasonable security standards and use a variety of security
+measures to protect the security of information
+for example, we will use encryption technologies (such as tls, ssl ), anonymization and other means to protect your personal information
+we have established a specialized management, process and organization system to
+for example, we strictly restrict the scope of personnel who can access information,
+and require them to comply with their confidentiality obligations and conduct audits
+in the event of a breach of security incident of personal information, we will
+activate emergency response plan to prevent the expansion of such security incident and inform you in the
+form of push notifications, public announcements and etc
+we may use your information to provide you with more relevant advertisements on
+relevant sites, apps, and other channels
+you can learn more at about our advertising
+we attach great importance to the protection of personal information of minors
+in accordance with the relevant laws and regulations, if you are a minor under 18
+years old, you would be required to obtain you parents' or legal guardian's consent prior to using tencent
+if you are the guardian of a minor and have queries in relation to your minors'
+personal information, please contact us through the contact details provided in section 13 below
+all of our services are subject to this privacy policy
+however, some services have their own specific privacy guidance/statement, such
+specific privacy guidance/statement describe how we process your information in the service more
+if this privacy policy is inconsistent with the privacy guidance/statement of a
+particular service, the privacy policy of that particular service shall prevail
+please note this privacy policy is not applicable to services provided by other
+for example, you may log in services provided by other companies or individuals with
+your use of such third-party services is subject to the terms and privacy policy of
+such third-party services (rather than this privacy policy), and you need to read their privacy practice
+should you have any enquiries in relation to this privacy policy or other related
+matters, please contact us via https
+in accordance with the provided
+guidelines , you may also complete the relevant details and send your queries to
+or post it to the following mailing address
+tencent legal department- data & privacy centre, tencent building, science
+and technology park road, nanshan district, shenzhen, guangdong province, china
+we will review your queries and reply within 15 days after verifying your user
+changes to privacy policy
+we may update and revise this privacy policy from time to time,
+and if such changes result in a substantial impairment of your rights under this
+privacy policy, we will notify you by sending you an e-mail and by reminding you at prominent place on the
+webpage before the changes take effect
+under such circumstances, if you continue to use our services, you will be deemed to
+have agreed to be bound by the updated policy
+truedepth does not keep information such as faceid without proper authorization
+truedepth apis are used in the video shooting feature of pitu app, especially when
+you apply the special effects of ar changing face feature
+truedepth apis improve the vision effects by conducting image rendering and it is the
+sole use of truedepth apis
+the use of truedepth apis does not collect and share any user’s face informationand
+does not record any user’s face information by any means including but not limited to generating any cache
+memory and uploading data to cloud, etc
+what is a cookie
+a cookie is a neutral technology that enables a website server to store data on your
+device or to read data from your device
+a cookie file stores certain information about a user's access or use of the website
+and is in the format of
+the content of a cookie is usually encrypted
+a safe cookie technology may bring more convenient service to users when surfing
+why do we use cookies
+cookies are important in improving user experience
+tencent generally uses cookies for
+cookies notify us when you sign into our services so that we can authenticate your
+identity to ensure the security of your account
+for example, cookies will notify us when you log into tencent services, so we can tell
+whether it is logged in safely by yourself and show you your relevant information when you access to any of
+cookies allow us to provide service for you according to personalized settings which
+based on your preferred look and appearance of our services
+for example, we use cookies to record whether you have read certain notifications to
+we also use cookies to remember your personalized text display settings (such as
+font, text size etc
+our websites will make automatic adjustments according to your previous settings
+cookies help us to protect the security of our data and services, and to detect
+cheating, hacker and fraudulent activities against our products or services
+for example, we use cookies to store security identifier, which is used by a server to
+verify whether you log into our website by yourself in a regular manner
+the security identifier contains
+encrypted information and allows us to block many kinds of attacks, prevent cross-website information theft
+and unauthorized attempt using other's identification
+cookies may help us to provide better products and services for users
+for example, when you log in, your user name recorded in cookies during your previous
+use of our services will be automatically filled in to provide you a more efficient service
+cookies could avoid unnecessary server load, improve service efficiency, and reduce
+resource and energy consumption
+for example, cookies may help us to route traffic among servers and measure the loading
+speed of different users
+sometimes we may use cookies for faster loading and response during your use
+we use these cookies to understand, improve our products and services and to provide
+reference data for the research and development of new products or features
+for example, we use cookies to understand how you use our services in order to improve
+when you log in our services, we may collect information such as time spent during each
+step of your log in process so as to help our research and analytics to further optimize and improve our
+we use cookies to make our advertising more engaging to the users and more valuable to
+for example, cookies may help us to provide you advertising that you may be interested
+in on tencent’s websites or in our software
+we also use cookies to know whether a user who saw an ad on tencent’s website later
+visits the advertiser’s website
+similarly, our partners may use a cookie to determine whether we have shown an ad and
+how it performed, or provide us with information about how you interact with ads
+how to manage cookies
+most browsers give you the ability to manage cookie features
+when you manage browser cookie settings, you can allow cookies from sites you trust
+while disable cookies from other sites
+for example, you can manage cookies in the content settings of qq web browser
+at the same time, you can enable “do not track” (“dnt”) feature so that you will not
+be tracked by cookies
+please notice, if you disable cookie, you may not be able to enjoy the best service
+experience, some services also may not work properly
+this is information recorded in an electric form or other forms that can identify an
+individual itself or when it is associated with other information
+personal information includes, without
+limitation, the individual's name, date of birth, identification card number, biometric identifier,
+address, telephone number etc
+personal sensitive information refers to personal information that once leaked,
+illegally provided or misuse, it will probably danger personal and property safety, or is extremely easy
+to cause damage or discriminable treatment to personal reputation, physical and mental health
+personal sensitive information include, but are not limited to, an individual's national id number,
+biometric information, bank account information, telecommunication content, health and physiological
+a device is an equipment that can be used to access tencent services, such as a
+desktop computer, a laptop computer, a tablet or a smart phone
+唯一设备标识符（专属 id 或 uuid）是指由设备制造商编入到设备中的一串字符，可用于以独有方式标识相应设备（例如手机的 imei
+a unique device identifier (sometimes called a unique id or udid) is a string of
+characters that is incorporated into a device by the manufacturer and can be used to uniquely identify
+that device (for example, an imei number of a mobile phone)
+unique device identifier can be used for
+various purposes, including providing advertising without using cookies (for example, in applications for
+每台上网的设备都会指定一个编号，称为互联网协议 (ip) 地址。这些编号通常都是根据地理区域指定的。ip 地址通常可用于识别设备连接至互联网时所在的位置。
+every device connected to the internet is assigned a number known as an internet
+these numbers are usually assigned according to geographic areas
+an ip address can
+often be used to identify the location where a device is connecting to the internet
+gps is short for global positioning system
+the gps receiver on your device receives
+signal from a gps satellite to calculate your location
+wi-fi is a technology for electric devices to connect to a wireless local area
+wi-fi is usually referred to as wireless network
+base station, also known as public wireless telephone base station, is a form of
+wireless communication station, which refers to a radio transceiver station communicating with mobile
+phone terminals via a mobile communication switching center in a specific area with radio coverage
+ssl is short for secure socket layer, it is a security protocol implemented on top of
+ssl supports various network and it provides three basic security services, all of which
+are enabled by a public key and a symmetric key
+automated collection technology we mentioned in our privacy policy includes
+a cookie is a small piece of text file placed onto your device (your pc, mobile
+phone or other smart terminal devices) by a website server, which can be used to improve your user
+please refer to cookie policy for details
+2 web beacon（网络信标） web beacon
+a web beacon is an embedded image file or other techniques embedded in a web page
+or email, which allows checking the number of visitors, recording whether and when an email is read or a
+web page is visited
+some web beacons can also be used in association with cookies
+3 log files（日志文件） log files
+log files records some automatically collected data
+such data includes internet
+protocol (ip) address, browser type, internet service provider (isp), referring/exit pages, operation
+system, time and date stamping and number of clicks etc
+4 et tag（实体标签） et tag
+et tag is the header of http protocol, behind the communication between an internet
+browser and an internet server
+it can be used to replace cookies in tracking some users so as to help
+us understand better and improve our services
+javascript is a programming language used to make more interactive and dynamic
+javascript can be used to set, read and remove cookies
+wechat is a social networking application developed by tencent
+wechat app has passed
+and been recognized as a grade iii information system in accordance with the administrative measures for the
+graded protection of information security of the p
+wechat has also received international
+information security certification such as iso27001, iso 17799/bs7799 information security certification and
+in order to better secure users’ privacy and personal information, wechat offers
+designated privacy settings and account security measurements which provide users lifecycle information
+a user is able to search, edit, share and delete his/her information
+there are four keys at the bottom of wechat login home page
+a user can review and edit relevant information using these four keys
+search chat history、files sent and received
+click “chats” to search chat history, files sent and received
+search wechat friends and verification requests
+click “contacts” to search wechat friends and verification requests
+click “discover” and search moments status in “moments”
+click “discover”, select “shake” and click the settings on the top right corner to
+search “greetings“, history message in “shake” and message received in “shake”
+review and edit wechat profile photo, wechat
+nickname, delivery address and other personal information
+click “me”, select “personal information” to search wechat profile photo, wechat
+nickname, wechat id, wechat qr code and delivery address
+a user can also edit profile photo, nickname
+other information such as gender, region and “what’s up” can be reviewed and
+edited by clicking “more”
+search and edit linked phone number, wechat
+password, voiceprint, emergency contacts, manage devices, qq id and email
+click “me”, select “settings”, then click “account security” to review and edit
+linked phone number, wechat password, emergency contacts, manage devices and voiceprint
+further review and edit qq id and email by selecting “more settings”
+review and edit linked bank cards, payment
+password, transfer time and bills
+点击“我”，查询钱包、零钱、相册，并修改钱包内银行卡的绑定、支付密码及转账到账时间；点击“我”→ “钱包” → 右上角符号 → “账单”，查看您的账单
+click “me”, search wallet, balance and photo album and edit linked bank cards,
+payment password and transfer time
+you can review your transaction history by clicking “me”, select
+“wallet”, then click the key on the top right corner and choose “transactions”
+search your moments status
+click “me”, then “my posts” to search moments posted
+a user can share information by forwarding it to a particular friend or a group chat
+or share it to moments
+click “discover”, select “moments” and then click the video key to post photos,
+words, or videos in moments
+set moments view permissions and review scopes
+click “contacts”, choose a particular wechat friend, click details, then tap “· ·
+·” key on the top right corner to set moments and time capsule privacy ,deciding whether to hide your
+moments posts from him/her
+click “me”, select “settings”, then tap “privacy” to set moments post view
+permissions uniformly and viewable by others (a user can select either last 3 days, last 6 months or
+all) and decide whether to make last 10 posts to public
+wechat provides two ways to delete personal information
+(1) “swiping left” and (2) clicking “delete”, “remove”, “clear” or “account
+delete chat history and chat files
+click “chats”, select a wechat friend or a wechat group or a “file transfer” and
+delete particular chat history or chat file by swiping to the left
+click “me”, select “my profile”, choose “region” and swipe left to delete address
+click “me”, select “wallet”, tap the key on the top right corner and choose
+swipe left to delete transaction information
+delete voiceprint, emergency contacts and
+click “me”, select “settings” and “account security”, choose “voiceprint”,
+“emergency contacts” or “manage devices” and swipe left to remove corresponding contents
+delete information in “shake”
+click “discover”, select “shake”, click the settings on the top right corner and
+then choose “shake history”
+swipe left or click the “clear” on the top right corner to remove shake
+delete location information in “people nearby”
+click “discover”, select “people nearby”, then click“· · ·”key on the top right
+corner and select “clear location information and log out” to remove location information
+nearby” is off, you can turn on by clicking “me”, “settings” then choose “general”, “manage discover” to
+turn on “people nearby”
+click “me”, select “my posts” or click “discover” and select the posts in “moments”
+and remove by clicking “delete”
+click “me”, select “settings” and “account security”, then choose “wechat security
+center” and tap “account cancellation”
+please note once your account is cancelled, we will delete or anonymize your
+please refer to important notice for details
+weixin privacy protection guideline
+weixin privacy protection guideline (“guideline”) provides an explanation to how
+wechat collects, uses, stores, secures, and shares a user’s personal information
+informs a user her rights, amendments, protection of minors, and contact us
+a user can search and review the guideline by clicking “me”, select “settings”, tap
+“privacy”, scroll down to the bottom and click “terms and privacy”
+we created wechat security center implementing our principle of “secure with every
+a user can recover wechat account password, unblock an account, freeze an account, unfreeze
+an account, file complaints and cancel an account etc
+a user can log in wechat security center by ways of
+(1) turn on wechat, click “me”, select “settings”, tap “account security” and choose
+(2) log in wechat security center webpage
+wechat also provides “tencent customer service” wechat official account, “tencent
+customer service” mini program, “tencent reporting center” mini program and “help and feedback”
+can search and seek answers using these services
+a user can retrieve relevant information by clicking
+“chats” and tapping “search” or clicking “discover” and running a search of the program names in “mini
+programs” or clicking “me”, selecting “settings” and entering into “help and feedback”
+tencent qq is an internet based instant messaging (im) software service which is widely
+available on microsoft windows, os x, android, ios and windows phones
+tencent qq offers features such as
+online chatting, video call, point to point file transfers with functions of transfer resuming after
+interruption, file sharing, cloud storage and qq email
+it also enables the connections among varies types
+to better protect users’ privacy and information security, qq provides designated
+privacy settings and account security measurements which enable a user to search, edit, share and delete her
+there are four keys at the top left corner and bottom of qq login home page
+“higlights”, “chats”, “contacts” and “status”
+a user can review and edit personal information using these
+search, edit information such as avatar,
+nickname, what’s up, gender, age, photo etc
+click “avatar” on the top left corner to search avatar, nickname, what’s up, qq id,
+gender, qq grade, photo, age, personal tag, region, qr code etc
+search account, payment code and cards
+click “avatar”, select “wallet” to review account, payment code, cards and etc
+search and edit shipping address, payment
+password, real-name authentication, gesture lock and other transactional information
+click “avatar” and select “settings” on the bottom left corner to review
+information including transaction history, address management and real-name authentication
+also edit shipping address, real-name authentication information, payment password, gesture lock, pay
+with touch id and etc
+search favorites, photo album and files
+click “avatar”, then select “my favorites”, “my photo album” and “my files” to
+search and edit account information
+click “avatar”, select “settings” to search and edit account information including
+account management (multiple login accounts or associated qq ids), linked phone number, linked accounts,
+device security (password linked phone number, authentication device, on-line status, pattern and touch
+search chatting history, group messages,
+temporary messages, service account, official account etc
+click “chats” to search chatting history, group messages, temporary messages,
+service account, official account, received and sent files, push features etc
+search friends, special attention, group chats,
+devices, contacts, friends’ qzone status, hobby groups and etc
+click “contacts” to search friends, special attention, group charts, devices,
+contacts and official accounts
+click “contacts” and select “new friend” to search friend request,
+click “status” to search friends’ status, nearby and hobby groups
+search and edit features turned on
+click “status” and select “more” on the top right corner to search and edit
+a user can share information by forwarding “my favorite”, “my photo album”, or “my
+files” to a particular friend or a group chart or share it to qzone
+click “avatar” on the top left corner, select “my favorite” or “my photo album” or
+“my files”, then tap “forward” to share the information
+click “status”, select “friend status” then click the “add” key on the top right
+corner, share comments, photos and videos in qzone
+qq provided two ways to delete personal information
+(1) “swiping to the left” and (2) click “delete” or “clear”
+a user can also access
+account cancellation information through qq personal computer terminal
+click “avatar” on the top left corner to remove basic information
+delete information such as “favorites” “photo
+click “avatar” on the top left corner, select “qq wallet (click in account)” or “my
+favorite”, or “my photo album (as in qzone)” or “my files” and swipe to the left
+click “avatar” on the top left corner, select “settings”, then choose “account and
+device security” to remove accounts and login authentication devices
+delete chat history and chat files
+click “avatar” on the top left corner, select “settings” and choose “chat history”
+to clear or click “messages” and remove relevant chat history or files by swiping to the left
+delete friends, friend requests, friend
+recommendations, status information and cancel special attention
+click “contacts”, select a particular qq friend and cancel “special attention” or
+click “contacts”, select “new friend” to delete friend request or friend
+click “status”, select “friend status” to delete status information
+quit a group chat and cancel official account
+click “contacts”, select “group charts”, choose the target group and click the key
+on the top right corner, then tap the key on the top right corner to quit from the group chat
+click “contacts”, select “official account”, tap the key on the top right corner
+after entering official account and click the key on the top right corner again to cancel the
+qq offers its users the opportunity to manage her privacy by clicking “avatar” on the
+top left corner, select “settings” and choose “contacts, privacy”
+a user can change privacy settings for
+(1) linked phone contacts
+(2) friend request settings
+(3) friend status settings
+qq security center is dedicated to protect qq security for our users and it provides
+users qq login status during critical time
+a user can check her qq account security status, login history,
+update password, and review transaction history at any time
+qq security center also actively issues a
+warning when a qq id is logged in a different location or when there is other risks
+qzone is a social networking blogging website provided by tencent
+qzone provides its users designated privacy settings to better protect the users’
+privacy and information security
+a user can search, edit, share, and delete her information without
+worrying about unauthorized disclosure
+there are four keys at the bottom of qzone login homepage
+a user can review and edit personal information using the “me” key
+search and edit personal information such as
+avatar, qq nickname, qq number, gender, birthday, age, zodiac, country and city, etc
+click “me”, select “settings” then use “personal information” to review and edit
+information such as avatar, qq nickname, qq number, gender, birthday, age, birthday, zodiac, country and
+review and edit “comments”
+click “me”, select “comments” to review comments posted
+a user can edit the
+comments by clicking “ ”
+review and edit photo album
+click “me”, select “photo album” to review and edit the name, profile photo and
+review and edit journal and private diary
+click “me”, select “journal” to review and edit published journal and private
+click “me”, select “messages” to review messages
+click “me”, select “visitor” to review visitor history
+click “me”, select “comments”, then use “ ” and click “delete”
+delete photo album and photos
+click “me”, select “album”, click and open the photo album to be deleted, select
+“edit photo album”, and then click “delete photo album” to remove the whole album
+in order to delete individual photos, click “me”, select “album”, click and open
+the photo album where the photo is located, then click “batch management” and remove individual photos
+click “me”, select “journal” and “summary”, click “ ” and
+apply “delete” to remove journal
+click “me”, select “messages”, click “ ”and “delete” to
+click “me”, select “visitors” and “people visited my qzone”, then click “···”and
+choose “delete this visiting history” to remove visitor history
+click “me”, then “settings” and select “log out” to log out qzone
+qzone offers a user the opportunity to manage her privacy – by clicking “me”,
+“settings” then select “privacy settings”
+a user can change privacy settings for the following features
+(1) who can see my qzone
+(2) who can see my visitors
+(3) who can look up my birthday
+(4) block his status
+(5) view settings (reserved for yellow diamond users)
+(6) block all secrets
+(7) private mode etc
+王者荣耀 arena of valor
+arena of valor is an epic 5v5 multiplayer online battle arena (moba) mobile game
+better protect users’ privacy and information security, and specifically the user’s private information that
+is used in the game, we frequently update our privacy settings to enable our users to review, edit, share
+and delete personal information
+王者荣耀登录后的主界面上方有“头像”、“ ”、“ ”和“ ”四个按钮，通过这四个按钮的指引可以查询或修改以下信息。
+after logging in the game, users can review and edit their information by tapping the
+following four buttons on the homepage
+“avatar”, “ ”,“ ”and“ ”
+review and edit information of avatar,
+nickname, team name and etc
+tap “avatar ”on the upper left corner to review and edit avatar, nickname, team
+name, titles, game levels, game play statistics, honors, game play history, network (such as preferred
+location, region, mostly online period, labels, relationships, wish list) and etc
+review and edit basic information
+tap “avatar ” on the upper left corner, select option“settings” to review or edit
+avatar, nickname, team name, titles, current level, achievement levels, trophies and etc
+search game play information
+tap “avatar ”on the upper left corner, choose option “game” and select “game play
+information” to search game play statistics
+tap “avatar ”on the upper left corner, choose option “game” and select “honor
+information” to search honor information
+search game play history
+tap “avatar ”on the upper left corner, and select option “game play history” to
+search history of game play information
+search or edit friend list
+tap “avatar ”on the upper left corner, and select “network” to search or edit
+friend making name card
+tap “avatar ”on the upper left corner, and select option “relationships” to search
+search wechat friend, game friend, people
+click button “ ”
+to search wechat friends, game friends, people nearby, master-apprentices and blacklist
+search friend email, system email, message
+center and gift center
+click button “ ”
+to search email from friends, system email, message center and gift center information
+users can share personal information by forwarding it to a wechat friend, a wechat
+group or wechat moment by tapping “avatar ”on the upper left corner, choose option “game”, and select
+“game play information”, tap “share” to share the game play information
+delete game friend, master-apprentices and
+click button “ ”,
+and select “game friend”, then tap “ ”to
+click button “ ”,
+and select “master-apprentices”, then tap button “ ”to
+click button “ ”,
+and select “game friend”, then tap option “relationships” on the lower right corner to remove a friend
+tap button “ ”,
+and select option “game friend”, then tap “black list” on the lower left corner and select “unblock”
+tap button “ ”,
+and then you can proceed to fast delete or individual delete
+users can edit privacy settings by tapping button “ ”, select option
+“basic settings”, then choose “privacy settings” to do the modification, which include
+(2) display membership titles
+(4) general channel team
+(6) send audio message
+(7) display hero titles
+(8) most recent game play team
+(11) display frequent occupations
+users can also select their online status such as on-line, busy or invisible
+privacy policy of arena of valor, together with other related agreements, provides
+users with our practices of personal information collection, storage, security, using and sharing with third
+this privacy policy also informs users their rights of searching, editing, and deleting personal
+information, and has provided guidance regarding to our protection of minors’ personal information
+users can search and review the privacy policy and other related agreements by tapping
+the button “ ”,
+select “basic settings” and tap option “privacy policy” at the bottom of the page
+qq browser provides a user fast, stable, secured internet browsing experience
+browser’s key responsibility to protect users’ privacy and information security
+qq browser continues improving its security technology and program to provide its users
+a more secured, high-quality and convenient service and higher standard of privacy and information security
+查询与修改 review and edit
+review wallet, favorite, subscriptions, trend
+click the menu key in the middle “ ”, then select “avatar”,
+search wallet, favorite, subscriptions and trend in personal center
+review and edit birthday, region, gender,
+click the menu key in the middle “ ”, then select “avatar” to
+search and edit birthday, region, gender etc
+search the deposit and purchase records for q
+mi and shudou (both q mi and shudou are virtual currencies on qq browser)
+click the menu key in the middle “ ”, then select “avatar”,
+click “wallet” to search deposit and purchase records for q mi and shudou
+search bookmarks, website visit history and
+click the menu key in the middle “ ”, select “bookmark/history”
+or “downloads” to search bookmarks, website visit history, recent downloads
+you can also search wechat
+folders, qq folders, mobile storage, private space, pictures, videos, files, music, installation
+package, compressed package, offline webpage, files stored in tencent cloud, baidu cloud or cloud space
+click the menu key in the middle “ ”, select “bookmark”, click
+“edit”, then select the target and click “delete” to remove selected bookmarks
+delete website visit history
+click the menu key in the middle “ ”, choose
+“bookmark/history”, then click “delete” to remove all website visit history
+delete input history, history record, accounts
+and passwords, caches, cookies etc
+click the menu key in the middle “ ”, select “settings”, click
+“data removal” to select the data to be removed by clicking either “input history”, “history record”,
+“accounts and passwords”, “caches”, “cookies”, “videos”, “file browsing history”, “temporary cache for
+novels” and/or “temporary cache for cartoons”
+click the menu key in the middle “ ”, select “avatar”, click
+“log out” to sign out
+(1) hide your location
+click the menu key in the middle “ ”, select “avatar”, click
+“location” and choose “hide” to hide your location
+click the menu key in the middle “ ”, select “browse in
+private” to enable the function
+qq browser will not maintain your browsing history, history records,
+cookies and other data to better protect your privacy
+if you have any questions during your use of qq browser, feel free to click the
+menu key in the middle “ ”,
+select “settings” and send us your questions by clicking “help and feedback”
+tencent maps uses security technologies and programs to set up a comprehensive
+management system to secure users’ personal information, in order to prevent from unauthorized collecting,
+to better protect users’ privacy and personal information, tencent maps offers specific
+privacy setting and information management features
+查询与修改 review and edit
+tap “avatar”on the upper left to review your avatar
+review and edit home, working and saved
+tap “avatar” on the upper left, select option “my places” to review home, working
+or other saved addresses
+click option “edit“ to edit home, working or other saved addresses
+search my location history
+tap “avatar”on the upper left, select “my location history” to review your location
+tap “avatar”on the upper left, select “offline maps” to review your saved offline
+tap “avatar”on the upper left, select “search traffic violations” to review your
+delete home, working and saved addresses
+tap “avatar”on the upper left, select “my favorite” to delete home, working or
+tap “avatar”on the upper left, select “swipe left to delete offline maps”to remove
+tap “homepage search history”, click “clear browsing history” to delete all search
+tap “avatar”on the upper left, select “avatar” on the upper right to sign out your
+users can find and review privacy statement by tapping “avatar”on the upper left
+corner, and tap the “key” on the upper right corner, then tap “about tencent maps”, it will lead to “privacy
+the privacy statement provides users with information of how tencent maps collects, uses and
+tencent wesecure app provides a shield of information security protection for users’
+it is effective in protecting users’ private information by blocking spams, scanning
+viruses, locating and removing trojans and fishing sites that evade users’ privacy
+to better protect users’ privacy and information security, wesecure app provides
+privacy setting features such as “spam blocking” and other functions, users can easily review, edit and
+查询与修改 review and edit
+review your avatar and your alias
+tap the button “ ”
+in the menu on the upper left corner, select “avatar” to review your avatar and your alias
+review and edit the linked mobile number,
+wechat id and qq number
+tap the button “ ”
+in the menu on the upper left corner, select “avatar”, then select “account management“ to review and
+edit your linked mobile number, wechat id and qq number
+tap the button “ ”
+in the menu on the upper left corner, select “avatar”, then select “account management“ to delete any
+personal information stored in wesecure app that is received from the linked accounts
+tap “spam blocking” to block crank calls and messages
+tap “avatar” on the upper left corner or swipe the page to the right, select option
+“privacy safe box”, then select option “set password” to encrypt your photos
+secure qr code scanning and caller id
+wesecure app users can use “secure qr code scanning” and “caller id optimization“
+settings to protect their privacy
+查询与修改 review and edit
+after logging into tencent video, users can find five buttons at the bottom of the
+homepage, which are “homepage”, “popular”, “vip member”, “doki” and “me”
+you can review your personal
+information by using four of the five buttons
+search offline cache, resume watching and view
+users can search offline cache, resume watching and view all history by tapping
+search member messages, and message list
+tapping “vip members”, and select “avatar” on the upper left corner to search
+membership information and message list
+search messages, private messages and “my
+users can search messages, private messages and the “stars” by tapping “doki”
+tapping button “me”, to search personal information (nickname, subscribed doki,
+subscriptions, fans, membership information, badges, trends, videos, short videos, my doki), offline
+cache, view history, my view list, my subscription, messages and private messages
+users can share personal information by forwarding it to a friend or by posting
+users can choose a video in option “popular ” or any streaming video, and forward it
+users can also tap button “doki” to post images, words and other status on doki
+tencent video provides users two methods to delete personal information
+left and (2) tapping “delete”
+users can tap button “doki”, select button “ ”to delete doki
+delete view history, my watch list and private
+tapping “me”, to delete view history, my watch list and private messages by swiping
+left or tapping button“delete”
+tencent video privacy protection guidelines
+→ “设置” → “腾讯视频隐私保护指引”，了解、查看相关内容。
+privacy protection guidelines provides users with the information of our practices of personal
+information collection, storage, security, using and sharing with third parties
+also informs users details of their rights, and updates, information of minor protection, and our contact
+users can search and review the privacy guidelines by tapping option “me”, select “settings”
+and tap “tencent video privacy protection guidelines”
+copyright © 1998 - 2019 tencent
+how to manage privacy setting in qq
+login qq, click “system settings” -
+settings” and adjust privacy settings according to your needs
+how to update/retrieve qq password
+if password authentication feature functions
+normally, a user can authenticate his/her information or link the authenticated account with a password
+security tool to update qq password
+if no password security tool is available, you can
+log in qq security center official website via a mobile browser at aq
+com/ss, filing a petition by
+once the petition is approved, you can re-set password and link it to a new
+how to avoid personal information in qq and qqmail from leaking when your phone is
+don’t panic if you lost your cellphone
+take following two steps to prevent exposing your
+lock qq and wechat accounts
+visit tencent 110 to emergently lock qq and wechat accounts to effectively avoid any
+possible malicious actions by a third party
+visit qq security center to update qq password
+all related services that login via qq
+account will automatically log out
+you can also visit qq security center via a mobile browser if personal computer is not
+your qq and wechat accounts will be secured after completing the above-mentioned two
+you can also erase cellphone data including contacts, text messages, on-line banking and etc
+to prevent the disclosure of private information on your phone
+use “search my iphone” function to erase cellphone data
+use mobile security manager or other security applications to erase cellphone
+please apply for a replacement sim card from your carrier as soon as possible to prevent
+others from conducting fraudulent activities using your cellphone number or receiving your text messages
+how to turn on/off qq login protection
+login mobile qq -
+device lock and account security -
+confirm it has been turned on and confirm the mobile number after verifying that it is your common phone
+type in verification code -
+after verification, qq login protection is successfully turned on
+you only need to type
+in verification code while logging in qq on this phone, but you need to type in both password and text message
+verification code if logging in on another portable device
+qq security center mobile app
+qq security center mobile app -
+password protection tool -
+how to protect your qq id
+简单的讲，qq使用安全 = 使用安全的电脑 + 安全的上网习惯 + 设置qq密码保护。
+briefly speaking, the qq security = using secured personal computer + good online surfing
+habit + setting qq password protection
+using secured personal computer
+1) first thing first, a user needs to use a secured personal computer to go online for
+2) if you are using others’ or public computer
+before using the computer, verify that
+whether the computer is secured, whether it has installed antivirus software and updated most recent virus
+good online surfing habit
+good online surfing habit will benefit you to stay away from computer virus, internet
+good online surfing habit includes
+1) avoid using unauthorized version qq, and use the most recently updated version qq
+2) avoid entering qq id and qq password on websites and in software other than
+how to recognize the tencent official website urls；
+3) doing a virus scan before opening any files downloaded from the internet or received
+from others on the internet
+4) avoid visiting links with unknown security status which is shared by a stranger
+5) regularly update qq password
+set qq password protection
+password protection files is the important evident to prove the ownership of users’ qq
+you can use it to retrieve qq password conveniently, and process user id verification before
+conducting important changes (such as updating a password)
+thus, password protection can greatly enhance
+the security of your qq account
+for the security of using qq, a user should create a complete password protection file
+by logging into qq security center
+qq security center also provides various security protection strategies
+and technical solutions for real-time protection of your qq id security
+password-entering anti-theft technology, soft keyboard and trojan detecting can be used
+to improve the security level of password entering while logging into qq
+file transferring protection, url security reminder and other features will offer you a comprehensive
+download and install qq security center mobile
+it is advised to download and install qq security center mobile version into your
+it offers you game login protection, qq login protection, q coin protection, password resetting
+assistance and other features
+how to manage privacy setting in wechat moments
+make last 10 posts public
+the default setting in moments is “make last 10 posts public”
+the default setting, you can log into wechat, click “me” -
+turn off “make last
+do not want to see his/her moments (hide their
+log into wechat, click “me” -
+click【+】 to add wechat friends whose moments you want to hide
+once completed, his/her moments
+posts will not appear in your moments
+log into wechat, click “me” -
+“hide their posts” -
+once completed, his/her moments posts will appear in your
+do not want him/her to see my moments (hide my
+log into wechat, click “me” -
+click【+】 to add wechat friends that you would like to hide
+once completed, your moments will appear as
+blank page in his/her searching result, he/she cannot see any of your moments posts
+log into wechat, click “me” -
+“hide my posts” -
+click 【-】to remove friends
+once completed, he/she can review your moments posts
+how to recover forgotten wechat password
+if you have a linked cellphone
+select “more” on wechat login page -
+“login other accounts” -
+“enter text message verification code” -
+reset password after logging in
+if you have a linked qq id
+select “more” on wechat login page -
+“login other accounts” -
+“enter wechat id/ qq id/
+“enter qq id and qq login password”
+if you have forgotten your qq password, please reset a new one
+by logging into qq security center
+if you have a linked email
+log into wechat security center and select “account recovery” -
+linked email address -
+log into your email to reset your wechat password, follow the instruction and click
+the link in the email to reset password
+if you have forgotten your linked cellphone, qq id, email or none of these is available
+select “more” on wechat login page -
+tap “account recovery” in wechat security center -
+“request password retrieval” and submit supporting materials according to the instruction
+once the request is
+approved, you can log into wechat using a new password
+remedial actions when your wechat account has been hacked
+select “more” on wechat login page -
+“wechat security center” -
+“enter the wechat id or cellphone number for the wechat account that is about to be frozen” -
+account using linked cellphone, linked qq id or linked bank cards
+if it is deemed as a frequently used log in device by wechat, you can use “one click
+how to retrieve forgotten wechat id
+reach out to your wechat friend for your wechat id
+you can reach out to your wechat friend via phone or text message to ask him/her to
+search and review your wechat id in your personal profile
+review your wechat id using your linked login
+if you have a wechat linked cellphone number, qq id or email address, you can log in
+wechat using these linked accounts and search your profile for your wechat id
+select “more” on wechat login page -
+“log in with other accounts”
+choose “cellphone number” or “wechat/qq id/email”
+retrieve your wechat id by submitting a request
+select “more” on wechat login page -
+“wechat security center” -
+“request password retrieval” -
+submit supporting materials according to the instruction
+is approved, you will receive a text message with your wechat id and new password
+if your request is
+rejected, search “tencent customer service” mini program, click “ask customer service” -
+“retrieve wechat id and password”
+if you log into wechat with wechat id and new password that is offered in the
+text message after your request is approved, all previously linked cellphone number, qq id, email will be
+you may have to reset your linked cellphone, qq id and email
+how to manage the permission of viewing the wechat moments photos
+the followings are permissions that you can manage to set for wechat moments
+the default setting is public to all
+all of your wechat friends can review your posts
+you can set “share to” before posting anything on moments
+all contacts can see
+just you can see
+share to just selected contacts
+select groups in contacts and only the selected
+select groups in contacts and the selected contacts will be excluded from
+reviewing your moments posts
+make last 10 posts public
+a stranger (people nearby or friends by shaking) can only review the last 10 posts
+you can select “last 3 days”, “last 6 months” or “all” to be viewable by friends
+you can still find your photos posted on moments in your album after you disable

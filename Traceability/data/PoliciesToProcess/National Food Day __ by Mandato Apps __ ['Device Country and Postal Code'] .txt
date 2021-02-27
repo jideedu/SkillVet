@@ -1,0 +1,11 @@
+your privacy is very important to us at amusadev software
+we will never sell or give away any of the information you provide
+national food day skill
+we request permission to your country code/region in order to get your local time zone
+when you ask for 'today' or 'this month', we
+will attempt to use your local time for accuracy
+this information is not stored or persisted after your alexa session ends (when you say exit or goodbye)
+the skill also looks for your locale (ex
+en-us) which may be used to provide localization/translations in the future
+for now we only provide responses in english
+no other information about you is gathered at this time

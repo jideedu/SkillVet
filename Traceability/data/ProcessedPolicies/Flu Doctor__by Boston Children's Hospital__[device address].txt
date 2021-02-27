@@ -1,0 +1,18 @@
+flu doc alexa skill
+the "flu doc" skill provides you with recommendations, and answers to common questions about the flu vaccine and influenza illness from a trusted source
+"do i need a flu vaccine"
+"when should i take the flu shot"
+"is flu vaccine effective"
+"how can i stay healthy during flu season"
+"will i get sick from the shot"
+this skill should not be used if you're in a life-threatening or emergency medical situation
+in those situations, seek immediate medical assistance
+the team at boston children's hospital takes your privacy very seriously and we're conscious about how we handle your data
+for the flu doc
+skill, boston children's collects a unique identifier from your amazon alexa account
+we use this information to enhance the user experience
+this information is not personally identifiable to you
+we collect no additional information from your amazon account
+amazon collects and stores both the spoken utterance from the customer, and the skill's response, to improve and troubleshoot the voice experience
+you may delete this data in the amazon alexa app
+see amazon's privacy policy and terms of use for more information

@@ -1,0 +1,16 @@
+aircraft radar skill for amazon alexa
+aircraft radar uses your device’s address to find your location and search for aircraft
+around you in response to your queries
+your location information appears temporarily in a secured server log file which is
+used for troubleshooting when necessary
+that log is cleared out regularly
+your information is never stored permanently and is not used for any purpose other than
+the aircraft radar skill is developed and run by chris dzombak
+aircraft radar skill for amazon alexa
+aircraft radar uses your device’s address to find your location and search for aircraft
+around you in response to your queries
+your location information appears temporarily in a secured server log file which is
+used for troubleshooting when necessary
+that log is cleared out regularly
+your information is never stored permanently and is not used for any purpose other than
+the aircraft radar skill is developed and run by chris dzombak

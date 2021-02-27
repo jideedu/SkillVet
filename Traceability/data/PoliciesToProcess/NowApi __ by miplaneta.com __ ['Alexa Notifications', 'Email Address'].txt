@@ -1,0 +1,136 @@
+privacy policy for miplaneta
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms created by miplaneta
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, or any other licensed source
+com is not required at this time, although future enhancements may possibly require registration
+in this latter case, please keep in mind that you may not be able to use some of the features offered by the skills unless you register with us
+credit card information is not collected by any of these skills at this time
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software environment and services to help us improve the skills and our service
+we will share your information with third parties only in the ways that are described in this privacy statement
+for some of our skills it is necessary to save data for you in our databases
+this data is only connected to your alexa-userid but never to your name or any other personal information
+in some of our skill we need your email address to sending the information that you requested, we don't share any info with third parties, and also you can disable or enable it at any moment accessing throught the alexa's app or deleting all your data directly in the skill, if the skill offer this option, please check help inside a specific skill
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information
+what are my opt-out rights
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account, or the equivalent action inside the skill
+you may use the standard uninstall processes as may be available as part of your device or amazon account
+in some skill you have also the option of delete all content saying the specific command to alexa, please check the help of each skill
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+com to enquire about this
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter
+we will retain automatically collected information for up to 24 months and thereafter may store it in aggregate
+if you’d like us to delete user provided data that you have provided via the skills, please contact us at soporte@miplaneta
+com and we will respond in a reasonable time
+please note that some or all of the user provided data may be required in order for the skills to function properly
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our skills
+please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches
+by using the skills, you are consenting to our processing of your information as set forth in this privacy policy now and as amended by us
+“processing,” means using information collected by the skills or by the computer network facilities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the usa, canada, united kingdom or in any country of the european community
+if you reside outside of the above listed countries your information will be transferred, processed and stored there under european union privacy standards
+write us to soporte@miplaneta
+definitions and legal references
+personal data (or data)
+any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person
+information collected automatically through this application (or third-party services employed in this application), which can include
+the ip addresses or domain names of the computers utilized by the users who use this application, the uri addresses (uniform resource identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc
+), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e
+, the time spent on each page within the application) and the details about the path followed within the application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's it environment
+the individual using this application who, unless otherwise specified, coincides with the data subject
+the natural person to whom the personal data refers
+data processor (or data supervisor)
+the natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as described in this privacy policy
+data controller (or owner)
+the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, including the security measures concerning the operation and use of this application
+the data controller, unless otherwise specified, is the owner of this application
+the means by which the personal data of the user is collected and processed
+the service provided by this application as described in the relative terms (if available) and on this site/application
+european union (or eu)
+unless otherwise specified, all references made within this document to the european union include all current member states to the european union and the european economic area
+small sets of data stored in the user's device
+this privacy statement has been prepared based on provisions of multiple legislations, including art
+13/14 of regulation (eu) 2016/679 (general data protection regulation)
+this privacy policy relates solely to this application, if not stated otherwise within this document
+privacy policy for miplaneta
+this privacy policy governs your use of the software skills for amazon alexa and other similar platforms created by miplaneta
+the skills obtain the information you provide when you download and register the skills through the amazon alexa skills web site, or any other licensed source
+com is not required at this time, although future enhancements may possibly require registration
+in this latter case, please keep in mind that you may not be able to use some of the features offered by the skills unless you register with us
+credit card information is not collected by any of these skills at this time
+when you use our skills you have to talk to alexa
+this voice input is sent to amazon and us where we use it to understand what our skill should do for you
+this is absolutely necessary for our service to give you an appropriate answer
+we will not normally use any information you provide to us to contact you
+important information concerning required notices, upgrade and/or bug-fix notifications, or marketing promotions will normally be distributed by means of the amazon alexa skills site
+currently the skills do not collect login information from and/or for social networking platforms
+any future enhancements which deliver this capability will be notified at the time of delivery or upgrade, and you may consent or opt-out at will
+in addition, the skills may collect certain information automatically as part of normal operation within the context of the amazon alexa environment, including, but not limited to, your hardware device unique id, a unique user id, your prior usage of the skills, and information about the way you use the skills
+these skills do not collect precise information about the location of your hardware device, though for details of information capture by the underlying platform each relevant terms and conditions agreement should be referenced
+only aggregated, anonymized data is periodically transmitted to amazon’s software environment and services to help us improve the skills and our service
+we will share your information with third parties only in the ways that are described in this privacy statement
+for some of our skills it is necessary to save data for you in our databases
+this data is only connected to your alexa-userid but never to your name or any other personal information
+in some of our skill we need your email address to sending the information that you requested, we don't share any info with third parties, and also you can disable or enable it at any moment accessing throught the alexa's app or deleting all your data directly in the skill, if the skill offer this option, please check help inside a specific skill
+we may disclose user provided and automatically collected information
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information
+what are my opt-out rights
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account, or the equivalent action inside the skill
+you may use the standard uninstall processes as may be available as part of your device or amazon account
+in some skill you have also the option of delete all content saying the specific command to alexa, please check the help of each skill
+specific skills or upgraded versions of skills may have specific opt-out mechanisms
+com to enquire about this
+data retention policy, managing your information
+we will retain user provided data for as long as you use the skills and for a reasonable time thereafter
+we will retain automatically collected information for up to 24 months and thereafter may store it in aggregate
+if you’d like us to delete user provided data that you have provided via the skills, please contact us at soporte@miplaneta
+com and we will respond in a reasonable time
+please note that some or all of the user provided data may be required in order for the skills to function properly
+we are concerned about safeguarding the confidentiality of your information
+we provide physical, electronic, and procedural safeguards to protect information we process and maintain
+for example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our skills
+please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches
+by using the skills, you are consenting to our processing of your information as set forth in this privacy policy now and as amended by us
+“processing,” means using information collected by the skills or by the computer network facilities provided by amazon in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the usa, canada, united kingdom or in any country of the european community
+if you reside outside of the above listed countries your information will be transferred, processed and stored there under european union privacy standards
+write us to soporte@miplaneta
+definitions and legal references
+personal data (or data)
+any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person
+information collected automatically through this application (or third-party services employed in this application), which can include
+the ip addresses or domain names of the computers utilized by the users who use this application, the uri addresses (uniform resource identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc
+), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e
+, the time spent on each page within the application) and the details about the path followed within the application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's it environment
+the individual using this application who, unless otherwise specified, coincides with the data subject
+the natural person to whom the personal data refers
+data processor (or data supervisor)
+the natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as described in this privacy policy
+data controller (or owner)
+the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, including the security measures concerning the operation and use of this application
+the data controller, unless otherwise specified, is the owner of this application
+the means by which the personal data of the user is collected and processed
+the service provided by this application as described in the relative terms (if available) and on this site/application
+european union (or eu)
+unless otherwise specified, all references made within this document to the european union include all current member states to the european union and the european economic area
+small sets of data stored in the user's device
+this privacy statement has been prepared based on provisions of multiple legislations, including art
+13/14 of regulation (eu) 2016/679 (general data protection regulation)
+this privacy policy relates solely to this application, if not stated otherwise within this document

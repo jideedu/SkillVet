@@ -1,0 +1,7 @@
+what information do we collect
+interactions with the application, for further improvement
+users and devices are saved using their unique ids
+how do we use the information
+to improve overall user experience and features
+what information do we share
+no information is shared with third-party applications

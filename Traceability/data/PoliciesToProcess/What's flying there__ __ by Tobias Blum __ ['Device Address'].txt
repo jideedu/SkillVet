@@ -1,0 +1,18 @@
+no suggested jump to results
+github is home to over 36 million developers working together to host and review code, manage projects, and build software together
+tobias blum edited this page on 18 feb 2018 · 1 revision
+this skill uses the address stored in your amazon app to determine your position and the aircraft in your area
+the google maps geocoding api from https
+com is used to determine the position
+the aircraft in the vicinity of the position are called up by adsbexchange ( https
+the data is only transmitted via secure connections to the services used and is not permanently stored in the skill
+log files are recorded that are only used for error analysis
+the collected data will only be used for the purposes described
+the skill was developed by tobias blum
+clone this wiki locally
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

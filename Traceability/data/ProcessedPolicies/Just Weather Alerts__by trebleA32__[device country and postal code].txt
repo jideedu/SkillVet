@@ -1,0 +1,22 @@
+weather alert privacy policy
+we take your privacy very seriously, strive to use the absolute minimum of your personal data, and keep any personal information we do use secure and safe
+what personal information does this alexa skill use
+to fetch your local weather alert information, this alexa skill requires your address information as provided through the alexa app
+your address information (specifically zipcode) is used to determine the fips (federal information processing standards) codes for your geographic area
+the fips codes are used to identify a specific geographic region
+is this information shared with third parties
+your address information is not shared with any third parties
+does this alexa skill store any personal information
+this alexa skill only uses your personal address information to determine the fips codes for your local area
+the fips codes are determined from the address information each time you launch a new session for the skill
+personal address information (zipcode) is not retained after your session is finished
+how do i change the personal information
+you may change the address information either through the alexa app or by changing your amazon account information
+what if i do not want to share this information
+this alexa skill requires your address information to provide your local weather alert information
+if you do not wish to provide this information then this alexa skill will not be able to function correctly
+do you use this information for tracking purposes
+the personal information you provide to this alexa skill is not used for tracking users or advertising purposes
+how does this skill respond to do not track requests
+this skill does not use any personal information for tracking purposes
+for additional questions regarding this privacy policy contact treblea32@gmail

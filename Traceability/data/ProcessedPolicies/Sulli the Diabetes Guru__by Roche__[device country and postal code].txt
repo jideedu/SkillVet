@@ -1,0 +1,145 @@
+we use cookies to give you the best online experience
+by using our website you agree to our use of cookies in accordance with our cookie policy
+hoffmann-la roche ltd (“roche”), we are committed to protecting your personal information
+this privacy notice outlines the types of personal information roche may collect
+the means by which roche may collect, use, or share your personal information
+steps roche takes to protect your personal information
+and choices you are provided with respect to the use of your personal information
+this notice only applies to roche websites that link to this notice
+our websites also may contain links to third-party websites
+we do not endorse and are not responsible for the content of third-party websites or resources, and our privacy notice does not apply to any sites that are not affiliated with roche, even if you access them via a link on our site
+you should review the privacy policies of any third-party site before providing any information
+for purposes of this privacy notice, “personal data” is any information by which you can be individually identified both directly and indirectly, including, but not limited to, your name, address, e-mail address, and telephone number
+please refer to the california supplemental privacy notice for more information about how this term is defined for the purposes of california law and for more information about how roche uses such information
+this website is not designed or intended for use by children under the age of 16
+we do not knowingly collect any personal data on this website from anyone under the age of 16 without the prior, verifiable consent of a parent or guardian
+such parent or guardian may have the right, upon request, to view the information provided by the child and require that it be deleted
+moreover, all minors should seek their parent’s or guardian’s permission prior to using or disclosing any personal data on this website or online resource
+identity and contact details of the data controller
+the data controller is f
+hoffmann-la roche ltd, grenzacherstrasse 124, ch-4070 basel, switzerland
+in the event that your personal data is covered by the eu general data protection regulation (“eu”) 2016/679 (“gdpr”), the eu representative of f
+hoffmann-la roche ltd is roche privacy gmbh, emil-barell-str
+you may contact the data controller by mail at grenzacherstrasse 124, ch-4070 basel, switzerland or email at global
+the california supplemental privacy notice provides the appropriate channels for contacting roche with questions, requests, and inquiries in scope of california law
+how and why we process your personal data
+on this website, we may request personal data about you
+examples of personal data that we may collect that directly identifies you includes your name, contact information, email address, and other information in combination with these identifiers
+we may also may collect certain personal data that does not directly identify you by name, but could be used to identify that a specific computer or device has accessed our website
+we process your personal data on our websites for many reasons, including
+to respond to your requests or inquiries
+to complete a transaction
+to personalize your experience
+to perform website analytics and measure website performance
+to track and monitor adverse events and other activities related to pharmacovigilance
+to maintain the website, including for security purposes
+several places on our website require personal data if you choose to use them, including surveys, registration, and content sharing features (i
+, “e-mail to a friend” links)
+roche and its business partners (such as service providers or other third parties who provide certain services to roche) collect this information about you only if you voluntarily provide it to us
+please be aware that certain features of this site may not be available to you if you elect not to provide certain personal data
+any personal data you provide to us on our websites will be used in accordance with this privacy notice
+more information on our processing activities
+this table outlines each website-related processing activity in greater detail and provides information on the categories of information collected for each activity as well as the legal basis of processing for each of these activities, if and to the extent the data processing is subject to gdpr
+purpose and categories of data
+responding to requests or inquiries
+we may use the information that you provide to us to take the steps necessary to respond to your request, for example, you may submit a medical information request, inquire about a product, or subscribe to one of our mailing lists
+depending on your request, we may collect your contact information (such as your name, mailing address, telephone number, job title), your interests and preferences (such as products or areas of interest), and any other information you provide to us
+for more information about how collect personal data for medical information requests, please refer to our privacy notice for pharmacovigilance, medical information, and product complaints
+we collect and process your personal data for these purposes based on our legitimate interest to respond to your request
+if you submitted sensitive personal data as part of your inquiry, we will also base such processing on your explicit consent
+if reporting is required, we may process your data to comply with our legal obligations
+article 6(1)(f) gdpr articles 6(1)(a) and 9(2)(a) of the gdpr article 6(1)(c) and article 9(2)(i) gdpr
+some parts of our website may collect your personal data to fulfill services that you have requested and to understand your interests and preferences
+in these instances, we may collect your contact information as well as a history of your previous transactions with us (such as order history, customer account information)
+we use this information to perform our agreement with you
+we may collect certain information about you, your preferences, and how you have interacted with us in the past in order to understand your interest in our products and services so that we can best serve you
+this may include information about your contact and product preferences, languages, marketing preferences, and demographic data
+in cases where we collect this information automatically, we collect and process this information for our legitimate business interests
+in other cases, we will collect and process this information pursuant to your consent
+article 6(1)(f) gdpr article 6(1)(a) of the gdpr
+website analytics and tracking
+where permitted by law, we may combine personal data you provide with other information you’ve provided to roche through our websites
+where permitted by law, we may also combine personal data collected through our websites and online resources with roche’s offline records and information provided to us by third parties
+more information about this can be found in the section below and in our cookie notice
+in cases where we collect this information automatically, we collect and process this information for our legitimate business interests
+in other cases, we will collect and process this information pursuant to your consent
+article 6(1)(f) gdpr article 6(1)(a) of the gdpr
+tracking and monitoring adverse events and pharmacovigilance
+some specified parts of our websites may collect personal data related to adverse events or other activities related to pharmacovigilance
+this information is very important for public health and will be used for the detection, assessment, understanding, and prevention of adverse events or other medicine-related problems
+for more information about how we use and disclose personal data for these purposes, please see our privacy notice for pharmacovigilance, medical information, and product complaints
+we collect and process your information for these purposes to comply with our legal obligations and may be required to report the data to regulatory authorities
+article 6(1)(c) and article 9(2)(i) gdpr
+to run and maintain our website
+we use this information to secure our websites, network systems, and other assets
+this may include information concerning your ip address, geographic location, resources you have accessed, and similar information
+we collect this information automatically, for our legitimate business interests to run, maintain, and secure our websites
+please visit the california supplemental privacy notice for more information about personal data processing activities as they relate to california residents
+cookies and other web trackers
+our websites and online resources also collect other basic information about you which may not directly identify you, but which may correspond with you or a particular device
+we use some of this information to allow our websites to run, as well as to learn more about how our websites and online resources are used and to otherwise improve and administer the site
+we also use this information to enable us to deliver information tailored to your interests and preferences, based on your use of the site
+for example, we may collect the ip address assigned to your computer by your internet service provider
+this address may change each time you connect to the internet (a “dynamic” ip address), or it may remain the same (a “static” ip address)
+in most cases, this information is collected automatically, for our legitimate business interests
+in some jurisdictions, we ask for your consent before collecting this information, in which case you will be presented with a choice as to whether you wish to allow the collection and use of this type of information
+please see our cookie notice for more information
+certain web browsers and other programs may be used to signal your preferences to roche about how or whether roche or third parties may collect information about your online activities
+currently, roche does not respond to such signals
+use of data for marketing
+we do not sell or transfer your personal data to any non-affiliated entity for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent
+we use third party advertising companies to place ads on other websites
+these companies may use data about your visits to this and other websites in order to measure advertising effectiveness and to provide advertisements about our goods and services that may be of interest to you
+if you would like more information about this practice and your choices to opt out of having this information used by these companies, see our cookies policy
+information sharing / recipients of personal data
+recipients of your personal data
+we may share your personal data with roche’s affiliates around the world
+our roche affiliates will use your personal data for the same purposes as we do
+a list of roche’s affiliates is available in the current annual report, which can be found in the investors section of www
+we may also share your personal data with third parties, such as our service providers, for the following purposes
+to help fulfill roche business transactions
+to conduct technical maintenance of our websites and other web platforms
+to facilitate a merger, consolidation, transfer of control or other corporate reorganization in which roche participates, or pursuant to a financial arrangement undertaken by roche
+to respond to appropriate requests of legitimate government authorities, or where required by applicable laws, court orders, or government regulations
+where needed for corporate audits or to investigate or respond to a complaint or security threat
+international transfers of your personal data
+any personal data you provide to us through your use of this website may be transferred to or stored in a geographic region that imposes different privacy obligations than your country of origin
+this means that your personal data may be sent to a country with less restrictive data protection laws than your own
+any such transfer will be conducted in compliance with applicable law
+if your personal data is covered by the gdpr
+for transfers of personal data to a third country outside the european union (eu), european economic area (eea) or in absence of an adequacy decision, within the roche group, business partners and service providers, we establish the contracts containing the eu standard contractual clauses, which according to the eu commission decisions of 27 december 2004 (2004/915/ec) and 05 february 2010 (c(2010)593) constitute appropriate and suitable safeguards to ensure compliance with gdpr
+retention / storage period of your personal data
+the length of time in which we will store your personal data will differ depending on the purpose for which we have collected and are processing your data
+in most cases, we will keep the data for three (3) years following our last interaction with you
+we may, however, maintain your data for a longer period of time if we are required by law to maintain your data
+for example, reports related to pharmacovigilance are kept for a minimum of 10 years after the withdrawal of the product in the last country where the product is marketed
+information about your rights regarding your personal data
+you may have certain rights regarding our use and processing of your personal data
+your rights if your data is covered by the gdpr
+if your personal data are covered by the gdpr (that is, if you are an individual within the european economic area), you have the following rights with respect to your personal data
+the right to request access to the personal data that roche has about you
+the right to rectify or correct any personal data that is inaccurate or incomplete
+the right to request a copy of your personal data in electronic format so that you can transmit the data to third parties, or to request that roche directly transfer your personal data to one more third parties
+the right to object to the processing of your personal data for marketing and other purposes
+the right to erasure of your personal data when it is no longer needed for the purposes for which you provided it, as well as the right to restriction of processing of your personal data to certain limited purposes where erasure is not possible
+to exercise any of these rights, please contact us using the information provided above
+please note that erasure or restriction of processing is only possible if and to the extent that the processing of personal data is based on your consent or our legitimate interests
+if data processing is based on consent, note that you have the right to withdraw your consent at any time, but that the withdrawal of your consent does not affect the lawfulness of processing based on consent before its withdrawal
+in the event of an erasure request, we may retain a copy of your personal data for our record-keeping purposes and to avoid entering your personal data in our systems after your request
+in the event that you believe or have the impression that our data processing does not comply with the gdpr, you are entitled to lodge a complaint with the responsible supervisory authority
+your rights if your data is covered by california law
+if you are a california resident as defined by the california consumer privacy act (ccpa), you can find a description of these rights covered in the california supplemental privacy notice
+that privacy notice contains information on how to contact roche to exercise any of your rights under that law
+california civil code section 1798
+83 permits california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes
+to make such a request, please use the contact information provided in the california supplemental privacy notice
+roche and its service providers and collaboration partners take reasonable steps to protect personal data we access or receive through this website from loss, misuse, and unauthorized access, disclosure, alteration, or destruction
+nevertheless, roche makes no guarantee as to the security of your personal data and disclaims, to the fullest extent permitted by law, all liability and damages caused by loss, misuse, and unauthorized access, disclosure, alteration, or destruction
+we recommend that you take any available precautions to protect personal data you submit on this website
+updates to this privacy notice
+from time to time, we may revise this privacy notice
+any such changes to this privacy notice will be reflected on this page
+roche recommends that you review this privacy notice regularly for any changes
+the date on which this notice was last revised is located at the top of this notice
+this website contains information on products which is targeted to a wide range of audiences and could contain product details or information otherwise not accessible or valid in your country
+please be aware that we do not take any responsibility for accessing such information which may not comply with any legal process, regulation, registration or usage in the country of your origin

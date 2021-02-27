@@ -1,0 +1,22 @@
+this privacy policy discloses the privacy practices for buslink app
+this privacy policy applies solely to the use of the postal code by this alexa skill
+it will notify you of the following
+what is the use of the postal code, how it is used just to do a calculation of latitude - longitude
+what choices are available to you regarding the use of the postal code
+the security procedures in place to protect the misuse of your postal code
+how you can correct any inaccuracies in the postal code
+we don't know the identity of the device and we don't collect information
+information collection, use, and sharing
+not collecting any type of information by this skill
+we only have access to postal code configured in alexa that you voluntarily give us via the use of this skill or other direct contact from you
+we will use your postal code to respond to you, which stations are nearby your area doing a calculation for location due to alexa does not
+we will not store/share your postal code with any third party outside of our organization, other than as necessary to fulfill
+to ship an order
+your access to and control over information
+you may opt out of any future from us at any time
+you can do the following at any time by de-listing the alexa skill from all of your devices
+we take precautions to protect your postal code not using outside alexa service
+we don't know the identity of the requestor just a mere postal code
+when you submit sensitive information via the alexa service, your information is protected both online and offline
+our privacy policy may change from time to time and all updates will be posted on this page
+if you feel that we are not abiding by this privacy policy, you should contact us immediately via email at lwong1980@gmail

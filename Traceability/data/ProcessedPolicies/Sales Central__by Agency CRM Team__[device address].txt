@@ -1,0 +1,14 @@
+new york life sales central skill privacy policy
+privacy statement for alexa skill (effective as of april 2018)
+new york life insurance company (“new york life”) offers sales central (“the alexa skill”) for use by its agents
+this statement informs you, the agent, how new york life collects and uses the information you provide when using the alexa skill
+the alexa skill will not use or share this information with anyone except as described in this privacy statement
+information collection and use
+while using the alexa skill, you may provide us (either directly or through the registration process) with certain information that can be used to contact or identify you, including your name, email address, phone number, address, and new york life agent id number
+we collect information regarding your activities when you use the alexa skill, including the type and frequency of your alexa skill use
+we collect this information for the purpose of making the alexa skill available to you, identifying and communicating with you, responding to your requests/inquiries, internal analytics, and improving the functionality of the alexa skill
+we may share this information with third parties for internal analytics, or to improve the functionality of the alexa skill
+we will follow the privacy law in your state if that law is different than the policy described in this notice
+we may disclose your information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of the alexa skill
+the security of your information is important to us, and we implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure
+if you have any questions about this privacy statement, please contact us at (201) 685-6704 or ai@newyorklife

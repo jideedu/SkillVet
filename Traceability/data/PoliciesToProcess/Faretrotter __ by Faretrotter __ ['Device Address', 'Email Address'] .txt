@@ -1,0 +1,59 @@
+it is faretrotter's policy to respect your privacy when it comes to any information we may collect while you interact with our website, api, or services
+this privacy policy applies to faretrotter
+com, alexa skill, mobile app, api, or any other service operated by faretrotter, (hereinafter, "us", "we", or "faretrotter")
+we respect your privacy and are committed to protecting personally identifiable information you may provide us through the website
+we have adopted this privacy policy ("privacy policy") to explain what information may be collected on our website, how we use this information, and under what circumstances we may disclose the information to third parties
+this privacy policy applies only to information we collect through the website and does not apply to our collection of information from other sources
+this privacy policy, together with the terms and conditions , set forth the general rules and policies governing your use of our website
+depending on your activities when visiting our website, you may be required to agree to additional terms and conditions
+like most website businesses, faretrotter collects information, which isn’t personally identifying, that web browsers and other services make available, such as the browser type, language preference, referring site, and the date and time of each visitor request
+faretrotter's purpose in collecting non-personally identifying information is to better understand how faretrotter's visitors use our website
+from time to time, faretrotter may release non-personally-identifying information in the aggregate, e
+, by publishing a report on trends in the usage of its website
+faretrotter also collects some personally-identifying information like internet protocol (ip) addresses for users who have opted in or created api accounts or email address
+does not publicly disclose personally-identifying information
+we only disclose user and commenter ip addresses under the same circumstances that it uses and discloses personally-identifying information as described below
+how we collect personally identifying information
+certain visitors to faretrotter's websites choose to interact with faretrotter in ways that require faretrotter to gather personally-identifying information
+the amount and type of information that faretrotter gathers depends on the nature of the interaction
+we collect personally identifying information in four ways
+1)	we ask visitors who sign up for an account to provide a name, username and email address 2)	we ask visitors who want to read our newsletter for their email address 3)	in alexa, some users request to have an email sent to them, so we store this email address at opt-in 4)	we may, at times, collect ip addresses for users who create accounts
+the security of your personal information is very important to us, but remember that no method of transmission over the internet, or method of electronic storage is 100% secure
+while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security
+ads appearing on our website may be delivered to users by advertising partners, who may set cookies
+these cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer
+this information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you
+this privacy policy covers the use of cookies by faretrotter and does not cover the use of cookies by any advertisers
+links to external sites
+our service may contain links or send you to external sites that are not operated by us
+if you click on a third party link or search button, you will be directed to that third party's site
+we strongly advise you to review the privacy policy and terms and conditions of every site you visit
+we have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services
+faretrotter uses google adwords for remarketing
+faretrotter uses the remarketing services to advertise on third party websites (including google) to visitors to our site
+it could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry
+this could be in the form of an advertisement on the google search results page, or a site in the google display network
+third-party vendors, including google, use cookies to serve ads based on someone's past visits
+of course, any data collected will be used in accordance with our own privacy policy and google's privacy policy
+protection of certain personally-identifying information
+faretrotter discloses personally identifying information only to those of its employees
+if you are a registered user of the website or otherwise have supplied your email address, faretrotter may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with faretrotter and our products
+if you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users
+removal of personally identifying information
+if you want your personally identifying information erased, contact us via our contact form
+if you’d like to unsubscribe to our newsletter, you can do this by clicking unsubscribe on any of our emails
+we collect all sorts of data and generic statistics about the behavior of visitors to its website and overall performance
+faretrotter may display this information publicly or provide it to others
+publicly exposed information will never contain personally identifying information
+this site uses affiliate links and does earn a commission from certain links
+this does not affect your purchases or the price you may pay
+we do not receive personally identifying information from any of our affiliate or partners
+to enrich and perfect your online experience, faretrotter uses "cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer
+a cookie is stored locally on your device
+we only use cookies in order to make your searching easier
+we do not store personally identifying information in cookies
+by continuing to use our website or services without changing your cookie settings, you hereby acknowledge and agree to faretrotter's use of cookies
+faretrotter may change its privacy policy occasionally, and at faretrotter's sole discretion
+faretrotter encourages visitors to check in on this page for changes to our privacy policy
+your continued use of this site after any change in this privacy policy will constitute your acceptance of the current privacy policy
+document updated september 27, 2019

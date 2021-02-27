@@ -1,0 +1,168 @@
+market & prospect intelligence
+risk management & monitoring
+insights store about us
+in this website privacy policy, corelogic, inc
+and our affiliates (collectively, “ corelogic ” or “ we ”), provide information about how we use, collect and transfer personally identifiable data from visitors to our websites (collectively the " website ") and users of our services
+additional information for users located in the european economic area (“ eea ”), switzerland and the uk about their rights and other information can be found in the annex to this privacy policy
+this privacy policy covers only data collected through the website and not any other data collection or processing, including, without limitation, data collection practices of other websites to which we link or data that we or our subsidiaries or affiliates collect offline or through websites, products, or services that do not display a direct link to this privacy policy
+collection, use, and sharing of data
+1 browser and device information
+corelogic collects information from visitors of the website, including the domain names, ip and mac addresses, browser types, and unique device identifiers of such visitors
+this information includes the number of visits, average time spent on the website, pages viewed and similar information
+this information may also include usage information about the page-by-page paths you take as you browse through the website
+corelogic uses this information to measure the use of the website and to develop ideas to improve the content of the website
+for more information regarding corelogic’s use of this information, please see the sections on “cookies and other tracking technologies” and “analytics” below
+we may combine such information with information provided by you
+2 personal information provided by you
+there are times, however, when we may need additional information from you, including personal information that may be used to identify you
+this information includes items such as your name, address, telephone number, and email address
+the information we collect is typically used by us to respond to your inquiry, process an order or allow you to access specific account/profile information
+3 information from third parties
+we may receive information about you from third-parties such as social networks (subject to the user's privacy settings and the privacy policy of the social network), service providers which allow us to verify, enhance or supplement your information, and business partners to whom we are offering a service
+we are not responsible for third-party use of information
+4 how do we use your information
+if you choose to share any personal information with us, we will use it in accordance with this privacy policy and applicable law
+we may use your personal information to
+improve the website or corelogic products and services
+customize your experience with the website, or to serve you specific content that is relevant to you
+contact you regarding your use of the website and, in our discretion, changes to our policies
+provide you with website-related notices
+send you advertisements and marketing for corelogic products and services in accordance with the law
+to notify you about changes to our websites and services
+send you service notices
+deal with enquiries and complaints
+comply with any legal or regulatory requirements and otherwise to any respond to any relevant regulator or competent authority as required by law
+understand user trends and patterns
+and for purposes disclosed elsewhere in this privacy policy, at the time you provide your personal information, or with your consent
+we may also use information for any internal purpose, such as quality control efforts or customer analysis
+5 retention of information
+we may store your information for as long as it is required for our business purposes, including the period after which any customer relationship has ceased
+6 sharing of information
+we will only share your information with third parties in accordance with applicable law
+we may share with third-parties information that is not associated with your name or identity, such as website usage information, non-personally identifiable demographic information, and aggregate user statistics in accordance with applicable law
+we may share your personal information with non-affiliated third-parties as necessary for us to provide the product or service you or your lender/service provider have requested of us, as permitted by law, with third party service providers so that they may perform certain services for us, or as otherwise specified herein
+such disclosures may include situations in which we are required to respond to subpoenas or other legal process, or are responding to the request of governmental authorities conducting an investigation
+we may also provide all of the types of non-public personal information listed above to one or more of our affiliated companies in connection with our services and other business purposes
+it is possible that corelogic, its subsidiaries, affiliates, joint venture companies, or any combination of them, could merge with or be acquired by another legal entity
+in such event, or in the event of any other proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of corelogic or of any of the business or assets or shares of corelogic or a subsidiary or division thereof, corelogic may share your information with third-parties
+furthermore, and subject to your consent where required by law, we may also provide all the information we collect, as described above, to companies that perform marketing services on our behalf, on behalf of our affiliated companies or to other financial institutions with which we or our affiliated companies have joint marketing agreements
+in some circumstances, we will request your consent to share your information with nonaffiliated third parties, such as lenders, realtors, and insurers, so that they may offer you products and services that may be of interest to you
+cookies and other tracking technologies
+the website uses “cookie” technology to measure website activity and to collect information such as browser type, time spent on the website, pages visited and other information about your visit to the website
+cookies are also used to prefill information previously entered into forms and to customize information to your personal tastes
+a cookie is an element of data that an internet site can send to your browser
+cookies are stored on your computer
+we may share information about you that we collect through a cookie with third-parties who help us analyze website data, in accordance with the law
+on our website we use the following types of cookies
+(a) strictly necessary cookies - these cookies are essential to enable the user to navigate around the website securely and to provide the user with services they have specifically requested
+(b) functionality cookies - these cookies enhance the functionality of the website by storing user preferences
+for instance, they can remember your name and location, if you provide this information and the types of content you are interested in
+(c) performance cookies - these cookies improve the performance of the website
+for instance, they help pages load quicker
+(d) analytics cookies - we may use third party analytics services such as google analytics and others
+your ip address and other information will be collected by automated means to report on your use of the services
+for more information about how google analytics uses your information please click here
+if you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site
+if, however, you do not accept our cookies, you may experience some inconvenience in your use of the website
+we may also include small graphic images called web beacons, also known as "internet tags" or "clear gifs," in our web pages and email messages
+we may use web beacons or similar technologies for a number of purposes, including, without limitation, to count the number of visitors to the website, to monitor how users navigate the website, and to count how many emails that we sent were actually opened or how many particular articles or links were actually viewed
+we may also use embedded scripts on the website
+an embedded script is programming code that is designed to collect information about your interactions with the website
+it is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the website, and is deleted or deactivated thereafter
+we may use third party analytics service providers, including but not limited to google analytics, to evaluate and provide us with information about the use of the website
+these third-parties use cookies, web beacons, pixels, embedded scripts and other, similar technologies to automatically collect information about your website use, report website trends, and help us compile website metrics
+you can learn about google’s specific practices by going to www
+we use google analytics advertising features with google signals, which includes remarketing with google analytics, google display network impression reporting, and google analytics demographics and interests reporting to advertise online
+google signals provides insight into cross-device user journeys and allows us to remarket to signed-in google users across devices
+websites and third-party vendors, including google, use first-party cookies (such as the google analytics cookie) and third-party cookies (such as the doubleclick cookie) together to inform, optimize, and serve ads based on someone’s past visits to a website
+if you would like us to stop sending you marketing communications you may use the opt-out link set out below or the unsubscribe link in our marketing communications
+although we encourage you to use the opt-out link because it is automated, you may also contact us
+corelogic solutions and etech
+if you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting
+you may also go to www
+eu if you are in europe, or to www
+info/choices if you are anywhere else for instructions on how to disable cookies
+you may opt-out from google analytics here or by downloading the google analytics opt-out browser add-on, available at
+in some instances, when you opt-out, a new cookie ( opt-out-cookie ) is placed in your web browser
+this tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you
+certain functionality on the website may permit interactions that you initiate between the website and a third party website or service (“ social features ”)
+if you choose to use social features, information you post or provide access to may be publicly displayed by the provider of the social feature that you use
+similarly, if you post information on a third party platform that references the website (e
+, by using a hashtag associated with corelogic in a tweet or status update), your post may be published on the website in accordance with the terms of the third party website or service
+also, both corelogic and the third party may have access to certain information about you and your use of the website and the third party site or service
+the information we collect in connection with social features is subject to this privacy policy
+the information collected and stored by the third party remains subject to the third party’s privacy practices
+we maintain appropriate physical, electronic, and procedural safeguards to protect your personal information
+we provide information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf, some or all of which may store your information on servers located outside of the united states
+when california customers provide personal information to a business, they have the right to request certain disclosures if that business shares personal information with third parties for the third parties' direct marketing purposes
+once per calendar year the customer may request that the business provide a list of companies with which it shares personal information for those companies' direct marketing purposes, and a list of the categories of personal information that the business shares
+corelogic generally does not sell products or services directly to individual california consumers
+however, if we engage in such contact, you may request information about our compliance with this law by contacting us
+any such inquiry must include "california privacy rights request" in the first line of the description and include your name, street address, city, state, and zip code
+please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address
+for information regarding corelogic’s obligations under the california consumer privacy act (ccpa), please click here
+our site is not intended for children under the age of 16
+we do not intentionally or knowingly collect personally-identifiable information from children under the age of 16 and we request that individuals under the age of 16 do not submit any personal information on the website
+if we learn that we have received identifying information from a user under the age of 16, we will delete this information
+there may be hyperlinks on the website to other websites or locations that are operated and controlled by third parties (" third party websites ")
+these third-party websites may solicit personal information from you
+we make no representations regarding the policies or business practices of such third party websites and encourage you to familiarize yourself with their privacy policies before providing them with your personal information
+investigative consumer reports (california residents)
+preparation and processing of investigative consumer reports
+this notice is provided to california residents
+under california law, an "investigative consumer report" is a consumer report containing information on a consumer's character, general reputation, personal characteristics, or mode of living
+corelogic rental property solutions may compile investigative consumer reports about individuals and provide them to businesses for background screening, tenant screening, and similar purposes
+united states or overseas – in connection with its preparation and processing of investigative consumer reports corelogic rental property solutions may transfer personal information about you to our authorized service providers and affiliates outside the united states and its territories
+such transfer will be conducted in accordance with all applicable laws and regulations
+to obtain additional information about the privacy practices and policies of corelogic rental property solutions in connection with its preparation and processing of investigative consumer reports, please contact us using the details above
+annex - processing of personal data (residents of the eea, switzerland and uk)
+corelogic provides additional information to its eea, switzerland and uk based users to comply with data protection laws
+1 what is personal data
+“ personal data ” is information about you (a “ data subject ”) the use of which is governed by applicable data protection laws
+it will include any information from which you can be identified, directly or indirectly, in particular by reference to an identifier such as your name, an identification number, location data, an online identifier or other information about your identity
+most information collected about you on the website will constitute personal data
+2 who is responsible for your personal data
+if you use our website, the data controller is corelogic solutions limited, 1st floor, 39 houndsditch, london ec3a 7db
+corelogic solutions limited is registered as a data controller with the information commissioner’s office in the uk (registration number z6322218)
+3 what is the legal basis for processing your personal data
+on some occasions, we process your personal data with your consent, for example, when you agree to receive our newsletter or to deal with your enquiries
+on other occasions, we process your personal data when we need to do this in order to fulfil a contract with you, such as granting you access to our online services
+we also process your personal data when it is in our legitimate interests to do this and when these interests are not overridden by your data protection rights
+for example, we may process your personal data in our legitimate interests to ensure that our website and services are provided efficiently and in an user-friendly and personalized manner taking into account user feedback, data and profiles, unless consent is required for any such processing under applicable law
+we will process personal data to ensure the security of our business and the information of our users, and to ensure the proper and efficient administration of our business
+you may contact us for further information
+finally, we will process your personal data where we are required to do this by law
+for example, where we have to fulfil anti-money laundering requirements or disclose information under a court order
+personal data that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the personal data in accordance with this privacy policy
+personal data which you provide may be transferred to our group companies, commercial partners, suppliers or agents located outside your country as set out above
+we will ensure adequate protection of personal data transferred outside of your country as required under applicable laws
+for example, if you are located in the eea, swiss or in the uk, we may enter into model clauses with the recipient
+you may contact us for a copy of the safeguards which we have put in place to protect your personal data in these circumstances
+in addition, personal data that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world
+we cannot prevent the use or misuse of such information by others
+5 how long does corelogic keep personal data
+corelogic keeps your personal data for only as long as required to provide you with the necessary website content and services and to carry out the processing set out in this privacy notice, and in line with its obligation under applicable law
+this means that we will generally not keep your personal data for longer than six years following your last interaction with us, and the actual retention period will often be shorter
+you may contact us for further information
+data subjects may ask us for a copy of their personal data, to correct it, erase it or to transfer it to other organisations at their request
+data subjects also have rights to object to some processing including profiling and, where we have asked for their consent to process the data subject’s personal data, to withdraw this consent
+in particular, data subjects have the right to object to direct marketing at any time
+where a data subject withdraws their consent, this will not affect the legitimacy of the processing conducted prior to your request
+where we process personal data because we have a legitimate interest in doing so (as explained above), the data subject has a right to object to this
+these rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your personal data
+please use the contact information set out in our contacting us section above
+we will aim to acknowledge your enquiries within 72 hours and respond within one month, unless otherwise required by law
+we hope that we can satisfy queries you may have about the way we process your personal data
+however, if you have unresolved concerns you also have the right to complain to your local data protection authority
+changes to this statement
+corelogic may from time to time and without prior notice revise this privacy policy
+any changes will be effective immediately when the revised policy is posted on the website, unless stated otherwise
+we will not, however, use your personal information in a manner materially different than what was stated in the privacy policy posted on the website at the time your personal information was collected unless we receive your consent
+if you have any questions about this privacy policy, our practices, or your dealings with the website, you can contact us by email or you can write to
+mark wynn sr ldr, compliance officer 40 pacifica suite 900 irvine, ca 92618
+data protection manager, corelogic fore 2, 2 huskisson way, shirley, solihull, b90 4ss england
+this privacy notice (version 1) was last updated on 24 may 2018
+please print or download a copy for your records
+market & prospect intelligence
+risk management & monitoring
+img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse

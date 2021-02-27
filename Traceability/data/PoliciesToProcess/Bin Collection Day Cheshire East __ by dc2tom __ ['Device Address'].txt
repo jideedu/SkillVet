@@ -1,0 +1,19 @@
+privacy policy for bin collection cheshire east
+amazon alexa privacy policy
+what information does the skill collect
+the skill requires the first line of address and postal code in order to function
+we only store the first line of your address and store this with the unique property id returned by the cheshire east council api
+we do not store any information to link this to anything else
+what do we use the information for
+we use the information to
+cut down on multiple calls to the cheshire east council api
+this information is not personally identifiable
+addresses are in the public domain
+only amazon can make calls to our services
+do we disclose any information to 3rd parties
+no and we have no intention to
+this is a hobby
+if you have any questions we will happily answer them
+tom underscore bullock84 at hotmail dot com
+bin-collection-day maintained by dc2tom
+published with github pages

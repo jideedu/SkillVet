@@ -1,0 +1,19 @@
+the manchester bin collection alexa skill is provided as a free service at no cost to anyone that
+chooses to use it
+this privacy policy explains how we collect and use your personal information
+if you choose to use this service, then you agree to the use of information in
+relation to this policy
+the following personal information is required to use this alexa skill
+this information is collected from the alexa apis (application programming interface) provided
+you can revoke access to this information (or skill) at any time by using the alexa app
+use of personal information
+your street address and postcode ("personal information") are used to obtain your bin collection
+information from manchester city council's public facing web site
+this information is logged purely for the purpose of improving this skill
+it will not be used
+for any other purpose and cannot be traced back to an individual device or user
+your personal information is not sent to any 3rd parties
+changes to this privacy policy
+we may update our privacy policy from time to time
+thus, you are advised to review this page periodically for any changes
+these changes are effective immediately after they are posted on this page

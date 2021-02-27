@@ -1,0 +1,31 @@
+short form privacy notice for
+this short form privacy notice for ups chat bot summarizes the personal information collected, used and shared by united parcel service, inc
+, along with our subsidiaries and affiliates (collectively, "ups”) through our ups chat bot (“bot”)
+this short form privacy notice for ups chat bot is only a summary of our practices that are relevant to our bot
+please refer to the full ups privacy notice and the ups short form privacy notice for more information
+if you choose to use the bot, know that it is enabled by the microsoft bot framework and microsoft cognitive services
+all images, video, audio and other data that are uploaded on the bot are received by microsoft and used by them to improve their service
+microsoft transmits the data to our bot
+note that ups only receives processed text transcripts of any voice input to respond to your requests on amazon alexa
+microsoft’s codes of conduct are available here and here where you may review ways to report abuse and access/delete information about you
+if you choose to access the bot through a social media service, such as facebook or skype, we will have access to your social media profile ids and other account information, your use is subject to ups's policy, privacy notice and terms of use
+your use is subject to various terms provided to you such as the terms of use , ups privacy notice , and the ups short form privacy notice
+further information about the third parties we share your information with
+“ data analytics providers ” are companies that collect and analyze the information we collect about you
+“ operating systems, service providers and platforms ” are companies that enable our bot or app software, develop the software on your device and the locations where the apps and chat bots may be used, sold or downloaded (e
+, microsoft’s bot framework and cognitive services, google and apple’s app store
+facebook messenger, skype and amazon alexa)
+they have policies about how they handle your data
+review microsoft’s and skype’s privacy statement here
+review facebook’s data use policies here
+review amazon’s privacy notice here
+our ups bot is enabled by microsoft bot framework
+the microsoft bot framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize
+as a service provider, microsoft will transmit content you provide to our bot/service in order to enable the service
+for more information about microsoft privacy policies please see their privacy statement here
+in addition, your interactions with this bot/service are also subject to the conversational channel's applicable terms of use, privacy and data collection policies
+to report abuse when using a bot that uses the microsoft bot framework to microsoft, please visit the microsoft bot framework website at https
+com and use the “report abuse” link in the menu to contact microsoft
+by using this ups bot, i agree that the ups bot may collect and manage the information above and the personal information described in the ups privacy notice pursuant to ups privacy notice , short form privacy notice , ups bot terms of use terms of use and log in with facebook disclosure
+short form privacy notice
+ups bot terms of use

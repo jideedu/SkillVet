@@ -1,0 +1,17 @@
+your use of the skill is conditioned on your acceptance of this agreement
+if you don’t accept these terms, you may not use the skill
+the skill allows you to use your alexa-enabled device (e
+, amazon echo) to communicate, by voice, to find your time
+to use the skill, you will have to speak commands and questions aloud to amazon’s alexa service('alexa'), and you will receive responses aloud
+the skill will request access to your alexa enabled device address, to retrieve the country and post code only
+these will be used, but not stored, to compute your time zone offset from utc time
+this will only be allowed after you have given consent to the skill from the alexa app
+we do not retain any user data, such as your device address country and post code
+what are my opt-out rights
+you can stop all collection of information by the skills easily by disabling the skills on your amazon alexa account
+you may use the standard uninstall processes as may be available as part of your device or amazon account
+we do not use the skill to knowingly solicit data from or market to children under the age of 13
+we recommend that if a child is using the skill, this is only done with adult supervision
+you assume all risk for your use of the skill, that it is provided ”as is”, and that the skill makes no warranty or representation, either express or implied
+the skill expressly disclaims all warranties, either express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose and noninfringement
+no advice or information, whether oral or written, obtained by you from the skill, or through or from the skill, will create any warranty of any kind

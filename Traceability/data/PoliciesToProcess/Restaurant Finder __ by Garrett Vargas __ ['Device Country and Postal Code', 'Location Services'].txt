@@ -1,0 +1,22 @@
+restaurant finder privacy policy
+this privacy policy has been compiled to better serve those who are concerned with how their
+'personally identifiable information' (pii) is being used online
+pii, as described in us privacy law
+and information security, is information that can be used on its own or with other information to
+identify, contact, or locate a single person, or to identify an individual in context
+please read our privacy policy carefully to get a clear understanding of how we collect, use,
+protect or otherwise handle your personally identifiable information in accordance with our alexa skills
+this policy applies to our restaurant finder skill
+what personal information do we collect from the people that use our skill
+only the amazon user identification number and registered postal code of your alexa devices are used
+to enable searches near your location
+this information is not stored, and none of
+this information is shared with any third parties
+the can-spam act is a law that sets the rules for commercial email, establishes requirements for
+commercial messages, gives recipients the right to have emails stopped from being sent to them,
+and spells out tough penalties for violations
+to be in accordance with canspam, we agree to the following
+if at any time you would like to unsubscribe from receiving future emails, you can email us at
+and we will promptly remove you from all correspondence
+if there are any questions regarding this privacy policy, you may contact us via e-mail at gsdriver@live
+last edited on 2018-04-10

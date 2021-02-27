@@ -1,0 +1,12 @@
+search this site bin bot menu home privacy terms of use bin bot home privacy terms of use more home privacy terms of use privacy bin bot privacy policy thank you for your interest in the bin bot alexa skill
+we take data protection seriously and fully support the general data protection regulation
+this is a simple skill that uses your device's address to provide bin collection data
+for further information refer to the amazon alexa privacy policy
+the skill uses the postal address of your alexa device provided via amazon
+bin bot does not have access to the personal information of the users of this skill
+the address data it uses is what is already stored in amazon's systems based on information you have provided
+bin bot does not share information provided by users of this service with any third party
+the skill makes use of public information available from the uttlesford district council website but does not store any information google sites report abuse this site uses cookies from google to deliver its services and to analyze traffic
+information about your use of this site is shared with google
+by using this site, you agree to its use of cookies
+learn more got it

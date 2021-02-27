@@ -1,0 +1,368 @@
+nothing to show here at the moment
+nutritionix and gdpr - for more information, please reference our gdrp communications page
+privacy policy of www
+this application collects some personal data from its users
+personal data collected for the following purposes and using the following services
+access to third party services' accounts
+access to the facebook account
+access to the stripe account
+various types of data as specified in the privacy policy of the service
+google analytics, wordpress stats, analytics collected directly, google analytics with anonymized ip and comscore analytics
+various types of data
+mailing list or newsletter
+device permissions for personal data access
+device permissions for personal data access
+approximate location permission (non-continuous)
+displaying content from external platforms
+github button and social widgets
+various types of data as specified in the privacy policy of the service
+hosting and backend infrastructure
+github pages, amazon web services (aws), cloudinary and digitalocean
+various types of data as specified in the privacy policy of the service
+various types of data as specified in the privacy policy of the service
+interaction with data collection platforms and other third parties
+interaction with external social networks and platforms
+twitter tweet button and social widgets, facebook like button and social widgets and pinterest “pin it” button and social widgets
+interaction with live chat platforms
+geolocation and non-continuous geolocation
+managing contacts and sending messages
+managing support and contact requests
+various types of data as specified in the privacy policy of the service
+facebook authentication and stripe oauth
+various types of data as specified in the privacy policy of the service
+various types of data
+remarketing and behavioral targeting
+remarketing with google analytics
+traffic optimization and distribution
+various types of data as specified in the privacy policy of the service
+further information about personal data
+selling goods and services online
+the personal data collected are used to provide the user with services or to sell goods, including payment and possible delivery
+the personal data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged
+the kind of data collected by this application depends on the payment system used
+owner and data controller
+owner and data controller
+types of data collected
+among the types of personal data that this application collects, by itself or through third parties, there are
+various types of data
+approximate location permission (non-continuous)
+complete details on each type of personal data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the data collection
+personal data may be freely provided by the user, or, in case of usage data, collected automatically when using this application
+unless specified otherwise, all data requested by this application is mandatory and failure to provide this data may make it impossible for this application to provide its services
+in cases where this application specifically states that some data is not mandatory, users are free not to communicate this data without consequences to the availability or the functioning of the service
+users who are uncertain about which personal data is mandatory are welcome to contact the owner
+any use of cookies – or of other tracking tools – by this application or by the owners of third-party services used by this application serves the purpose of providing the service required by the user, in addition to any other purposes described in the present document and in the cookie policy, if available
+users are responsible for any third-party personal data obtained, published or shared through this application and confirm that they have the third party's consent to provide the data to the owner
+mode and place of processing the data
+the owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the data
+the data processing is carried out using computers and/or it enabled tools, following organizational procedures and modes strictly related to the purposes indicated
+in addition to the owner, in some cases, the data may be accessible to certain types of persons in charge, involved with the operation of this application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, it companies, communications agencies) appointed, if necessary, as data processors by the owner
+the updated list of these parties may be requested from the owner at any time
+legal basis of processing
+the owner may process personal data relating to users if one of the following applies
+users have given their consent for one or more specific purposes
+under some legislations the owner may be allowed to process personal data until the user objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases
+this, however, does not apply, whenever the processing of personal data is subject to european data protection law
+provision of data is necessary for the performance of an agreement with the user and/or for any pre-contractual obligations thereof
+processing is necessary for compliance with a legal obligation to which the owner is subject
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the owner
+processing is necessary for the purposes of the legitimate interests pursued by the owner or by a third party
+in any case, the owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract
+the data is processed at the owner's operating offices and in any other places where the parties involved in the processing are located
+depending on the user's location, data transfers may involve transferring the user's data to a country other than their own
+to find out more about the place of processing of such transferred data, users can check the section containing details about the processing of personal data
+users are also entitled to learn about the legal basis of data transfers to a country outside the european union or to any international organization governed by public international law or set up by two or more countries, such as the un, and about the security measures taken by the owner to safeguard their data
+if any such transfer takes place, users can find out more by checking the relevant sections of this document or inquire with the owner using the information provided in the contact section
+personal data shall be processed and stored for as long as required by the purpose they have been collected for
+personal data collected for purposes related to the performance of a contract between the owner and the user shall be retained until such contract has been fully performed
+personal data collected for the purposes of the owner’s legitimate interests shall be retained as long as needed to fulfill such purposes
+users may find specific information regarding the legitimate interests pursued by the owner within the relevant sections of this document or by contacting the owner
+the owner may be allowed to retain personal data for a longer period whenever the user has given consent to such processing, as long as such consent is not withdrawn
+furthermore, the owner may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority
+once the retention period expires, personal data shall be deleted
+therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period
+the purposes of processing
+the data concerning the user is collected to allow the owner to provide its services, as well as for the following purposes
+access to third party services' accounts, traffic optimization and distribution, contacting the user, hosting and backend infrastructure, advertising, analytics, managing contacts and sending messages, registration and authentication, handling payments, interaction with external social networks and platforms, managing support and contact requests, interaction with live chat platforms, displaying content from external platforms, interaction with data collection platforms and other third parties, infrastructure monitoring, remarketing and behavioral targeting, location-based interactions and device permissions for personal data access
+users can find further detailed information about such purposes of processing and about the specific personal data used for each purpose in the respective sections of this document
+facebook permissions asked by this application
+this application may ask for some facebook permissions allowing it to perform actions with the user's facebook account and to retrieve information, including personal data, from it
+this service allows this application to connect with the user's account on the facebook social network, provided by facebook inc
+for more information about the following permissions, refer to the facebook permissions documentation and to the facebook privacy policy
+the permissions asked are the following
+by default, this includes certain user’s data such as id, name, picture, gender, and their locale
+certain connections of the user, such as the friends, are also available
+if the user has made more of their data public, more information will be available
+access the user's contact email address
+device permissions for personal data access
+depending on the user's specific device, this application may request certain permissions that allow it to access the user's device data as described below
+by default, these permissions must be granted by the user before the respective information can be accessed
+once the permission has been given, it can be revoked by the user at any time
+in order to revoke these permissions, users may refer to the device settings or contact the owner for support at the contact details provided in the present document
+the exact procedure for controlling app permissions may be dependent on the user's device and software
+please note that the revoking of such permissions might impact the proper functioning of this application
+if user grants any of the permissions listed below, the respective personal data may be processed (i
+e accessed to, modified or removed) by this application
+approximate location permission (non-continuous)
+used for accessing the user's approximate device location
+this application may collect, use, and share user location data in order to provide location-based services
+the geographic location of the user is determined in a manner that isn't continuous
+this means that it is impossible for this application to derive the approximate position of the user on a continuous basis
+detailed information on the processing of personal data
+personal data is collected for the following purposes and using the following services
+access to third party services' accounts
+this type of services allows this application to access data from your account on a third party service and perform actions with it
+these services are not activated automatically, but require explicit authorization by the user
+access to the stripe account (stripe inc)
+this service allows this application to connect with the user's account on stripe, provided by stripe, inc
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+access to the facebook account (this application)
+this service allows this application to connect with the user's account on the facebook social network, provided by facebook, inc
+us – privacy policy
+this type of services allows user data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this application, possibly based on user interests
+this does not mean that all personal data are used for this purpose
+information and conditions of use are shown below
+some of the services listed below may use cookies to identify users or they may use the behavioral retargeting technique, i
+displaying ads tailored to the user’s interests and behavior, including those detected outside this application
+for more information, please check the privacy policies of the relevant services
+google adsense (google inc
+google adsense is an advertising service provided by google inc
+this service uses the “doubleclick” cookie, which tracks use of this application and user behavior concerning ads, products and services offered
+users may decide to disable all the doubleclick cookies by clicking on
+us – privacy policy – opt out
+the services contained in this section enable the owner to monitor and analyze web traffic and can be used to keep track of user behavior
+google analytics (google inc
+google analytics is a web analysis service provided by google inc
+google utilizes the data collected to track and examine the use of this application, to prepare reports on its activities and share them with other google services
+google may use the data collected to contextualize and personalize the ads of its own advertising network
+us – privacy policy – opt out
+wordpress stats (automattic inc
+wordpress stats is an analytics service provided by automattic inc
+us – privacy policy
+testflight is an analytics service provided by apple inc
+us – privacy policy
+analytics collected directly (this application)
+this application uses an internal analytics system that does not involve third parties
+google analytics with anonymized ip (google inc
+google analytics is a web analysis service provided by google inc
+google utilizes the data collected to track and examine the use of this application, to prepare reports on its activities and share them with other google services
+google may use the data collected to contextualize and personalize the ads of its own advertising network
+this integration of google analytics anonymizes your ip address
+it works by shortening users' ip addresses within member states of the european union or in other contracting states to the agreement on the european economic area
+only in exceptional cases will the complete ip address be sent to a google server and shortened within the us
+us – privacy policy – opt out
+comscore analytics (comscore, inc
+comscore is an analytics service provided by comscore, inc
+united states – privacy policy
+contact form (this application)
+by filling in the contact form with their data, the user authorizes this application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header
+various types of data
+mailing list or newsletter (this application)
+by registering on the mailing list or for the newsletter, the user’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this application
+your email address might also be added to this list as a result of signing up to this application or after making a purchase
+device permissions for personal data access
+this application requests certain permissions from users that allow it to access the user's device data as described below
+device permissions for personal data access (this application)
+this application requests certain permissions from users that allow it to access the user's device data as summarized here and described within this document
+approximate location permission (non-continuous)
+displaying content from external platforms
+this type of services allows you to view content hosted on external platforms directly from the pages of this application and interact with them
+this type of service might still collect web traffic data for the pages where the service is installed, even when users do not use it
+github button and social widgets (github inc
+the github button and social widgets are services allowing interaction with the github and gist services provided by github, inc
+us – privacy policy
+payment processing services enable this application to process payments by credit card, bank transfer or other means
+to ensure greater security, this application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction
+some of these services may also enable the sending of timed messages to the user, such as emails containing invoices or notifications concerning the payment
+stripe is a payment service provided by stripe inc
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+hosting and backend infrastructure
+this type of services has the purpose of hosting data and files that enable this application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this application
+some of these services work through geographically distributed servers, making it difficult to determine the actual location where the personal data are stored
+github pages (github inc
+github pages is a hosting service provided by github, inc
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+amazon web services (aws) (amazon)
+amazon web services (aws) is a hosting and backend service provided by amazon
+various types of data as specified in the privacy policy of the service
+see the amazon privacy policy – privacy policy
+cloudinary is a hosting service provided by cloudinary ltd
+various types of data as specified in the privacy policy of the service
+israel – privacy policy
+digitalocean is a hosting service provided by digitalocean inc
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+this type of services allows this application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved
+which personal data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this application
+pingdom is a monitoring service provided by pingdom ab
+sweden – privacy policy
+new relic (new relic)
+new relic is a monitoring service provided by new relic inc
+the way new relic is integrated means that it filters all traffic of this application, i
+, communication between the application and the user's browser or device, while also allowing analytical data on this application to be collected
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+interaction with data collection platforms and other third parties
+this type of services allows users to interact with data collection platforms or other services directly from the pages of this application for the purpose of saving and reusing data
+if one of these services is installed, it may collect browsing and usage data in the pages where it is installed, even if the users do not actively use the service
+wufoo widget (wufoo inc
+the wufoo widget is a service for interacting with the wufoo data collection platform provided by wufoo inc
+us – privacy policy
+interaction with external social networks and platforms
+this type of service allows interaction with social networks or other external platforms directly from the pages of this application
+the interaction and information obtained through this application are always subject to the user’s privacy settings for each social network
+this type of service might still collect traffic data for the pages where the service is installed, even when users do not use it
+it is recommended to log out from the respective services in order to make sure that the processed data on this application isn’t being connected back to the user’s profile
+twitter tweet button and social widgets (twitter, inc
+the twitter tweet button and social widgets are services allowing interaction with the twitter social network provided by twitter, inc
+us – privacy policy
+facebook like button and social widgets (facebook, inc
+the facebook like button and social widgets are services allowing interaction with the facebook social network provided by facebook, inc
+us – privacy policy
+pinterest “pin it” button and social widgets (pinterest)
+the pinterest “pin it” button and social widgets are services allowing interaction with the pinterest platform provided by pinterest inc
+us – privacy policy
+interaction with live chat platforms
+this type of services allows users to interact with third party live chat platforms directly from the pages of this application, for contacting and being contacted by this application support service
+if one of these services is installed, it may collect browsing and usage data in the pages where it is installed, even if the users do not actively use the service
+moreover, live chat conversations may be logged
+snapengage widget (timzon, llc
+the snapengage widget is a service for interacting with the snapengage live chat platform provided by timzon, llc
+us – privacy policy
+this application may collect, use, and share user location data in order to provide location-based services
+most browsers and devices provide tools to opt out from this feature by default
+if explicit authorization has been provided, the user’s location data may be tracked by this application
+non-continuous geolocation (this application)
+this application may collect, use, and share user location data in order to provide location-based services
+most browsers and devices provide tools to opt out from this feature by default
+if explicit authorization has been provided, the user’s location data may be tracked by this application
+the geographic location of the user is determined in a manner that isn't continuous, either at the specific request of the user or when the user doesn't point out its current location in the appropriate field and allows the application to detect the position automatically
+managing contacts and sending messages
+this type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the user
+these services may also collect data concerning the date and time when the message was viewed by the user, as well as when the user interacted with it, such as by clicking on links included in the message
+mandrill (the rocket science group, llc
+mandrill is an email address management and message sending service provided by the rocket science group, llc
+us – privacy policy
+mailchimp (the rocket science group, llc
+mailchimp is an email address management and message sending service provided by the rocket science group, llc
+us – privacy policy
+managing support and contact requests
+this type of services allows this application to manage support and contact requests received via email or by other means, such as the contact form
+the personal data processed depend on the information provided by the user in the messages and the means used for communication (e
+zendesk is a support and contact request management service provided by zendesk inc
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+by registering or authenticating, users allow this application to identify them and give them access to dedicated services
+depending on what is described below, third parties may provide registration and authentication services
+in this case, this application will be able to access some data, stored by these third party services, for registration or identification purposes
+facebook authentication (facebook, inc
+facebook authentication is a registration and authentication service provided by facebook, inc
+and is connected to the facebook social network
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+stripe oauth (stripe inc)
+stripe oauth is a registration and authentication service provided by stripe, inc
+and is connected to the stripe network
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+direct registration (this application)
+the user registers by filling out the registration form and providing the personal data directly to this application
+various types of data
+remarketing and behavioral targeting
+this type of service allows this application and its partners to inform, optimize and serve advertising based on past use of this application by the user
+this activity is performed by tracking usage data and by using cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity
+in addition to any opt out offered by any of the services below, the user may opt out of a third-party service's use of cookies by visiting the network advertising initiative opt-out page
+remarketing with google analytics (google inc
+remarketing with google analytics is a remarketing and behavioral targeting service provided by google inc
+that connects the tracking activity performed by google analytics and its cookies with the google ads advertising network and the doubleclick cookie
+us – privacy policy – opt out
+traffic optimization and distribution
+this type of services allows this application to distribute their content using servers located across different countries and to optimize their performance
+which personal data are processed depends on the characteristics and the way these services are implemented
+their function is to filter communications between this application and the user's browser
+considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain personal information user are transferred
+cloudflare is a traffic optimization and distribution service provided by cloudflare inc
+the way cloudflare is integrated means that it filters all the traffic through this application, i
+, communication between this application and the user's browser, while also allowing analytical data from this application to be collected
+various types of data as specified in the privacy policy of the service
+us – privacy policy
+further information about personal data
+selling goods and services online
+the personal data collected are used to provide the user with services or to sell goods, including payment and possible delivery
+the personal data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged
+the kind of data collected by this application depends on the payment system used
+the rights of users
+users may exercise certain rights regarding their data processed by the owner
+in particular, users have the right to do the following
+withdraw their consent at any time
+users have the right to withdraw consent where they have previously given their consent to the processing of their personal data
+object to processing of their data
+users have the right to object to the processing of their data if the processing is carried out on a legal basis other than consent
+further details are provided in the dedicated section below
+users have the right to learn if data is being processed by the owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the data undergoing processing
+verify and seek rectification
+users have the right to verify the accuracy of their data and ask for it to be updated or corrected
+restrict the processing of their data
+users have the right, under certain circumstances, to restrict the processing of their data
+in this case, the owner will not process their data for any purpose other than storing it
+have their personal data deleted or otherwise removed
+users have the right, under certain circumstances, to obtain the erasure of their data from the owner
+receive their data and have it transferred to another controller
+users have the right to receive their data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance
+this provision is applicable provided that the data is processed by automated means and that the processing is based on the user's consent, on a contract which the user is part of or on pre-contractual obligations thereof
+users have the right to bring a claim before their competent data protection authority
+details about the right to object to processing
+where personal data is processed for a public interest, in the exercise of an official authority vested in the owner or for the purposes of the legitimate interests pursued by the owner, users may object to such processing by providing a ground related to their particular situation to justify the objection
+users must know that, however, should their personal data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification
+to learn, whether the owner is processing personal data for direct marketing purposes, users may refer to the relevant sections of this document
+how to exercise these rights
+any requests to exercise user rights can be directed to the owner through the contact details provided in this document
+these requests can be exercised free of charge and will be addressed by the owner as early as possible and always within one month
+this application uses cookies
+to learn more and for a detailed cookie notice, the user may consult the cookie policy
+additional information about data collection and processing
+the user's personal data may be used for legal purposes by the owner in court or in the stages leading to possible legal action arising from improper use of this application or the related services
+the user declares to be aware that the owner may be required to reveal personal data upon request of public authorities
+additional information about user's personal data
+in addition to the information contained in this privacy policy, this application may provide the user with additional and contextual information concerning particular services or the collection and processing of personal data upon request
+system logs and maintenance
+for operation and maintenance purposes, this application and any third-party services may collect files that record interaction with this application (system logs) use other personal data (such as the ip address) for this purpose
+information not contained in this policy
+more details concerning the collection or processing of personal data may be requested from the owner at any time
+please see the contact information at the beginning of this document
+how “do not track” requests are handled
+this application does not support “do not track” requests
+to determine whether any of the third-party services it uses honor the “do not track” requests, please read their privacy policies
+changes to this privacy policy
+the owner reserves the right to make changes to this privacy policy at any time by giving notice to its users on this page and possibly within this application and/or - as far as technically and legally feasible - sending a notice to users via any contact information available to the owner
+it is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom
+should the changes affect processing activities performed on the basis of the user’s consent, the owner shall collect new consent from the user, where required
+definitions and legal references
+personal data (or data)
+any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person
+information collected automatically through this application (or third-party services employed in this application), which can include
+the ip addresses or domain names of the computers utilized by the users who use this application, the uri addresses (uniform resource identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc
+), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e
+, the time spent on each page within the application) and the details about the path followed within the application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's it environment
+the individual using this application who, unless otherwise specified, coincides with the data subject
+the natural person to whom the personal data refers
+data processor (or data supervisor)
+the natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as described in this privacy policy
+data controller (or owner)
+the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, including the security measures concerning the operation and use of this application
+the data controller, unless otherwise specified, is the owner of this application
+the means by which the personal data of the user is collected and processed
+the service provided by this application as described in the relative terms (if available) and on this site/application
+european union (or eu)
+unless otherwise specified, all references made within this document to the european union include all current member states to the european union and the european economic area
+small piece of data stored in the user's device
+this privacy statement has been prepared based on provisions of multiple legislations, including art
+13/14 of regulation (eu) 2016/679 (general data protection regulation)
+this privacy policy relates solely to this application, if not stated otherwise within this document
+© 2019 syndigo llc all rights reserved
+we use cookies to understand and save user’s preferences for future visits and compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future
+we may also use trusted third party services that track this information on our behalf
+by clicking 'accept', or using this site, you consent to the use of cookies unless you have disabled them

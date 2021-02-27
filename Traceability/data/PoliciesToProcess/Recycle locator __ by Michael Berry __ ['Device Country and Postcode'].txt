@@ -1,0 +1,21 @@
+instantly share code, notes, and snippets
+last active last year
+what would you like to do
+embed this gist in your website
+copy sharable link for this gist
+clone with git or checkout with svn using the repository’s web address
+learn more about clone urls
+recycling locator privacy policy
+the recycling locator collects and uses a postcode to send to the recycle now api, in order to retrieve information about nearby recycling centres
+no other personal data is collected or used
+the postcode is not stored in any location, nor sent to any other service
+sign up for free
+to join this conversation on github
+already have an account
+sign in to comment
+© 2019 github , inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

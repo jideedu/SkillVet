@@ -1,0 +1,28 @@
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+7 lines (4 sloc) 389 bytes
+the “bin day” service requires permission to find the address registered against the alexa device triggering the skill
+this is used to query the wychavon website to find the correct bins you need to take out
+this address information (and any other personal information) is only used on amazon’s servers and is not stored, so it cannot be shared with anyone
+reference in new issue
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session
+no suggested jump to results
+github is home to over 50 million developers working together to host and review code, manage projects, and build software together
+cannot retrieve contributors at this time
+7 lines (4 sloc) 389 bytes
+the “bin day” service requires permission to find the address registered against the alexa device triggering the skill
+this is used to query the wychavon website to find the correct bins you need to take out
+this address information (and any other personal information) is only used on amazon’s servers and is not stored, so it cannot be shared with anyone
+reference in new issue
+© 2020 github, inc
+you can’t perform that action at this time
+you signed in with another tab or window
+reload to refresh your session
+you signed out in another tab or window
+reload to refresh your session

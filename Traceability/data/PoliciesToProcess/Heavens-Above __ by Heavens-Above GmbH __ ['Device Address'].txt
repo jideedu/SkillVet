@@ -1,0 +1,3 @@
+privacy policy for the heavens-above alexa skill
+this skill uses the address information associated with the alexa device to calculate the iss and iridium flare sighting times
+this information is not shared with any third parties

@@ -1,0 +1,11 @@
+what does it mean for one programmer to be better than another
+tdd is debugging features into existence
+what your text editor can say about you
+optimize for debugging speed
+why all programmers should play muds
+social view scottwernerd’s profile on twitter view wernerscott’s profile on linkedin view swerner’s profile on github
+this is the privacy policy for the weatherdiff alexa skill
+we will never sell, rent, or share any of your personal data with anyone except for use in geolocating you by your address through google’s geolocation api and retrieving your weather forecast using dark sky’s api
+the third party service’s privacy policies can be found below
+dark sky privacy policy
+proudly powered by wordpress

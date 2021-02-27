@@ -1,0 +1,17 @@
+chicago food truck finder
+javascript is required for this site to function properly
+your privacy is important to me, so this policy shows how this site collects and uses data
+what data is collected
+using google analytics, this site collects broad usage data for how the population as a
+whole uses this site
+this site does not collect or maintain any personally identifying information
+this site may request your location data
+this site logs data to the google cloud
+these logs contain uris and other relevant information about requests (browser, operating system, etc)
+how that data is used
+analytics data is used to determine how the population as a whole is using this web site
+location/gps data is used to determine your device's current proximity to food trucks
+this is then used to sort trucks by distance (on the website and chrome extension) and to
+display food trucks "near me" in the alexa app
+this data is never permanently stored
+logs are used for debugging purposes and do not contain personally identifiable information

@@ -1,0 +1,135 @@
+skip to main content
+this site does not support internet explorer 10 or earlier
+you are using an outdated browser
+please upgrade your browser to
+house home trip-planner plan toggle plan sub navigation trip planner departures alerts and trackwork routes and timetables regional bookings stations, stops and wharves transport apps service adjustments north west night bus getting to events help with planning places to visit vendor tickets and opal toggle tickets and opal sub navigation opal toggle opal sub navigation about opal fares and payments manage opal card balance and activity get an opal card top up about opalpay contactless payments regional tickets toggle regional tickets sub navigation bookings and fares discovery pass child and family fares fare rules pensioner travel vouchers country pensioner excursion regional buses and fares travel-info travel info toggle travel info sub navigation ways to get around toggle ways to get around sub navigation metro train bus ferry light rail regional trains and coaches on demand drive taxi and hire vehicle walking and cycling community transport using public transport toggle using public transport sub navigation school travel accessible travel safety and security travel offences and fines prams and young children regional travel toggle regional travel sub navigation coach onboard features train fleet and facilities on board menu luggage contactus help and contact toggle help and contact sub navigation find contacts help with planning transport bot feedback, questions and complaints lost property social media transport operators visit us
+this nsw government website is maintained by transport for nsw
+this privacy statement applies to all the publicly accessible pages located at the www
+info site ( site )
+transport for nsw does not have any responsibility for the privacy policies or practices of third party sites linked to the transportnsw
+if you have any questions about the site or the application of this privacy statement or a request for access to information held by transport for nsw, please contact
+privacy team transport for nsw po box k659 email
+users of the site are entitled to expect that any information gathered while using the site will be treated within the terms of the new south wales government's privacy responsibilities and obligations
+the new south wales government's privacy practices are regulated by the privacy and personal information protection act 1998 (nsw) ( ppipa ) and health records and information privacy act 2002 (nsw) ( hripa )
+this privacy statement sets out how transport for nsw collects, uses, discloses and stores information collected through your use of the site, which may include personal information and health information, and how individuals may access and correct personal information that we may hold
+transport for nsw will only collect, use and disclose this information in accordance with ppipa, hripa and any other applicable laws
+what information do we collect
+when you access the pages on our site our computers automatically record information that identifies, for each page accessed
+the ip (internet protocol) address of the device being used, which can sometimes be matched to broad geographic data
+the pages accessed, documents downloaded and transactions completed such as keywords searched for onsite or trip plans and other forms completed
+the date and time of your visit
+the last site and page visited immediately prior to arriving at the transportnsw
+info site, including any search terms used at internet search engines
+the address, hostname and top-level domain, for example
+au, of your server
+the type of browser and operating system used on the device
+the bandwidth, that is, your internet connection speed
+if the device supports javascript or other specific technologies and their version number
+the number of screen colours displayed on the device
+the time spent on each page of the transportnsw
+only some of this information may be considered personal information
+if you use the feedback facilities on the site you may also choose to provide us with your personal information such as your name, address, phone number and relevant contact details or other information about you
+depending on your complaint or the service you require, sometimes this information may also include health information
+you may choose to provide feedback anonymously or not provide all the information requested
+if you use the feedback facilities anonymously or do not provide us with the requested information we may not be able to reply to your feedback
+how we collect this information
+we collect the information on our site by using ‘cookies’ which are small pieces of text data that a web server can store on, and later retrieve from, a computer
+they do not personally identify you, but do identify your browser
+cookies can be either 'persistent' or 'session' based
+persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing website
+session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser
+we use first and second party persistent cookies (i
+issued and retrieved by the transportnsw
+info systems or its service providers) to collect information about visitor behaviour and general website statistics
+we may also use services, for example, facebook pixel and cadreon, which may place cookies on your browser to provide relevant advertisements and information from us to your browser or app
+the cookies on the site do not read the information on your hard drive
+transport for nsw makes no attempt to associate cookies with users' names or identities
+our server cannot find out your name or email address from the cookies used on the site
+you can accept or decline cookies by modifying the settings on your browser
+disabling cookies will not affect your ability to use our websites
+if you would like to enable/disable cookies in your browser, you can do this in
+history (use custom settings for history)
+we also use analytics services (for example, google analytics and facebook pixel) to help us analyse and provide reporting on how users use the site
+how we use information collected
+the information collected on our site may be used to allow us to provide a faster and richer interaction when you return to the site in the future, such as being able to populate fields in the trip planner from your previous entries
+in addition, the information collected during each visit is aggregated with similar logged information and published in reports so transport for nsw can identify patterns of usage of the site
+this will assist us in improving the site and the services offered on it
+feedback that we receive from you through the site will be used according to the “what we do with feedback information” section further below
+finally, your information may be used to maintain and protect the security of the site
+how we disclose information collected
+the information provided will be disclosed to service providers for them to help us analyse how users use the site
+this information does not identify individual users
+transport for nsw captures this information on its own computers and those of its service providers
+access to the raw data is restricted to a limited number of officers in transport for nsw and its service providers for the purpose of website analysis and to report on the success of transport for nsw in meeting its communication and access objectives
+transport for nsw will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without your consent or otherwise in accordance with the ppipa and hripa (for example, disclosure may be required by law)
+other uses and disclosures
+transport for nsw may use and disclose more extensive information than stated above in certain circumstances, including
+unauthorised attempts to access files which are not published transportnsw
+unauthorised tampering or interference with files published on the site
+unauthorised attempts to index the contents of the site by other websites
+attempts to intercept messages of other users of the site
+communications that are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed, and
+attempts to otherwise compromise the security of the web server, breach the laws of the state of new south wales or commonwealth of australia, or interfere with the enjoyment of the site by other users
+transport for nsw reserves the right to make disclosures to relevant authorities where the use of the site raises a suspicion that an offence is being, or has been, committed
+in the event of an investigation, transport for nsw will provide access to data to any law enforcement agency that may execute a warrant to inspect our logs
+how we use and disclose feedback information
+transport for nsw provides feedback facilities on the site to allow users to provide input into the future development of the site and to comment on the provision of transport services in nsw
+personal information and sometimes, health information, are requested to enable follow up by transport for nsw for more details or for the purpose of providing a reply to your feedback
+this information will only be used for the primary purpose for which it was provided
+we will not add your email address or name to any mailing list
+we will not disclose your personal information or health information without your consent or as otherwise may be permitted in accordance with the ppipa and hripa (for example, disclosure may be required by law)
+transport for nsw may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users
+customer access to opal information
+if you choose to view your opal card activity on this site, you will need to provide your opal access details, either
+username/email for your opal account
+password for your opal account
+these details will then be used to connect with the opal database and enable your travel history to be retrieved and displayed on this site
+this information is not shared with any other another third party system and is not stored on the site
+information collected is stored in an appropriately secure format and held by transport for nsw for archival purposes
+when the information is no longer required for the purposes for which it was collected it is deleted
+if you wish to
+ask questions about this privacy statement
+obtain access to or seek correction of your personal information
+make a complaint in relation to your privacy,
+please contact the information and privacy unit (as per the details provided at the start of this privacy statement)
+privacy notice for on demand travel credit trial
+transport for new south wales (tfnsw) is committed to protecting the privacy of your personal information in accordance with the privacy and personal information protection act 1998 (nsw) ( ppip act )
+by participating in the on demand travel credit trial ( odtc trial ) you consent to tfnsw collecting, using, storing and disclosing your personal information in accordance with the terms of this privacy notice
+the provision of your personal information is voluntary, but you may not participate in the odtc trial if you do not provide the personal information required in order for tfnsw to link your trips
+tfnsw will collect your name, email address, mobile telephone number and opal card number directly from you when you register to participate in the odtc trial
+tfnsw will also collect personal information about you from interline connect (such as trip information including the date, time and location of your interline connect trip, the cost of your interline connect ticket and ticket type (for example, adult or concession) and specific customer reference numbers designated to your interline connect account)
+tfnsw will not collect your interline connect payment information
+your personal information will be collected to assist tfnsw with
+administering the odtc trial
+transport planning and policy
+the odtc trial requires a customer to register a new account with tfnsw for an on demand travel credit ( odtc trial account )
+certain personal information about you (set out above under collection ) will be used to link your opal card and your interline on demand booking account number
+once linked, tfnsw will consolidate your interline on demand and opal trips and calculate travel credits for the intermodal transfers between interline on demand and opal trips
+you can view your consolidated travel history for interline on demand trips and connected opal trips, by logging in to your on demand travel credit account and viewing your activity
+when you book a trip with interline on demand to travel to or from edmondson park station, this will be registered with interline on demand in accordance with the interline terms and conditions (pdf 159kb)
+when you board the interline on demand bus service, tfnsw will be notified of this trip by an exchange of the information above
+once you tap on or off at an opal network service at edmondson park station, your information in relation to tapping on or off the opal network and the interline on demand bus trip you took will be linked in your odtc trial account held by tfnsw
+tfnsw will verify that you have travelled on the interline on demand bus service and the opal network within 60 minutes
+at that time, you will be eligible to receive a credit of $2
+00 if you are an adult opal customer or $1
+00 if you are an opal concession card customer
+the credit will be provided by interline on demand back to the payment method you registered with interline on demand and not from the opal network
+tfnsw will exchange your personal information with interline connect to verify your connecting trips between interline on demand and the opal network (set out above under use )
+only those who have registered for the odtc trial on the tfnsw website will have their information shared between tfnsw and interline on demand
+tfnsw will not use or disclose your personal information for any purpose other than those set out in this privacy notice
+tfnsw will not disclose your personal information, unless you consent, or tfnsw is required to by law
+tfnsw will ensure the confidentiality and security of your information
+for further information on tfnsw’s privacy obligations, and details about how to contact tfnsw’s privacy officer, please see tfnsw’s privacy management plan or contact us at privacy@transport
+updates to this privacy statement
+due to the developing nature of privacy principles for online communication, this privacy statement may be modified or expanded in light of new developments or issues that may arise from time to time
+the amended privacy statement will be posted to the site and will operate from the time it is posted
+developers and site owners
+for developers and site owners
+conditions of using this site
+opal terms of use
+help using this site
+key to icons and line colours
+feedback, questions and complaints
+© transport for nsw
+transport for nsw acknowledges the traditional owners and custodians of the land, and respects elders past, present and future
+rita transport virtual assistant close send launch virtual assistant

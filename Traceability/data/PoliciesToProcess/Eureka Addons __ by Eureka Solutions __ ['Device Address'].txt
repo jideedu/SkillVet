@@ -1,0 +1,146 @@
+menu menu home solutions by deployment by business need by industry services discovery implementation training support development products netsuite netsuite erp suitesuccess financials first software service organisations wholesale distribution netsuite crm netsuite suitecommerce advanced netsuite srp netsuite oneworld netsuite openair netsuite warranties, service & repairs netsuite development sage sage 200cloud sage 200 extra online sage crm sage development eureka addons data exchange business intelligence qlik panintelligence knowledge base case studies blog eureka moments resources about customer reviews news events meet the team contact
+privacy policy eureka solutions (scotland) ltd (“we” or “us””) are committed to protecting and respecting your privacy
+this privacy policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us
+please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
+this privacy policy explains
+the scope of this privacy policy information that we may collect from you information that we collect automatically from you how we store your personal data how we use your information access to your information your rights relating to your data data retention children’s privacy changes to this privacy policy how to contact us for the purpose of the data protection legislation, the data controller is eureka solutions (scotland) ltd of west point house, 5 redwood place, peel park, east kilbride, g74 5pb and our nominated representative for this purpose is alistair livingstone
+scope of this privacy policy the following types of information are covered by the scope of this privacy policy
+personal information we collect through all websites operated by us including, but not limited to, www
+personal information we collect about you in the course of doing business with you, such as when you engage with us as a customer, potential customer, supplier, service provider, professional advisor, consultant or other third party in relation to the provision of our services, and the operation of our business generally
+this includes sales, marketing, business contact, transactions, support services or registration activities conducted by us
+this policy applies to the processing of personal data relating to customers, prospects, suppliers, business partners, vendors and other end users, the extent of which is determined and controlled by us in our sole discretion
+this privacy policy does not include any personal information that our customers and their end users input or upload into third party software such as sage or netsuite
+please refer to the privacy policy of these software vendors for further information on their data collection policies
+our websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates
+your use of a third-party site or app may result in the collection, processing, or sharing of information about you, depending on the site or app
+if you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies
+we strongly encourage you to read these policies before you submit any personal data to these websites
+information we may collect from you through your interaction with us, we may collect and process the following data about you for specific and lawful purposes
+information that you provide by filling in forms on our websites (“our sites”)
+this includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services
+we may also ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with our websites
+information that we collect automatically during visits to our websites, including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access
+information customers and potential customers provide when engaging in or conducting business with us
+the types of information we may collect includes, but is not limited to, names, email addresses, postal addresses, contact details, job titles, transactional information, usage information, financial/billing information, account information, correspondence and any other information you may choose to provide
+you may also choose to provide personal information, such as contact details and job titles, when you attend sales and marketing events, view product demos, download software from our website, take part in surveys, or through other sales and marketing interactions we may have with you
+when you contact our support desk for technical support we may record personal information such as contact details, e-mail addresses, phone numbers and job titles
+if you contact us, we may keep a record of that correspondence
+telephone calls made to or received from ourselves may be recorded
+we may also ask you to complete surveys that we use for research, quality and/or training purposes, although you do not have to respond to them
+details of interactions you have with us
+when you sign or review an electronic document that we send to you, for example a customer registration form, or direct debit mandate we also may collect information related to your company, approximate geographic location, or other demographic information that does not personally identify you
+to the extent permitted by applicable law, we reserve the right to combine other information as defined above with personal information that you submit
+we may also obtain data from third parties, which may include data brokers, business partners, partners with which we offer co-branded services or engage in joint marketing activities, and publicly-available sources such as government databases or other data in the public domain
+we protect data obtained from third parties according to this privacy policy, plus any additional restrictions imposed by the source of the data
+information that we collect automatically about you when you visit our website(s) we may collect information about your computer, including where available your ip address, operating system and browser type, for system administration and to report aggregate information to our advertisers
+this is statistical data about our users’ browsing actions and patterns and does not identify any individual
+for the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer
+cookies contain information that is transferred to your computer’s hard drive
+they help us to improve our site and to deliver a better and more personalised service
+to estimate our audience size and usage pattern
+to store information about your preferences, and so allow us to customise our site according to your individual interests
+to speed up your searches
+to recognise you when you return to our site
+you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies
+however, if you select this setting you may be unable to access certain parts of our site
+unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site
+please note that our advertisers may also use cookies, over which we have no control
+we may use third-party web analytics services on our websites, such as google analytics
+these providers use cookie-related technologies to help us analyse how users use the websites, including by noting the third-party website from which you arrive
+the information collected will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the sites
+to prevent google analytics from using your information for analytics, you may install the google analytics opt-out browser
+where you are using some of our addon products, we may collect information on which addons are installed on your system and which are enabled where you have given us consent to do so through the eureka control panel
+however this is statistical data about the usage of our products only and does not identify any individual
+how we store your personal data under gdpr, all personal data obtained and held by us must be processed according to a set of core principles
+in accordance with these principles, we will ensure that
+processing is fair, lawful and transparent data is collected for specific, explicit, and legitimate purposes data collected is adequate, relevant and limited to what is necessary for the purposes of processing data is kept accurate and up to date
+data which is found to be inaccurate will be rectified or erased without delay data is not kept for longer than is necessary for its given purpose data is processed in a manner that ensures appropriate security of personal data including protection against unauthorised or unlawful processing, accidental loss, destruction or damage by using appropriate technical or organisation measures we comply with the relevant gdpr procedures for international transferring of personal data we are committed to ensuring that your information is secure
+to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect about you
+we implement a variety of security measures to maintain the safety of your personal information when you submit, or access your personal information
+the data that we collect from you may be transferred to, and stored at, a destination outside the european economic area (“eea”)
+it may also be processed by staff operating outside the eea who work for us or for one of our suppliers or business partners
+our business partners include sage and netsuite
+such staff maybe engaged in things such as (a)the provision of services in connection with a contract between you and us or one of our partners and (b)the processing of your payment details
+by submitting your personal data, you agree to this transfer, storing or processing
+we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy
+all information you provide to us is stored on our secure servers
+any payment transactions will be encrypted
+where we have given you (or where you have chosen) a password which enables you to access certain parts of our website(s), you are responsible for keeping this password confidential
+we ask you not to share a password with anyone
+unfortunately, the transmission of information via the internet is not completely secure
+although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site
+any transmission is at your own risk
+once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access
+how we use your information we may use information held about you in the following ways
+to ensure that content from our websites is presented in the most effective manner for you and for your computer
+to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
+where the processing is necessary prior to entering into a contract, for example to allow us to provide you with a quotation which you have requested
+to carry out our obligations arising from any contracts entered into between you and us
+to process and complete business transactions and send related information, including transaction confirmations and invoices to send information to our customers about their account, technical alerts or updates, and other administrative or service-related communications to notify you about changes to our service
+to respond to your comments, questions, and requests and provide customer service and support to carry out research and development to improve our services that we offer
+to allow you to participate in interactive features of our service, when you choose to do so
+to administer a contest, promotion, survey or other site feature we may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these
+if you are an existing customer, we will only contact you by electronic means (e-mail or sms) with information about goods and services similar to those which were the subject of a previous sale to you
+if you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this
+if you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the sign-up page
+to display cases studies and/or personal testimonials of satisfied customers on our website in addition to other endorsements
+with your consent we may post your testimonial along with your name and company name
+with other business partners, such as system integrators, distributors, and referral partners that are involved in providing business services
+for example, if you indicate an interest in a service, we may share personal information such as your contact information with our business partners
+to carry out other legitimate business purposes, as well as other lawful purposes about which we will notify our customers
+disclosure of your personal information we may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries
+we do not sell your personal information to any third parties
+however, we may share your personal information with third parties as follows
+in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
+if eureka solutions (scotland) ltd
+or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets
+if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply and agreements
+or to protect the rights, property, or safety of us, our customers, or others
+this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
+access to information held about you you have the right to access personal information held about you and to have your personal data rectified if it is inaccurate or incomplete
+you may request access to the data held about you and correct the personal information we hold about you by contacting us at enquiries@eurekasolutions
+we will normally comply with your data access request at no cost
+however, if the request is manifestly unfounded or excessive, or if it is repetitive, we may contact you requesting a fee
+the fee will be determined at the relevant time and will be set at a level which is reasonable in the circumstances
+before we provide personal information to you, we may require you to verify your identity by providing us with identification documentation
+we will respond to your access request without delay and at least within 30 days
+where requests are complex or numerous, we may contact you to inform you that an extension of time is required
+the maximum extension period is two months
+your rights relating to your data you have the following rights in relation to the personal data we hold about your under data protection law
+the right to access
+the right to rectification
+the right to erasure
+the right to restrict processing
+the right to object to processing
+the right to data portability
+the right to complain to a supervisory authority
+and the right to withdraw consent
+you have the right to have any inaccurate personal data that we hold about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed
+in some circumstances you have the right to the erasure of your personal data without undue delay, for example where the personal data is no longer necessary in relation to the purposes for which it was collected or processed, if you withdraw consent to consent-based processing, if the processing is for direct marketing purposes
+or where the personal data has been unlawfully processed
+however, there are exclusions of the right to erasure, including where processing is necessary for compliance with a legal obligation or for the establishment, exercise or defence of legal claims
+you have the right to ask us not to process your personal data for direct marketing purposes
+we will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes
+you can exercise your right to object to such processing by checking certain boxes on the forms we use to collect your data
+you can also choose to change your marketing choices at any time by contacting us at enquiries@eurekasolutions
+please note that if you do opt-out of receiving marketing- related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving account-related or other administrative messages
+where the legal basis for our processing of your personal data is
+or that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract, and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format
+however, this right does not apply where it would adversely affect the rights and freedoms of others
+data retention period we will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other legitimate and lawful business purposes
+children’s privacy our website, products and services are all directed to people who are at least 13 years old or older
+we do not knowingly collect personal information from children under 13
+if we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information as quickly as possible
+changes to our privacy policy we reserve the right to change, modify, add or remove portions of this privacy policy from time to time and at our sole discretion, but will alert you that changes have been made by indicating on this policy the date it was last updated
+when you visit this website, you are accepting the current version of this policy as posted on our website at that time
+our use of the information we collect is subject to the privacy policy in effect at the time such information is used
+we recommend that users revisit this privacy policy on occasion to learn of any changes
+any changes we may make to our privacy policy in the future will be posted on our website and, where appropriate, notified to you by e-mail
+how to contact us questions, comments and requests regarding this privacy policy are welcomed and should be addressed to enquiries@eurekasolutions
+if you have any complaints regarding our compliance with this privacy policy, you should contact us in the first instance
+we will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this privacy policy
+address west point house 5 redwood place peel park east kilbride g74 5pb t
+01355 581 960 e
+uk products products netsuite sage eureka addons data exchange business intelligence services services discovery implementation training support development small print small print terms and conditions privacy policy newsletter sign up to our newsletter for all the industry news
+social © 2019 eureka solutions all rights reserved
+we use cookies, find out more

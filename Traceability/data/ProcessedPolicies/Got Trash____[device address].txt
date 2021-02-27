@@ -1,0 +1,18 @@
+this privacy policy describes how got trash
+protects your (“you”, “the user”) privacy and your data
+before using got trash
+("this skill"), please read this policy as well as the alexa terms of use and the privacy policies by the amazon digital services llc (with its affiliates, “amazon”)
+regarding amazon, “alexa” means their alexa voice service which includes third party services and other related software
+if you use this skill, you fully agree to this privacy policy
+using any alexa skill requires talking to alexa
+this voice input is sent to amazon and is covered by the alexa privacy policy
+this input is then translated to intents that are then sent to this skill
+the skill does not have access to your raw voice input, but instead only has access to the alexa determined intent and provided device information
+this skill requires user provided address information to query your city's official waste collection service
+your address information is only used for this purpose
+this information is not shared with any other service or party
+this skill may change or be updated at any time
+further, this privacy policy is subject to change
+you can find a link to this policy on the description page of the got trash
+skill in the alexa app or the alexa store
+your continued use of our skill after changes to the privacy policy or this skill itself will be seen as acceptance of both

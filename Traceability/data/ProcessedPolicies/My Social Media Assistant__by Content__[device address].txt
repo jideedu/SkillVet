@@ -1,0 +1,4 @@
+alexa social media skill
+404 - page not found
+the page you were looking for doesn't appear to exist
+go back to home page

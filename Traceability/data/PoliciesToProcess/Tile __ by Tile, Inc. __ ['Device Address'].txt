@@ -1,0 +1,611 @@
+return to retile thanks for being a loyal tile customer
+click here to return to retile
+easter holiday 1-day shipping delay one-day shipping delay
+easter holiday warehouse closure on monday
+your cart (0) shop tiles how it works products pro pro mate mate slim slim mate & slim combo mate & slim combo family family premium order status help log in welcome, account overview premium find your phone log out download the app 0 how it works products premium help log in welcome, account overview premium find your phone log out shop tiles 0 shop tiles how it works products pro pro mate mate slim slim mate & slim combo mate & slim combo family family premium order status help log in welcome, account overview premium find your phone log out download the app pro pro mate mate slim slim mate & slim combo mate & slim combo family family account overview premium find your phone log out view cart
+tile is designed to make life easier and less stressful
+this policy describes what information we
+collect from you and how we use it to accomplish that mission
+we take your privacy as seriously as you do, and because of that we take great care to collect only the
+information necessary to provide you with the best possible tile experience
+as you review our policy, keep in mind that it applies to tile inc
+’s (“tile”, “we”, “us”) website,
+mobile app, help center, and all other associated services that we provide (“services”)
+cookies and other web technologies
+collection of your personal information by third-party services
+we are not responsible for content on third party websites
+we may use and disclose your personal information to provide improve and promote our services
+we may use and disclose your information for our protection and the protection of others
+you may access modify and rectify your information
+your account may deleted upon your request
+communications and opt-out (right to object to processing)
+personal information posted to our blog and community forum are public
+we take security seriously
+you are responsible for maintaining the accuracy and confidentiality of your email address and password
+we post updates on our website whenever this policy changes
+our policy toward children
+contact us if you have any questions or concerns
+generally, in this privacy policy, the term "personal information" means any information relating to an
+identified or identifiable natural person
+an identifiable person is one who can be identified, directly or
+indirectly, in particular by reference to a name, an identification number, or, in certain
+circumstances, location information, an ip address or the unique identifier allocated to each tile
+specifically, we collect the following information from you, which may include personal
+failure to provide necessary personal information when requested may result in you not being able to fully
+when you place an order on our website, you’ll need to provide an email address, a first and last name,
+and a shipping address
+in some cases, we may also require your phone number
+in order to complete your order on our website, you’ll need to provide payment information, such as your
+credit card or paypal account
+this information is needed in order to process your order and is not
+stored on our servers
+registering for the mobile app
+you’ll need to use a valid email address and create a password to create an account for services on the
+you can choose whether or not you’d like to provide your first and last name
+we do not identify you personally to other users or make your account information available to any third
+parties in any way that could identify you without your prior consent
+connecting with social networks
+when you create a tile account, you may choose to connect and interact with a third-party social
+networking service (“social network”)
+if you decide to interact with a social network when using our
+services, we are permitted to collect personal information that you have already made public on your
+you can manage this information in the privacy settings of each social network
+information from your use of the services
+tile id, name, and photograph
+when you activate a tile using the tile app, that tile’s unique identifier (or tile id) will be
+associated with your account
+if you choose to name your tile or add a photo of it, this information
+will also be associated with your account
+tile is designed to tell you where your items are
+in order to do that, it’s necessary to collect data
+we use the term “location information” to refer to the combined location data of
+your phone or device, and your tiles
+while the app is running on your device, it periodically transmits your location information
+allows us to show you, on your map, the last place your tile was seen by your device (“last place
+it is one of the primary ways tile helps you find your lost items
+tile normally only records the latest location information update for each of your tiles, to provide the
+for tile premium users, location information for each tile is stored for up to
+30 days, to support the location history feature
+in both cases, tile does this so you can find
+the most recent location information for your tiles, in case you lose them
+location information is archived in a way that cannot be associated with you using a process called
+pseudonymization, where data will be untraceable to a specific tile user
+archival data so we can answer general questions unrelated to any person, such as “how many tiles were
+in london in 2016 versus 2017
+we may also collect and update location information for your tile(s) anonymously from other tile users
+who are running the tile app or from other third parties that are using an app or device that has
+integrated the tile functionality (each, a “tile finder”) within bluetooth range of your device
+this to provide you with the most recent and accurate location of your tiles, even if they are out of
+your devices’ bluetooth range
+these updates are fundamental to the tile community, which allows tile
+finders to help each other find their lost tiles
+the location information is reported
+anonymously and does not identify the owner of a tile to others
+if you use a computer, phone, or other device to visit our website or help center, we use the ip address
+of that computer or device to determine an approximate location
+we do this so that we can provide you
+with a better, more personal customer service experience
+we use your location information to provide the services and may use your location information to
+promote the services or provide you with offers
+however, your location information is never shared
+with other users unless you choose to share it through our services
+mobile application usage information
+we track how, and how often you use our services
+we also collect certain information that your mobile
+device sends when you use them for services
+this includes information such as your device’s model,
+operating system type and version, and the dates and times of your requests
+we use this information to
+provide you with optimal services and support, and to collect anonymous statistics that help us
+understand our user base
+information collected through tile’s support services
+we provide support services via live chat on our website, email request submissions, recorded outbound
+telephone calls and direct email
+we collect any personal information you may choose to provide to our
+customer care team in the process
+this includes, but is not limited to
+your name, email address,
+phone number, and mailing address
+we may use and process your personal information, including location
+information, to handle your support request and provide you with the best support possible
+tile collects personal information from current, prospective, and former employees, their contact points
+in case of a medical emergency, and beneficiaries under any insurance policy (“human resources data”)
+the human resources data we collect may include title, name, address, phone number, email address, date
+of birth, passport number, driver’s license number, social security number or other government-issued
+identification number, financial information related to credit checks, bank details for payroll,
+information that may be recorded on a cv or application form, language abilities, contact information
+of third parties in case of an emergency and beneficiaries under any insurance policy
+collect sensitive human resources data such as details of health and disability, including mental
+health, medical leave, and maternity leave
+information about national origin or immigration status
+and optional demographic information such as race, which helps us achieve our diversity goals
+we acquire, hold, use and process human resources data for a variety of business purposes including
+workflow management, including assigning, managing and administering projects
+payroll and the provision of benefits
+bonuses and long-term incentive administration, stock plan administration, compensation analysis,
+including monitoring overtime and compliance with labor laws, and company recognition programs
+performance and employee development management
+benefits and personnel administration
+helpdesk and it support
+internal and/or external or governmental compliance investigations
+internal or external audits
+litigation evaluation, prosecution, and defense
+emergency contacts and services
+processing of employee expenses and travel charges
+information from other sources
+we may receive information about you from other sources, including through third-party services and
+organizations to supplement information provided by you
+for example, if you access our services
+through a third-party application, such as an app store or social network, we may collect information
+about you from that third-party application that you have made public via your privacy settings
+information we collect through app stores or social network accounts may include your name, your social
+network user identification number, your social network user name, location, sex, birth date, email,
+profile picture, and your contacts on the social network
+this supplemental information allows us to
+verify information that you have provided to tile and to enhance our ability to provide you with
+information about our business, products, and services
+cookies and other web technologies
+cookies are small text files that are placed on your computer’s hard drive or onto your mobile
+device’s memory -- if your browser is set to accept cookies
+like many other online services,
+cookies and other tools like them help us collect and understand how you use our services
+although most internet browsers automatically accept cookies, you can change your settings or use
+third-party tools to prompt you before accepting cookies from the websites you choose to visit, or
+to refuse cookies altogether
+you can even delete them through your browser
+have settings to prevent them from accepting new cookies, to notify you when you receive a new
+cookie, or to delete or disable cookies altogether
+some parts of our services may not work for you
+if you disable cookies
+how we use cookies
+we use cookie technology in various ways to help make it easier for you to use our services
+example, we use cookies to remember you when you return to our website, identify you when you
+sign-in, authenticate your access, keep track of your in-app specified preferences or choices,
+tailor content to you or geographic region, display a personalized browsing history, and/or to
+provide specific technical support
+we may also use cookies to gauge site usage, conduct research and diagnostics to improve the content
+we provide you, our products and services, and to help us analyze general web traffic
+the cookies we use expire after they have fulfilled their purpose
+some cookies expire when you
+close your browser (i
+, session cookies) or after a set period of time (i
+the expiration time of cookies that are placed by third parties (explained below) is
+determined by the third-party, not us
+web beacons (also known as web bugs, pixel tags or clear gifs) are tiny graphics with a unique
+identifier that may be included on our services for several purposes, including to deliver or
+communicate with cookies, to track and measure the performance of our services, to monitor how many
+visitors view our services, and to monitor the effectiveness of our advertising
+which are stored on the user’s hard drive, web beacons are typically embedded invisibly on web
+pages (or in an e-mail)
+while our website and the tile app at this time do not recognize automated browser signals regarding
+tracking mechanisms, such as "do not track" instructions, you can generally express your privacy
+preferences regarding the use of most cookies and similar technologies through your web browser, as
+collection of your personal information by third-party services
+sometimes tile uses third-party service providers
+these third-party service providers may place
+cookies on your computer's hard drive or your mobile device's memory or use web beacons to collect
+or receive information from the services and elsewhere on the internet and use that information to
+provide analytics and to target ads
+the information practices of these outside services are not
+covered by this privacy policy
+we cannot access, nor do we have any control over, the cookies or
+other web technologies they may use
+we may use third-party web analysis services which use cookies or other web technologies to collect
+usage information, matched to an ip address, to help us analyze how our users use our website and
+some portions of the tile app
+we collect this information in order to improve overall
+experience of our services for our users
+we utilize google analytics, a service provided by google, inc
+to gather information about how
+users and visitors engage with our site and services
+for more information about google analytics,
+you can choose not to be included in
+google analytics at https
+these outside services may also collect information about your use of other websites over time
+since we do not link any personal information that you provide to us within the app to the
+information we store within the third-party analytics software, this additional information is only
+analyzed in a way that cannot identify you
+social plugins and social widgets
+we may use social plugins, widgets and other features (each, a “social feature”) that are made
+available by and/or access third-party social networks
+these social features allow these social
+networks to place cookies on your browser and to collect certain information, which may be
+associated with your name and personal social network account
+these social features are operated solely by the respective social networks, and their service
+providers, and we recommend that you carefully read their privacy policies before you decide to use
+we have no control over or access to the information collected, stored or used by such social
+networks, and the information practices of such social networks are not covered by this privacy
+if you do not wish to associate any information collected via the plugins, widgets and/or other
+features with your personal social network account information, you should refrain from using these
+social features and logout from your social network account before visiting our services
+when you purchase a tile, we process your payments through a third-party application, including the
+apple app store, google play app store, amazon app store (together with any similar applications,
+“app stores”) and social networks such as facebook
+the third-party application may collect certain
+financial information from you to process a payment on behalf of tile, including your name, email
+address, address and other billing information
+we are not responsible for content on third party websites
+our services may contain links to websites and services that are owned or operated by third parties
+(each, a “third-party service”)
+any information that you provide on or to a third-party service,
+or that is collected by a third-party service, is provided directly to the owner or operator of the
+third-party service and is subject to the owner’s or operator’s privacy policy
+we’re not responsible for the content, privacy or security practices and policies of any third-party service
+to protect your information we recommend that you carefully review the privacy policies of all
+third-party services that you access
+we may use and disclose your personal information to provide, improve, and promote our services
+how we use your personal information (pi)
+we may use your personal information and location information to provide you with a better service,
+improve the quality of our products and services, and promote our services
+we use and process your
+personal information and location information to create anonymous, statistical and aggregated data
+reports where individual users are not identified
+the specific purposes for our acquisition,
+hold, use, and processing of your personal information include
+to provide products, services, or information requested
+tile may use information about you to fulfill requests for products, services, or information,
+including information about potential or future services, including to
+respond to questions, comments, and other requests
+certain areas, functionalities, and features of tile’s services
+and contact you to answer requests
+for customer support or technical support
+tile may use personal information about you for its administrative purposes, including to
+interest in tile’s services
+develop new products and services
+ensure internal quality control
+communicate about individual accounts and activities on tile’s services
+and systems, and, in tile’s discretion, changes to any tile policy
+send email to the email address
+you provide to us to verify your account and for informational and operational purposes, such as
+account management, customer service, or system maintenance
+process payment for products or
+process applications and transactions
+prevent potentially prohibited or
+and enforce our terms
+marketing tile products and services
+tile may use personal information to provide you with materials about offers, products, and services
+that may be of interest, including new content or services
+tile may provide you with these
+materials by phone, postal mail, facsimile, or email, as permitted by applicable law
+to tailor content, advertisements, and offers
+to notify you about offers, products, and
+services that may be of interest to you
+to provide services to you and our sponsors
+purposes disclosed at the time that individuals provide personal information
+you may contact us at any time to opt out of the use of your personal information for marketing
+purposes, as described in section 9 below
+tile may use personal information to create non-identifiable information that we may use alone or in
+the aggregate with information obtained from other sources, in order to help us to optimally
+deliver our existing products and services or develop new products and services
+from time to time,
+tile may perform research (online and offline) via surveys
+we may engage third-party service
+providers to conduct such surveys on our behalf
+all survey responses are voluntary, and the
+information collected will be used for research and reporting purposes to help us better serve
+individuals by learning more about their needs and the quality of the products and services we
+the survey responses may be utilized to determine the effectiveness of our services,
+various types of communications, advertising campaigns, and/or promotional activities
+individual participates in a survey, the information given will be used along with that of other
+we may share anonymous individual and aggregate data for research and analysis
+individuals who provide us with personal information, or whose personal information we obtain from
+third parties, may receive periodic emails, newsletters, mailings, or phone calls from us,
+as allowed by applicable law, with information on tile’s or our business partners’ products and
+services or upcoming special offers/events we believe may be of interest
+we offer the option to decline
+these communications at no cost to the individual by following the instructions further below
+in australia, we will only use and disclose your personal information for the purposes of marketing
+tile products and services or services of third party organizations where you have consented to us
+doing so, or as otherwise permitted by law
+services via mobile devices
+from time to time, tile may provide services that are specifically designed to be compatible and
+used on mobile devices
+tile will collect certain information that your mobile device sends when
+you use such services, like a device identifier, user settings, location information, mobile
+carrier, and the operating system of your device
+mobile versions of tile’s services may require
+that users log in with an account
+in such cases, information about use of mobile versions of the
+services may be associated with accounts
+in addition, tile may enable individuals to download an
+application, widget, or other tool that can be used on mobile or other computing devices
+these tools may store information on mobile or other devices
+these tools may transmit personal
+information to tile to enable individuals to access accounts and to enable tile to track use of
+some of these tools may enable users to email reports and other information from the
+tile may use personal or non-identifiable information transmitted to tile to enhance these
+tools, to develop new tools, for quality improvement and as otherwise described in this privacy
+policy or in other notices tile provides
+anonymous and aggregated information use
+tile may use personal information and other information about you to create anonymized and
+aggregated information, such as de-identified demographic information, de-identified location
+information, information about the computer or device from which you access tile’s services, or
+other analyses we create
+anonymized and aggregated information is used for a variety of functions,
+including the measurement of visitors’ interest in and use of various portions or features of the
+anonymized or aggregated information is not personal information, and tile may use such
+information in a number of ways, including research, internal analysis, analytics, and any other
+we may share this information within tile and with third parties for
+our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from
+sharing content with friends or colleagues
+tile’s services may offer various tools and functionalities
+for example, tile allows you to provide
+information about your friends through our referral services, such as “refer a friend
+referral services may allow you to forward or share certain content with a friend or colleague,
+such as an email inviting your friend to use our services
+email addresses that you may provide for
+a friend or colleague will be used to send your friend or colleague the content or link you
+request, but will not be collected or otherwise used by tile or any other third parties for any
+you agree that you have that person’s permission to provide us with that information
+and for us to use it for this limited purpose
+tile may use personal information for which we have a legitimate interest, such as direct marketing,
+individual or market research, anti-fraud protection, or any other purpose disclosed to you at the
+time you provide personal information or with your consent
+how we disclose your personal information to third party service providers
+tile uses third-party service providers and software solutions, including web hosting and other
+cloud based services, to provide you with the best possible experience
+we may share your personal
+information (including your location information and your tile devices' location information) with
+our third-party service providers or affiliates (e
+cloud-based and hosting services, technical
+service providers, consultants, mail carriers, communication agencies and customer support
+providers) in order to provide, improve, and promote the services on our behalf
+for example, we may disclose personal information to our service providers in order to enable them
+to communicate with you on our behalf
+we may also disclose personal information to platform
+providers, such as facebook, in order to permit such providers to serve ads and promote the
+services on our behalf on such platforms
+to the extent possible, your personal information
+will be stored in hashed or obfuscated form
+the services may also enable you to share your personal information with our third-party partners
+(“partners”) in connection with the products and services offered by such partners, with your
+any information shared with a partner will be subject to the partner’s then-applicable
+we’re not responsible for the content, privacy or security practices and policies
+to protect your information we recommend that you carefully review the privacy
+policies of all partners before sharing any personal information
+we will not share your personal information with any third parties other than in the circumstances
+discussed above without your consent
+how we use de-identified information
+we may share with third parties, including advertisers and service providers, anonymized, aggregated
+data we collect about you and other users, such as de-identified demographic information,
+de-identified location information, and information about the computer or device from which you
+access the services, or the results of hashing your email address
+tile retains the personal information we receive as described in this privacy policy for as long as
+you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide
+our services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate
+business purposes, enforce our agreements, and comply with applicable laws
+with respect to onward transfers to agents under privacy shield, privacy shield (as may other applicable
+laws) requires that tile remain liable should its agents process personal information in a manner
+inconsistent with the privacy shield principles
+we may use and disclose your information for our protection and the protection of others
+how we use your personal information
+we may use and process your personal information including location information to prevent fraud,
+misappropriation, infringements, identity theft, and other illegal activities and misuse of our
+how we disclose your personal information
+like other companies, we may disclose your information to government or law enforcement
+officials or private parties as we, in our sole discretion, believe is necessary to (i) comply
+with a law, regulation, or legal request
+(ii) protect the safety of any person
+potential violations of our privacy policy or terms of service
+security, or technical issues
+or (v) protect tile’s rights or property, our employees, users
+in addition, if we are acquired by a third-party as a result of a transaction such as a merger,
+acquisition or asset sale or if our assets are acquired by a third-party, in the event we go
+out of business or enter bankruptcy, some or all of our assets - including any information
+collected from or about you - may be disclosed or transferred to a third-party acquirer in
+connection with the transaction
+you may access, modify, and rectify your information
+you can access and modify your contact information, such as your name, email address or phone
+number, within the services, or by contacting us at terms@thetileapp
+where otherwise permitted by applicable law, you may send an e-mail or use any of the methods
+set out in this privacy policy to request access to, receive (port), seek rectification, or
+request erasure of personal information held about you by tile
+please include your full name,
+email address associated with your account, and a detailed description of your data request
+such requests will be processed in line with local laws
+under privacy shield or other applicable laws, you may also inquire as to whether tile is processing
+personal information about you, request access to personal information, and ask that we correct,
+amend or delete your personal information where it is inaccurate or has been processed in violation of the
+although tile makes good faith efforts to provide individuals with access to their personal information,
+there may be circumstances in which tile is unable to provide access and is not legally obligated to do so,
+including (depending on applicable law) but not limited to
+where the information contains legal privilege,
+would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access
+would be disproportionate to the risks to the individual’s privacy in the case in question or where it is
+if tile determines that access should be restricted in any particular instance,
+we will provide you with an explanation of why that determination has been made and a contact point for
+to protect your privacy, tile will take commercially reasonable steps to verify
+your identity before granting access to or making any changes to your personal information
+please note that the location information associated with your account is a core part of our
+services and you will not be able to modify it
+however, if you do not want us to use
+your location information, you can delete it by deleting your account using the process set
+forth in section 8 below
+your account may deleted upon your request
+if you want us to delete your personal information, location information and your account,
+please contact us at terms@thetileapp
+com with your request
+we’ll take steps to delete your information as soon as we can, but some
+information may remain in archived/backup copies for our records or as otherwise required
+please note, however, that if you delete your personal information, location information and
+account, the location information associated with any active tile(s) may still be collected
+anonymously from other tile users who are running the app within bluetooth range of your
+however, since your personal information will be deleted, any new location
+information that is collected will no longer be associated with your personal information
+you may dispose of your tiles at a local e-waste facility or contact customer care at terms@thetileapp
+com for more information
+communications and opt-out (right to object to processing)
+we may periodically send you promotional newsletters and emails
+opportunity to opt-out of these by following the unsubscribe instructions provided in
+the emails you receive
+certain communications, like billing information and service
+updates are necessary for you to receive, so you will not be able to opt out of those
+you have the right to object to and opt out of certain uses and disclosures of your
+where you have consented to tile’s processing of your personal
+information or sensitive personal information, you may withdraw that consent at any
+time and opt out of further processing by contacting terms@thetileapp
+even if you opt out, we may still collect and use non-personal information regarding
+your activities on our sites and/or information from the advertisements on third-party
+websites for non-interest based advertising purposes, such as to determine the
+effectiveness of the advertisements
+email and telephone communications
+if you receive an unwanted email from us, you can use the unsubscribe link found at the
+bottom of the email to opt out of receiving future emails
+we will process your request
+within a reasonable time after receipt and within timeframes required by law
+note that you will
+continue to receive transaction-related emails regarding products or services you have requested
+we may also send you certain non-promotional communications regarding tile and our services
+and you will not be able to opt out of those communications (e
+regarding updates to our terms or this privacy policy)
+we maintain telephone “do-not-call” and “do-not-mail” lists as mandated by law
+we process requests to be placed on do-not-mail, do-not-phone and do-not-contact lists
+within 60 days after receipt, or such shorter time as may be required by law
+tile may occasionally send you push notifications through our mobile applications with
+notices that may be of interest to you
+you may at any time opt out from receiving
+these types of communications by changing the settings on your mobile device
+also collect location-based information if you use our mobile applications
+out of this collection by changing the settings on your mobile device
+with regard to personal information that tile receives in connection with the employment
+relationship, tile will use such personal information only for employment-related
+purposes as more fully described above
+if tile intends to use this personal
+information for any other purpose, tile will notify the individual and provide an
+opportunity to opt out of such uses
+do not track (“dnt”) is a privacy preference that users can set in certain web browsers
+dnt is a way for users to inform websites and services that they do not want certain
+information about their webpage visits collected over time and across websites or
+please note that we do not respond to or honor dnt signals or similar
+mechanisms transmitted by web browsers
+you can also choose not to be included in google analytics at https
+this opt-out must be performed on each device and browser that you wish to have opted-out
+personal information posted to our blog and community forum are public
+if you choose to submit your tile success story or comment on our blog (“feedback”), you
+should know that any personal information you submit there can be read, collected, or
+used by other users of those blogs, and could be used to send you unsolicited messages
+we are not responsible for the personal information you choose to provide in your
+feedback or for any content or communications you receive as a result of sharing such
+to request removal of your personal information from our blog or tile success story,
+please contact us at terms@thetileapp
+you agree that all personal information collected via or by tile may be transferred,
+processed, and stored anywhere in the world, including but not limited to, the united
+states, the european union, in the cloud, on our servers, on the servers of our
+affiliates or the servers of our service providers
+your personal information may be
+accessible to law enforcement or other authorities pursuant to a lawful request
+providing information to tile, you explicitly consent to the storage of your personal
+information in these locations
+except in some cases where we may rely on an exception under the australian privacy act 1988 (cth),
+we will take reasonable steps to ensure that such overseas recipients do not breach the australian
+privacy principles in the privacy act 1988 (cth) in relation to such information
+tile complies with the requirements of the eu-u
+privacy shield framework and the
+privacy shield framework (collectively “privacy shield”), as set forth by
+department of commerce and the federal trade commission (“ftc”), regarding the
+collection, use, and retention of personal information transferred from the european
+economic area and switzerland to the united states
+tile has certified to the department
+of commerce that it adheres to the privacy shield principles and supplemental principles
+to the extent that the privacy shield applies to your personal information, if there is
+any conflict between the terms in this policy and the privacy shield principles, the
+privacy shield principles shall govern
+to learn more about the privacy shield program,
+and to view tile’s certification, please visit https
+tile may protect information through other legally valid methods, including international data
+“privacy shield” means the seven (7) principles of the privacy shield framework
+accountability for onward transfer,
+data integrity and purpose limitation,
+recourse, enforcement, and liability
+additionally, it includes the sixteen (16) supplemental principles described in the privacy shield
+performing due diligence and conducting audits,
+the role of the data protection authorities,
+obligatory contracts for onward transfers,
+dispute resolution and enforcement,
+choice – timing of opt-out,
+pharmaceutical and medical products,
+public record and publicly available information, and
+access requests by public authorities
+accountability for eu or swiss citizens
+if you are an eu or swiss citizen and feel that tile is not abiding by the terms of
+this policy, or is not in compliance with the privacy shield principles, please
+contact tile at the contact information provided below
+in addition, tile has agreed to refer unresolved complaints related to personal
+information to jams privacy shield dispute resolution program and, with respect to
+employee and human resources data, has committed to cooperate with the panel
+established by local data protection authorities and comply with the advice given
+by the panel for eu citizens and with the swiss federal data protection and
+information commissioner’s authority and advice for such data of swiss citizens
+for more information and to submit a complaint regarding individual data to jams, a
+dispute resolution provider which has locations in the united states and eu, visit https
+such independent dispute resolution mechanisms are available to citizens free of
+if any request remains unresolved, you may contact the national data
+protection authority for your eu member state
+you may also have a right, under certain conditions, to invoke binding arbitration
+for additional information, see https
+the ftc has jurisdiction over tile’s compliance with the privacy shield
+we take security seriously
+we implement various systems, applications and procedures to secure your personal
+information, in order to reduce the risks of theft, damage, loss of information, or
+unauthorized access, disclosure, modification or use of information
+aware, however, that these measures cannot absolutely guarantee the security of
+therefore, although we take great efforts to protect
+your personal information, we cannot guarantee and you cannot reasonably expect
+that our databases will be immune from any wrongdoings, malfunctions, unlawful
+interceptions or access, or other kinds of abuse and misuse
+california law permits users who are california residents to request and obtain from
+us once a year, free of charge, a list of the third parties to whom we have
+disclosed their personal information (if any) for their direct marketing purposes
+in the prior calendar year, as well as the type of personal information disclosed
+except as otherwise provided in this privacy policy, tile does
+not share personal information with third parties for their own marketing purposes
+except to the extent liability cannot be excluded due to the operation of statute, we exclude
+all liability (including in negligence) for the consequences of any unauthorised access to,
+disclosure of, misuse of or loss or corruption of your personal information
+privacy policy restricts, excludes or modifies or purports to restrict, exclude or modify any
+statutory consumer rights under any applicable law including the competition and consumer
+you are responsible for maintaining the accuracy and confidentiality of your
+email address and password
+you are responsible for keeping the secrecy of your password at all times
+recommend using a strong password that you do not share with other services
+if you believe the security of your account has been compromised, please change your
+password immediately via the tile website or through your tile app
+contact us at support@thetileapp
+you are responsible for ensuring the email address associated with your account is
+we use that email to contact you about service updates, changes to our
+policies, and account activities such as requests for your information or locate
+attempts on your device
+tile is not responsible for personal information or data transmitted to a
+third party as a result of a user providing an incorrect email address
+we post updates on our website whenever this policy changes
+we have the right to change our privacy policy at any time
+if there are any changes
+to this privacy policy, they will be posted on the website, in the tile app and
+sent to the most recent email address you have provided to us (if applicable)
+changes will be effective twenty days after their initial posting, or after the
+email was sent (or whichever date is later)
+we will make any immediate changes in
+order to comply with legal requirements
+if you object to any of the changes to this privacy policy, you must cease using our
+services and may request us to erase your personal information
+that is collected via our services is covered by the privacy policy in effect at
+the time such information is collected
+our policy toward children
+our services are not directed to children under 13 and we do not knowingly collect
+personal information from children under 13
+if we learn that we have collected
+personal information of a child under 13, we will take steps to delete such
+information from our files as soon as possible
+contact us if you have any questions or concerns
+if you have questions about our privacy practices, this privacy policy, or how to
+lodge a complaint with the appropriate authority, please contact us at terms@thetileapp
+com or by postal mail
+, 2121 south el camino real, suite 900, san mateo, ca 94407
+, 11th floor, whitefriars, lewins mead, bristol, bs1 2nt
+get the latest news email address thanks for joining
+connect with us shop buy tile store locations corporate promotions skins order status learn how it works find your phone last place seen community find retile platform use cases keys finder wallet tracker luggage tracker remote control finder find your stuff support help center faqs terms of service warranty privacy compliance company about careers contact press community stories select language u
+english british english eu english deutsch français © 2013–2019 tile inc
+, tile and the tile design are trademarks of tile, inc
+, licensed to tile europe ltd
+your cart (0) oh no, your cart is empty
+start shopping suggestions keep shopping pro combo 2-pack (black + white) 0 £50 add select a payment method credit card

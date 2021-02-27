@@ -1,0 +1,44 @@
+my bin is an alexa skill for finding domestic waste collection dates for households in aberdeenshire
+privacy notice as part of this skill you will be asked to set some permissions, your address is required by the skill since the council's service that provides us with the data is based on that
+you optionally may allow the skill to set reminders for you
+in either case we do not store or record your information in any way whatsoever
+terms of use this skill is free to use, it takes your address from your alexa account and asks aberdeenshire council what your domestic waste collection dates are and presents the data supplied to you
+if the data given by the council is incorrect or changes we have no way of knowing this and so all results from this skill are subject the warning that while we believe the data to be correct we have no way of checking
+if you get a result you believe to be incorrect please let us know, you can also validate any information by using the councils mobile app myaberdeenshire and if that is also incorrect you should report this to the council and not to us
+information in this skill is used with permission from aberdeenshire council
+it is public sector information licensed under the open government licence v3
+the skill is not written by or for aberdeenshire council
+copyright ©2018 galactic computing ltd, all rights reserved
+company registered in scotland
+sc153377 north oldwhat farmhouse ab53 6ux
+this website may use cookies this website may use cookies in order to work better
+at anytime you can disable or manage it in your browser's settings
+using our website, means you agree with cookies usage
+ok, i understand or more info
+contact us or find your question below for instant answer
+why do i need a domain name why do you charge me for domain names what are your name servers do you offer free trials
+this website may use cookies in order to work better
+at anytime you can disable or manage it in your browser's settings
+using our website, means you agree with cookies usage
+my bin is an alexa skill for finding domestic waste collection dates for households in aberdeenshire
+privacy notice as part of this skill you will be asked to set some permissions, your address is required by the skill since the council's service that provides us with the data is based on that
+you optionally may allow the skill to set reminders for you
+in either case we do not store or record your information in any way whatsoever
+terms of use this skill is free to use, it takes your address from your alexa account and asks aberdeenshire council what your domestic waste collection dates are and presents the data supplied to you
+if the data given by the council is incorrect or changes we have no way of knowing this and so all results from this skill are subject the warning that while we believe the data to be correct we have no way of checking
+if you get a result you believe to be incorrect please let us know, you can also validate any information by using the councils mobile app myaberdeenshire and if that is also incorrect you should report this to the council and not to us
+information in this skill is used with permission from aberdeenshire council
+it is public sector information licensed under the open government licence v3
+the skill is not written by or for aberdeenshire council
+copyright ©2018 galactic computing ltd, all rights reserved
+company registered in scotland
+sc153377 north oldwhat farmhouse ab53 6ux
+this website may use cookies this website may use cookies in order to work better
+at anytime you can disable or manage it in your browser's settings
+using our website, means you agree with cookies usage
+ok, i understand or more info
+contact us or find your question below for instant answer
+why do i need a domain name why do you charge me for domain names what are your name servers do you offer free trials
+this website may use cookies in order to work better
+at anytime you can disable or manage it in your browser's settings
+using our website, means you agree with cookies usage

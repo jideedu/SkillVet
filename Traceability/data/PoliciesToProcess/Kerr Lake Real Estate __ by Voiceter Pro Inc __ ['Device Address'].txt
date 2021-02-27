@@ -1,0 +1,155 @@
+news & press release
+news & press release
+privacy policy date of last revision
+3/18/19 voiceter pro inc
+, a delaware corporation (“ voiceter pro ,” “ us ,” “ our ,” or “ we ”), recognizes that your privacy is very important to you (“ you ”) and it is also very important to voiceter pro
+this privacy policy (the “ privacy policy ”) discloses voiceter pro’s privacy practices associated with your access and use of the services provided by voiceter pro (each a “ service ” and, collectively, the “ services ”) and our website www
+com (the “ site ”)
+this privacy policy is designed to be read in connection with the terms of service (the “ terms ”) which are available at http
+com/terms-of-service and the cookies policy (the “ cookies policy ”) which is available at http
+all capitalized terms used but not otherwise defined herein shall have the meanings ascribed to them in the terms or the cookies policy
+the services the services are offered through voiceter pro’s software (“ software ”), which is available through the digital assistant platforms provided by amazon
+, a delaware corporation (“ alexa ”),
+and the google assistant platform developed by google llc, a delaware limited liability company (“ google assistant ”), which remotely collects and records a user’s search parameters, and provides the top results of the user’s search by having the results (i) read back to the user by alexa or google assistant
+(ii) shown on an alexa or google home screen display (if available)
+transmitted to the user through a branded email (the “ services ”)
+voiceter pro remotely hosts the software which runs the services under a software as a service (“ saas ”) subscription model subject to specified license terms
+about this privacy policy voiceter pro reserves the right to update this privacy policy from time to time without notice
+we will notify you in the event we materially change this privacy policy, the cookies policy, or the terms by placing a prominent notice on our site
+your continued access and use of the services after such modifications constitutes your
+(a) acknowledgement of the modified privacy policy and (b) your agreement to be bound by that privacy policy
+we strive to provide clarity to our users about the user’s data, including any personally identifiable information (as defined in this privacy policy), which may be collected, processed, stored, and shared by us
+if you have any questions about this privacy policy, how we use your personally identifiable information, or our data use practices in general, please feel free to contact us at
+by accessing and using the services, you give your consent that all data, including personally identifiable information, that you submit may be processed by us in the manner and for the purposes described in this privacy policy
+if you do not agree to this privacy policy, the terms, or the cookies policy do not access and use the services
+types of information we collect
+in order to better provide you with the services, we collect two types of information about our users
+voiceter pro uses information that does not, by itself, identify a specific individual, but is used to help identify you and gather broad demographic information
+such types of information include where you access and use the site or services and what sites have directed you to us
+this information may include the website’s uniform resource locator (“ url ”) that points us to the site you came from, what browser you are using, and your internet protocol (“ ip ”) address
+personally identifiable information (“ pii ”) refers to the information that lets us know the specifics of who you are, such as your name, preferred contact details, your payment information, and other personal identifiers (such as a phone number)
+when you register for a voiceter pro account, we collect your name, mobile phone number, and/or email address, and any other information provided
+our services may give you the option to provide more information
+we will not collect such information unless you choose to provide it to us
+how we collect, process, use, disclose and share information
+how data, including pii, may be collected
+data, including pii, may be collected as follows
+that which you submit to voiceter pro, including, on any registration screen or other screen which prompts you to provide such information
+that which voiceter pro may receive from third-parties
+that which voiceter pro may collect from other sources
+that which voiceter pro may receive from any devices, browsers, networks, or internet service providers which you deploy to access or use the services
+that which voiceter pro may receive through standard technology, including, but not limited to, “cookies” when you maintain a presence or interact with voiceter pro
+and that which voiceter pro may collect based upon your interaction with voiceter pro or the services, to improve your experience with voiceter pro, and your access and use of the services
+with respect to collection of data, including, pii, please note the following
+as to cookies, you can set your browser to notify you when you receive a cookie and give you a chance to accept or reject it (for further information, please refer to voiceter pro’s cookies policy (http
+each device has its own features that allow you to customize your privacy settings and you assume responsibility for the privacy settings associated with your device
+each browser has its own features that allow you to customize your privacy settings and you assume responsibility for the privacy settings associated with your browser
+each network or internet service provider has its own features that allow you to customize your privacy settings and you assume responsibility for the privacy settings associated with your network or internet service provider
+how data, including pii, may be processed
+data, including pii, may be generally processed or reproduced by voiceter pro or third-parties, or voiceter pro third-party information technology service providers as follows
+in connection with your specific interaction with the services
+in accordance with the arrangements or agreements that you may otherwise have with voiceter pro
+in accordance with commercially reasonable information technology standards
+where importing and exporting of data, including pii, is required for voiceter pro to provide the services
+and in connection with your specific interaction with alexa and/or google assistant, and in such case, the terms of alexa and/or google assistant privacy policies, in addition to this privacy policy, apply as to any data you provide, including pii
+how data, including pii, may be used
+data, including pii, may be used as follows
+this information is used to provide the services, verify the identity of users, display advertising, resolve disputes, operational purposes, troubleshoot problems, customer service purposes, enforce our agreements with you, and analyze how visitors access and use our site and services
+for example, we may use your ip address to diagnose problems without our services, software, to administer our services and software, and to gather demographic information
+use of aggregate information
+aggregate information is used for both diagnosis and statistical purposes
+additionally, we may disclose website information in the aggregate for marketing and promotional purposes
+disclosure of data, including, pii
+voiceter pro may disclose any data, including pii, about you as follows
+as permitted or required by applicable rules, regulations, or laws
+as necessary, based on our good faith belief, to protect you or voiceter pro
+and in accordance with the terms of any agreement with voiceter pro
+how data, including pii, may be shared
+voiceter pro may share your data, including pii, as follows
+with its parent, subsidiary, and affiliated businesses as well as its and their members, managers, officers, directors, shareholders, employees, representative, and agents and per applicable rules, regulations, and laws
+this site has security measures in place to protect against the loss, misuse, and alteration of the information under our control
+voiceter pro uses industry standard safeguards such as firewalls, data encryption, and secure socket layer (ssl) encryption
+we limit access to pii to specific employees, contractors, and agents who have a reasonable need to come into contact with your information only
+for example, we may provide members, agents, or representatives of our technical support team with limited access to your account in order to allow them to troubleshoot problems you may be having with the services
+unfortunately, no data transmission over the internet or any wireless network can be guaranteed to be completely secure
+as a result, while we strive to protect your pii, you acknowledge that
+(a) there are security and privacy limitations inherent to the internet which are beyond voiceter pro’s control
+and (b) the security, integrity, and privacy of any and all information and data exchanged between or among you, third-parties, and us or through your access and use of the services cannot be guaranteed
+how long we keep pii
+we keep pii only for as long as we need to
+this amount of time may differ depending on what reasons we use the pii
+for example, when you open an account, we keep the data, including pii, necessary to perform the services as long as your account is open
+once we no longer need your pii we will voluntarily delete it
+user choices on collection and use of information
+voiceter pro may, from time to time, send you emails regarding new products or services
+if you do not want to receive such information, you may terminate the email notifications from the services or the site by sending an email to info@voiceterpro
+com indicating your election to opt-out of further notifications
+notice to users in the european union
+if you are a user in the european union, you should know that we are the controller of your pii
+additionally, here is some information we would like to bring to your attention
+legal grounds for use of personal data
+we will only use your pii where we have a legal ground to do so
+when we use your pii we determine the legal grounds for use
+in all cases, the following are the legal grounds for which we will use your pii
+in some cases, we will ask for consent to use your information for specific purposes
+if we do, we will make sure you can revoke your consent in our services or through your device permissions
+even if we are not relying on consent to use your information, we may ask you for permission to access data like contacts and location
+we might use your information because we have, or a third-party has, a legitimate interest in doing so
+for example, we need to use your information to provide and improve the services, including protecting your account, providing customer support, and helping you find content we think you will like
+an important point regarding legitimate interest is that our interests do not outweigh your right to privacy, therefore, we will only rely on legitimate interest when we think the way we are using your data does not significantly impact your privacy, would be expected by you, or there is a compelling reason to do so
+you can always opt out from having your pii used for marketing analysis by contacting support@voiceterpro
+there are situations where we are legally obligated to use or keep your pii
+in such cases, we will disclose pii upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation
+we will fully cooperate with law enforcement agencies in identifying those who access or use our services for illegal activities
+we reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful
+we might use your information because you have entered into an agreement with us
+your rights specific to pii
+the following are rights you hold to the use of your pii
+in some cases to process these requests we may request specific information from you to confirm your identity
+right to be forgotten
+you have the right to ask us to delete your pii or restrict how it is used
+absent specific legal reasons, which if applicable, we will provide a response to your request
+if your request if valid, we will delete your information within a month
+right to a copy of your pii we collect
+if you would like a copy of the pii we have collected on you or if you believe pii we collected about you is incorrect, you may write to our data protection officer (“ dpo ”) to review or collect the pii at info@voiceterpro
+right to a machine-readable version of your pii
+you may request an export of all your pii in
+right to withdraw consent
+you may withdraw consent for us to store your pii by contacting info@voiceterpro
+right to withdraw consent for marketing analysis
+if you do not want us to use your pii for marketing analysis, please contact info@voiceterpro
+location of information storage
+we may collect your pii from, transfer it to, and store and process it in the united states and other countries outside of where you live
+whenever we share eu residents’ pii outside of the eu we make sure an adequate transfer mechanism is in place, including data processing agreements based on the eu/eea standard contractual clauses
+when we receive formal written complaints, we respond by contacting the person who made the complaint
+we work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly
+by accessing and using the services, you consent to us transferring pii about you to the united states
+if you live in california and have a business relationship with us mainly for personal, family, or household purposes, under california civil code section 1798
+83 you may ask us about the information we release to other organizations for marketing purposes once every calendar year by sending an email to info@voiceterpro
+in the email, please make the subject line “request for california privacy information
+you must be at least eighteen (18) years old to have permission to access and use the services
+protecting the privacy of children is especially important to us
+for that reason, we never collect or maintain pii at our site from those we actually know are under the age of thirteen (13), nor do we allow registration of users under the age of thirteen (13)
+third-party collection of pii
+pii that is voluntarily disclosed during the access and use of the services or on the site may be collected and used by third-parties and may result in unsolicited messages (including unwanted spam messages) from third-parties
+such activities are beyond our control and this privacy policy does not apply to such information
+links to companies’ websites may appear on this site
+related companies have separate privacy and data collection policies and practices
+before participating in any website activity related companies’ websites, you should review and investigate their policies and practices
+voiceter pro is not responsible and shall not be held liable for these independent policies or practices
+this privacy policy does not apply to the activities of third-parties, including, but not limited to, sponsors, advertisers, and other providers that may collect your user information while you are accessing or using such third-party services in connection with your access and use of the services
+the privacy and information practices of those third-parties are not covered by this privacy policy
+to learn more about such third-party policies, we encourage you to read and review the privacy statements of each third-party service that you may choose to access and use in connection with the services
+this privacy policy applies only to information collected by us
+outside the scope of this privacy policy and voiceter pro’s obligations
+outside the scope of this privacy policy and voiceter pro’s responsibilities to you as to data, including, pii are the following
+data about you that is not pii
+privacy settings associated with your browser, device, network, or internet service provider as each browser, device, network, or internet service provider has its own features that allow you to control your privacy settings
+clicking on any linked site which will take you to third-party websites
+accessing third-party content via downloads or otherwise
+any data, including, without limitation, pii, disclosed in any social networking sites
+access and use of your account by unauthorized third-parties, due to your negligence in not protecting your username or password or your disclosure of your username and/or password to others
+where web beacons, cookies, bots, or other technologies are used by third-parties, including, third-party websites to monitor and collect data about your activities on the internet, which data, may or may not include your pii, associated with the site or services
+where third-parties automatically receive your ip address and other applicable information about you such as your location
+and security breaches or circumstances that render data, including, pii outside the scope of permitted access and use of the site and the services
+voiceter pro © 20 19 privacy policy

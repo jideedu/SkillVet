@@ -1,0 +1,1096 @@
+this website uses cookies you consent to our necessary cookies if you continue to use our website by clicking ok in the green box
+you can opt out of certain cookies using the below checkboxes
+[#ooi_personal_information#] use necessary cookies only allow all cookies show details ok use necessary cookies only allow selection allow all cookies necessary preferences statistics marketing show details cookie declaration [#iabsettings#] [#iabv2settings#] about cookies
+unclassified (43) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type cookieconsent [x3] cookiebot stores the user's cookie consent state for the current domain 1 year http rc
+c google used in context with video-advertisement
+the cookie limits the number of times a visitor is shown the same advertisement-content
+the cookie is also used to ensure relevance of the video-advertisement to the specific visitor
+session html c [x5] admedo kpn r
+co optomaton bidswitch used in order to detect spam and improve the website's security
+1 year http ckns_orb_fig_cache [x2] bbc this cookie is necessary for the cache function
+a cache is used by the website to optimize the response time between the visitor and the website
+the cache is usually stored on the visitor’s browser
+4 days http atuserid bbc contains an visitor id - this is used to identify the visitor upon re-entry to the website
+13 months http ckns_explicit bbc this opt-out cookie identifies if the visitor has deselected any cookies, trackers or other audience targeting tools
+1 year http ckns_policy bbc this opt-out cookie identifies if the visitor has deselected any cookies, trackers or other audience targeting tools
+1 year http ckns_policy_exp bbc contains the expiry-date for the cookie with corresponding name
+13 months http ckns_privacy bbc determines whether the user has accepted the cookie consent box
+1 year http cookietest bbc this cookie is used to determine if the visitor has accepted the cookie consent box
+session http visitorid carsnip preserves users states across page requests
+5 years http sc
+net_sessionid [x2] co-op insurance sessioncam preserves the visitor's session state across page requests
+session http sess# co-op insurance preserves users states across page requests
+session http test [x2] co-op insurance m6r
+eu used to detect if the visitor has accepted the marketing category in the cookie banner
+this cookie is necessary for gdpr-compliance of the website
+session http serverid eyeota this cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website
+1 day http lpsessionid lo
+net preserves the visitor's session state across page requests
+session http gdpr_status media
+net determines whether the visitor has accepted the cookie consent box
+this ensures that the cookie consent box will not be presented again upon re-entry
+6 months http cookies
+com created and used by petrolprices
+com themselves to store login state, so that the navigational menu allows access to the map search
+without this cookie, you will not be able to look at prices
+` session http ai_buffer petrolprices
+com used in context with the "ai_sentbuffer" in order to limit the number of data-server-updates (azure)
+this synergy also allows the website to detect any duplicate data-server-updates
+session html ai_sentbuffer petrolprices
+com used in context with the "ai_buffer" in order to limit the number of data-server-updates (azure)
+this synergy also allows the website to detect any duplicate data-server-updates
+session html ai_session petrolprices
+com preserves users states across page requests
+1 day http arraffinity [x2] petrolprices
+com microsoft used to distribute traffic to the website on several servers in order to optimise response times
+session http clientid petrolprices
+com determines the device used to access the website
+this allows the website to be formatted accordingly
+3 months http awselb [x2] quotezone used to distribute traffic to the website on several servers in order to optimise response times
+session http awselbcors [x2] quotezone registers which server-cluster is serving the visitor
+this is used in context with load balancing, in order to optimize user experience
+session http incap_ses_# quotezone preserves users states across page requests
+session http visid_incap_# quotezone preserves users states across page requests
+1 year http __cachedgetconsentdata thisismoney
+uk determines whether the user has accepted the cookie consent box
+persistent html __cachedvendorconsents thisismoney
+uk determines whether the user has opted-out of third-party cookies
+persistent html phpsessid quotezone preserves user session state across page requests
+session http crisp-client%2fsession%2f#guid# crisp pending 6 months http
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+name provider purpose expiry type cookieconsentbulksetting-# cookiebot enables cookie consent across multiple websites persistent html lptestcookie# [x2] co-op insurance lpcdn
+net used to check if the user's browser supports cookies
+session http lptabid co-op insurance used by liveperson real time messaging platform to identify the active message tab
+session html volume thisismoney
+uk used by video players to remember the user's preferred sound volume
+persistent html crisp-client/domain-detect/# crisp pending session http
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type _ga [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http _gat [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com used by google analytics to throttle request rate 1 day http _gid [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http _cb [x2] bbc collects data such as visitors' ip address, geographical location and website navigation - this information is used for internal optimization and statistics for the website's operator
+persistent html _cb_expires bbc this cookie is used in context with html local storage, this sets an expiry date/time for the _cb tracker, which makes it function like a cookie
+persistent html _cb_svref [x2] bbc collects data such as visitors' ip address, geographical location and website navigation - this information is used for internal optimization and statistics for the website's operator
+xiti bbc this cookie is used to identify the frequency of visits and how long the visitor is on the website
+the cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages
+session pixel ab neustar this cookie is used by the website’s operator in context with multi-variate testing
+this is a tool used to combine or change content on the website
+this allows the website to find the best variation/edition of the site
+1 year http _dc_gtm_ua-# ala
+uk used by google tag manager to control the loading of a google analytics script tag
+1 day http _cb_svref_expires bbc this cookie is used in context with html local storage, this sets an expiry date/time for the _cb_sverf, which makes it function like a cookie
+persistent html _cb_ls bbc collects data on the user's visits to the website, such as which pages have been read
+1 year http ckns_sa_labels_persist bbc registers statistical data on users' behaviour on the website
+used for internal analytics by the website operator
+1 year http ckns_sscid bbc registers statistical data on users' behaviour on the website
+used for internal analytics by the website operator
+5 years http ecos
+dt bbc used to detect whether the user has responded to surveys presented on the website
+the purpose of the surveys are website optimization
+session http amcv_# co-op insurance unique user id that recognizes the user on returning visits 2 years http check co-op insurance this cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website
+session http lpvid co-op insurance used by liveperson real time messaging platform to recognize the visitor on returning visits
+1 year http test_amcv_cookie co-op insurance registers statistical data on visitors' behaviour on the website
+used for internal analytics by the website operator
+2 years http collect google used to send data to google analytics about the visitor's device and behaviour
+tracks the visitor across devices and marketing channels
+session pixel amcvs_#adobeorg co-op insurance pending session http history
+store co-op insurance contains an visitor id - this is used to track visitors' navigation and interaction on the website for internal website-optimization
+session html lplastvisit-# co-op insurance used by liveperson real time messaging platform to store the timestamp of the user's last visit
+persistent html lz_userid livehelp
+uk sets a unique id for the session
+this allows the website to obtain data on visitor behaviour for statistical purposes
+99 days http lpvisitorid lo
+net used by liveperson real time messaging platform to recognize the visitor on returning visits
+1 year http visitor-id media
+net this cookie is used to collect information on the visitor
+this information will be stored for internal analytics at the website's operator – internal analytics is used by websites to optimize their domains
+1 year http ai_user petrolprices
+com used by microsoft application insights software to collect statistical usage and telemetry information
+the cookie stores a unique identifier to recognize users on returning visits over time
+1 year http d quantcast collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content
+3 months http loglevel thisismoney
+uk collects data on visitor interaction with the website's video-content - this data is used to make the website's video-content more relevant towards the visitor
+persistent html mol-fe-cookie-reinforcer thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+persistent html mol-fe-favicon-new-content-indicator/articleids thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+session html mol-fe-tracking-instartlogic thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+persistent html personalization_id twitter this cookie is set by twitter
+the cookie allows the visitor to share content from the website on his/her twitter profile
+2 years http ouuid optomaton contains an visitor id - this is used to identify the visitor upon re-entry to the website
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type ads/ga-audiences google used by google adwords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+session pixel _s branch collects data on visitors' behaviour and interaction - this is used to optimize the website and make advertisement on the website more relevant
+1 year http branch_session [x2] app
+com measure wether the user has made any app-downloads on the website, used for statistics and marketing purposes
+session html branch_session_first [x2] app
+com measure wether the user has made any app-downloads on the website, used for statistics and marketing purposes
+persistent html nid google registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+6 months http rc
+a google this cookie is used to distinguish between humans and bots
+this is beneficial for the website, in order to make valid reports on the use of their website
+b google this cookie is used to distinguish between humans and bots
+session html visitid carsnip pending 1 day http ping chartbeat pending session pixel ljtrtbexp sovrn pending 1 year http nlbi_# quotezone pending session http scm smaato pending 13 days http scmg smaato pending 6 days http sync triplelift detects whether partner data synchronization is functioning and currently running - this function sends user data between third-party advertisement companies for the purpose of targeted advertisements
+3 months http tluid triplelift this cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+3 months http uid [x2] adform amobee registers a unique user id that recognises the user's browser when visiting websites that use the same ad network
+the purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads
+2 months http gi_u getintent used for targeted ads and to document efficacy of each individual ad
+1 year http userid1 adition this cookie is used to collect information on a visitor
+this information will become an id string with information on a specific visitor – id information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges
+179 days http tuuid [x4] admedo bidswitch kpn r
+co collects unidentifiable data, which is sent to an unidentifiable receiver
+the receiver's identity is kept secret by perfect privacy llc
+1 year http tuuid_lu [x4] admedo bidswitch kpn r
+co contains a unique visitor id, which allows bidswitch
+com to track the visitor across multiple websites
+this allows bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times
+1 year http uuid [x2] ads
+cloud mediamath this cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+1 year http tdcpm the trade desk registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+1 year http tdid the trade desk registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+1 year http apid [x2] aol yahoo collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 year http _uetsid [x3] ala
+uk co-op insurance collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that they are shown the same advertisement
+1 day http ad-id amazon used by amazon advertising to register user actions and target content on the website based on ad clicks on a different website
+9 months http ad-privacy amazon used by amazon advertising to register user actions and target content on the website based on ad clicks on a different website
+63 months http idsync oath used to identify the visitor across visits and devices
+this allows the website to present the visitor with relevant advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+1 year http _chartbeat2 [x2] bbc used by the web analytics company chartbeat to register whether the user has visited the website before
+persistent html _chartbeat2_expires bbc used by the web analytics company chartbeat to register whether the user has visited the website before
+persistent html __gads [x2] bbc www
+com used to register what ads have been displayed to the user
+2 years http googleadservingtest [x2] bbc www
+com used to register what ads have been displayed to the user
+session http google_push bidswitch collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+1 day http muid microsoft used widely by microsoft as a unique user id
+the cookie enables user tracking by synchronising the id across many microsoft domains
+1 year http b blis collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+1 year http bkdc oracle registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days http bkpa oracle used to present the visitor with relevant content and advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+179 days http bku oracle registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days http cmid casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http cmpro casalemedia collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that the visitor is shown the same advertisement
+3 months http cmps casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+3 months http cmrum3 casalemedia collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http cmst casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 day http vt bbc sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http _gcl_au co-op insurance used by google adsense for experimenting with advertisement efficiency across websites using their services
+3 months http mbox co-op insurance this cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency
+1 day http mboxedgecluster co-op insurance stores visitors' navigation by registering landing pages - this allows the website to present relevant products and/or measure their advertisement efficiency on other websites
+1 day http _cc_aud lotame collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http _cc_cc lotame collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+session http _cc_dc bbc collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http _cc_domain lotame sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+269 days http _cc_id bbc collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http cid_# crimtan collects unidentifiable data that is sent to an unidentifiable source
+the source's identity is kept secret by the company, whois privacy protection service, inc
+1 year http demdex adobe inc via a unique id that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads
+179 days http dpm adobe inc sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+179 days http dsid google used by google doubleclick for re-targeting, optimisation, reporting and attribution of online adverts
+1 day http ide google used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http test_cookie google used to check if the user's browser supports cookies
+1 day http ged_playlist_activity bbc this cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient
+session http everest_g_v2 adobe inc used for targeted ads and to document efficacy of each individual ad
+2 years http everest_session_v2 adobe inc used for targeted ads and to document efficacy of each individual ad
+session http mako_uid eyeota collects data on user visits to the website, such as what pages have been accessed
+the registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing
+1 year http fr facebook used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http embed/v3/timings
+gif hubspot collects data on visitors' preferences and behaviour on the website - this information is used make content and advertisement more relevant to the specific visitor
+d-15# google this cookie is used to distinguish between humans and bots
+persistent html pcs/activeview google used by doubleclick to determine whether website advertisement has been properly displayed - this is done to make their marketing efforts more efficient
+session pixel _uetsid_exp co-op insurance contains the expiry-date for the cookie with corresponding name
+persistent html _kuid_ salesforce registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+179 days http _ljtrtb_# sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http ljt_reader sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http ljtrtb sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http sd-session-id live
+com registers data on visitors from multiple visits and on multiple websites
+this information is used to measure the efficiency of advertisement on websites
+5 years http id m6r
+eu registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+3 months http mt_mop mediamath collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+29 days http data-rk media
+net collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that the visitor is shown the same advertisement
+1 year http sp_landing [x2] spotify spotify used to implement audio-content from spotify on the website
+can also be used to register user interaction and preferences in context with audio-content - this can serve statistics and marketing purposes
+1 day http i openx registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http pd openx collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+14 days http google_experiment_mod# www
+com used by google adsense for experimenting with advertisement efficiency across websites using their services
+persistent html kadusercookie pubmatic registers a unique id that identifies the user's device during return visits across websites that use the same ad network
+the id is used to allow targeted ads
+3 months http ktpcacookie pubmatic registers a unique id that identifies the user's device during return visits across websites that use the same ad network
+the id is used to allow targeted ads
+1 day http cref quantcast contains data on user navigation, interaction and time spent on the website and its sub-pages - this data is used to optimise the relevance of advertisements and for statistical purposes
+13 months http mc [x2] quantcast thrtle
+com collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+13 months http zync-uuid rezync
+com sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+10 years http eud rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http euds rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session http rud rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http ruds rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session http smd rocketfuel used to present the visitor with relevant content and advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+1 year http pxrc liveramp this cookie registers data on the visitor
+the information is used to optimize advertisement relevance
+2 months http rlas3 liveramp collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http tv
+loghighrate tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+loglevel tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+available tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+persistent html p2 scorecardresearch registers user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session pixel uid scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http uidr scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http eyeblaster sizmek registers data on visitors from multiple visits and on multiple websites
+this information is used to measure the efficiency of advertisement on websites
+3 months http r1 sizmek collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website
+session http u2 sizmek collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website
+3 months http um2 sizmek sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+3 months http suid simpli
+fi collects information on user preferences and/or interaction with web-campaign content - this is used on crm-campaign-platform used by website owners for promoting events or products
+1 year http suid_legacy simpli
+fi collects information on user preferences and/or interaction with web-campaign content - this is used on crm-campaign-platform used by website owners for promoting events or products
+1 year http https
+com/ skimlinks collects information on visitor behaviour on multiple websites
+this information is used on the website, in order to optimize the relevance of advertisement
+session pixel skimcsp skimlinks this cookie registers data on the visitor
+the information is used to optimize advertisement relevance
+1 year http skimguid skimlinks assigns a specific id to the visitor - this allows the website to determine the number of specific user-visits for analysis and statistics
+1 year http csync smart adserver optimises ad display based on the user's movement combined and various advertiser bids for displaying user ads
+13 months http pid smart adserver registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+13 months http sp_t spotify used to implement audio-content from spotify on the website
+can also be used to register user interaction and preferences in context with audio-content - this can serve statistics and marketing purposes
+2 months http audience spotx used to determine whether the video-ads have been displayed correctly on the website - this is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended
+the cookie also detects whether the visitor has any do not track preferences
+1 year http mol-fe-tracking-local-uuid thisismoney
+uk collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+persistent html insync thrtle
+com used for data-synchronization with advertisement networks
+session pixel sync-his videology sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http tidal_ttid videology registers the ads provided by videology that the user has seen and/or clicked
+used to generate a demographic profile of the user
+1 year http ouuid_lu optomaton used in context with the "ouuid" cookie in order to retarget the visitor with relevant ads or product promotions
+1 year http matchgoogle dataxu regulates synchronisation of user identification and exchange of user data between various ad services
+29 days http matchlotame dataxu presents the user with relevant content and advertisement
+the service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+30 days http wfivefivec dataxu collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+13 months http ___utmvc quotezone collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 day http a3 yahoo collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 year http apidts yahoo collects data on visitors' preferences and behaviour on the website - this information is used make content and advertisement more relevant to the specific visitor
+1 day http b yahoo collects anonymous data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the registered data is used to categorise the users' interest and demographical profiles with the purpose of customising the website content depending on the visitor
+1 year http guc yahoo registers a unique id that identifies the user's device during return visits
+used for conversion tracking and to measure the efficacy of online ads
+1 year http gps youtube registers a unique id on mobile devices to enable tracking based on geographical gps location
+1 day http visitor_info1_live youtube tries to estimate the users' bandwidth on pages with integrated youtube videos
+179 days http ysc youtube registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube stores the user's video player preferences using embedded youtube video session html zuid zemanta sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http sovrn_sync getintent pending 1 year http
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type permutive-consent bbc pending persistent html _em_c3 bbc pending 1 day http _em_ft bbc pending 1 day http _em_lt bbc pending 1 day http _em_pc bbc pending 1 day http _em_vi bbc pending 1 day http _em_vt bbc pending 1 year http edr_sc_tst bbc pending 1 day http foo bbc pending session http 3296 [x2] co-op insurance pending 1 day http 53568 [x2] co-op insurance pending 1 day http 53570 [x2] co-op insurance pending 1 day http 54363 [x2] co-op insurance pending 1 day http mol
+uk pending 1 day http c3 bbc pending 1 year http pixel effective measure pending session pixel _uetvid [x3] co-op insurance ala
+uk pending 16 days http 54575 [x2] co-op insurance pending 1 day http channel co-op insurance pending session http lpsid-25188907 co-op insurance pending session http sc
+intg co-op insurance pending session http _uetvid_exp co-op insurance pending persistent html appversion www
+com pending persistent html cookiebanner-accepted petrolprices
+com pending 95754 months http landingpageslot petrolprices
+com pending 1 day http piwik_visitor quotezone pending 2 years http ala_lantern roeye
+com pending 2 years http __ads_cmp_reprompt thisismoney
+uk pending persistent html percent thisismoney
+uk pending 1 year http x-loc thisismoney
+uk pending session http initreq quotezone pending session html wlkwid quotezone pending 29 days http sc
+instr sessioncam pending session http _dlt ala
+uk pending session http ala_pagecount ala
+uk pending session http lantern ala
+uk pending 2 months http
+[#iabv2_label_partners#] [#iabv2_body_purposes#] [#iabv2_body_features#] [#iabv2_body_partners#] cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies, we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+learn more about who we are, how you can contact us and how we process personal data in our privacy policy
+your consent applies to the following domains
+cookie declaration last updated on 02/07/2020 by cookiebot
+home fuel price map news guides download the app become a member sign in
+privacy policy last updated
+13th january 2020 introduction this policy (together with our end-user licence agreement as set out in our terms and conditions ( eula ) and any additional terms of use incorporated by reference into the eula, together with our terms of use) applies to your use of
+com ltd mobile application software ( app ) available on our site ( app site ), once you have downloaded or streamed a copy of the app onto your mobile telephone or handheld device ( device )
+any of the services accessible through the app ( services ) that are available on the app site or other sites of ours ( services sites ) , unless the eula states that a separate privacy policy applies to a particular service, in which case that privacy policy only applies
+this policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us
+please read the following carefully to understand our practices regarding your personal data and how we will treat it
+important information and who we are petrolprices
+com ltd is the controller and is responsible for your personal data (collectively referred to as “company”, “we”, “us” or “our” in this policy)
+we have appointed a data privacy manager
+if you have any questions about this privacy policy, please contact us using the details set out below
+contact details our full details are
+full name of legal entity
+com ltd name or title of data privacy manager
+jason lloyd email address
+manor coach house, church hill, aldershot, hampshire, gu12 4rq you have the right to make a complaint at any time to the information commissioner’s office ( ico ), the uk supervisory authority for data protection issues
+petrolprices registered ico number
+changes to the privacy policy and your duty to inform us of changes we keep our privacy policy under regular review
+our policy may change and if it does, these changes will be posted on this page and, where appropriate, notified to you by email or by push notification if enabled
+the new policy may be displayed on-screen and you may be required to read and accept the changes to continue your use of the app or the services
+it is important that the personal data we hold about you is accurate and current
+please keep us informed if your personal data changes during our relationship with you
+third party links our sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates
+please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as contact and location data
+please check these policies before you submit any personal data to these websites or use these services
+the data we collect about you we may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows
+identity data includes first name, maiden name, last name, username or similar identifier, marital status, title and date of birth
+contact data includes billing address, company address, email address and telephone numbers
+financial data includes your bank details or other payment details
+transaction data includes details about payments to and from you and other details of services you have purchased from us
+technical data includes internet protocol (ip) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this app site
+profile data includes your username and password, purchases or orders made by you, your interests, preferences, behaviour, feedback, reviews, support tickets and logs, and survey responses
+usage data includes information about how you use our website, and services
+marketing and communications data includes your preferences in receiving marketing from us and our third parties and your communication preferences
+location data includes cellular network data, global positioning system (gps) data and personal area network data (such as bluetooth)
+we also collect, use and share aggregated data such as statistical or demographic data for any purpose
+aggregated data could be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity
+for example, we may aggregate your usage data to calculate the percentage of users accessing a specific app feature
+however, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy
+we do not collect any special categories of personal data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data)
+nor do we collect any information about criminal convictions and offences
+how is your personal data collected
+we will collect and process the following data about you
+information you give us
+this is information (including identity, contact, financial, and marketing and communications data) you consent to giving us about you by filling in forms on the app site and the services sites (together our sites ), or by corresponding with us (for example, by email or chat)
+it includes information you provide when you register to use the app site, download or register an app, subscribe to any of our services, search for an app or service, make an in-app purchase, enter a competition, promotion or survey and when you report a problem with an app, our services, or any of our sites
+if you contact us, we will keep a record of that correspondence
+information we collect about you and your device
+each time you visit one of our sites or use one of our apps we will automatically collect personal data including device, content and usage data
+we collect this data using cookies and other similar technologies
+please see our cookie policy (https
+com/cookie-policy/) for further details
+we also use gps technology including geo-fencing technology to determine your current location
+some of our location-enabled services require your personal data for the feature to work
+if you wish to use the particular feature, you will be asked to consent to your data being used for this purpose
+you can withdraw your consent at any time by disabling location data in your settings
+information we receive from other sources including third parties and publicly available sources
+we will receive personal data about you from various third parties as set out below
+technical data from the following parties
+analytics providers such as google based outside the eu
+contact, financial and transaction data from providers of technical, payment and delivery services such as
+profile data and location data from plot projects (floating market b
+) based inside of the eu
+and location data from location analytics companies such as geouniq based outside of the eu
+when you want to install or uninstall a service containing a unique application number or when such a service searches for automatic updates, that number and information about your installation, for example, the type of operating system, may be sent to us
+cookies we use cookies and/or other tracking technologies to distinguish you from other users of the app, app site, the distribution platform (appstore) or services sites and to remember your preferences
+this helps us to provide you with a good experience when you use the app or browse any of our sites and also allows us to improve the app and our sites
+for detailed information on the cookies we use, the purposes for which we use them and how you can exercise your choices regarding our use of your cookies, see our cookie policy
+how we use your personal data we will only use your personal data when the law allows us to do so
+most commonly we will use your personal data in the following circumstances
+where you have consented before the processing
+where we need to perform a contract we are about to enter or have entered with you
+where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests
+where we need to comply with a legal or regulatory obligation
+read further down the policy to find out more about the types of lawful basis that we will rely on to process your personal data
+we will only send you direct marketing communications by email or text if we have your consent
+you have the right to withdraw that consent at any time by contacting us
+we will get your express opt-in consent before we share your personal data with any third party for marketing purposes
+purpose/activity types of data lawful basis for processing to install the app and register you as a new app user a) identity
+c) technical a) your consent to process in-app purchases and deliver services including managing payments and collecting money owed to us a) identity
+f) location a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to recover debts due to us) to manage our relationship with you including notifying you of changes to the app or any services a) identity
+e) marketing & communications a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to keep record updated to analyse how customers use our products/services)
+d) necessary to comply with legal obligations (to inform you of any changes to our terms & conditions) to enable you to participate in a prize draw, competition or complete a survey a) identity
+d) marketing & communications a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to analyse how customers use our products/services and to develop them and grow our business) to administer and protect our business and this app including troubleshooting, data analysis and system testing a) identity
+c) technical a) necessary for our legitimate interests (for running our business, provision of administration and it services, network security) to deliver content and advertisements to you
+to make recommendations to you about goods or services which may interest you
+to measure and analyse the effectiveness of the advertising we serve you
+to monitor trends so we can improve the app a) identity
+e) marketing & communications
+f) location a) your consent
+b) necessary for our legitimate interests (to develop our products/services and grow our business) 5
+disclosures of your personal data when you consent to providing us with your personal data, we will also ask you for your consent to share your personal data with the third parties set out below for the purposes set out in the table
+external third parties as set out in the glossary
+specific third parties such as
+plot projects (the privacy policy of plot projects can be found here
+io (the privacy policy of branch
+io can be found here
+google analytics (the privacy policy of google analytics can be found here
+geouniq (the privacy policy of geouniq can be found here
+stripe (the privacy policy of stripe can be found here
+emailjedi (the privacy policy of emailjedi can be found here
+emailhippo (the privacy policy of emailhippo can be found here
+hubspot (the privacy policy of hubspot can be found here
+com/privacy-policy ) third parties to whom we may choose to sell, transfer or merge parts of our business or our assets
+alternatively, we may seek to acquire other businesses or merge with them
+if a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy
+we require all third parties to respect the security of your personal data and to treat it in accordance with the law
+we do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions
+international transfers many of our external third parties are based outside the eea so their processing of your personal data will involve a transfer of data outside the eea
+whenever we transfer your personal data out of the eea, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented
+we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the european commission
+for further details, see european commission
+adequacy of the protection of personal data in non-eu countries
+where we use certain service providers, we may use specific contracts approved by the european commission which give personal data the same protection it has in europe
+for further details, see european commission
+model contracts for the transfer of personal data to third countries
+where we use providers based in the us, we may transfer data to them if they are part of the privacy shield which requires them to provide similar protection to personal data shared between europe and the us
+for further details, see european commission
+please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the eea
+data security all information you provide to us is stored on our secure servers
+any payment transactions carried out by us or our chosen third-party provider of payment processing services will be encrypted using rsa 256 encryption
+where we have given you (or where you have chosen) a password that enables you to access certain parts of our sites, you are responsible for keeping this password confidential
+we ask you not to share a password with anyone
+once we have received your information, we will use strict procedures and security features to try to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way
+we will collect and store personal data on your device using application data caches and browser web storage (including html5)
+certain services include social networking or review features
+ensure when using these features that you do not submit any personal data that you do not want to be seen, collected or used by other users
+if you submit a review through the application, your name, image, rating and written review will be made public
+we have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator when we are legally required to do so
+data retention by law we have to keep basic information about our customers (including contact, identity, financial and transaction data) for six years after they cease being customers for tax purposes
+in some circumstances you can ask us to delete your data
+see your legal rights below for further information
+in some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you
+in the event that you do not use the app for a period of 12 months, then your account will be treated as a ‘cold account’ and we will no longer email or text you, or send you push notifications from the app however we will continue to store your personal data within your profile
+if you do not use your account for a further 12 months (24 months in total, then we will treat the account as expired and your personal data may be deleted
+we will only retain such personal data as required in order to maintain company compliance for tax purposes as set out above
+following this your personal data shall be permanently deleted
+your legal rights under certain circumstances you have the following rights under data protection laws in relation to your personal data
+please click on the links below to find out more about these rights
+request access to your personal data
+request correction of your personal data
+request erasure of your personal data
+object to processing of your personal data
+request restriction of processing your personal data
+request transfer or your personal data
+right to withdraw consent
+you also have the right to ask us not to continue to process your personal data for marketing purposes
+you can exercise any of these rights at any time by contacting us at
+com ltd manor coach house church hill aldershot hampshire gu12 4rq email
+glossary lawful basis consent means processing your personal data where you have signified your agreement by a statement or clear opt-in to processing for a specific purpose
+consent will only be valid if it is a freely given, specific, informed and unambiguous indication of what you want
+you can withdraw your consent at any time by contacting us
+legitimate interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience
+we make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests
+we do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law)
+you can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us
+performance of contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract
+comply with a legal obligation means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to
+third parties external third parties service providers acting as processors based in the united kingdom, norway, united states and holland who provide it and system administration services
+professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the uk who provide consultancy, banking, legal, insurance and accounting services
+hm revenue and customs, regulators and other authorities acting as processors or joint controllers based in the uk who require reporting of processing activities in certain circumstances
+your legal rights you have the right to
+request access to your personal data (commonly known as a “data subject access request”)
+this enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it
+request correction of the personal data that we hold about you
+this enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us
+request erasure of your personal data
+this enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it
+you also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law
+note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request
+object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms
+you also have the right to object where we are processing your personal data for direct marketing purposes
+in some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms
+request restriction of processing of your personal data
+this enables you to ask us to suspend the processing of your personal data in the following scenarios
+if you want us to establish the data’s accuracy
+where our use of the data is unlawful but you do not want us to erase it
+where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims
+or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it
+request the transfer of your personal data to you or to a third party
+we will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format
+note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you
+withdraw consent at any time where we are relying on consent to process your personal data
+however, this will not affect the lawfulness of any processing carried out before you withdraw your consent
+if you withdraw your consent, we may not be able to provide certain products or services to you
+we will advise you if this is the case at the time you withdraw your consent
+news & guides news press releases guides station brands business marketing & advertising forecourt manager data labs company about team careers contact community sign in become a member
+© copyright 2020 petrolprices
+, manor coach house, church hill, aldershot, hampshire gu12 4rq privacy policy
+chat with support support is online
+com team chat with petrolprices
+com teamthis website uses cookies you consent to our necessary cookies if you continue to use our website by clicking ok in the green box
+you can opt out of certain cookies using the below checkboxes
+[#ooi_personal_information#] use necessary cookies only allow all cookies show details ok use necessary cookies only allow selection allow all cookies necessary preferences statistics marketing show details cookie declaration [#iabsettings#] [#iabv2settings#] about cookies
+unclassified (43) necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+the website cannot function properly without these cookies
+name provider purpose expiry type cookieconsent [x3] cookiebot stores the user's cookie consent state for the current domain 1 year http rc
+c google used in context with video-advertisement
+the cookie limits the number of times a visitor is shown the same advertisement-content
+the cookie is also used to ensure relevance of the video-advertisement to the specific visitor
+session html c [x5] admedo kpn r
+co optomaton bidswitch used in order to detect spam and improve the website's security
+1 year http ckns_orb_fig_cache [x2] bbc this cookie is necessary for the cache function
+a cache is used by the website to optimize the response time between the visitor and the website
+the cache is usually stored on the visitor’s browser
+4 days http atuserid bbc contains an visitor id - this is used to identify the visitor upon re-entry to the website
+13 months http ckns_explicit bbc this opt-out cookie identifies if the visitor has deselected any cookies, trackers or other audience targeting tools
+1 year http ckns_policy bbc this opt-out cookie identifies if the visitor has deselected any cookies, trackers or other audience targeting tools
+1 year http ckns_policy_exp bbc contains the expiry-date for the cookie with corresponding name
+13 months http ckns_privacy bbc determines whether the user has accepted the cookie consent box
+1 year http cookietest bbc this cookie is used to determine if the visitor has accepted the cookie consent box
+session http visitorid carsnip preserves users states across page requests
+5 years http sc
+net_sessionid [x2] co-op insurance sessioncam preserves the visitor's session state across page requests
+session http sess# co-op insurance preserves users states across page requests
+session http test [x2] co-op insurance m6r
+eu used to detect if the visitor has accepted the marketing category in the cookie banner
+this cookie is necessary for gdpr-compliance of the website
+session http serverid eyeota this cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website
+1 day http lpsessionid lo
+net preserves the visitor's session state across page requests
+session http gdpr_status media
+net determines whether the visitor has accepted the cookie consent box
+this ensures that the cookie consent box will not be presented again upon re-entry
+6 months http cookies
+com created and used by petrolprices
+com themselves to store login state, so that the navigational menu allows access to the map search
+without this cookie, you will not be able to look at prices
+` session http ai_buffer petrolprices
+com used in context with the "ai_sentbuffer" in order to limit the number of data-server-updates (azure)
+this synergy also allows the website to detect any duplicate data-server-updates
+session html ai_sentbuffer petrolprices
+com used in context with the "ai_buffer" in order to limit the number of data-server-updates (azure)
+this synergy also allows the website to detect any duplicate data-server-updates
+session html ai_session petrolprices
+com preserves users states across page requests
+1 day http arraffinity [x2] petrolprices
+com microsoft used to distribute traffic to the website on several servers in order to optimise response times
+session http clientid petrolprices
+com determines the device used to access the website
+this allows the website to be formatted accordingly
+3 months http awselb [x2] quotezone used to distribute traffic to the website on several servers in order to optimise response times
+session http awselbcors [x2] quotezone registers which server-cluster is serving the visitor
+this is used in context with load balancing, in order to optimize user experience
+session http incap_ses_# quotezone preserves users states across page requests
+session http visid_incap_# quotezone preserves users states across page requests
+1 year http __cachedgetconsentdata thisismoney
+uk determines whether the user has accepted the cookie consent box
+persistent html __cachedvendorconsents thisismoney
+uk determines whether the user has opted-out of third-party cookies
+persistent html phpsessid quotezone preserves user session state across page requests
+session http crisp-client%2fsession%2f#guid# crisp pending 6 months http
+preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+name provider purpose expiry type cookieconsentbulksetting-# cookiebot enables cookie consent across multiple websites persistent html lptestcookie# [x2] co-op insurance lpcdn
+net used to check if the user's browser supports cookies
+session http lptabid co-op insurance used by liveperson real time messaging platform to identify the active message tab
+session html volume thisismoney
+uk used by video players to remember the user's preferred sound volume
+persistent html crisp-client/domain-detect/# crisp pending session http
+statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+name provider purpose expiry type _ga [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+2 years http _gat [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com used by google analytics to throttle request rate 1 day http _gid [x8] business
+uk carsnip co-op insurance quotezone spotify tradingview uk-tla
+com registers a unique id that is used to generate statistical data on how the visitor uses the website
+1 day http _cb [x2] bbc collects data such as visitors' ip address, geographical location and website navigation - this information is used for internal optimization and statistics for the website's operator
+persistent html _cb_expires bbc this cookie is used in context with html local storage, this sets an expiry date/time for the _cb tracker, which makes it function like a cookie
+persistent html _cb_svref [x2] bbc collects data such as visitors' ip address, geographical location and website navigation - this information is used for internal optimization and statistics for the website's operator
+xiti bbc this cookie is used to identify the frequency of visits and how long the visitor is on the website
+the cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages
+session pixel ab neustar this cookie is used by the website’s operator in context with multi-variate testing
+this is a tool used to combine or change content on the website
+this allows the website to find the best variation/edition of the site
+1 year http _dc_gtm_ua-# ala
+uk used by google tag manager to control the loading of a google analytics script tag
+1 day http _cb_svref_expires bbc this cookie is used in context with html local storage, this sets an expiry date/time for the _cb_sverf, which makes it function like a cookie
+persistent html _cb_ls bbc collects data on the user's visits to the website, such as which pages have been read
+1 year http ckns_sa_labels_persist bbc registers statistical data on users' behaviour on the website
+used for internal analytics by the website operator
+1 year http ckns_sscid bbc registers statistical data on users' behaviour on the website
+used for internal analytics by the website operator
+5 years http ecos
+dt bbc used to detect whether the user has responded to surveys presented on the website
+the purpose of the surveys are website optimization
+session http amcv_# co-op insurance unique user id that recognizes the user on returning visits 2 years http check co-op insurance this cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website
+session http lpvid co-op insurance used by liveperson real time messaging platform to recognize the visitor on returning visits
+1 year http test_amcv_cookie co-op insurance registers statistical data on visitors' behaviour on the website
+used for internal analytics by the website operator
+2 years http collect google used to send data to google analytics about the visitor's device and behaviour
+tracks the visitor across devices and marketing channels
+session pixel amcvs_#adobeorg co-op insurance pending session http history
+store co-op insurance contains an visitor id - this is used to track visitors' navigation and interaction on the website for internal website-optimization
+session html lplastvisit-# co-op insurance used by liveperson real time messaging platform to store the timestamp of the user's last visit
+persistent html lz_userid livehelp
+uk sets a unique id for the session
+this allows the website to obtain data on visitor behaviour for statistical purposes
+99 days http lpvisitorid lo
+net used by liveperson real time messaging platform to recognize the visitor on returning visits
+1 year http visitor-id media
+net this cookie is used to collect information on the visitor
+this information will be stored for internal analytics at the website's operator – internal analytics is used by websites to optimize their domains
+1 year http ai_user petrolprices
+com used by microsoft application insights software to collect statistical usage and telemetry information
+the cookie stores a unique identifier to recognize users on returning visits over time
+1 year http d quantcast collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content
+3 months http loglevel thisismoney
+uk collects data on visitor interaction with the website's video-content - this data is used to make the website's video-content more relevant towards the visitor
+persistent html mol-fe-cookie-reinforcer thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+persistent html mol-fe-favicon-new-content-indicator/articleids thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+session html mol-fe-tracking-instartlogic thisismoney
+uk used to remember which articles or blog content the visitor has read on website
+persistent html personalization_id twitter this cookie is set by twitter
+the cookie allows the visitor to share content from the website on his/her twitter profile
+2 years http ouuid optomaton contains an visitor id - this is used to identify the visitor upon re-entry to the website
+marketing cookies are used to track visitors across websites
+the intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+name provider purpose expiry type ads/ga-audiences google used by google adwords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+session pixel _s branch collects data on visitors' behaviour and interaction - this is used to optimize the website and make advertisement on the website more relevant
+1 year http branch_session [x2] app
+com measure wether the user has made any app-downloads on the website, used for statistics and marketing purposes
+session html branch_session_first [x2] app
+com measure wether the user has made any app-downloads on the website, used for statistics and marketing purposes
+persistent html nid google registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+6 months http rc
+a google this cookie is used to distinguish between humans and bots
+this is beneficial for the website, in order to make valid reports on the use of their website
+b google this cookie is used to distinguish between humans and bots
+session html visitid carsnip pending 1 day http ping chartbeat pending session pixel ljtrtbexp sovrn pending 1 year http nlbi_# quotezone pending session http scm smaato pending 13 days http scmg smaato pending 6 days http sync triplelift detects whether partner data synchronization is functioning and currently running - this function sends user data between third-party advertisement companies for the purpose of targeted advertisements
+3 months http tluid triplelift this cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+3 months http uid [x2] adform amobee registers a unique user id that recognises the user's browser when visiting websites that use the same ad network
+the purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads
+2 months http gi_u getintent used for targeted ads and to document efficacy of each individual ad
+1 year http userid1 adition this cookie is used to collect information on a visitor
+this information will become an id string with information on a specific visitor – id information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges
+179 days http tuuid [x4] admedo bidswitch kpn r
+co collects unidentifiable data, which is sent to an unidentifiable receiver
+the receiver's identity is kept secret by perfect privacy llc
+1 year http tuuid_lu [x4] admedo bidswitch kpn r
+co contains a unique visitor id, which allows bidswitch
+com to track the visitor across multiple websites
+this allows bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times
+1 year http uuid [x2] ads
+cloud mediamath this cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+1 year http tdcpm the trade desk registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+1 year http tdid the trade desk registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+1 year http apid [x2] aol yahoo collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 year http _uetsid [x3] ala
+uk co-op insurance collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that they are shown the same advertisement
+1 day http ad-id amazon used by amazon advertising to register user actions and target content on the website based on ad clicks on a different website
+9 months http ad-privacy amazon used by amazon advertising to register user actions and target content on the website based on ad clicks on a different website
+63 months http idsync oath used to identify the visitor across visits and devices
+this allows the website to present the visitor with relevant advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+1 year http _chartbeat2 [x2] bbc used by the web analytics company chartbeat to register whether the user has visited the website before
+persistent html _chartbeat2_expires bbc used by the web analytics company chartbeat to register whether the user has visited the website before
+persistent html __gads [x2] bbc www
+com used to register what ads have been displayed to the user
+2 years http googleadservingtest [x2] bbc www
+com used to register what ads have been displayed to the user
+session http google_push bidswitch collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+1 day http muid microsoft used widely by microsoft as a unique user id
+the cookie enables user tracking by synchronising the id across many microsoft domains
+1 year http b blis collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+1 year http bkdc oracle registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days http bkpa oracle used to present the visitor with relevant content and advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+179 days http bku oracle registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days http cmid casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http cmpro casalemedia collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that the visitor is shown the same advertisement
+3 months http cmps casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+3 months http cmrum3 casalemedia collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http cmst casalemedia collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 day http vt bbc sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http _gcl_au co-op insurance used by google adsense for experimenting with advertisement efficiency across websites using their services
+3 months http mbox co-op insurance this cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency
+1 day http mboxedgecluster co-op insurance stores visitors' navigation by registering landing pages - this allows the website to present relevant products and/or measure their advertisement efficiency on other websites
+1 day http _cc_aud lotame collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http _cc_cc lotame collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+session http _cc_dc bbc collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http _cc_domain lotame sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+269 days http _cc_id bbc collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days http cid_# crimtan collects unidentifiable data that is sent to an unidentifiable source
+the source's identity is kept secret by the company, whois privacy protection service, inc
+1 year http demdex adobe inc via a unique id that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads
+179 days http dpm adobe inc sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+179 days http dsid google used by google doubleclick for re-targeting, optimisation, reporting and attribution of online adverts
+1 day http ide google used by google doubleclick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year http test_cookie google used to check if the user's browser supports cookies
+1 day http ged_playlist_activity bbc this cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient
+session http everest_g_v2 adobe inc used for targeted ads and to document efficacy of each individual ad
+2 years http everest_session_v2 adobe inc used for targeted ads and to document efficacy of each individual ad
+session http mako_uid eyeota collects data on user visits to the website, such as what pages have been accessed
+the registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing
+1 year http fr facebook used by facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months http embed/v3/timings
+gif hubspot collects data on visitors' preferences and behaviour on the website - this information is used make content and advertisement more relevant to the specific visitor
+d-15# google this cookie is used to distinguish between humans and bots
+persistent html pcs/activeview google used by doubleclick to determine whether website advertisement has been properly displayed - this is done to make their marketing efforts more efficient
+session pixel _uetsid_exp co-op insurance contains the expiry-date for the cookie with corresponding name
+persistent html _kuid_ salesforce registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+179 days http _ljtrtb_# sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http ljt_reader sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http ljtrtb sovrn collects data related to reader interests, context, demographics and other information on behalf of the lijit platform with the purpose of finding interested users on websites with related content
+1 year http sd-session-id live
+com registers data on visitors from multiple visits and on multiple websites
+this information is used to measure the efficiency of advertisement on websites
+5 years http id m6r
+eu registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+3 months http mt_mop mediamath collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+29 days http data-rk media
+net collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - this also allows the website to limit the number of times that the visitor is shown the same advertisement
+1 year http sp_landing [x2] spotify spotify used to implement audio-content from spotify on the website
+can also be used to register user interaction and preferences in context with audio-content - this can serve statistics and marketing purposes
+1 day http i openx registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http pd openx collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+14 days http google_experiment_mod# www
+com used by google adsense for experimenting with advertisement efficiency across websites using their services
+persistent html kadusercookie pubmatic registers a unique id that identifies the user's device during return visits across websites that use the same ad network
+the id is used to allow targeted ads
+3 months http ktpcacookie pubmatic registers a unique id that identifies the user's device during return visits across websites that use the same ad network
+the id is used to allow targeted ads
+1 day http cref quantcast contains data on user navigation, interaction and time spent on the website and its sub-pages - this data is used to optimise the relevance of advertisements and for statistical purposes
+13 months http mc [x2] quantcast thrtle
+com collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+13 months http zync-uuid rezync
+com sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+10 years http eud rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http euds rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session http rud rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year http ruds rocketfuel registers anonymised user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session http smd rocketfuel used to present the visitor with relevant content and advertisement - the service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+1 year http pxrc liveramp this cookie registers data on the visitor
+the information is used to optimize advertisement relevance
+2 months http rlas3 liveramp collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year http tv
+loghighrate tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+loglevel tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+available tradingview collects statistics on the user’s interaction with the realtime price- and stock bar on the website
+persistent html p2 scorecardresearch registers user data, such as ip address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+session pixel uid scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http uidr scorecardresearch collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and ip address
+the data is used by the marketing research network, scorecard research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences
+2 years http eyeblaster sizmek registers data on visitors from multiple visits and on multiple websites
+this information is used to measure the efficiency of advertisement on websites
+3 months http r1 sizmek collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website
+session http u2 sizmek collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website
+3 months http um2 sizmek sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+3 months http suid simpli
+fi collects information on user preferences and/or interaction with web-campaign content - this is used on crm-campaign-platform used by website owners for promoting events or products
+1 year http suid_legacy simpli
+fi collects information on user preferences and/or interaction with web-campaign content - this is used on crm-campaign-platform used by website owners for promoting events or products
+1 year http https
+com/ skimlinks collects information on visitor behaviour on multiple websites
+this information is used on the website, in order to optimize the relevance of advertisement
+session pixel skimcsp skimlinks this cookie registers data on the visitor
+the information is used to optimize advertisement relevance
+1 year http skimguid skimlinks assigns a specific id to the visitor - this allows the website to determine the number of specific user-visits for analysis and statistics
+1 year http csync smart adserver optimises ad display based on the user's movement combined and various advertiser bids for displaying user ads
+13 months http pid smart adserver registers a unique id that identifies a returning user's device
+the id is used for targeted ads
+13 months http sp_t spotify used to implement audio-content from spotify on the website
+can also be used to register user interaction and preferences in context with audio-content - this can serve statistics and marketing purposes
+2 months http audience spotx used to determine whether the video-ads have been displayed correctly on the website - this is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended
+the cookie also detects whether the visitor has any do not track preferences
+1 year http mol-fe-tracking-local-uuid thisismoney
+uk collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+persistent html insync thrtle
+com used for data-synchronization with advertisement networks
+session pixel sync-his videology sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http tidal_ttid videology registers the ads provided by videology that the user has seen and/or clicked
+used to generate a demographic profile of the user
+1 year http ouuid_lu optomaton used in context with the "ouuid" cookie in order to retarget the visitor with relevant ads or product promotions
+1 year http matchgoogle dataxu regulates synchronisation of user identification and exchange of user data between various ad services
+29 days http matchlotame dataxu presents the user with relevant content and advertisement
+the service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+30 days http wfivefivec dataxu collects data on the user's visits to the website, such as what pages have been loaded
+the registered data is used for targeted ads
+13 months http ___utmvc quotezone collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 day http a3 yahoo collects information on user behaviour on multiple websites
+this information is used in order to optimize the relevance of advertisement on the website
+1 year http apidts yahoo collects data on visitors' preferences and behaviour on the website - this information is used make content and advertisement more relevant to the specific visitor
+1 day http b yahoo collects anonymous data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+the registered data is used to categorise the users' interest and demographical profiles with the purpose of customising the website content depending on the visitor
+1 year http guc yahoo registers a unique id that identifies the user's device during return visits
+used for conversion tracking and to measure the efficacy of online ads
+1 year http gps youtube registers a unique id on mobile devices to enable tracking based on geographical gps location
+1 day http visitor_info1_live youtube tries to estimate the users' bandwidth on pages with integrated youtube videos
+179 days http ysc youtube registers a unique id to keep statistics of what videos from youtube the user has seen
+session http yt-remote-cast-installed youtube stores the user's video player preferences using embedded youtube video session html yt-remote-connected-devices youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-device-id youtube stores the user's video player preferences using embedded youtube video persistent html yt-remote-fast-check-period youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-app youtube stores the user's video player preferences using embedded youtube video session html yt-remote-session-name youtube stores the user's video player preferences using embedded youtube video session html zuid zemanta sets a unique id for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+this pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 year http sovrn_sync getintent pending 1 year http
+unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+name provider purpose expiry type permutive-consent bbc pending persistent html _em_c3 bbc pending 1 day http _em_ft bbc pending 1 day http _em_lt bbc pending 1 day http _em_pc bbc pending 1 day http _em_vi bbc pending 1 day http _em_vt bbc pending 1 year http edr_sc_tst bbc pending 1 day http foo bbc pending session http 3296 [x2] co-op insurance pending 1 day http 53568 [x2] co-op insurance pending 1 day http 53570 [x2] co-op insurance pending 1 day http 54363 [x2] co-op insurance pending 1 day http mol
+uk pending 1 day http c3 bbc pending 1 year http pixel effective measure pending session pixel _uetvid [x3] co-op insurance ala
+uk pending 16 days http 54575 [x2] co-op insurance pending 1 day http channel co-op insurance pending session http lpsid-25188907 co-op insurance pending session http sc
+intg co-op insurance pending session http _uetvid_exp co-op insurance pending persistent html appversion www
+com pending persistent html cookiebanner-accepted petrolprices
+com pending 95754 months http landingpageslot petrolprices
+com pending 1 day http piwik_visitor quotezone pending 2 years http ala_lantern roeye
+com pending 2 years http __ads_cmp_reprompt thisismoney
+uk pending persistent html percent thisismoney
+uk pending 1 year http x-loc thisismoney
+uk pending session http initreq quotezone pending session html wlkwid quotezone pending 29 days http sc
+instr sessioncam pending session http _dlt ala
+uk pending session http ala_pagecount ala
+uk pending session http lantern ala
+uk pending 2 months http
+[#iabv2_label_partners#] [#iabv2_body_purposes#] [#iabv2_body_features#] [#iabv2_body_partners#] cookies are small text files that can be used by websites to make a user's experience more efficient
+the law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+for all other types of cookies, we need your permission
+this site uses different types of cookies
+some cookies are placed by third party services that appear on our pages
+learn more about who we are, how you can contact us and how we process personal data in our privacy policy
+your consent applies to the following domains
+cookie declaration last updated on 02/07/2020 by cookiebot
+home fuel price map news guides download the app become a member sign in
+privacy policy last updated
+13th january 2020 introduction this policy (together with our end-user licence agreement as set out in our terms and conditions ( eula ) and any additional terms of use incorporated by reference into the eula, together with our terms of use) applies to your use of
+com ltd mobile application software ( app ) available on our site ( app site ), once you have downloaded or streamed a copy of the app onto your mobile telephone or handheld device ( device )
+any of the services accessible through the app ( services ) that are available on the app site or other sites of ours ( services sites ) , unless the eula states that a separate privacy policy applies to a particular service, in which case that privacy policy only applies
+this policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us
+please read the following carefully to understand our practices regarding your personal data and how we will treat it
+important information and who we are petrolprices
+com ltd is the controller and is responsible for your personal data (collectively referred to as “company”, “we”, “us” or “our” in this policy)
+we have appointed a data privacy manager
+if you have any questions about this privacy policy, please contact us using the details set out below
+contact details our full details are
+full name of legal entity
+com ltd name or title of data privacy manager
+jason lloyd email address
+manor coach house, church hill, aldershot, hampshire, gu12 4rq you have the right to make a complaint at any time to the information commissioner’s office ( ico ), the uk supervisory authority for data protection issues
+petrolprices registered ico number
+changes to the privacy policy and your duty to inform us of changes we keep our privacy policy under regular review
+our policy may change and if it does, these changes will be posted on this page and, where appropriate, notified to you by email or by push notification if enabled
+the new policy may be displayed on-screen and you may be required to read and accept the changes to continue your use of the app or the services
+it is important that the personal data we hold about you is accurate and current
+please keep us informed if your personal data changes during our relationship with you
+third party links our sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates
+please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as contact and location data
+please check these policies before you submit any personal data to these websites or use these services
+the data we collect about you we may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows
+identity data includes first name, maiden name, last name, username or similar identifier, marital status, title and date of birth
+contact data includes billing address, company address, email address and telephone numbers
+financial data includes your bank details or other payment details
+transaction data includes details about payments to and from you and other details of services you have purchased from us
+technical data includes internet protocol (ip) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this app site
+profile data includes your username and password, purchases or orders made by you, your interests, preferences, behaviour, feedback, reviews, support tickets and logs, and survey responses
+usage data includes information about how you use our website, and services
+marketing and communications data includes your preferences in receiving marketing from us and our third parties and your communication preferences
+location data includes cellular network data, global positioning system (gps) data and personal area network data (such as bluetooth)
+we also collect, use and share aggregated data such as statistical or demographic data for any purpose
+aggregated data could be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity
+for example, we may aggregate your usage data to calculate the percentage of users accessing a specific app feature
+however, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy
+we do not collect any special categories of personal data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data)
+nor do we collect any information about criminal convictions and offences
+how is your personal data collected
+we will collect and process the following data about you
+information you give us
+this is information (including identity, contact, financial, and marketing and communications data) you consent to giving us about you by filling in forms on the app site and the services sites (together our sites ), or by corresponding with us (for example, by email or chat)
+it includes information you provide when you register to use the app site, download or register an app, subscribe to any of our services, search for an app or service, make an in-app purchase, enter a competition, promotion or survey and when you report a problem with an app, our services, or any of our sites
+if you contact us, we will keep a record of that correspondence
+information we collect about you and your device
+each time you visit one of our sites or use one of our apps we will automatically collect personal data including device, content and usage data
+we collect this data using cookies and other similar technologies
+please see our cookie policy (https
+com/cookie-policy/) for further details
+we also use gps technology including geo-fencing technology to determine your current location
+some of our location-enabled services require your personal data for the feature to work
+if you wish to use the particular feature, you will be asked to consent to your data being used for this purpose
+you can withdraw your consent at any time by disabling location data in your settings
+information we receive from other sources including third parties and publicly available sources
+we will receive personal data about you from various third parties as set out below
+technical data from the following parties
+analytics providers such as google based outside the eu
+contact, financial and transaction data from providers of technical, payment and delivery services such as
+profile data and location data from plot projects (floating market b
+) based inside of the eu
+and location data from location analytics companies such as geouniq based outside of the eu
+when you want to install or uninstall a service containing a unique application number or when such a service searches for automatic updates, that number and information about your installation, for example, the type of operating system, may be sent to us
+cookies we use cookies and/or other tracking technologies to distinguish you from other users of the app, app site, the distribution platform (appstore) or services sites and to remember your preferences
+this helps us to provide you with a good experience when you use the app or browse any of our sites and also allows us to improve the app and our sites
+for detailed information on the cookies we use, the purposes for which we use them and how you can exercise your choices regarding our use of your cookies, see our cookie policy
+how we use your personal data we will only use your personal data when the law allows us to do so
+most commonly we will use your personal data in the following circumstances
+where you have consented before the processing
+where we need to perform a contract we are about to enter or have entered with you
+where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests
+where we need to comply with a legal or regulatory obligation
+read further down the policy to find out more about the types of lawful basis that we will rely on to process your personal data
+we will only send you direct marketing communications by email or text if we have your consent
+you have the right to withdraw that consent at any time by contacting us
+we will get your express opt-in consent before we share your personal data with any third party for marketing purposes
+purpose/activity types of data lawful basis for processing to install the app and register you as a new app user a) identity
+c) technical a) your consent to process in-app purchases and deliver services including managing payments and collecting money owed to us a) identity
+f) location a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to recover debts due to us) to manage our relationship with you including notifying you of changes to the app or any services a) identity
+e) marketing & communications a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to keep record updated to analyse how customers use our products/services)
+d) necessary to comply with legal obligations (to inform you of any changes to our terms & conditions) to enable you to participate in a prize draw, competition or complete a survey a) identity
+d) marketing & communications a) your consent
+b) performance of a contract with you
+c) necessary for our legitimate interests (to analyse how customers use our products/services and to develop them and grow our business) to administer and protect our business and this app including troubleshooting, data analysis and system testing a) identity
+c) technical a) necessary for our legitimate interests (for running our business, provision of administration and it services, network security) to deliver content and advertisements to you
+to make recommendations to you about goods or services which may interest you
+to measure and analyse the effectiveness of the advertising we serve you
+to monitor trends so we can improve the app a) identity
+e) marketing & communications
+f) location a) your consent
+b) necessary for our legitimate interests (to develop our products/services and grow our business) 5
+disclosures of your personal data when you consent to providing us with your personal data, we will also ask you for your consent to share your personal data with the third parties set out below for the purposes set out in the table
+external third parties as set out in the glossary
+specific third parties such as
+plot projects (the privacy policy of plot projects can be found here
+io (the privacy policy of branch
+io can be found here
+google analytics (the privacy policy of google analytics can be found here
+geouniq (the privacy policy of geouniq can be found here
+stripe (the privacy policy of stripe can be found here
+emailjedi (the privacy policy of emailjedi can be found here
+emailhippo (the privacy policy of emailhippo can be found here
+hubspot (the privacy policy of hubspot can be found here
+com/privacy-policy ) third parties to whom we may choose to sell, transfer or merge parts of our business or our assets
+alternatively, we may seek to acquire other businesses or merge with them
+if a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy
+we require all third parties to respect the security of your personal data and to treat it in accordance with the law
+we do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions
+international transfers many of our external third parties are based outside the eea so their processing of your personal data will involve a transfer of data outside the eea
+whenever we transfer your personal data out of the eea, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented
+we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the european commission
+for further details, see european commission
+adequacy of the protection of personal data in non-eu countries
+where we use certain service providers, we may use specific contracts approved by the european commission which give personal data the same protection it has in europe
+for further details, see european commission
+model contracts for the transfer of personal data to third countries
+where we use providers based in the us, we may transfer data to them if they are part of the privacy shield which requires them to provide similar protection to personal data shared between europe and the us
+for further details, see european commission
+please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the eea
+data security all information you provide to us is stored on our secure servers
+any payment transactions carried out by us or our chosen third-party provider of payment processing services will be encrypted using rsa 256 encryption
+where we have given you (or where you have chosen) a password that enables you to access certain parts of our sites, you are responsible for keeping this password confidential
+we ask you not to share a password with anyone
+once we have received your information, we will use strict procedures and security features to try to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way
+we will collect and store personal data on your device using application data caches and browser web storage (including html5)
+certain services include social networking or review features
+ensure when using these features that you do not submit any personal data that you do not want to be seen, collected or used by other users
+if you submit a review through the application, your name, image, rating and written review will be made public
+we have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator when we are legally required to do so
+data retention by law we have to keep basic information about our customers (including contact, identity, financial and transaction data) for six years after they cease being customers for tax purposes
+in some circumstances you can ask us to delete your data
+see your legal rights below for further information
+in some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you
+in the event that you do not use the app for a period of 12 months, then your account will be treated as a ‘cold account’ and we will no longer email or text you, or send you push notifications from the app however we will continue to store your personal data within your profile
+if you do not use your account for a further 12 months (24 months in total, then we will treat the account as expired and your personal data may be deleted
+we will only retain such personal data as required in order to maintain company compliance for tax purposes as set out above
+following this your personal data shall be permanently deleted
+your legal rights under certain circumstances you have the following rights under data protection laws in relation to your personal data
+please click on the links below to find out more about these rights
+request access to your personal data
+request correction of your personal data
+request erasure of your personal data
+object to processing of your personal data
+request restriction of processing your personal data
+request transfer or your personal data
+right to withdraw consent
+you also have the right to ask us not to continue to process your personal data for marketing purposes
+you can exercise any of these rights at any time by contacting us at
+com ltd manor coach house church hill aldershot hampshire gu12 4rq email
+glossary lawful basis consent means processing your personal data where you have signified your agreement by a statement or clear opt-in to processing for a specific purpose
+consent will only be valid if it is a freely given, specific, informed and unambiguous indication of what you want
+you can withdraw your consent at any time by contacting us
+legitimate interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience
+we make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests
+we do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law)
+you can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us
+performance of contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract
+comply with a legal obligation means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to
+third parties external third parties service providers acting as processors based in the united kingdom, norway, united states and holland who provide it and system administration services
+professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the uk who provide consultancy, banking, legal, insurance and accounting services
+hm revenue and customs, regulators and other authorities acting as processors or joint controllers based in the uk who require reporting of processing activities in certain circumstances
+your legal rights you have the right to
+request access to your personal data (commonly known as a “data subject access request”)
+this enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it
+request correction of the personal data that we hold about you
+this enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us
+request erasure of your personal data
+this enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it
+you also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law
+note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request
+object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms
+you also have the right to object where we are processing your personal data for direct marketing purposes
+in some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms
+request restriction of processing of your personal data
+this enables you to ask us to suspend the processing of your personal data in the following scenarios
+if you want us to establish the data’s accuracy
+where our use of the data is unlawful but you do not want us to erase it
+where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims
+or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it
+request the transfer of your personal data to you or to a third party
+we will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format
+note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you
+withdraw consent at any time where we are relying on consent to process your personal data
+however, this will not affect the lawfulness of any processing carried out before you withdraw your consent
+if you withdraw your consent, we may not be able to provide certain products or services to you
+we will advise you if this is the case at the time you withdraw your consent
+news & guides news press releases guides station brands business marketing & advertising forecourt manager data labs company about team careers contact community sign in become a member
+© copyright 2020 petrolprices
+, manor coach house, church hill, aldershot, hampshire gu12 4rq privacy policy
+chat with support support is online
+com team chat with petrolprices

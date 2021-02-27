@@ -1,0 +1,97 @@
+application of this privacy policy
+when this privacy policy mentions "recollect,"
+"us," or "our," it refers to recollect systems inc
+, the entity that acts as the data processor of your information
+recollect provides mobile and web applications on behalf many local governments and commercial organizations (collectively, "our clients" )
+this privacy policy applies to each natural person ( "you" or "your" ) using our web and mobile applications (collectively, the "services" ), which may have been branded under the name of one of our clients, as well as any interactions you may have directly with recollect, be it through reporting a problem or feedback to us or other communication
+this policy does not apply to interactions between you and any of our clients
+information we collect and how we use it
+we collect information to provide, maintain, and improve our services
+there are two categories of information we collect
+information you give to us and information we collect automatically when you use our services
+by providing information to us and using our services, you consent to our processing of your personal information as set forth in this policy
+you can withdraw consent at any time by cancelling your use of our services or by writing to us – see accessing, updating, deleting or correcting your information below
+information you give to us
+some of our services require you to provide information directly to us, such as your street address, postal code, phone number or email address
+we always try to collect the minimal amount of information required in order to provide the services you request
+the information we collect depends on which services you use
+information collected by the schedule tool
+in order to provide you with accurate schedule information for your location, we collect your address, including its street address number, street name, and city
+information collected when you sign up for notifications
+when you sign up for event notifications, we collect contact information that is required to send you those notifications
+this may include your email address, your phone number and/or your twitter username, depending on the notification method(s) you select
+information collected by our recycling and waste disposal instructions service
+in order to provide you with accurate recycling and disposal instructions for your location, we require that you enter your postal code, and in some locations, we may also require street address number, street name, and city
+your postal code and other address details may also be used to provide estimated driving distances and times to nearby recycling locations
+information collected when you report problems or feedback
+if you use our services to report a problem or submit feedback, we may ask for your email address or other information
+this information will be used to solve your problem and reply with a solution or a response
+we may also provide you with the option of sending your current location or a photo to us which we use to help understand and resolve any problems you may be experiencing with our services
+information collected when you schedule a pickup or dropoff
+in certain locations, we provide a service for scheduling or requesting either the collection or dropoff of items such as bulky waste or yard waste
+when you schedule these types of requests, we may require personal information, including your name, home address, phone number, email address, account number, and the items you wish to have disposed
+the information we collect depends on the specific requirements of the disposal program you are participating in, as determined by our clients
+information we collect automatically when you use our services
+when you use our services, we automatically collect information, including some personal information, about the services you use and how you use them
+as with most technology services, recollect's servers collect and log information when you use our services
+this includes your ip address, information about the content you are viewing (e
+its url), the time that content is accessed, and the type of browser and device you are using
+this information is used in order to monitor the use of our services and to help ensure the security of our services, such as by helping to detect and prevent intruders from accessing your personal information
+it is also used to report aggregated information about who is using our services so that we can make improvements to the experience for everyone
+recollect collects additional information about your mobile device when you use a mobile application that is powered by recollect
+this includes the type of device (e
+whether mac, pc, iphone, samsung galaxy, ipad, etc
+), the operating system (e
+windows, ios, android) and version, a unique identifier, and crash data when a software defect occurs
+this information is used to improve the experience of recollect mobile applications, and fix software defects
+cookies and similar technologies
+recollect uses cookies to help improve your experience when you use our services
+these cookies help your web browser remember any information you have entered, such as your postal code or address, so you do not need to re-enter it every time you use the service
+cookies also allow us to gather information about how many people are using our services, and how they use them so that we can make improvements to the overall experience
+you may disable the use of cookies in your web browser's settings, but this may limit your use of recollect's services
+how we retain your information
+recollect only keeps personal information for as long as it is needed to provide services
+information about how you use our services is recorded in our logs, which are automatically deleted after 30 days
+securely encrypted backups, which are only accessible by a limited number of recollect's staff, remain in existence for 30 days
+except where we are required to retain your information for legal reasons, your personal information will be permanently deleted no more than 90 days after
+a reported problem or feedback issue has been resolved
+you cancel a notification or other on-going service for which your personal information was collected
+a one-time service such as a scheduled collection or drop-off of items such as bulky waste or yard waste has been completed
+how we share and disclose your information
+recollect engages third party companies as service providers to process your information, such as securely running our services on a cloud-computing platform
+these providers have limited access to your personal data and are contractually obligated to protect and only use your information for the purposes it was disclosed, consistent with this privacy policy
+we may also disclose your name, address and other contact information to our clients as needed in order for our clients to provide a service you have requested such as bulky item pickup
+recollect is based in canada
+all personal information is transmitted securely and stored on servers which are located in secure data centres in the united states of america
+information will be accessed only by recollect or by employees or agents of recollect, and only for the purposes described in this privacy policy
+if you are an individual located in the european economic area, please note that recollect complies with european union data protection laws, specifically in regard to international data transfers
+recollect is a company based in canada, a country deemed to have an adequate level of data protection by the european commission, and recollect ensures that all service providers that process your personal information are self-certified under the e
+accessing, updating, deleting or correcting your information
+you may request to access your information, or update, delete or correct any of your information we hold by contacting support@recollect
+net or in writing, using the address in the "contacting recollect" section below
+if you are an individual located in the european economic area, you have certain additional statutory rights to your personal data, including the ‘right to be forgotten’, the right to lodge a complaint with a supervisory authority, and the right to data portability under the general data protection regulation
+recollect uses services provided by google inc
+the google maps api may be used to help find addresses, and is used to display maps and calculate directions and distances to certain locations
+recollect does not transmit contact information to google (e
+phone numbers, emails), but addresses entered into recollect may be submitted to google services to perform location queries
+please review google's privacy policy in order to understand how google uses the data it collects
+security is one of the biggest considerations in everything recollect does
+we conduct annual security audits with a third party security auditor
+this auditor is certified by information systems audit and control association (isaca) as a certified information systems auditor, certified in risk and information systems controls (crisc), and certified in the governance of enterprise it (cgeit)
+our security team investigates all reported security issues
+if you believe you’ve discovered a bug in recollect’s security, please get in touch at security@recollect
+net (optionally using our pgp key )
+we will respond as quickly as possible to your report
+we request that you not publicly disclose the issue until it has been addressed by recollect
+language of the privacy policy
+this privacy policy was initially created in english
+translations are provided for your convenience, but if there are any discrepancies between the english language version and a translated version, the english version shall take precedence
+for any questions about this privacy policy or our privacy practices, please email privacy@recollect
+net, call +1 (360) 219-9803, or write to the following address
+3381 cambie street, suite 528 vancouver, bc v5z 4r3 canada
+give us a call or send us an email
+we'd love to give you a personal tour of our service and answer any questions you have
+give us a call
+or send us an email
+want to keep tabs on what's new with recollect
+subscribe to our low-volume newsletter for exclusive updates

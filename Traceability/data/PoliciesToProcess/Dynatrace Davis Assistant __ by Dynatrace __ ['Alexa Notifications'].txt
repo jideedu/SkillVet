@@ -1,0 +1,177 @@
+join us at one of our upcoming perform events
+effective as of 24 may 2018
+dynatrace respects your right to privacy
+to provide you relevant information, respond to your requests, and increase the benefits you receive when visiting our website(s), we may collect personal information about you
+we want you to feel secure when providing such personal information to us and this privacy notice is intended to inform you about the type(s) of personal information we gather and how we use it
+this privacy notice applies to personal information we collect about you when you visit our website, www
+com (the "website"), and personal information that we collect about you offline or through your purchase or use of our products and services ("products")
+personal information collected offline to fulfill a separately negotiated contractual obligation will be governed by that contract, not this policy, in the event of a conflict
+your use of our website or your use any of our products available through this website or offline, and any dispute over privacy, is subject to this privacy notice and our terms of use, including its applicable limitations on damages and the resolution of disputes
+the terms of use are incorporated by reference into this privacy notice
+this notice does not cover the practices of companies or organizations not owned or controlled by dynatrace llc that use our products on their websites
+please refer to the relevant company’s privacy notice for information on how they handle your personal information
+we recommend that you read this privacy notice in full to ensure you are fully informed
+however, if you only want to access a particular section of this privacy notice, then you can click on the relevant link below to jump to that section
+collection of personal information
+use of personal information
+personal information sharing and disclosure
+cookies and other tracking technologies
+links to other websites
+legal basis for processing personal information (eea visitors only)
+your data protection rights
+how to contact us regarding your privacy
+updates to this privacy notice
+collection of personal information
+we collect information, including personal information, directly from you, automatically when you use our website and our products, and, where permitted by law, through third party sources
+information we collect directly from you
+we collect personal information directly from you when you
+request a quote, product trial, white paper and related downloads or additional information
+complete an online registration form, request information or support, subscribe to our newsletters
+register for events, user groups, training
+submit an inquiry or comments, including inquiries via this website, email, direct mail, phone, fax, or on one of our social networking pages
+use our customer portal including forums and other postings on the dynatrace community
+submit a request for product support
+apply for a job online
+use our public forums, including the chat rooms, forums, message boards, feedback forms, web logs, "blogs", news groups and/or other public messaging forums made available by this website to its users
+otherwise contact us or use our website or products
+the type of personal information that we collect from you will depend on your specific interaction with our website and/or our products, and may include
+your first and last name, professional title, employer or company name, email address, mailing address, phone number, country/region, password and any other personal information that you choose to provide to us
+when you purchase products on our website, or register for an event, we (or our third-party credit card or payment processor on our behalf) may collect personal data including your credit card number
+we also retain information on your behalf, such as the personal data described above and any correspondence or blog comments
+if you provide us feedback or contact us via e-mail (e
+, in response to an employment opportunity posted on our website, or by sending us a question about our privacy practices), we will collect your name and e-mail address, so that we can reply, as well as any other content included in or provided with the email, such as a resume
+when you participate in one of our surveys, we may collect additional profile information as noted in the survey
+we also collect other types of personal data that you provide to us voluntarily, such as operating system and version, information about your application and operating environment, and other requested information if you contact us via e-mail or open a ticket regarding support for the products
+when you post comments on our blog, the information contained in your posting will also be stored on a server and other users will be able to see it
+please remember that any personal information you disclose in these areas becomes public information (for example, if you choose to post to our forum, your name and content of your post will appear)
+we are not responsible for the use of any personal information that you choose to post to our website
+we may also collect personal data at other points in our website that state that personal data is being collected
+information we collect automatically as you use our website
+when you use our website, we collect information via dynatrace digital performance monitoring software, google analytics and other third-party service providers
+we automatically collect and record in our server logs the following information about your use of our website through cookies, web beacons, and other technologies
+usage data, ip address, web browser type/version, operating system and website visit information such as date, time and pages viewed, language preferences, search engine keywords used and length of time on our website
+we also will collect click-through information related to dynatrace emails and banner advertisements
+we also use dynatrace session replay, a tool which enables us to record user sessions on our website and replay your journey
+session replay may include your view (browser or screen output) and user input (keyboard and mouse inputs, mobile gestures)
+its main purpose is to identify problems in the application for customer support purposes, particularly when you encounter an error or failure
+it can also be used to help improve customer experience and to identify obstacles in conversion processes on our websites
+session replay is configured in such a way that it will mask out data entered in certain fields (like name, credit card number, health condition) to prevent personal data from being stored
+where permitted by applicable law, we may combine this data with other information we collect from and about you
+please see our cookie policy for more information
+information collected from third parties
+from time to time, we may receive personal information about you from third party sources like partners, resellers, analytics providers or companies that provide services (such as payment processing services in connection with our website), but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us
+our resellers and companies that provide our products through their online marketplace may supply us with personal data, such as your name, telephone, email, and business address to help us fulfil orders, and provide services and support
+to enhance our ability to provide relevant marketing, information and offers about our products to you, we may also obtain information about you from other sources such as public databases, social media platforms, joint marketing partners, as well as from other third parties
+the types of personal information we collect from third parties include your name, email and mailing address information
+we use the information we receive from these third parties to maintain and improve the accuracy of the records we hold about you, to help us establish an account or fulfil orders and provide services and support
+use of personal information
+we use your information, including your personal information, for the following purposes
+to provide our products to you, to communicate with you about your use of our products, to respond to your support needs and inquiries, and for other customer services purposes
+for marketing and promotional purposes
+in accordance with applicable law, dynatrace will use personal information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements, including through email
+to assist us in determining relevant advertising channels both on our website, on third party websites, and through other channels, as well as to evaluate the success of our advertising campaigns
+to tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the website
+to better understand how users access and use our website and our products, both on an aggregated and individualized basis, to improve our website and our products, measure performance and activities on our website, to improve the website’s design and functionality, and for other research and analytical purposes, including research surveys
+to investigate and prosecute suspected or actual security violations, violations of this policy, or our terms of use
+to protect our rights and interests and the rights and interest of other visitors to this website, our employees, customers, or any other person or entity
+for research and analytical purposes, including to assist us in evaluating and improving our products and offerings
+we will use the personal information we collect from you for the purposes described in this privacy notice or for purposes that we explain to you at the time we collect your personal information
+we may also use your personal information for other purposes that are not incompatible with the purposes we have disclosed to you (such as statistical purposes or to monitor performance, to provide high quality service, and to be able to quickly solve issues in error situations) if and where this is permitted by applicable data protection laws
+use of personal information collected through our customer portal
+as a customer or partner, you may have the option of accessing your account through the support & community portal (the "customer portal")
+except as otherwise required by law, we will use any personal information that you submit through the customer portal about your own end user customers for the purpose for which you provided the personal information to us
+personal information sharing and disclosure
+dynatrace may share your information, including your personal information, with the following
+as permitted by applicable law, we may share your personal information with dynatrace entities around the globe to assist us in provisioning products to you (where applicable) and for their own marketing purposes, based on your location and the products of interest to you
+as permitted by applicable law, we may share your personal information with our authorized distributors and resellers who provide our products in your area
+we may disclose the personal information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf
+this may include our use of a third-party hosting company, which may store your personal information in the cloud or a third-party company that sends you marketing correspondence on our behalf
+any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person
+a potential buyer or investor (and its agents and advisers) in connection with any proposed investment, purchase, merger or acquisition of any part of our business, if we inform the buyer it must use your personal information only for the purposes disclosed in this privacy notice
+any other person with your consent to the disclosure
+a list of our current group companies and regional master partners is available here at www
+a list of our current service providers is available here
+we also disclose your personal information in the following circumstances
+if we are acquired by or merged with another company, substantially all of our assets are transferred to another company or as part of a bankruptcy proceeding, we may transfer the personal information we have collected from you to the other company
+in response to legal process
+we also may disclose the personal information we collect from you to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena
+to protect us and others
+we also may disclose the personal information we collect from you where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our terms of use, contractual terms or this notice, or as evidence in litigation in which we are involved
+aggregate and de-identified information
+we may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes
+cookies and other tracking technologies
+we and our third-party service providers use cookies and other tracking technologies
+for additional information, about the types of cookies we use, why, and how you can control cookies please also see our cookie policy
+links to other websites
+dynatrace may provide links to internet sites maintained by others, including to our content on social media platforms like facebook, twitter, linkedin, google+, youtube and glassdoor, and to the internet homepages of our solution, cloud platform and technology alliance partners
+this privacy notice applies only to the use and disclosure of personal data that we collect while you use our website or products
+dynatrace provides these links to you as a convenience
+the inclusion of a link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises from your use of the site
+when you click on such a link, you will leave our site and go to another site
+during this process, a third party may collect personal information from you
+the information practices of internet sites maintained by others are governed by their own privacy policies
+we encourage you to carefully read the privacy statement of every website you visit
+the website provides the opportunity for candidates to submit their resume or curriculum vitae online through our careers page
+all resumes received by dynatrace will be held in confidence and used only for considering or accepting the candidate for employment or for such other purpose as requested by the candidate, and as required by law
+all open positions offered by dynatrace or by its subsidiaries are subject to specific job skill requirements
+the job skill requirements, qualifications and preferred experience are determined by the subsidiary offering the position
+all positions are subject to local prevailing employment laws and restrictions
+this includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance
+if you have already submitted your resume or curriculum vitae to dynatrace and your skills, experience or personal contact information has changed, you may resubmit your resume
+your revised resume will be updated in our applicant tracking system
+visit the careers site to learn more about open positions
+for additional information, please see our recruitment privacy notice for job applicants at www
+we use appropriate technical and organisational measures to protect the personal information that we collect and process about you
+the measures we use are designed to provide a level of security appropriate to the risk of processing your personal information
+specific measures we use include restricting access to staff on a need to know basis, encryption during transit and at rest, and use of anti-virus software and intrusion detection systems to protect against attacks or other unauthorized acts in respect of information systems
+legal basis for processing personal information (eea visitors only)
+if you are a visitor from the european economic area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it
+however, we will normally collect personal information from you only where we need the personal information to perform a contract with you, where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent to do so
+in some cases, we may also have a legal obligation to collect personal information from you
+if we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information)
+similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are
+if you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the " how to contact us " heading below
+your personal information may be transferred to, and processed in, countries other than the country in which you are resident
+these countries may have data protection and privacy laws that are different to the laws of your country (and, in some cases, may not be as protective)
+specifically, the dynatrace group of companies (dynatrace llc and its subsidiaries) operates around the world, as listed here
+we also use cloud applications hosted by third-party service providers, whose servers are often located in the united states and other locations as listed here
+this means that when we collect your personal information we may process it in any of these countries
+however, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this privacy notice
+these include implementing the european commission’s standard contractual clauses for transfers of personal information between our group of companies, which require all group companies to protect personal information they process from the eea in accordance with european union data protection and privacy law
+our standard contractual clauses can be provided on request
+we have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request
+we retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements)
+when we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible
+your data protection rights
+you may exercise the rights available to you under applicable data protection laws
+if you wish to exercise any of these rights, please contact us as described under " how to contact us " below
+if you are a resident of the european union, you may
+access, correct, update or request deletion of your personal information
+object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information
+in the limited circumstances where we have collected and process your personal information for a specific purpose with your consent, then you can withdraw your consent for that specific processing at any time
+withdrawing your consent will not affect the lawfulness of any processing we conducted based on your consent prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent
+once we have received notification that you have withdrawn your consent, we will no longer process your personal information for the purpose originally agreed to, unless we have another legal basis for processing
+you have the right to complain to a data protection authority about our collection and use of your personal information
+for more information, please contact your local data protection authority
+contact details for data protection authorities in the eea, switzerland and certain non-european countries are available here
+you have the right to opt-out of marketing communications we send you at any time
+you can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing e-mails we send you
+if you have difficulty opting-out, please visit www
+to opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us as described under " how to contact us " below
+we respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws
+we may need to request specific information from you to verify your identity and check your right to access the personal information or to exercise any of your other rights
+this is a security measure to ensure that your personal information is not disclosed to any person who has no right to receive it
+how to contact us regarding your privacy
+if you have any questions about this privacy notice or seek resolution to any privacy or data collection issue with dynatrace, please contact us at privacy@dynatrace
+you may also contact our data privacy officer at privacy
+if you are from certain regions like europe, you also have the right to lodge any complaints or concerns with your dpa
+you can find a list of the european dpas here
+updates to this privacy notice
+dynatrace may modify or update this privacy notice at any time to reflect any changes in our privacy practices
+where the changes are material, we will inform you on our website homepage and we will also indicate at the top of this privacy notice the date it was most recently updated
+we encourage you to check this privacy notice often so that you are aware of how we are protecting your personal information
+application performance management (apm)
+© 2019 dynatrace llc
+this website uses performance, functionality and targeting cookies
+if you continue browsing, you consent to the use of cookies
+see our cookie policy

@@ -1,0 +1,141 @@
+about buyer’s guide products pricing training
+resources research help contact find a provider
+about buyer’s guide products pricing training
+resources research help contact find a provider
+home » privacy notice
+date of this privacy notice – january 31st, 2020
+this revision contains non-material changes such as new company address, eu representative and minor editorial and formatting
+this privacy notice (the "notice") describes how impact applications, inc
+(the “company”, “we”, “us”) collects, stores, transmits, and protects any information that you give when you use any of the company’s products and services (each a “service” and collectively, the “services”)
+this notice applies to all of your use of the services and describes how your personal information* will be treated as you use the services
+*”personal information” is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context
+the company is committed to ensuring that your privacy is protected
+should we ask you to provide certain information by which you can be identified when using the services, then you can be assured that it will only be used in accordance with this notice
+this notice applies to the information collected by the company on behalf of health care providers or institutions (e
+, physician, school, sports club, etc
+) through concussion management products and supporting applications including
+impact, impact pediatric (available through impact toolkit), and impact quick test (available through impact toolkit)
+mobile applications including impact toolkit that permit users to perform cognitive tests on mobile devices, and impact passport that allows the test takers to store their unique id and record symptoms
+impact customer center web service that enables test results and information collected through test applications and mobile applications and uploaded to the company servers to be managed by healthcare providers
+this notice also describes how we collect and use information that customers provide to us in connection with
+creation or administration of impact applications accounts, which we refer to as “account information”
+for example, account information includes names, usernames, phone numbers, email addresses, and billing information associated with a customer’s account
+training and education products and services
+information about all services provided via periodic notifications or requested by visiting the company sites
+what information we collect
+we collect only the minimum necessary information to provide the services
+depending on the service, we may collect one or more the following types of information
+contact information, such as name, email, and phone number
+payment and billing information, such as address, credit card, or bank account details (this information will be encrypted and processed by accredited third party providers and will not be retained upon successful completion of the transaction)
+demographic information, such as age, gender, language preference, schools or sports clubs, and education
+health related information, such as symptoms, concussion history, and medical history related to concussions, and test results
+training and education related data, such as session results, and times/dates of sessions
+company website related data, such as browser type and ip address
+how do we use your personal information
+we use your personal information to help us, and any organization that you choose to sign-up through, to deliver a service optimized for your needs
+providing updates regarding your account, such as details of reoccurring payments
+providing educational information to guide your use of the services
+to improve our services
+we may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address which you have provided
+we may also send you promotional materials or offers via email, such as discounts on services
+these will always include an option to opt out of future such emails
+disclosure and sharing of personal information
+the company will not disclose, move, access, or use personal information except as provided in the customer’s agreement with the company, or without your explicit consent, or when the company believes it is required to do so by law
+however, we may collect and use aggregate, de-identified (anonymized), or other information that does not identify you (“de-identified information”) for research or scientific purposes
+for the purposes of research, we may include some of your data in scientific studies
+for example, to show how test scores generally relate to demographic information, such as age, gender, or sport
+if so, this data will be used anonymously, and not directly associated with you in any way
+choices you have about collection, use, correction, and erasure of your personal information
+you have a right to be told what personal information we hold about you and any third parties we have disclosed it with (with certain exceptions)
+you also have a right to provide us with corrections if you believe any of your personal information is inaccurate
+however, if personal information was collected through an organization such as school, sports team, a medical provider, etc
+, requests for access, amendments, or erasure should be directed to the organization through which the data was originally collected
+because the data generated by the concussion management products can only be used by licensed healthcare professional, the test takers will not be granted access to this data by the company
+requests to view these data should be directed to the healthcare professional
+all institutions and organizations using the services to administer cognitive tests or collect related data from test takers, are required, as a condition of use or purchase service, to agree in writing to adhere to the terms of use, including this notice, and to obtain appropriate consent
+the company will retain personal information for at least 7 years or in accordance with any federal or state requirements, unless requested otherwise through a written request sent to the company’s data protection officer (see contact information at the end of this notice)
+use of the site by children
+our services are not intended to attract children under the age of 18
+in accordance with local regulations (such as the children’s online privacy protection act “coppa”), the company will not knowingly collect or accept personally identifiable information from a child under the age of 18 without a parent’s or guardian’s prior consent
+the information collected from children under 18 through the concussion management products or mobile applications are intended only with the consent and under the supervision of a parent or guardian, or, in the case of use through an institutional user, with the consent and supervision of such institutional user acting with authority and consent from the parent or guardian
+compliance with law enforcement
+the company will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your electronically stored personal data
+the company cooperates with government and law enforcement officials or private parties to enforce and comply with the law
+we may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of the company or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law
+cross-border processing and transfer of information
+all personal information and health related data collected through concussion management products and mobile applications are stored in secure location in compliance with local regulations governing cross-border data transfer
+information collected through all other services or provided during customer support interactions will be stored in the united states
+when you provide personal information, you fully understand and unambiguously consent to the transfer of your personal information to, and the collection and processing of such personal information in the united states
+for services users who are residents of the united kingdom, european union, and other european economic area nations, please be advised that while there is some uncertainty as to the scope of the eu general data protection regulation (gdpr) as applied to us-hosted services such as ours, our practices in handling personal information collected through the services relating to residents of your jurisdictions are designed to conform to the gdpr
+we do not use or share personal information for any marketing purposes unrelated to the services
+we are committed to ensuring that our customers are accessing applications securely
+in order to prevent unauthorized access or disclosure, we have put in place technical and organizational measures appropriate to the risks to the information we collect
+the following technical controls have been put in place to help protect customers and meet compliance requirements
+secure transmission and storage of data
+connection to the company applications and environment is via tls cryptographic protocols ensuring that users have a secure encrypted connection
+all data is further encrypted while in transit and also when persisted “at rest”
+perimeter firewalls and edge routers block unused protocols
+internal firewalls segregate traffic between the application and database tiers
+intrusion detection sensors throughout the internal network report events to a security event management system for logging, alerts, and reports
+a third-party service provider periodically scans the network externally and alerts changes in baseline configuration
+managed intrusion detection monitors suspicious network traffic, sending alerts to the company’s security team while blocking the traffic
+the system replicates customer data to a second datacenter on an hourly basis
+data is transmitted across a secure connection
+data recovery time objective
+24/48 hours (standard / extended)
+all data is backed up at each data center on an hourly basis
+internal and third-party testing and assessments
+all company services are validated prior to public launch using documented software validation procedures to comply with medical device regulations and standards for software quality
+validation is built into the software development processes
+the company tests its applications for security vulnerabilities, and regularly scans the company’s network and systems for vulnerabilities
+third-party tools are used to assess software and infrastructure vulnerabilities regularly, including
+penetration testing and source code vulnerability review
+the company’s information security team monitors notifications from various sources and alerts from internal systems to identify and manage threats
+the company partners with top tier, iso 27001 and/or soc 2 type ii compliant data centers to ensure the availability and security of the company system and to protect customer data from theft, corruption, or mishandling
+all company employees must abide by this notice and internal privacy policies and those who violate them are subject to disciplinary action, up to and including termination
+all company employees are required to sign non-disclosure agreements and are required to complete ongoing security training throughout the year
+the company’s system is hosted with trusted data center partners who maintain iso 27001 and/or soc 2 type ii compliance
+physical access is strictly controlled both at the perimeter and at building access points by professional security staff utilizing video surveillance, intrusion detection systems, and other electronic systems
+authorized staff must pass two-factor authentication a minimum of two times to access data center floors
+all visitors and contractors are required to present identification and are signed in and continually escorted by authorized staff
+additionally, these data center facilities provide
+automatic fire detection and suppression equipment, redundant data center electrical power systems, climate control to maintain a constant operating temperature for servers and other hardware
+continuous monitoring of electrical, mechanical, and life support systems and equipment, and secure storage device decommissioning
+use of cookies and tracking technology
+the company uses cookies to track your activity on the company websites
+a cookie is a small file which asks permission to be placed on your computer's hard drive
+the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site
+cookies allow web applications to respond to you as an individual
+the web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences
+the company uses traffic log cookies to identify which pages are being used
+this helps the company analyze data about web page traffic and improve the company websites in order to tailor it to customer needs
+the company only uses this information for statistical analysis purposes
+overall, cookies help the company provide you with a better website, by enabling the company to monitor which pages you find useful and which you do not
+a cookie in no way gives the company access to your computer or any information about you
+by visiting company websites, you are giving your consent to the use of cookies, but you can modify your browser settings to decline cookies if you prefer
+you can learn more about cookies, and how to control or delete cookies at https
+when you participate in various social media forums like facebook and twitter, you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the personal data in your social media profile(s)
+the company bound by the privacy policies of these third parties, so we encourage you to read the applicable privacy notices, terms of use and related information about how your personal data is used in these social media platforms
+additionally, depending on the choices you have made regarding your settings on these social media sites, certain personal data may be shared with the company about your online activities and social media profiles, which the company may use to contact you or advertise company's services
+the company does not permit third parties to collect personal information about an individual’s online activities over time and across different websites when an individual uses company services or visits company websites
+and therefore, does not respond to do not track (“dnt”) signals
+if you are a california resident and would like to make a request, the identity of any third parties to whom the company has disclosed personal information for the third parties' direct marketing purposes, within the previous calendar year, along with the type of personal information disclosed please submit your request in writing to privacy@impacttest
+when you use the services, we will inform you what personal information are necessary to receive the services
+you may withdraw consent for future processing or communications at any time, and you may lodge a complaint with the data protection supervisory authority in your country of residence if you believe that our processing has violated the law
+you may contact our data protection officer at the address listed in contact below, or our european representative
+we have appointed eu rep as our representative under article 27 of the eu general data protection regulation (“gdpr”)
+gdpr queries from eu data subjects or data protection authorities should be addressed to eurep@bizlegal
+bizlegal ltd trading as eu rep have their registered office at 27 cork road, middleton co
+we may occasionally update this notice
+when we do, we will also revise the "effective date" at the top of this page
+for material changes to this notice, we will notify you either by placing a prominent notice on the company websites or the customer center, or by sending you a notification directly
+your continued use of the services constitutes your agreement to this notice and any updates
+if you have any questions about this notice, your rights or any other aspects of your privacy and how we are collecting, using, protecting, and/or disclosing the personal information we collect , or need assistance submitting a complaint to a data protection supervisory authority (regional government agency) please contact us at
+data protection officer impact applications, inc
+2140 norcor avenue, suite 115 coralville, ia 52241
+is the maker of impact, impact pediatric, and impact quick test, all fda cleared medical devices that assist in the assessment and management of concussion
+see our milestones here and access our press releases here
+about success stories buyer’s guide research find a provider
+about buyer’s guide research contact press releases find a provider
+copyright impact applications inc
+cookies help us optimize our website by collecting and reporting information on its usage and improve the way we communicate with you about our services

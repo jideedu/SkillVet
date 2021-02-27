@@ -1,0 +1,215 @@
+key principles first things first
+we use apps and websites like these, too
+we want our information to be safe when we use other services, and we want you to know that your information is safe when you use ours
+that's our bottom line, and we want to know if you ever feel like that's not the case
+because your privacy is our top priority, we
+do encrypt your data whenever it is stored or moved between parts of our service do minimize the information that anyone else using our service can see about you
+don't ask for personal information unless we can properly secure it don't store personal information on our servers unless it’s required for us to provide you this service don't share your personal information with anyone except to develop and provide our service, comply with the law, or protect your rights and ours here is our privacy policy, which incorporates the above principles
+introduction this privacy policy applies to amity mobile apps, websites, and other software components (“our service”)
+it is our policy to respect your privacy regarding any information we may collect while you are using our service
+if you have questions about this policy, please contact copiri at support@copiri
+definitions throughout this privacy policy we’ll talk about two different types of data
+here’s what we mean by each
+non-personally-identifying information (“non-pii”) is any piece of information, or any group of pieces of information, that does not in and of itself identify a specific person
+non-pii is often tangential
+the fact that you have a nose, for example, is something about you that can be confirmed when someone already knows who you are
+it does not, however, uniquely identify you on a planet full of other people with noses
+personally-identifying information (“pii”) is any piece of information, or any group of pieces of information, that can be used to identify a specific person
+pii can enter our service through a variety of methods, and can be entered by you, by us, by administrators of our service, or by other users
+no matter how we receive pii, however, we will store and process it in accordance with this privacy policy
+non-pii we collect and how it is used as you use our service, we collect information about your usage
+this information is typically of the sort that browsers and servers make available, such as browser type, language preference, referring site, the date and time of your request, etc
+our purpose in collecting non-pii is to better understand how you are using our service
+from time to time we may release non-pii in the aggregate (for example, by publishing statistics about how many people have visited our site in the last 30 days)
+pii we collect and how it is used when you choose to use our service, we ask for information that can be used to uniquely identify you
+the amount and type of pii that we gather depends on how you choose to use our service
+if you use amity, for example, we ask for your name, email address, and lodge/grand lodge affiliation, at a minimum
+depending on the features of our service that you use, we may ask for more
+we can’t show you nearby lodges, for example, unless you give us your location
+in any case, we only collect enough information as we need in order to fulfill the purpose of your use of that part of our service
+you can always refuse to provide the information we ask for, but that may prevent you from being able to access parts of our service
+we also collect information about your usage that could be pii
+this includes data like your
+internet protocol (ip) address (as part of our web server’s standard logging process) or your location (when you have enabled location services in your app or browser)
+we use this information to do things like fight spam, troubleshoot geographically-localized problems, and provide you with the parts of our service that require it
+whether or not this data can uniquely identify you, though, we treat it as if it can
+aggregated statistics we collect data about your (and other masons’) behavior as you use our service, in order to understand and improve your experience
+this data may contain pii and/or non-pii
+we may then anonymize the data by removing the pii and aggregating it into general statistics
+we may then display the statistics publicly (for example, which parts of our service are most popular
+), or provide them to others
+how we protect your pii our baseline policy is that we do not disclose pii to anyone
+we don’t rent it, we don’t sell it, and we don’t give it away
+there are times where sharing is necessary, though, and for those times we have developed strict processes to make sure that your pii remains protected
+so, let’s be really clear about this
+we may share your pii with our employees, partners, or vendors… but only if they (a) need to know that information in order to process it on our behalf (for example, a credit card processor for dues payments), and (b) have agreed not to disclose it to others
+in addition, if this type of situation arises, we provide only the pii that is absolutely necessary, and no more
+because we provide our service to masons like you all over the world, some or all of our employees may be located outside of your home country
+by using our service, you agree that your pii can be transferred to them, in their home country, so that they can do their jobs
+all of our employees have committed to uphold this policy and protect your data
+we may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so
+this may include responding to legal requests from jurisdictions outside of the united states where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards
+we may access, preserve and share information when we have a good faith belief it is necessary to detect, prevent and address fraud and other illegal activity
+to protect ourselves, you and others, including as part of investigations
+or to prevent death or imminent bodily harm
+generally, we do not rely on consent as a legal basis for processing your personal data other than where the law requires it, and in the case where our legal basis is consent you have the right to withdraw your consent at any time
+since the law requires your consent for processing data which may reveal “philosophical beliefs,” however, and since your membership in a masonic lodge falls into this description, withdrawal of your consent means that we will delete your account from our systems
+please refer to the “legal bases for processing your data” section to find out more about the types of lawful basis that we will rely on to process your personal data
+now, this is important
+no matter how much we work to protect your privacy, we can’t control what other masons do with your information
+if you are a member of lodge that uses our service, your lodge’s leadership (typically your secretary and grand secretary and/or their delegates) can access some personal information you provide (such as your contact information, which they should already have, but not such as your payment details, messages, and other details that they would not reasonably have)
+your fellow masons can also view what you choose to share among your group
+emails from us if we have received your email address (whether directly from you, or from another person or lodge who uses our service), we may occasionally send you emails to let you know about activity related to you in your group
+we may also email you periodically to tell you about new features, to solicit your feedback, or to keep you up to date with what we’re up to
+you may choose to opt out of most of these emails using the links at the bottom of each email
+we will always email you about changes to important things like this privacy policy
+legal bases for processing your data copiri’s processing of your data falls into two categories, which are described in detail as follows
+we have a contractual relationship because you have requested a service from copiri (for example, the ability to find lodges near you using amity), even though the service is provided at no cost, the law’s view is that you have entered into a contractual relationship with copiri
+our legal basis for storing and processing your data in these cases is that it is required in order to provide the service to you, and we will retain your personal data for as long as you continue to use the amity app
+you have provided consent some types of information, such as the fact of your membership in a masonic lodge (which, in the law’s view, may reveal “philosophical beliefs”), require your specific consent in order for us to store and process it
+you provided that consent when you registered for amity, which was the same point at which you provided this data to copiri
+you can find amity’s privacy policy here, and the app’s terms of service here
+they are also available by visiting the “about” page in the app
+your personal data will not be subject to any automated processing, including profiling, as defined under the law
+your legal rights if the general data protection regulation applies to you because you are in the european union, you have rights under data protection laws in relation to your personal data
+to the best of our abilities and where consistent with applicable law, we provide these rights to all of our users
+the right to be informed about how we use your personal data (which we are sharing in this privacy policy)
+the right to know about about any profiling we do, or any automated decision making that we perform (we don’t do either of those)
+the right to request access to your data, and to receive from us a copy of the personal data we hold about you
+the right to receive the copy of your personal data that you request from us in a common format (for example, a
+csv file), if you request it
+the right to correct any errors that you find in the personal data that we hold about you
+the right to have the personal data we hold about you deleted, in certain circumstances (unless there’s an overriding legal reason we need to keep it)
+the right to restrict processing of your personal data, in certain circumstances
+and the right to object to the processing your personal data
+these rights are subject to certain rules around when you can exercise them
+please see the eu’s gdpr website for more details
+if you wish to exercise any of the rights set out above, please contact us at support@copiri
+you will not have to pay a fee to exercise any of the other rights
+we may, however, charge a reasonable fee if your request is clearly unfounded, repetitive or excessive, or we may refuse to comply with your request in these circumstances
+finally, please know that you have the right to make a complaint at any time to your relevant statutory authority
+we would, however, appreciate the chance to deal with your concerns before you make a formal complaint,
+so please contact us first to see if we can resolve the issue
+security the security of your personal information is important to us
+our service has security measures in place to protect the loss, misuse and alteration of the information under our control, whether pii or non-pii
+at a minimum we follow industry best practices to protect your information, both during transmission and once we receive it, and in many cases we exceed industry standards
+unfortunately, no method of transmission over the internet, and no method of electronic storage, is 100% secure
+that’s another important point… but even though we can’t guarantee absolute data security, we do work to stay ahead of the curve by developing and implementing new and ever-improving security protocols and processes to protect your personal information
+cookies a cookie is a chunk of data – typically stored as text file – that is placed on your computer or other device when you visit a particular website
+we use cookies to identify your device to our servers when you visit, so the we can load your preferences, automatically accept your credentials, or otherwise personalize your experience
+cookies do not store personal information about you, just information identifying your device
+in accordance with european union privacy law requirements, amity’s users must consent to have cookies placed on their computers and may set their browsers to refuse cookies before using our websites
+operating our websites without cookies may cause some features of our websites to not function properly
+business transfers if amity, or substantially all of its assets, were acquired, or in the event that we go out of business or enter bankruptcy, we would transfer user information as one of our assets to a third party
+as part of this transfer or acquisition, the third party will be required to abide by this privacy policy
+scope of this policy this privacy policy applies to amity mobile apps, websites, and other software components (our service)
+privacy policy changes we may change this privacy policy from time to time
+while changes are expected to be minor, we’ll notify you and give you the opportunity to review the revised policy
+your continued use of this site, mobile apps, or services (our service) after any change in this privacy policy constitutes your acceptance of such change
+end of privacy policy
+general thank you for your interest in copiri ( "copiri" , "we" , "our" , or "us" ), and our services (the "service" ) that you can access through our applications for mobile devices (the "mobile apps" ) and our websites (the "sites" )
+by installing one or more of the mobile apps ( amity , for example), or by continuing to use our service, you indicate that you accept these terms and the policies we describe below (collectively the "terms" ), and that you agree to follow these terms
+if at any time you do not agree with these terms, please uninstall the mobile app and stop using our service
+our service consists of communication and engagement tools that allow members of an organization to interact with each other, and with their organization, in practical ways
+we provide groups, communities and organizations the rights to access and use the service through customized versions of our mobile apps and sites, and tailor our service to your organization in order to offer an exclusive experience for you and your group
+these terms govern the use of our service, which can be accessed through our mobile apps and sites
+we may change these terms from time to time and will post changes on this website and in our mobile apps
+we will also update the "last updated date" above and provide you with a short summary at the bottom of these terms
+most importantly, we'll notify you and give you the opportunity to review the revised policy
+your continued use of the sites, mobile apps, or service after any change in these terms constitutes your acceptance of such change
+registration you must be 13 years or older to use the service and register for an "account
+" when you register, you're telling us that you are at least 13 years old and that you plan to use the service only on behalf of yourself
+if you are registering or using an account with us on behalf of an organization, then you are telling us that you're authorized to represent the organization and have the authority to bind the organization to these terms, and that you agree to these terms on behalf of the organization
+in such cases, "you", "your" or "yourself" means either your organization, and people in your organization who access and use the service, or you as an individual user
+you must be over 13 years of age to use the service
+if you are representing an organization in your use of the service, you must have the authority to bind such organization to these terms
+acceptable use of our service to set up your account, we'll ask you to provide your full name and other information in order to complete the signup process to open an account
+you agree that the information you provide to us during the signup process and at all other times will be true, accurate, current and complete
+you also agree to keep this information up to date at all times
+you are solely responsible for maintaining the security of your account and password
+we are not liable for any loss or damage from your failure to maintain this security obligation
+if you believe that someone else has gained access to and misused your account, then you agree to immediately notify your organization's administrator
+you are responsible for all text, graphics, photos, video files, other data and all activity that happens under your account (your "content"), even if it is posted by others who have access to your account, and even if that access is without your consent
+by providing your content within the service, you represent that you are the creator and owner of the content, or that you have all the necessary licenses, right, and permissions to authorize us to display the content in the service
+if you delete content, we will use reasonable efforts to remove it from the service, but you acknowledge that the content may persist in backup copies for some time
+we, in our discretion, reserve the right to delete any content without prior notice
+you agree that your use of the service will follow our privacy policy, these terms, and all applicable laws and regulations (including local laws or regulations in your country, state, city or other governmental area, regarding online conduct and acceptable content, and including all laws regarding the transmission of technical data exported from the united states or the country in which you reside)
+you also agree your use of the service will not infringe or misappropriate anyone else's intellectual property
+you shall not in any way use the service or submit to us or to any user of the service anything which in any respect
+breaches any law, statute, rule or regulation of any applicable jurisdiction
+is fraudulent, criminal or unlawful
+is inaccurate or out-of-date
+may be obscene, indecent, pornographic, vulgar, profane, racist, sexist, discriminatory, offensive, derogatory, harmful, harassing, threatening, embarrassing, malicious, abusive, hateful, menacing, defamatory, or untrue
+impersonates any other person or entity
+falsely claims an affiliation with any person or entity
+or misrepresents the source, identity or content of information posted to the service
+may infringe or breach any intellectual property rights (including copyright and trademark rights) or privacy or other rights of ours or any third party
+involves your use, delivery or transmission of any viruses, unsolicited emails, trojan horses, trap doors, back doors, easter eggs, worms, time bombs, cancelbots or computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate the service or any system, data or personal information
+you understand that some users of the service have advanced permissions, which are generally in line with the structure of your organization (for example, your lodge leadership or grand lodge leadership), and which allow the users to see some of your content (again, generally in line with what these individuals already have access to through their role(s) in your organization)
+you agree that we are not responsible for the actions of these users with respect to your content, so as part of these terms, you agree to, and hereby do, waive any legal or equitable rights or remedies that you may have against us with respect to the actions of these users
+if you are a leader in your organization and/or you have advanced permissions within the service, you understand that these permissions have been provided solely and specifically to allow you to perform the duties that you have been charged with by your organization
+you agree that you are acting on behalf of your organization when you leverage these advanced permissions to access any content added by another user, and you agree to request that your permission(s) be downgraded as soon as you no longer need them to support your organization
+further, you agree that you are responsible for any actions that you take within the service, and you agree to maintain the security of your account to a degree commensurate with the responsibility you have accepted
+you agree that we are not responsible for your actions, so as part of these terms, you agree to, and hereby do, waive any legal or equitable rights or remedies that you may have against us with respect to your actions
+you also agree to hold us harmless in the event that any other user is harmed, or claims to be harmed, as a result of your actions
+you must provide us with accurate information about yourself and are responsible for keeping access to your account secure at all times
+you may submit content to the service to share with other users of the service, and in doing so, you also give us with the necessary rights to display that content in the service
+when using the service, you agree to follow your community's standards of acceptable conduct and not break any law, or doing anything hateful or shady
+you understand that some people have enhanced permissions and may see some of your content as a result of their role in your organization and/or the permissions they have received
+if you have any enhanced permissions in the service as a result of your role within your organization, you accept responsibility for your actions with any content that these permissions may allow you to access
+cancellation and termination you are solely responsible for properly canceling your account
+account cancellation requests must be submitted to support@copiri
+upon cancellation, any of your content which has not previously been deleted will remain in the service
+we have the right to suspend or terminate your account, remove or delete your content, and refuse any and all current or future use of the service, or any other of our services, for any reason at any time
+if you violate the letter or spirit of these terms, or otherwise create risk or possible legal exposure for us, we can stop providing all or part of our service to you
+when we terminate your access and use of the service, we'll deactivate your account and/or remove your account access, and you'll give up all content associated with your account
+you agree that we will not be liable to you or to any third party for such termination
+even after termination, the provisions of these terms shall remain intact
+you may cancel and we may terminate your account at any time for any reason
+ownership unless we need specific rights or permissions to offer the service, you keep all rights to all of your content
+our service is owned and operated by copiri
+the visual interfaces, graphics, design, compilation, information, computer code (including source code and object code), products, software, services and all other elements of the service provided by copiri (the "material" ) are protected by united states copyright, trade dress, patent and trademark laws, international conventions and all other relevant intellectual property and proprietary rights and applicable laws
+all material contained in the service is the property of copiri, its subsidiaries, affiliated companies and/or licensors
+all trademarks, services marks and trade names are proprietary to copiri or its affiliates and/or licensors
+you may not sell, license, distribute, copy, modify, transmit, publish, edit, adapt, create derivative works from or otherwise make unauthorized use of the material
+copiri reserves all rights not expressly granted in these terms
+we own the mobile apps, the sites, and any data needed to provide you with our service, but not your content
+content in our service we haven't reviewed, and can't review, all of the content and submissions posted by third parties in the service (including other people from your organization)
+we are not responsible for third parties' content, submissions or use of the service
+you understand that when using the service, you will be exposed to content and materials posted by third parties and that we are not responsible for the quality, accuracy, usefulness or intellectual property rights of or relating to such third party content and submissions
+sometimes third party content and submissions may be inaccurate, offensive, indecent or objectionable, so as part of these terms, you agree to, and hereby do, waive any legal or equitable rights or remedies that you may have against us with respect to such third party content
+we don't endorse any third party content or submissions and we expressly disclaim any and all liability in connection with third party content and submissions
+we aren't responsible for the content and material posted by third parties in the service
+privacy policy our privacy policy explains the data we collect, use, store, and process while you use and access our service
+by using our service, you agree that you have read, understood, and agree to the terms of our privacy policy and you agree that we may use such data in accordance with the terms of our privacy policy
+if you have any questions regarding our privacy policy, please contact us at support@copiri
+in operating the service, we abide by our privacy policy
+we believe in your right to keep your information private and under your control, and encourage you to read our privacy policy and know how your content and information is used
+our service is provided "as is" and "as available
+" copiri and its licensors hereby disclaim all warranties of any kind, statutory, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose and non-infringement of proprietary rights
+neither copiri nor its licensors guarantee that the service (including the data, your content and third party content and submissions) or our service will be error free or that access thereto will be continuous or uninterrupted
+copiri does not guarantee that the service will be free from loss, destruction, damage, corruption, attack, viruses, interference, hacking, or other security intrusion, or will not contain content you deem offensive, indecent, or otherwise objectionable, and we disclaim any liability relating thereto
+we provide the mobile apps and websites "as is" and without warranty or guarantees of any kind
+indemnification and limitation of liability you agree to indemnify, defend and hold copiri, its affiliated companies, contractors, employees, agents, licensors and partners harmless from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of the service, your violation of these terms and any posted copiri policy or any breach of your representations, warranties, obligations and covenants
+copiri reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify copiri, and you agree to cooperate with copiri's defense of these claims
+copiri will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it
+in no event will copiri or its licensors, be liable with respect to any subject matter of these terms of use for any special indirect, incidental, consequential, punitive, reliance or exemplary damages (including but not limited to damages arising from any unsuccessful court action or legal dispute, lost business, lost revenues or loss of anticipated profits), even if copiri or an authorized representative of copiri has been advised of the possibility of such damages
+copiri shall have no liability for any failure or delay due to matters beyond our reasonable control
+in the case the applicable law does not allow the limitation or exclusion of liability for incidental or consequential damages, so that the above limitation or exclusion may not apply to you, in such cases, copiri's liability will be limited to the fullest extent permitted by applicable law
+we are not responsible if you break the law, breach this agreement or the rights of a third party, especially if you get sued
+the service is "as is", so it may have errors or interruptions and we provide no warranties
+basis of the bargain you acknowledge and agree that in your use of our service, you have entered into these terms under the conditions of the warranty disclaimers and the limitations of liability above
+that the warranty disclaimers and the limitations of liability put in place a fair degree of shared risk between us
+and that these terms form the essential basis of the bargain between you and us
+we would not be able to provide the service to you on an economically reasonable basis without these limitations
+the warranty disclaimers and limitation of liability form the basis of the bargain between you and us
+if we don't limit our liability, we couldn't offer the service to you for access and use
+miscellaneous these terms constitute the entire agreement between you and us
+any headers and the summaries are provided for your convenience and do not constitute binding terms or provisions of these terms
+just because we don't exercise a specific right or provision in these terms, it doesn't mean we are waiving the right or provision (for example, we just might not have seen the occurrence)
+we'll only recognize a waiver if it's been written and signed by us
+notices unless stated otherwise in these terms, notices to copiri must be sent to support@copiri
+end of terms of use
+© copyright 2019 copiri, inc
+- all rights reserved note
+your grand secretary is always the final authority on questions of recognition

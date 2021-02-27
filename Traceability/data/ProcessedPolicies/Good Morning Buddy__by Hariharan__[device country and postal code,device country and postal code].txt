@@ -1,0 +1,18 @@
+privacy notice this privacy notice discloses the privacy practices for skill "good morning buddy"
+this privacy notice applies solely to information collected by this skill
+it will notify you of the following
+what personally identifiable information is collected from you through this alexa skill, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+information collection, use, and sharing information collected when provided permission in alexa app are
+postalcode and country code
+todos stored in alexa
+both these information are not stored anywhere
+postalcode and country code is used to fetch weather information
+todos are directly passed to alexa api for reading
+data is not associated with any user information
+we will use your information to respond to you for the functioning of this alexa skill
+we will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e
+call to weather service
+your access to and control over information you may revoke both these permission anytime using alexa mobile app by navigating to "good morning buddy" skill and navigating to manage settings and disable both access
+or alternatively you can disable this skill
+if you feel that we are not abiding by this privacy policy, you should contact us immediately

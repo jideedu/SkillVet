@@ -1,0 +1,184 @@
+skip to main content menu search search quick links news sports radio music listen live tv watch covid-19 local updates live video covid-19 tracker subscribe to newsletter about my interests cbc and your data social sharing cbc and your data cbc values the privacy of our users
+we promise to be transparent about the data we collect from users and why and how we collect it
+we also want to inform and educate people about what they can do to safeguard their privacy and data when they are online
+our privacy promise 3 years ago 1
+57 how and why we collect your data
+57 our promise to canadians
+as canada's national public broadcaster, cbc/radio-canada connects with canadians and reflects the diversity of communities from coast to coast to coast
+canadians are at the heart of what we do
+in digital terms, this relationship translates to an exchange of data between you (the user) and us (the broadcaster)
+we take great care in our management of data to ensure canadians have secure, engaging experiences when sharing information with us
+your data and your privacy
+what data do we collect
+how do we use this data
+how do we protect your data
+is data transmitted to third parties
+your data and security
+how to manage your cookies
+to maintain your trust in us, cbc/radio-canada undertakes to
+be transparent with you about the data we collect and how we use it
+and, enable you to browse our digital products safely
+we have taken steps to protect the personal information we collect, in accordance with the privacy act and our policy on personal information and privacy protection , such as encoding passwords and using secure protocols (https) for all communications containing personal information
+what is your data used for
+the data we collect is analyzed to develop content and products that match your interests and preferences
+the data is used to optimize and enhance digital products and improve your experience using them
+it may also be used to recommend content based on your interests
+we want to know what you're interested in, not who you are
+​ ​​​​​​we invite you to consult these links to learn more about the measures put in place to protect your personal information
+personal information and privacy protection policy
+you might also be interested in ad preferences for the cbc website and my interests for mycbc
+your data and privacy
+on the internet, every interaction with a digital product generates data
+when you visit a cbc
+ca page, you generate data and in return, cbc/radio-canada sends you the information your device needs to display the requested content
+the internet works based on this data exchange
+without it, there would be no network and no internet
+collected data, like your ip address, is important to us because it tells us where to send the requested information
+your ip address is similar to your postal address
+when you ask to have a letter or package delivered to your house, you have to give your mailing address, or else the sender won't know where to send it
+it's the same online
+if we don't have your ip address, we can't send you any data
+what data do we collect
+we collect three main types of data
+when you interact with our products (analytical data)
+cbc/radio-canada products you visit (websites) or use (mobile apps)
+your interactions with our products (things you click on, content you share, etc
+written content you read
+video content you watch
+audio content you listen to
+signing up as a member on the cbc gem app or at gem
+comments you write on our products
+when you navigate our products (analytical data)
+your geographic location – from your ip address or gps on your mobile device – when you access our content
+the type of device and browser you use
+your ip address, along with the data in cbc/radio-canada's cookies and those of its partners
+the time of day when you interact with us
+when you create an account through cbc gem or sign up for a cbc newsletter (personal data)
+how do we use this data
+canadians have a wide range of personal preferences
+some love our comedy shows and others love our radio content, while still others can't live without our mobile apps
+the data we collect is analyzed to develop products that match your preferences
+analytical data is obtained when you use our apps and our websites
+the data we analyze about content viewed and methods of viewing helps us better understand your preferences, so we can target your interests
+the data may be used to
+determine the performance of our content
+analyze behaviour in order to reduce points of friction on our products
+show you relevant content using our content recommendation engines
+show you targeted ads
+personal data (cbc gem member account)
+information that you share with us when you create a member account is used to offer you a service that is to be associated with your profile
+it is your data and you can update it at any time by logging into your cbc account, which is recognized across several of our sites, including cbc
+the data may be used to
+offer you a personalized experience
+let you comment on our content
+send you our newsletters
+show you targeted ads
+the data collected when you visit our website or click on our digital ads is used to show you future ads that match your interests
+ad targeting is used to create larger group profiles and larger audience segments made of users across canada that share common interests
+for example, if we notice that a group of people (audience segment) has a keen interest in cars, we could show them content or ads about cars
+we would then be able to find out how many people in the segment saw the ad or content, without identifying them personally
+ad targeting data is anonymized to prevent a given person from being identified
+interactions with our products cannot be associated with any particular person
+revenue generated by more effective advertising is reinvested in our content and products
+if you would prefer to see random ads instead of ads that match your interests, you can opt out by disabling the cookies for targeted advertising
+how do we protect your data
+your data is always protected
+we take strict measures to protect the personal data to which you give us access
+those measures comply with privacy laws as well as cbc/radio-canada standards
+analytical data that is collected is anonymized to prevent anyone from being re-identified
+interactions with our products cannot be linked to any particular person
+data anonymization is a type of information sanitization whose intent is privacy protection
+it is the process of either encrypting or removing personally identifiable information from data sets, so that the people whom the data describe remain anonymous
+are our sites and connections secure
+cbc/radio-canada encrypts all communications containing personal information
+data transmitted is encoded to guarantee it remains confidential in data exchanges between your devices and cbc/radio-canada's various products and services
+data is kept in protected, monitored facilities to prevent any breach or intrusion
+we do regular audits to ensure that these measures are robust
+is data transmitted to third parties
+the data to which you give cbc/radio-canada access may be shared with third parties in some situations
+when the data is passed on to third parties, cbc/radio-canada makes sure that the data transfer is secure
+data collected is not used for any purposes other than those authorized by cbc/radio-canada and our partners follow strict data protection rules equivalent to our own
+cbc/radio-canada may use partner services to facilitate data analysis
+in such a case, we make sure that our partners follow strict data protection rules equivalent to our own
+your information (cbc gem member account)
+we pass on this data only in the following situations
+you have asked us or given us prior consent, such as for a contest
+to provide a service you have requested, such as when we work with a partner to send out our newsletters
+your data and security
+how to protect your data
+what data you choose disclose, with whom, and why forms the basis of privacy and your right to it
+if you do not want to send your ip address data to us, you shouldn't visit cbc
+if you don't want us to collect personal information about you, you shouldn't register or sign in to cbc
+how does cbc protect the information i share
+we put measures in place to protect the personal information that we collect, as set out by the federal privacy act and by cbc/radio-canada's personal information policy
+we also only use it for the purpose you agreed to when you provided it
+if we wanted to use your data in a new way, we would need to get your permission first
+as canada's national public broadcaster, we aspire to foster a sense of national identity and greater social cohesion by creating a place to share canada's stories, to see and hear our values, including what makes us laugh, what moves us, what provokes us and what inspires us
+what data you choose to disclose, with whom, and why forms the basis of privacy and your right to it
+if you want access to features that deliver more local, more customizable, more relevant content, these require personally identifiable information
+some search and feed algorithms contribute to filter bubbles
+if you reward clickbait, or click on content that generally agrees with your biases, those algorithms are only going to show you more of it
+it's in our mandate to offer diverse viewpoints, and while you might disagree with some of these views, we won't hide them from your view
+cbc/radio-canada uses algorithms to customize your online experience without skewing the representation of particular views
+algorithms haven't replaced the skilled people who edit our story line-ups and decide what you see across our sites
+they do generate features like our "most popular in your region" or "top stories" widgets
+our customized content experience keeps our digital platforms free from filter bubbles
+a cookie is a small text file that's saved on your browser and stores information as you navigate the internet
+they were invented to count how many web browsers visited the internet's first websites
+for example, a cookie may contain a unique number attributed to you
+this number allows us to recognize your browser without being able to establish your identity
+how do cookies work
+when you visit a website that uses cookies, your web browser stores a cookie on your device
+if you come back, the cookie recognizes your unique identifier and you're considered a repeat visitor
+they become the building blocks of your browser's memory
+over time, the internet evolved and so did cookies
+today, they remember items in your shopping cart or your preferred settings, allowing you to log in to websites automatically or resume playing videos where you left off
+how does cbc/radio-canada use cookies
+every time you interact with cbc/radio-canada online, you create data and we send you data
+this basic exchange of information is how the internet works
+without it, there is no internet
+cookies can tell us
+what cbc digital properties you visit (websites or apps) and how often
+what written, video and audio content you consume
+how you navigate our sites (what you click on and what you share)
+what kind of device and browser you use
+the vast majority of the information you create doesn't have any indicator of who you are, personally
+and, when you do sign-in to our sites or apps, we think it's important you understand how we use your data
+the data you share helps us build better digital products and offer more content that's relevant to you
+our advertising partners use cookies to show you ads
+they'll look at the cookies you already have on your browser and decide whether and which ad they want to place on our site for you to see
+how to manage your cookies
+the abcs of cookies, blocking and browser blocking
+your data is valuable and we believe you should have a say in how much you share with us
+your data helps us in important ways and shows us what content is resonating with our audience
+it also allows us to target ads and information to specific audiences
+read more about how sharing your data helps us improve our content and our products
+there are a few different types of cookies we rely on to help deliver content to you
+here's a brief overview
+strictly necessary cookies are needed for our digital services to work
+if you sign in to comment on stories, for instance, our system needs a cookie to remember who you are
+functionality cookies are needed for specific features to work
+for example, saving your region allows you to see more of your local news each time you visit our site
+performance cookies help us understand how our platforms are working
+we need them to find out what errors are happening and to create statistical reports of our audiences
+without measuring what people are reading, watching and listening to, or if something is preventing them from doing so, we wouldn't know how to improve
+once our systems know your preferences, they can use targeting cookies to present the most relevant and timely content for you
+targeting cookies allow you to see personalised pages or ads that might be more interesting to you, or to avoid seeing the same items over and over again
+cookie blockers and browser controls
+if you do choose to download a cookie blocker, please note that these tools will stop some cbc/radio-canada products from working properly, if not entirely, on your computer
+specifically, your access to audio and video content, location-based services, search features, registration, sign-in and commenting may be affected
+we also ask that you please consider whitelisting chartbeat, adobe, viafoura, and scorecardresearch so that we are able to receive a minimum amount of useful information about how you're using our sites
+here is a list of the cookies used by cbc
+you can also control what cookies are stored through your browser
+in your browser settings, you can delete cookies individually or block cookies from a specific site
+you can also set notifications that allow you to accept or reject a cookie
+for more on how to control the cookies in your browser, you'll find more here
+apple safari for mac or apple safari on iphone, ipad or ipod touch
+footer links my account profile cbc gem newsletters connect with cbc facebook twitter youtube instagram mobile rss podcasts contact cbc submit feedback help centre audience relations, cbc p
+box 500 station a toronto, on canada, m5w 1e6
+1-866-220-6045 about cbc corporate info sitemap reuse & permission terms of use privacy jobs our unions independent producers political ads registry adchoices services ombudsman public appearances commercial services cbc shop doing business with us renting facilities accessibility it is a priority for cbc to create a website that is accessible to all canadians including people with visual, hearing, motor and cognitive challenges
+closed captioning and described video is available for many cbc shows offered on
+about cbc accessibility accessibility feedback © 2020 cbc/radio-canada
+ca now information about cookies please know that cookies are required to operate and enhance our services as well as for advertising purposes
+we value your privacy
+if you are not comfortable with us using this information, please review your settings before continuing your visit

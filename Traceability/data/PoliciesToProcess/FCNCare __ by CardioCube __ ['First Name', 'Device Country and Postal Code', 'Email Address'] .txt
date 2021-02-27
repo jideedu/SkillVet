@@ -1,0 +1,123 @@
+please read this privacy policy carefully
+, the owner of the cardiocube website available at https
+com (the “ website ”) and virtual care by cardiocube platform available at https
+com/login (the “ platform ”), and its affiliates (“ cardiocube ,” “ we ,” “ our ,” and/or “ us ”) values the privacy of individuals who use the website, platform, telemedicine services available through the platform (the “ telemedicine services ”) provided by family care network, pllc, a washington professional limited liability company (the “ fcn ”) and other services provided through the website and platform (the “ services ”)
+this privacy policy (“ privacy policy ”) explains how we collect, use, and share information from or about individuals who use our services (“ users ”)
+this privacy policy also tells you about your rights and choices with respect to personal information, and how you can contact us if you have any questions or concerns
+by using the website, platform and/or services, you agree to the collection, use, disclosure of personal information, and agree to the procedures that this privacy policy describes
+in addition to this privacy policy, your use of the website, platform and the services is subject to our terms of use
+for the purpose of this privacy policy, “ personal information ” means any information that, by itself or in combination with other information, identifies or can reasonably be used to identify an individual, such as their name, email address, telephone number, address, date of birth, or health information
+personal information does not include information that is anonymized
+this privacy policy applies to information we collect on the website and via email, text, and other electronic messages between you and cardiocube
+this privacy policy does not apply to information collected by any third party (including our affiliates and subsidiaries), through any application or content (including advertising) that may link to or be accessible from the website or platform
+specifically, this privacy policy does not apply to information collected by fcn when providing telemedicine services, whether constituting protected health information, or not
+to access the website, platform and the services, we may ask that you provide certain personal information
+where applicable, we indicate whether and why you must provide us with your personal information, as well as the consequences of failing to do so
+if you do not provide your personal information when requested, you may not be able to use the website, platform and the services
+information you provide to us
+we collect the information you provide to us when you create an account on the platform (the “ account ”), including your email address, name, last name, date of birth, address, phone number, gender and password
+we also collect any optional information you choose to add to your account
+if you contact us directly, we may collect additional information about you
+for example, when you contact us for customer support, we may receive your name and email address, the contents of your message, attachments that you may send to us, and other information you choose to provide
+when we send you emails, we may collect information on whether you open them to learn how to deliver a better customer experience and improve our services
+information we collect when you use the website
+when you use the website or services, upon your approval, we may receive your precise location information
+we use your location information to connect you with physicians licensed to provide telemedicine services in the state of your location
+location information is also used to help troubleshoot network connectivity and user experience issues
+we also infer the general physical location of your device and the geographic regions you come from (your internet protocol (“ ip ”) address may indicate your general geographic region)
+we receive information about the device and software you use to access the website, including ip address, web browser type, operating system version, phone carrier and manufacturer, installed applications, device identifiers, mobile advertising identifiers, and push notification tokens
+we receive information about the browser type you use to access the platform and services
+to help us understand how you use the website, platform and services and to help us improve them, we automatically collect information about your interactions with the website and the platform including content you view, functionalities you use, and the dates and times of your visits
+information from cookies and similar technologies
+a cookie is a small piece of data that a website can send to your computer’s internet browser, which is then stored on your computer’s operating system
+cookies are used on websites to recognize users and keep track of their preferences
+we and third-party partners collect information using cookies, pixel tags and similar technologies
+our third-party partners, such as analytics and advertising partners, may use these technologies to collect information about your online activities over time and across different services
+please note that if you delete or choose not to accept cookies, you may not be able to utilize the features of the website, platform and/or services to the full extent
+cardiocube uses the information we collect for the following purposes
+to operate, provide, maintain, improve and enhance the website, platform and services
+to personalize your experience on the website by providing tailored content and recommendations (for example, we use your email address to help you create and manage your account on the platform)
+to understand and analyze how you use the website, platform and services in order to develop new products, services, features, and functionalities
+to connect you with an appropriate physician of fcn
+for marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you as well as to assist us in advertising the website, platform and services on third party websites
+if required under applicable law, we will only send marketing communications to you with your consent
+to communicate with you (including via the website, platform, email,) in order to provide you with updates and other information relating to the website, platform and services, respond to comments and questions, and provide customer support
+for our business purposes, including audits, quality assurance processes, prevention of fraud
+for compliance purposes, including enforcement of our terms of use and other legal rights, or as may be required by applicable law, regulations, judicial process or government agency
+for other purposes not covered in this privacy policy, for which we will provide a separate notice to you at the time of collection of information
+we may use and disclose information that we collect through the website and the platform in aggregate form or otherwise de-identified, for business purposes other than listed in this privacy policy, if such information can no longer be used to identify any individual
+we may share or otherwise disclose personal information in the following circumstances
+we may disclose personal information to our affiliates or partners as necessary to provide the services, including to fcn as necessary to provide telemedicine services, or for other purposes for which such personal information was collected
+we may share personal information with vendors and service providers as necessary to provide the services
+we may make certain personal information available to third parties (i) for our business, marketing purposes and/or (ii) in order to utilize third-party tools to understand interests, habits, and usage patterns of our users as well as functionality of the website, platform and services
+we only share your personal information with such third parties in order to improve our website, platform and services or as necessary to provide services to you
+we do not sell your personal information to advertisers
+we may access, preserve and disclose personal information if we believe doing so is required or appropriate, in our sole discretion, to
+(i) comply with any applicable law, regulation, legal process or government agency request (such as a court order or subpoena), or otherwise cooperate with any law enforcement or government agency
+(ii) take precautions against liability claims
+(iii) protect your, our, or any third party’s rights, property, or safety
+(iv) investigate or defend ourselves against any third-party claim or allegation
+and (v) protect the security and integrity of the website, platform and services
+we do not rent, sell, or share personal information with companies that are not our affiliates for their marketing purposes, unless we have your permission
+we may share personal information with fcn’s physicians in order to provide telemedicine services to you
+when using the platform, your account information, including your real name and any additional information available on the account, are visible to fcn’s physician providing telemedicine services to you
+by initiating telemedicine services, you consent to share your account information with fcn’s physician providing telemedicine services to you
+we may disclose or transfer personal information to service providers, advisors, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with another company or we sell, liquidate, or transfer all or a portion of our assets
+we make commercially reasonable efforts to protect personal information by using physical and electronic safeguards designed to protect the integrity and security of personal information
+we take all commercially reasonable precautions to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction
+however, as no electronic transmission or storage of personal information is entirely secure, we make no guarantees as to the security or privacy of personal information
+retention of personal information
+we take measures to retain your personal information for a period of time that is no longer than necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required or permitted by law
+when determining the retention period, we take into account various criteria, such as type of services provided to you, nature and length of our relationship with you, impact on the services we provide to you if we delete some or all of your personal information, mandatory retention periods provided by law and the relevant statute of limitations
+your choices and rights
+certain personal information is required to create and maintain an account and can be edited but not deleted
+you can add, edit, or delete optional personal information to your account at any time in your account settings
+to request access to, or to limit the use or disclosure of personal information, please contact us at support@cardiocube
+com or fill out the “contact us” form available on your account
+you can unsubscribe from our marketing communications, such as announcements of new features or special offers, via the link provided in promotional emails
+we will never share your email address or other contact information with third parties for their own marketing purposes without your explicit consent
+even if you opt out of receiving marketing communications from us, you will continue to receive administrative messages from us
+in the process of creating an account, we will ask about your notification preferences
+if you agree, we may send you email or text message notifications, providing you with account, website, platform and services-related reminders or updates
+you may opt out of receiving such notifications at any time by adjusting your notification settings on the platform
+in the process of creating an account, we will ask about your notification preferences
+if you agree, we may send you email or text message notifications, providing you with account, website, platform and services-related reminders or updates
+you may opt out of receiving such notifications at any time by adjusting your notification settings on the platform
+the website may incorporate and/or use services provided by google, inc
+(the “ google ”)
+google analytics is a web analytics service that uses cookies which we may use for the purpose of understanding how users use the website and services, as well as for compiling reports on website usage and activity
+you may refuse the use of cookies in the settings of your browser
+however, this may prevent some features on the website from working
+you can prevent google’s collection of data through cookies such as your ip address by downloading and installing the browser plug-in available here ( https
+more information about how google uses cookies can be found here ( https
+google analytics for firebase
+firebase analytics may share personal data with other tools provided by firebase, such as crash reporting, authentication, remote config or notifications
+we may use visual mapping services on the website and/or the app
+please be aware that the terms of service of google maps/earth (https
+com/intl/en-us_us/help/terms_maps/) and google privacy policy ( https
+hl=en-us ) also apply to your use of the website and services
+we use facebook’s “custom audience pixel” on our website
+with its help, we can keep track of what users do after they see or click on a facebook advertisement
+we use hotjar in order to better understand our users’ needs and to optimize this service and experience
+hotjar is a technology service that helps us better understand our users’ experience (e
+how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc
+) and this enables us to build and maintain our service with user feedback
+hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices
+this includes a device’s ip address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website
+hotjar stores this information on our behalf in a pseudonymized user profile
+hotjar is contractually forbidden to sell any of the data collected on our behalf
+our services may contain links to third-party sites, including, but not limited to, doxy
+me, a website facilitating communications between you and physicians of fcn on the platform (doxy
+me privacy policy is available here ( https
+when you click on one of these links, you are visiting a website that is not operated by us, and the operator of such website may have different privacy rules
+we are not responsible for the privacy practices of any third-party sites
+this privacy policy does not apply to your activities on third-party sites or any information you disclose to third parties
+we are responsible for the collection and processing of your personal information obtained in connection with the website, platform and services
+if you have any questions, comments, or concerns about our processing activities, please contact us at support@cardiocube
+changes to this privacy policy
+we may amend and/or otherwise modify this privacy policy at any time to appropriately represent our current policies
+we will notify you of any changes to this privacy policy by sending you a notice to the email address you provided to us during registration
+any such revisions will take effect one week after posting
+you understand and agree that your continued access or use of the website or platform after such change signifies your acceptance of the updated or modified privacy policy
++1 206 558 5318
+© 2020 cardiocube corp

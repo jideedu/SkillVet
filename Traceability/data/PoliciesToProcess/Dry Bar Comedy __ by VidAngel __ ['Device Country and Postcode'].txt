@@ -1,0 +1,159 @@
+we're sorry but web doesn't work properly without javascript enabled
+please enable it to continue
+login sign up profiles categories no results found privacy effective date
+october 12, 2013 in this privacy policy (“policy”), we describe the information that we collect from users of our site
+this policy applies to our website, www
+com and mobile applications (the “site”) and the products, services, subscriptions or memberships (“product(s)”) that you can purchase on the site or offers we make available through the site
+by using the site and purchasing products, you agree that your personal information will be handled as described in this policy, which is incorporated by reference into the vidangel terms of service, available at http
+what information do we collect about you and why
+the information we collect from you enables us to fulfill your request for our products – namely, to provide parental controls that enable you to filter swearing, sex, and violence from streaming video – to send you information or content in which you may be interested, and keep you abreast of any updates related to our site
+we also use this information to personalize and continually improve our site and products
+here are the types of information we gather
+information we collect directly from you
+you may browse our site without registering
+if you would like to place an order or request information from us, then we require you to register with us and become a member on our site so that we can fulfill your request
+to register with us, we request your name and email address
+as a part of the registration process, we may ask you to select a password
+in certain circumstances, such as when making a purchase, we will request that you provide your credit or debit card information and your billing and shipping address
+you may at any time request that we share with you all such personally identifiable information we store or, if you are no longer a vidangel user, delete it from our records entirely
+information that we collect about you from facebook, twitter, yahoo, or google
+you may also log-in to our site using your facebook, twitter, yahoo, or google account
+these services control the information collected from you during the log-in process
+vidangel does not control the information that the above mentioned services collect from you
+if you log-in to our site using facebook, twitter, yahoo, or google, you must enter your respective login id and password for that particular service
+we will also ask that you grant us permission to (i) access and collect your basic information (this includes your name, profile picture, gender, networks, user ids, list of friends, date of birth, email address, and any other information you have you have set to public on your account)
+(ii) send you email
+(iii) post to your wall
+(iv) access posts in your news feed
+and (v) access your facebook, twitter, yahoo, or google data at any time even if you are not using these services
+please note, if you allow vidangel to have access to this information, then vidangel will have access to this information even if you have chosen not to make that information public
+for information about how facebook, twitter, yahoo, or google may disclose your information, including any information you make public, please consult the each service’s privacy policy
+we have no control over how facebook, twitter, yahoo, or google uses or discloses the personal information you provide to it
+we store the information that we receive from facebook, twitter, yahoo, or google along with other information that we collect from you or receive about you
+information we collect automatically
+on our site, we may use cookies, web beacons, and other automated devices to collect information about you when you visit our site and register for the site
+specifically, we may collect the following information about your use of the site via these technologies
+your browser type and operating system
+web pages you view
+length of time you visit our site
+and the referring url, or the webpage that led you to our site
+please see the section “what about cookies and other tracking mechanisms
+” below for more information about our use of cookies and other tracking mechanisms
+we may also use automated devices and applications, such as google analytics and facebook insights, to track usage of our site
+we may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our site
+this information may also be associated with your username or email address and may be combined with other information, including personally identifiable information that we collect about you
+what about cookies and other tracking mechanisms
+we use cookies or other tracking mechanisms to track information, as described above, about your use of our site
+cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes
+some cookies allow us to make it easier for you to navigate our site, while other cookies are used to enable a faster log-in process or to allow us to track your activities at the site
+there are two types of cookies
+session-based and persistent-based cookies
+we also allow vendors to use cookies on our site
+session cookies exist only during an online session
+they disappear from your computer when you close your browser or turn off your computer
+we use session cookies to allow our systems to uniquely identify you during a session or while you are logged in to the site
+this allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our site
+persistent cookies remain on your computer after you have closed your browser or turned off your computer
+we use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information
+we may also engage third parties to track and analyze non-personally and personally identifiable site data
+we use the data collected by such third parties to help us administer and improve the quality of the site and to analyze site usage
+such third parties may combine the information that we provide about you with other information that they have collected
+this policy does not cover such third parties’ use of the data
+most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future
+the help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether
+visitors to our site who disable their web browsers’ ability to accept cookies will be able to browse the site
+however, some site features may not function if you disable cookies
+we may use flash local storage objects (“flash lsos”) in order to store your site preferences and to personalize your visit
+flash lsos are different from browser cookies because of the amount and type of data stored
+in addition, you cannot control, delete, or disable the acceptance of flash lsos through your browser
+for more information on flash lsos, or to learn how to manage your settings for flash cookies, go to the adobe flash player help page , choose “ global storage settings panel “ and follow the instructions
+to see the flash lsos currently on your computer, choose “ website storage settings panel “ and follow the instructions to review and, if you choose, to delete any specific flash lso
+clear gifs, pixel tags and other technologies
+clear gifs are tiny graphics with a unique identifier, similar in function to cookies
+in contrast to cookies, which are stored on your computer’s hard drive, clear gifs are embedded invisibly on web pages
+we may use clear gifs (a
+web beacons, web bugs or pixel tags), in connection with our site to, among other things, track the activities of site visitors, help us manage content, and compile statistics about site usage
+we and our third party service providers also use clear gifs in html e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded
+as noted, we may use automated devices and applications, such as google analytics, to evaluate usage of our site
+we also may use other analytic means to evaluate our site
+we use these tools to help us improve our site, performance and user experiences
+we may use third parties such as network advertisers to serve advertisements on our site
+please see the section “what about third-party ad networks
+” below for additional information about our practices and your choices with regard to receiving such advertisements
+what about third-party ad networks
+we may display advertisements on our site, participate in third party ad networks and make available to our site users specific offers from third-party companies
+we use third parties such as network advertisers to serve advertisements on our sites
+network advertisers are third parties that display advertisements based on your visits to our sites and other websites you have visited
+this enables us and these third parties to target advertisements to you for products and services in which you might be interested
+third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, javascript, web beacons (including clear gifs), flash lsos and other technologies to measure the effectiveness of their ads and to personalize advertising content to you
+these third party cookies and other technologies are governed by each third party’s specific privacy policy, not this one
+we may provide these third-party advertisers with information about your usage of our site and our services, as well as aggregate or non-personally identifiable information about visitors to our site and users of our service
+however, we will not disclose personally identifiable information to these network advertisers
+how do we use your information
+we use the information that we gather about you for the following purposes
+– to fulfill your orders or otherwise provide products to you, to communicate with you about your use of our site, and for other customer service purposes
+– to fulfill any subscriptions that you’ve opted in to receive
+– to respond to any inqiries you submit to us
+– to carry out or enforce a transaction or agreement with us
+– to operate and improve the site
+– where permitted by law, for marketing and promotional purposes
+for example, we may use your information, such as your email address, to email you news and our newsletters, special offers, and promotions
+– to better understand how users access and use our site and products, both on an aggregated and individualized basis, for the purposes of improving our site and products
+– we also may post to your wall, access posts in your news feeds, and access your facebook data when you are not logged into facebook
+we will use and access this information for the purposes described in this section and as discussed below
+– to better understand consumer usage rates of our products
+when and how does vidangel share information it receives
+we do not sell or rent our users’ personally identifiable information to third parties for their own marketing purposes
+as discussed in this policy and described below, we may share your information, including personally identifiable information, with third parties to assist us with our own marketing efforts and to assist us in operating our site and fulfilling your products
+– affiliates and third party marketing partners
+we may disclose the information we collect from you to our affiliates and marketing partners so that they may send you information and offers about select products and services that may interest you
+we may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf, including with third parties that will assist us in processing payments, fulfilling your order, and otherwise assisting us in maintaining our site
+we also may share your information with third parties to facilitate the sign-in process through third party social networking websites
+if we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company
+– in response to legal process
+we also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena
+– to protect vidangel and others
+we also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of our terms of service or this policy
+– aggregate and anonymized information
+we may share aggregate or anonymized information about users with third parties for marketing, advertising, research or similar purposes
+third party links our site may contain links to other third party websites
+any access to and use of such linked websites is not governed by this policy, but, instead, is governed by the privacy policies of those third party websites, and we are not responsible for the information practices of such third party websites
+how secure is information about me
+we have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, ssl, firewalls, and internal restrictions on who may access data to protect our site and the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction
+please be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time
+you should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a password that nobody else knows or can easily guess, and keeping your password private
+also, you should never share your log-in information with others
+we are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity
+to change your facebook, twitter, yahoo, or google password, you must go to the respective service’s site and follow its procedures for changing your password
+can i access and modify my personal information
+you may modify any personal information that you have submitted by logging into your account and updating your profile information
+please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the site for a period of time
+if you would like to access or modify your google or facebook profile information, or adjust the types of information we receive from google or facebook, you must adjust your google or facebook account settings directly through google or facebook
+we have no control over how google or facebook shares your information with us or other third parties
+the information you provide to google is subject to the google privacy policy
+the information you provide to facebook is subject to the facebook privacy policy
+what choices do i have
+we may send periodic emails to interested users regarding various promotions or other information that we believe may be of interest to our users
+if we send you any news and newsletters, special offers, promotions or other information we think may interest you, you may tell us to stop sending you such e-mail communications by following the opt-out instructions contained in any such e-mail
+please note that it may take up to 10 days for us to process opt-out requests
+further, if you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or products you have received from us
+as noted above, to adjust the types of information about you that we receive from facebook, you must change your facebook account settings directly through facebook
+children under 13 our site is not designed for children under 13
+we do not knowingly collect information from children under 13
+if we discover that a child under 13 has provided us with personal information, we will delete such information from our systems
+special information for california consumers california residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for direct marketing purposes
+you may make one request per calendar year
+in your request, please attest to the fact that you are a california resident and provide a current california address for your response
+you may request this information in writing by contacting us at
+vidangel privacy policy 276 everett ave
+palo alto, ca 94301
+please allow up to thirty (30) days for a response
+terms of service your use of our site
+and products, as well as any dispute over privacy, is subject to this policy and our terms of service, available at http
+com/legal/terms , including applicable limitations on liability and damages and the resolution of disputes
+how to contact us about privacy if you have questions about the privacy aspects of our site or would like to make a complaint, please contact us support@vidangel
+vidangel privacy policy vidangel 295 w center street provo, ut 84601 changes to this policy this policy is current as of the effective date set forth above
+we may change this policy from time to time, so please be sure to check back periodically
+we will post any changes to our policy on our site, at http
+if we make any changes to this policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our site
+about join us blog press lawsuit privacy contact terms of service debtor in possession ( latest info ) copyright © 2018, vidangel

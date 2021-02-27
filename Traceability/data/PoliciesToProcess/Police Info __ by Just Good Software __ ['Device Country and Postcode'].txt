@@ -1,0 +1,20 @@
+police info alexa skill privacy policy
+this privacy policy discloses the privacy practices for
+police info alexa skill (hence forth referred to as 'the skill')
+this privacy policy applies solely to information collected by this software
+it will notify you of the following
+what personally identifiable information is collected from you through the skill, how it is used and with whom it may be shared
+what choices are available to you regarding the use of your data
+the security procedures in place to protect the misuse of your information
+information collection, use, and sharing
+the skill uses your postal code to determine your local police force and police neighbourhood area
+the postal code is requested from the alexa platform at the time of invocation and is discarded once the skill exits
+the postal code, once retrieved is converted to gps coordinates using the postcodes
+io geolocation api so that these coordinates can be used to find your local police force and police neighbourhood using the data
+your access to and control over information
+you may opt out of any future use of your postal code by the skill
+you can do this at any time by de-listing the skill from all of your devices or revoking the 'device country and postcode' permission for the skill through the official alexa app
+we take precautions to protect your information
+your postal code is sent to apis over a secure https connection and is discarded once the skill exits
+our privacy policy may change from time to time and all updates will be posted on this page
+0 - last updated

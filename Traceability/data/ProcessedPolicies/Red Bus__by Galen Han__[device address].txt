@@ -1,0 +1,17 @@
+you need to enable javascript to run this app
+alexa red bus privacy policy red bus is a voice enabled application that allows users to get live bus arrival times in london
+what information do we collect
+we do not collect any "personal information"
+non-personal information includes information that cannot be used to personally identify you, such as anonymous usage data
+your device address - we use the device address set in your amazon alexa companion app so that we can find the arrival times of buses for the nearest bus stop
+this information is deleted after a session ends
+in order for us to gain access to your device address you need to explicitly grant our alexa skill permission to access your device address in the amazon alexa companion app when you first launch the skill
+anonymous usage data - we may store and analyse how users interact with the application
+all usage data is anonymised
+changes to privacy policy we reserve the right to change this privacy policy at any time
+we will notify you of significant changes to our privacy policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site
+significant changes will go into effect 30 days following such notification
+non-material changes or clarifications will take effect immediately
+you should periodically check privacy policy page for updates
+contact the developer if you have any questiosn regarding this privacy policy, please send an email to contact@galenhan
+this privacy policy was last updated on 6th august 2017

@@ -1,0 +1,9 @@
+this service (celestial skill) is provided as-is, without warranty, for free in the hope that it may be useful
+the service may require certain information, including but not limited to postal codes and country names in order to function
+this information is not retained for any reason beyond that of the provision of this service and is not associated with any further personal identifiers
+third parties, including amazon web services and amazon alexa may be relied upon for the provision of these services
+they will store, retain, and distribute personally identifiable information collected through the use of this skill according to their respective privacy policies
+cloudlands dev has no influence over these third parties but will only partner with parties necessary for the provision of application functionality
+this privacy policy is intended to serve as a simple guideline to our approach to information privacy
+it is not a legal document
+for more information, contact the developer

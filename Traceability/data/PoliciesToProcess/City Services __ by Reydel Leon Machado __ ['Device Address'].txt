@@ -1,0 +1,19 @@
+at city services alexa skill, we collect and manage user data according to the following privacy policy
+we collect anonymous data from every user of the skill to monitor traffic and fix bugs
+for example, we collect information like web requests, the data sent in response to such requests, the internet protocol address, the browser type, the browser language, and a timestamp for the request
+we ask certain personal information from you (such as your address) in order to provide you with the services you request
+you can decide not to provide us with your address and still be able to use the skill, although if you do this, you will then be asked for your personal address every time you perform a location based request to the skill
+use of the data
+we only use your personal information to provide you the city services alexa skill services or to communicate with you about the services or the alexa skill
+we employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information
+we do not share personal information you have provided to us without your consent , unless
+doing so is appropriate to carry out your own request
+we believe it's needed to enforce our terms of service, or that is legally required
+we believe it's needed to detect, prevent or address fraud, security or technical issues
+otherwise protect our property, legal rights, or that of others
+we don't share your personal information with third parties
+only aggregated, anonymized data is periodically transmitted to external services to help us improve the city services alexa skill and service
+changes to the privacy policy
+we may amend this privacy policy from time to time
+use of information we collect now is subject to the privacy policy in effect at the time such information is used
+if we make major changes in the way we collect or use information, we will notify you by posting an announcement on the website

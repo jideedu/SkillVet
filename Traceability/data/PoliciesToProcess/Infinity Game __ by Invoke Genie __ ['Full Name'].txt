@@ -1,0 +1,7 @@
+privacy policy for my projects where no data is collected
+view the project on github priyankark/privacypolicy
+this is to inform the user that the app/website/alexa skill they are planning on using, doesnot in any manner collect any form of data or use any form of data, if collected, including payment info, user details etc
+, beyond the slated purpose
+no data, if collected, is shared with any third parties and no data is used with any commercial interests in mind
+this project is maintained by priyankark
+hosted on github pages — theme by orderedlist

@@ -1,0 +1,15 @@
+south gloucestershire bin day
+this privacy policy's aim is to be as transparent as possible about what this alexa skill will do with the information provided to it
+this privacy policy can change at any point, so it is your responsibility to review it regularly
+effective as of 29th march 2018
+personal data on your device
+this skill will only use the address associated with the device that you use the skill on to determine the bin collection dates
+it will not use this information for any other purpose
+this skill will pass the device's postcode to api
+io to determine if it is served by the south gloucestershire county countil
+by using this skill, you agree to the privacy policy as outlined by api
+south gloucestershire county council
+this skill will pass the device's full address to the south gloucestershire county council website
+this is to retrieve the bin collection information for your device's location
+by using this skill, you agree to the privacy policy as outlined by south gloucestershire county council
+© david kendall 2018

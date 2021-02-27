@@ -1,0 +1,19 @@
+AI Factory may collect and use anonymous data, via Google Analytics.
+Such data is pooled to give us general statistics on our audience and usage of our apps.
+We cannot identify you from this data.
+For example, Google Analytics automatically samples a user's country and city, chosen device language, device model and make, screen resolution, app version being used, operating system version, mobile phone network.), geo-location – only general location may be collected.
+), language (e.g.
+), screen resolution (e.g.
+), type of browser (e.g.
+800×600, 1024×768, etc.
+Android, iOS, etc.
+English), device type (e.g.
+Explorer, Firefox, Chrome, Safari, etc.
+Galaxy, HTC, iPhone, etc.
+Kids Non-personal Information collected by Third Parties may include the following technical information: type of operation system (e.g.
+No street name or city/town name is collected.In addition, our third parties may collect the following data: User ID (for your service), latitude and longitude (obfuscated by the third parties to state/city), gender, age, events, errors, and page views.For example, if you provide a zip code that indicates that you live in New York, the Services may be customized with New York-specific information, features, and advertisements.
+In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers.
+We may collect different types of information about your location, including general information, such as the city, state and/or zip code associated with your IP Address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Services.
+We may use such location information to customize the Services, including advertising that is presented to you.Our apps use Google Analytics (third party scripts) that collect the following information and might (also) store such information as a cookie on the device you use to access our webpage: Google Analytics/Firebase Analytics: Demographics (browser language, country, city);Personal Information," which is the type of information that specifically identifies you personally and/or can be used alone to contact you online or offline, such as your full name, physical address, email address, telephone number, photograph, precise geolocation information (i.e., your specific location), Gameloft player ID, credit card information and, in some cases, usernames;
+If you decide to use such features, it may allow the sharing and collection of Personal Information and Non-Personal Information both to and from such third-party social networks.
+Our Websites/Apps offer social sharing features such as "Share" or "Like" on Facebook or other third-party social networking sites.

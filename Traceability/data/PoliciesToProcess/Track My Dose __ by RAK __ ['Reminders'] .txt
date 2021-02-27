@@ -1,0 +1,11 @@
+privacy and hipaa statement
+the developer of track my dose, rak, wants you to know how
+we use and protect the important information you provide to us
+the following summarizes our policy, procedures and practices
+for track my dose to help you track your medications, we collect a first name or nickname you choose to use
+that information is saved in a database that also contains your amazon account number
+that information is not shared with any entity and is used only to enable you to track medications and their doses that you wish to track
+the purpose of this skill is not to provide medical advice
+the user of the skill should consult with their physician or pharmacist regarding any questions they may have about their medications
+as far as the health insurance portability and accountability act of 1996 (hipaa)
+the developer of this skill, bob kolock, is neither a covered entity nor a business associate as defined under hipaa regulations (45 cfr 160

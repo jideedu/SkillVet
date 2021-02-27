@@ -1,0 +1,7 @@
+privacy policy and terms of use
+my alexa skills (party bouncer, kids madlibs, and class schedule) do not share any of your personal information
+party bouncer uses the information you tell it to determine whether guests are on the list or not
+uses your input to form a silly story
+class schedule uses the class information you input to tell you what classes
+it also retrieves your device's time zone in order to determine what classes you have today
+the information given to the skills are stored on the server (aws lambda) in order to respond to your requests

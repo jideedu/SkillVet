@@ -1,0 +1,300 @@
+privacy policy of phone link for alexa
+this application collects some personal data from its users
+users may be subject to different protection standards and broader standards may therefore apply to some
+in order to learn more about the protection criteria, users can refer to the applicability section
+this document has a section dedicated to californian consumers and their privacy rights
+this document can be printed for reference by using the print command in the settings of any browser
+personal data collected for the following purposes and using the following services
+admob and facebook audience network
+unique device identifiers for advertising (google advertiser id or idfa, for example)
+mopub, amazon mobile ads, verizon media (emea) and smaato
+analytics collected directly and alexa metrics
+google analytics for firebase
+managing contacts and sending messages
+various types of data as specified in the privacy policy of the service
+various types of data as specified in the privacy policy of the service
+further information about personal data
+this application may track users by storing a unique identifier of their device, for analytics purposes or for storing users' preferences
+owner and data controller
+custom solutions 125 buckskin lane streamwood, il
+owner and data controller
+custom solutions 125 buckskin lane streamwood, il
+types of data collected
+among the types of personal data that this application collects, by itself or through third parties, there are
+unique device identifiers for advertising (google advertiser id or idfa, for example)
+complete details on each type of personal data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the data collection
+personal data may be freely provided by the user, or, in case of usage data, collected automatically when using this application
+unless specified otherwise, all data requested by this application is mandatory and failure to provide this data may make it impossible for this application to provide its services
+in cases where this application specifically states that some data is not mandatory, users are free not to communicate this data without consequences to the availability or the functioning of the service
+users who are uncertain about which personal data is mandatory are welcome to contact the owner
+any use of cookies – or of other tracking tools – by this application or by the owners of third-party services used by this application serves the purpose of providing the service required by the user, in addition to any other purposes described in the present document and in the cookie policy, if available
+users are responsible for any third-party personal data obtained, published or shared through this application and confirm that they have the third party's consent to provide the data to the owner
+mode and place of processing the data
+the owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the data
+the data processing is carried out using computers and/or it enabled tools, following organizational procedures and modes strictly related to the purposes indicated
+in addition to the owner, in some cases, the data may be accessible to certain types of persons in charge, involved with the operation of this application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, it companies, communications agencies) appointed, if necessary, as data processors by the owner
+the updated list of these parties may be requested from the owner at any time
+legal basis of processing
+the owner may process personal data relating to users if one of the following applies
+users have given their consent for one or more specific purposes
+under some legislations the owner may be allowed to process personal data until the user objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases
+this, however, does not apply, whenever the processing of personal data is subject to european data protection law
+provision of data is necessary for the performance of an agreement with the user and/or for any pre-contractual obligations thereof
+processing is necessary for compliance with a legal obligation to which the owner is subject
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the owner
+processing is necessary for the purposes of the legitimate interests pursued by the owner or by a third party
+in any case, the owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract
+the data is processed at the owner's operating offices and in any other places where the parties involved in the processing are located
+depending on the user's location, data transfers may involve transferring the user's data to a country other than their own
+to find out more about the place of processing of such transferred data, users can check the section containing details about the processing of personal data
+if broader protection standards are applicable, users are also entitled to learn about the legal basis of data transfers to a country outside the european union or to any international organization governed by public international law or set up by two or more countries, such as the un, and about the security measures taken by the owner to safeguard their data
+if any such transfer takes place, users can find out more by checking the relevant sections of this document or inquire with the owner using the information provided in the contact section
+personal data shall be processed and stored for as long as required by the purpose they have been collected for
+personal data collected for purposes related to the performance of a contract between the owner and the user shall be retained until such contract has been fully performed
+personal data collected for the purposes of the owner’s legitimate interests shall be retained as long as needed to fulfill such purposes
+users may find specific information regarding the legitimate interests pursued by the owner within the relevant sections of
+this document or by contacting the owner
+the owner may be allowed to retain personal data for a longer period whenever the user has given consent to such processing, as long as such consent is not withdrawn
+furthermore, the owner may be obliged to retain personal data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority
+once the retention period expires, personal data shall be deleted
+therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period
+the purposes of processing
+the data concerning the user is collected to allow the owner to provide its service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its users or third parties), detect any malicious or fraudulent activity, as well as the following
+advertising, analytics, managing contacts and sending messages and registration and authentication
+for specific information about the personal data used for each purpose, the user may refer to the section “detailed information on the processing of personal data”
+detailed information on the processing of personal data
+personal data is collected for the following purposes and using the following services
+this type of service allows user data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this application, possibly based on user interests
+this does not mean that all personal data are used for this purpose
+information and conditions of use are shown below
+some of the services listed below may use cookies to identify users or they may use the behavioral retargeting technique, i
+displaying ads tailored to the user’s interests and behavior, including those detected outside this application
+for more information, please check the privacy policies of the relevant services
+in addition to any opt-out offered by any of the services below, the user may opt out of a third-party service's use of cookies for certain advertising features by visiting the network advertising initiative opt-out page
+users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general
+admob is an advertising service provided by google llc
+in order to understand google's use of data, consult google's partner policy
+unique device identifiers for advertising (google advertiser id or idfa, for example)
+– privacy policy – opt out
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+facebook audience network (facebook, inc
+facebook audience network is an advertising service provided by facebook, inc
+in order to understand facebook's use of data, consult facebook's data policy
+this application may use identifiers for mobile devices (including android advertising id or advertising identifier for ios, respectively) and technologies similar to cookies to run the facebook audience network service
+one of the ways audience network shows ads is by using the user's ad preferences
+the user can control this in the facebook ad settings
+users may opt-out of certain audience network targeting through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other audience network related sections of this privacy policy, if available
+unique device identifiers for advertising (google advertiser id or idfa, for example)
+– privacy policy – opt out
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+mopub is an advertising service provided by mopub inc
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+amazon mobile ads (amazon)
+amazon mobile ads is an advertising service provided by amazon
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+verizon media (emea) (oath (emea) limited)
+verizon media (emea) is an advertising service provided by oath (emea) limited
+– privacy policy – opt out
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+smaato is an advertising service provided by smaato, inc
+– privacy policy – opt out
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+the services contained in this section enable the owner to monitor and analyze web traffic and can be used to keep track of user behavior
+analytics collected directly (this application)
+this application uses an internal analytics system that does not involve third parties
+category of personal data collected according to ccpa
+google analytics for firebase (google llc)
+google analytics for firebase or firebase analytics is an analytics service provided by google llc
+in order to understand google's use of data, consult google's partner policy
+firebase analytics may share data with other tools provided by firebase, such as crash reporting, authentication, remote config or notifications
+the user may check this privacy policy to find a detailed explanation about the other tools used by the owner
+this application uses identifiers for mobile devices and technologies similar to cookies to run the firebase analytics service
+users may opt-out of certain firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other firebase related sections of this privacy policy, if available
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+alexa metrics (alexa internet, inc
+alexa metrics is an analytics service provided by alexa internet, inc
+– privacy policy – opt out
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+managing contacts and sending messages
+this type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the user
+these services may also collect data concerning the date and time when the message was viewed by the user, as well as when the user interacted with it, such as by clicking on links included in the message
+firebase cloud messaging (google llc)
+firebase cloud messaging is a message sending service provided by google llc
+firebase cloud messaging allows the owner to send messages and notifications to users across platforms such as android, ios, and the web
+messages can be sent to single devices, groups of devices, or specific topics or user segments
+various types of data as specified in the privacy policy of the service
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+by registering or authenticating, users allow this application to identify them and give them access to dedicated services
+depending on what is described below, third parties may provide registration and authentication services
+in this case, this application will be able to access some data, stored by these third-party services, for registration or identification purposes
+login with amazon (amazon)
+login with amazon is a registration and authentication service provided by amazon
+various types of data as specified in the privacy policy of the service
+category of personal data collected according to ccpa
+this processing constitutes a sale based on the definition under the ccpa
+in addition to the information in this clause, the user can find information regarding how to opt out of the sale in the section detailing the rights of californian consumers
+further information about personal data
+this application may track users by storing a unique identifier of their device, for analytics purposes or for storing users' preferences
+the rights of users
+users may exercise certain rights regarding their data processed by the owner
+users entitled to broader protection standards may exercise any of the rights described below
+in all other cases, users may inquire with the owner to find out which rights apply to them
+in particular, users have the right to do the following
+withdraw their consent at any time
+users have the right to withdraw consent where they have previously given their consent to the processing of their personal data
+object to processing of their data
+users have the right to object to the processing of their data if the processing is carried out on a legal basis other than consent
+further details are provided in the dedicated section below
+users have the right to learn if data is being processed by the owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the data undergoing processing
+verify and seek rectification
+users have the right to verify the accuracy of their data and ask for it to be updated or corrected
+restrict the processing of their data
+users have the right, under certain circumstances, to restrict the processing of their data
+in this case, the owner will not process their data for any purpose other than storing it
+have their personal data deleted or otherwise removed
+users have the right, under certain circumstances, to obtain the erasure of their data from the owner
+receive their data and have it transferred to another controller
+users have the right to receive their data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance
+this provision is applicable provided that the data is processed by automated means and that the processing is based on the user's consent, on a contract which the user is part of or on pre-contractual obligations thereof
+users have the right to bring a claim before their competent data protection authority
+details about the right to object to processing
+where personal data is processed for a public interest, in the exercise of an official authority vested in the owner or for the purposes of the legitimate interests pursued by the owner, users may object to such processing by providing a ground related to their particular situation to justify the objection
+users must know that, however, should their personal data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification
+to learn, whether the owner is processing personal data for direct marketing purposes, users may refer to the relevant sections of this document
+how to exercise these rights
+any requests to exercise user rights can be directed to the owner through the contact details provided in this document
+these requests can be exercised free of charge and will be addressed by the owner as early as possible and always within one month
+applicability of broader protection standards
+while most provisions of this document concern all users, some provisions expressly only apply if the processing of personal data is subject to broader protection standards
+such broader protection standards apply when the processing
+is performed by an owner based within the eu
+concerns the personal data of users who are in the eu and is related to the offering of paid or unpaid goods or services, to such users
+concerns the personal data of users who are in the eu and allows the owner to monitor such users’ behavior taking place in the eu
+additional information about data collection and processing
+the user's personal data may be used for legal purposes by the owner in court or in the stages leading to possible legal action arising from improper use of this application or the related services
+the user declares to be aware that the owner may be required to reveal personal data upon request of public authorities
+additional information about user's personal data
+in addition to the information contained in this privacy policy, this application may provide the user with additional and contextual information concerning particular services or the collection and processing of personal data upon request
+system logs and maintenance
+for operation and maintenance purposes, this application and any third-party services may collect files that record interaction with this application (system logs) use other personal data (such as the ip address) for this purpose
+information not contained in this policy
+more details concerning the collection or processing of personal data may be requested from the owner at any time
+please see the contact information at the beginning of this document
+how “do not track” requests are handled
+this application does not support “do not track” requests
+to determine whether any of the third-party services it uses honor the “do not track” requests, please read their privacy policies
+changes to this privacy policy
+the owner reserves the right to make changes to this privacy policy at any time by notifying its users on this page and possibly within this application and/or - as far as technically and legally feasible - sending a notice to users via any contact information available to the owner
+it is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom
+should the changes affect processing activities performed on the basis of the user’s consent, the owner shall collect new consent from the user, where required
+information for californian consumers
+this part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”)
+the provisions contained in this section apply to all users who are consumers residing in the state of california, united states of america, according to "the california consumer privacy act of 2018" (users are referred to below, simply as “you”, “your”, “yours”), and, for such consumers, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy
+this part of the document uses the term “personal information“ as it is defined in the california consumer privacy act (ccpa)
+categories of personal information collected, disclosed or sold
+in this section we summarize the categories of personal information that we've collected, disclosed or sold and the purposes thereof
+you can read about these activities in detail in the section titled “detailed information on the processing of personal data” within this document
+the categories of personal information we collect
+we have collected the following categories of personal information about you
+identifiers, commercial information, internet information and geolocation data
+we will not collect additional categories of personal information without notifying you
+how we collect information
+what are the sources of the personal information we collect
+we collect the above mentioned categories of personal information, either directly or indirectly, from you when you use this application
+for example, you directly provide your personal information when you submit requests via any forms on this application
+you also provide personal information indirectly when you navigate this application, as personal information about you is automatically observed and collected
+finally, we may collect your personal information from third parties that work with us in connection with the service or with the functioning of this application and features thereof
+how we use the information we collect
+sharing and disclosing of your personal information with third parties for a business purpose
+we may disclose the personal information we collect about you to a third party for business purposes
+in this case, we enter a written agreement with such third party that requires the recipient to both keep the personal information confidential and not use it for any purpose(s) other than those necessary for the performance of the agreement
+we may also disclose your personal information to third parties when you explicitly ask or authorize us to do so, in order to provide you with our service
+to find out more about the purposes of processing, please refer to the relevant section of this document
+sale of your personal information
+for our purposes, the word “sale” means any “selling, renting, releasing, disclosing, disseminating, making available, transferring or otherwise communicating orally, in writing, or by electronic means, a consumer's personal information by the business to another business or a third party, for monetary or other valuable consideration ”
+this means that, for example, a sale can happen whenever an application runs ads, or makes statistical analyses on the traffic or views, or simply because it uses tools such as social network plugins and the like
+your right to opt out of the sale of personal information
+you have the right to opt out of the sale of your personal information
+this means that whenever you request us to stop selling your data, we will abide by your request
+such requests can be made freely, at any time, without submitting any verifiable request, simply by following the instructions below
+instructions to opt out of the sale of personal information
+if you’d like to know more, or exercise your right to opt out in regard to all the sales carried out by this application, both online and offline, you can contact us for further information using the contact details provided in this document
+what are the purposes for which we use your personal information
+we may use your personal information to allow the operational functioning of this application and features thereof (“business purposes”)
+in such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes
+we may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “detailed information on the processing of personal data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage
+we will not use your personal information for different, unrelated, or incompatible purposes without notifying you
+your california privacy rights and how to exercise them
+the right to know and to portability
+you have the right to request that we disclose to you
+the categories and sources of the personal information that we collect about you, the purposes for which we use your information and with whom such information is shared
+in case of sale of personal information or disclosure for a business purpose, two separate lists where we disclose
+for sales, the personal information categories purchased by each category of recipient
+for disclosures for a business purpose, the personal information categories obtained by each category of recipient
+the disclosure described above will be limited to the personal information collected or used over the past 12 months
+if we deliver our response electronically, the information enclosed will be "portable", i
+delivered in an easily usable format to enable you to transmit the information to another entity without hindrance – provided that this is technically feasible
+the right to request the deletion of your personal information
+you have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as, including but not limited to, where the information is used to identify and repair errors on this application, to detect security incidents and protect against fraudulent or illegal activities, to exercise certain rights etc
+if no legal exception applies, as a result of exercising your right, we will delete your personal information and direct any of our service providers to do so
+how to exercise your rights
+to exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details provided in this document
+for us to respond to your request, it’s necessary that we know who you are
+therefore, you can only exercise the above rights by making a verifiable request which must
+provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative
+describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it
+we will not respond to any request if we are unable to verify your identity and therefore confirm the personal information in our possession actually relates to you
+if you cannot personally submit a verifiable request, you can authorize a person registered with the california secretary of state to act on your behalf
+if you are an adult, you can make a verifiable request on behalf of a minor under your parental authority
+you can submit a maximum number of 2 requests over a period of 12 months
+how and when we are expected to handle your request
+we will confirm receipt of your verifiable request within 10 days and provide information about how we will process your request
+we will respond to your request within 45 days of its receipt
+should we need more time, we will explain to you the reasons why, and how much more time we need
+in this regard, please note that we may take up to 90 days to fulfill your request
+our disclosure(s) will cover the preceding 12 month period
+should we deny your request, we will explain you the reasons behind our denial
+we do not charge a fee to process or respond to your verifiable request unless such request is manifestly unfounded or excessive
+in such cases, we may charge a reasonable fee, or refuse to act on the request
+in either case, we will communicate our choices and explain the reasons behind it
+definitions and legal references
+personal data (or data)
+any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person
+information collected automatically through this application (or third-party services employed in this application), which can include
+the ip addresses or domain names of the computers utilized by the users who use this application, the uri addresses (uniform resource identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc
+), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e
+, the time spent on each page within the application) and the details about the path followed within the application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the user's it environment
+the individual using this application who, unless otherwise specified, coincides with the data subject
+the natural person to whom the personal data refers
+data processor (or data supervisor)
+the natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as described in this privacy policy
+data controller (or owner)
+the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, including the security measures concerning the operation and use of this application
+the data controller, unless otherwise specified, is the owner of this application
+the means by which the personal data of the user is collected and processed
+the service provided by this application as described in the relative terms (if available) and on this site/application
+european union (or eu)
+unless otherwise specified, all references made within this document to the european union include all current member states to the european union and the european economic area
+small sets of data stored in the user's device
+this privacy statement has been prepared based on provisions of multiple legislations, including art
+13/14 of regulation (eu) 2016/679 (general data protection regulation)
+this privacy policy relates solely to this application, if not stated otherwise within this document
+iubenda hosts this content and only collects the personal data strictly necessary for it to be provided

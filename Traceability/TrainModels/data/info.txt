@@ -1,0 +1,3 @@
+Annotated_Policies_Alexa.csv - Latest set of annotations to train the sentence classifier
+Manual_Traceability3_15.10_21.46.csv - Updated set of traceability used in the paper
+App350 - Contains a folder with all info from App350

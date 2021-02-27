@@ -1,0 +1,14 @@
+I believe strongly in personal privacy and I guaranty not to use any information cited below for anything other than the purpose of determining the weather conditions for your current location. 
+
+I make the following claims: 
+
+1. The only two pieces of information used are the zip code and country code as set in your Alexa based device. 
+
+2. You have full control over whether to let Feels Like have access to this through the Alexa app. 
+
+3. If you choose to not allow this permission, Feels Like will still be able to look up data for provided city names, but will lose the ability to determine the conditions for your location. 
+
+4. If you choose to allow access to your zip code and country code, this information will only be used to query for your current location. 
+This is done through the Google Geocode API interface. There is no peronally identi?able information provided or received. 
+
+5. No information is stored in any form. When the action completes, Feels Like has lost any information acquired and does not have the ability to recall that information 

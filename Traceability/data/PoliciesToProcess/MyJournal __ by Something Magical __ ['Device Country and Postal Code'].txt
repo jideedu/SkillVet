@@ -1,0 +1,7 @@
+the information obtained by customers of the my journal skill help us to further develop the my journal experience
+my journal only gathers the data created by the journal entries for statistical analysis
+this information will never be used for solicitation
+my journal and something magical will never sell your information
+my journal uses aws resources for storage and communication
+the data processed and stored by aws falls under amazon's privacy practices
+site powered by weebly

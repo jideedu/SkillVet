@@ -1,0 +1,164 @@
+please take a few minutes to read the following policy so that you understand how we treat your personal information
+as we continuously improve and expand our services, this policy might change, so please check it periodically
+if you have questions or comments about our privacy policy, please contact us as set forth in the “contacting us” section below
+this privacy policy applies to all online, mobile and voice ordering functionality (enabling you to interact with the vocinate using the microphone on your phone, smart speaker, virtual assistant or other third party device), applications, websites, platforms, skills and services (“vocinate services”) developed, owned and/or operated by vocinate, inc
+this privacy policy describes how vocinate, inc
+(“vocinate”, “we,” “our,” “us”) collects, uses, and shares the personal information you provide using vocinate services
+it also describes the choices available to you regarding our use of your personal information and how you can access and update this information
+has adopted this privacy policy in order to inform you of its policies with respect to information collected from the vocinate services”
+your use of the vocinate services constitutes your agreement to our terms of use, and acceptance of this privacy policy and your consent to the practices it describes
+“personally identifiable information” is any information that concerns you individually and would permit someone to identify you, for example, your first and last name, address, telephone number, email address, billing information, or any information you submit to the vocinate services that identifies you individually
+you may choose to disclose personally identifiable information about yourself and other information when using the vocinate services
+we may collect information you provide directly by methods such as the following
+registration forms – if you are offered the opportunity to enter a promotion or to become a registered user of vocinate services, you may be required to fill out a registration form
+this form may require certain information such as your name, email address, postal address, telephone number, areas of interest, preferences, product usage, credit/debit card number(s) with associated expiration date(s), cvv and billing zip code(s), and/or a unique individual password
+transactions – if you conduct transactions through the vocinate services, we will collect information you provide directly about the transactions you engage in while using vocinate services, including through third party devices (such as the amazon echo)
+this information may include payment and billing information as well as the nature, quantity and price of the goods or services you purchase, transcripts of any words that you speak while using voice ordering services through the vocinate platform, including through third party devices, and the individuals or entities with whom you communicate or transact business
+email and other voluntary communications
+information inadvertently collected – you may also choose to communicate with us through email, the vocinate services, or through other means
+we collect the information in these communications, and such information may include personally identifiable information
+vocinate services, may capture information that you do not intend to provide as part of the ordering process, such as background noise or secondary communications
+therefore, you should take steps to prevent the communication of unnecessary information when using such vocinate services
+when you use the vocinate services certain “usage information” about your usage is automatically collected, which may include device identifier, information about the type of device, operating system and browser you use, the server name and ip address through which you access the internet (which identifies the company providing you internet access and general geographic information), the mac address of the your device, and the date and time you access the vocinate services, etc
+except to the extent required by applicable law, vocinate, inc
+does not consider usage information to be personally identifiable
+to the extent that we combine usage information with your personally identifiable information, we will treat the combined information as personally identifiable information under this privacy policy
+the methods that may be used by vocinate services to collect usage information include
+log information is data about your use of the vocinate services, such as ip address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data, which is stored in log files
+information collected by tracking technologies
+cookies and other “tracking technologies” now and hereafter developed, some of which are listed below, may be used to collect information about your interactions with the vocinate services or emails, including information about your browsing and activity behavior
+the vocinate services’ servers, or the servers of third parties that are used to operate the vocinate services, may place a “cookie” on your computer, store data in your computer browser or access pre-existing removable tracking features on your mobile device in order to allow you to use the vocinate services and to personalize your experience
+a “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your device’s hard drive
+cookies and browser storage allow us to recognize your device while you are using vocinate services and help customize your online experience and make it more convenient for you
+cookies and browser storage are also useful in allowing more efficient login for users, tracking transaction histories and preserving information between sessions
+the information collected from cookies and browser storage may also be used to improve the functionality of the vocinate services
+types of cookies and tags on vocinate services include
+used to remember your preferences and for facilitating transactions such as purchases
+used to measure activity to improve user experience
+used to display information and offers that may specifically interest you
+we may use local storage, such as html5 storage, to store information related to whether the user has chosen to “remain logged in” as well as tokens if third party services are used
+third parties with whom we partner to provide certain features on vocinate services or to display advertising based upon your activity may use local storage such as html 5 storage to collect and store information
+various browsers may offer their own management tools for removing html5 local storage
+web beacons (“tracking pixels”)
+web beacons are small graphic images, also known as “internet tags” or “clear gifs,” embedded in web pages and email messages
+web beacons may be used to count the number of visitors to the vocinate services, to monitor how users navigate the vocinate services, and to count content views
+an embedded script is programming code designed to collect information about your interactions with the vocinate services
+it is temporarily downloaded onto your device from our server or a third party with whom we work, is active only while you are connected to the vocinate services, and deleted or deactivated thereafter
+gps (global positioning systems) software, geo-filtering, and other location-aware technologies locate (sometimes precisely) you for purposes such as verifying your location, identifying closest participating restaurants, and delivering or restricting relevant content based on your location
+voice processing technologies use the data collected through the microphone on your device, including transcripts of any words that you speak (“voice input data”), to analyze and provide information to you based on your requests
+voice input data that has been collected from you may be retained to generally improve voice ordering functionality embodied within vocinate services and shared with restaurant partners
+this voice input data may include audio files and transcripts of what you said, and related diagnostic data, such as hardware and operating system specifications and performance statistics
+device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as javascript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your device and applications
+there are a variety of tracking technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings
+some use device identifier, or other identifiers such as “ad ids” to associate app user activity to a particular app and to track user activity across apps
+for further information on tracking technologies and your choices regarding them, please see “analytics, advertising, and retargeting” and “your choices” below
+information collected from third parties
+we may obtain information about you from other sources and combine such information with information we have collected about you
+to the extent we combine such third party sourced information with personally identifiable information we have collected about you on the vocinate services, we will treat the combined information as personally identifiable information under this privacy policy
+we are not responsible for the accuracy of any information provided by third parties or third party policies or practices
+may use the information, including the personally identifiable information, collected through its web sites, applications or stores for such purposes as
+helping to establish and verify the identity of users
+opening, maintaining, administering and servicing users’ accounts or memberships
+processing, servicing or enforcing transactions and sending related communications
+serving digital advertisements to you on third party ad properties
+providing services and support to users
+improving the vocinate services, including tailoring them to users’ preferences
+providing users with product or service updates, promotional notices and offers, and other information about vocinate, inc
+responding to your questions inquiries, comments and instructions
+protecting our systems from fraud and unlawful access
+maintaining the security and integrity of its systems
+sending you newsletters and marketing communications
+fulfilling any other purposes consistent with our statements under this privacy policy or disclosed at the time you provide personally identifiable information
+does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you
+may use agents, vendors, consultants and other service providers to help it maintain and operate vocinate services, payment processing, and for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose
+these companies may only use such personally identifiable information for the purpose of performing those functions and may not use it for any other purpose, although we may permit them to use aggregate information which does not identify you or de-identified data for other purposes
+must disclose personally identifiable information about you in response to lawful requests by public authorities, including to comply with national security or law enforcement requirements
+in addition, we may disclose personally identifiable information about you as follows
+in connection with legal requirements, such as in response to an authorized subpoena
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, or investigate fraud
+to defend the terms of use or other policies applicable to the vocinate services
+if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property, life, health, security and safety of our employees or any third party
+to the maximum extent permitted by applicable law, we may also use ip addresses, mobile device identifiers or any other information we collect to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion
+such disclosures may be carried out without notice to you
+with our affiliates for internal business purposes
+if vocinate is involved in a merger, acquisition, or sale of all or a portion of its assets, you may be notified via email and/or a prominent notice on our website(s) of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information
+with your consent or at your direction
+vocinate may also disclose aggregated de-identified information to provide information about vocinate services to potential business partners and other unaffiliated entities
+external links, applications and devices
+vocinate services may contain links to other websites, or may be available through third party devices, not maintained or related to vocinate, inc
+these links and devices are not sponsored by or affiliated with vocinate services or vocinate
+has not reviewed any or all of the sites hyper-linked to or from the vocinate services, and has not reviewed any or all of the devices through which certain vocinate services are available, and is not responsible for the content or privacy practices of other websites, applications or devices
+the links and devices are accessed and used at the user’s own risk, and vocinate, inc
+makes no representations or warranties about the content, completeness or accuracy of these links or devices, the sites hyper-linked to the vocinate services or the devices through which the vocinate services may be available
+third party web sites that are accessible by hyperlinks from vocinate services may use cookies and other tracking technologies
+encourages you to read the privacy policies provided by other websites and device manufacturers before you provide personally identifiable information to them
+does not implicitly endorse third party sites hyper-linked to vocinate services or devices through which vocinate services may be available
+vocinate services may include social media features, such as the facebook like button
+these social media features may use tracking technologies to collect information about you, such as your ip address, which elements of vocinate services you use, and may set a cookie to enable the social media feature to function properly
+if you use social media features, information you post or provide access to may be publicly displayed on vocinate services or by the third party service that you use
+similarly, if you post information on a third party service that references vocinate services (e
+, by using a hash tag associated with vocinate, inc
+in a tweet or status update), your post may be used on or in connection with vocinate services
+also, both vocinate, inc
+and the third party may have access to certain information about you and your use of vocinate services and the social media features
+social media features are operated by third parties and governed by the privacy policy of the third party providing it
+we are not responsible for and make no representations regarding the policies or business practices of any third parties and encourage you to familiarize yourself with and consult their privacy policies and terms of use
+analytics, advertising, and retargeting
+may engage third parties for analytics services
+these third parties may use cookies and other tracking technologies to analyze your usage of vocinate services, including data collected when you speak to and use voice ordering
+information generated by these services may be transmitted to and stored by these third parties on servers in the u
+(or elsewhere) and these third parties may use this information for purposes such as evaluating your use of vocinate services, compiling statistic reports on vocinate services’ activity, and providing other services relating to vocinate services activity and internet usage
+we may also engage third parties to serve advertisements via vocinate services
+these third parties may collect and share information with us during your visits to this and other sites in order to provide advertisements about goods and services likely to be of greater interest to you, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits to vocinate services, help us serve relevant advertisements via vocinate services, and track use of advertisements and other links from our marketing partners’ sites to vocinate services
+may use the information collected via vocinate services for online behavioral advertising purposes including retargeting and to customize ads to you when you visit third party sites
+you have the right to access the personally identifiable information we have about you
+you may correct, update, amend, delete, or remove that information by making the change on your vocinate online account or contacting us as set forth in the “contacting us” section below
+we will respond to your request for access within 30 days
+we may require additional information from you to allow us to confirm your identity
+please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
+most web browser applications (such as microsoft internet explorer, google chrome, firefox and apple safari) have features that can notify you when you receive a cookie or prevent cookies from being sent
+if you disable cookies or other device tracking features, however, you may not be able to use certain personalized functions of vocinate services
+you may be able to opt out of location-based services at any time by editing the setting at the device level
+you may exercise choices regarding the use of cookies for analytics services as follows
+click here to opt out of google analytics
+click here to opt out of adobe analytics
+in addition, some of the advertisers that perform advertising-related services for us and our partners may offer their own opt outs
+click here to opt out of the google doubleclick
+click here to opt out of facebook ad tracking
+click here to opt out of twitter ad tracking
+click here to opt out of pandora ad tracking
+please be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads
+opting out only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e
+, from other ad networks)
+in addition, european users may click here to learn more information about their online choices at www
+com and to opt out of this type of advertising
+is not responsible for effectiveness of, or compliance with, any third parties’ opt out options or programs or the accuracy of their statements regarding their programs
+in order to provide service to you, we may send you communications related to your transactions, security or the administration of vocinate services
+from time to time, vocinate, may also send you other messages or updates about vocinate services, vocinate, inc
+, or our promotions and other activities
+if you do not wish to receive promotional communications from vocinate, inc
+, you can opt out at any time by following the instructions provided in those communications or by contacting us as set forth in the “contacting us” section below
+please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about your account, servicing, or our ongoing business relations
+your california privacy rights
+california’s “shine the light” law permits customers in california to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes
+under the law, a business should either provide california customers certain information upon request or permit california customers to opt in to, or opt out of, this type of sharing
+does not share personal information as defined by california’s “shine the light” law with third parties for such third parties own direct marketing purposes
+california residents may obtain information about our compliance with this law by sending us an email or letter to the address specified in the “contacting us” section below
+requests must include “california privacy rights request” in the first line of the description and include your name, street address, city, state, and zip code
+please note that vocinate, inc
+is not required to respond to requests made by means other than through the means provided below
+the vocinate services are directed toward and designed for use by persons aged 13 or older
+will not approve applications of, or establish or maintain registrations for any child whom vocinate knows to be under the age of 13
+does not solicit or knowingly collect personally identifiable information from children under the age of 13
+nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom vocinate, inc
+otherwise has reason to believe is, under the age of 13, vocinate, inc
+will delete such information from its systems
+additionally, a child’s parent or legal guardian may request that the child’s information be corrected or deleted from our files by contacting us as set forth in the “contacting us” section below
+maintains reasonable physical, electronic, and procedural safeguards to help guard personally identifiable information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction
+please be aware, however, that any email or other transmission you send through the internet cannot be completely protected, and we cannot guarantee the security of your information collected through vocinate services
+changes to this privacy policy
+reserves the right to modify or supplement this policy at any time
+if you have questions or comments about this privacy policy, the information practices of vocinate, inc
+, or your dealings with vocinate services, please email us at support@vocinate
+this policy was last updated december 27, 2017
+© 2018, vocinate, inc

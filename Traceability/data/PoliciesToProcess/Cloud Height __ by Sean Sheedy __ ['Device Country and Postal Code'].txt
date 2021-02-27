@@ -1,0 +1,17 @@
+cloud height is an alexa skill that was created as a personal programming exercise
+it is published in the hope it will be fun and provide entertainment for others
+this skill may be used for looking up into the sky and wondering how high the clouds are on a pleasant day
+the cloud information provided may not be accurate, current, or even near you
+the skill must not be used or relied upon for any other purpose
+it must never be used to judge the approach or presence of hazardous or severe weather
+it is provided only for personal use on a properly configured amazon echo device
+hazardous and severe weather can arise suddenly and without warning
+hazardous and severe weather, and its consequences such as flooding, lightning, high winds, and more, can cause property damage, severe injuries, or death
+do not rely upon this application for planning or to make any judgments about the weather in your area or any other, especially about the presence or absence of hazardous or severe weather
+information may be inaccurate, outdated or wrong
+cloud information is obtained by cloud height from www
+gov by querying for cloud information reported within the last two hours by stations in a twenty mile radius of the zip code for your device as reported by the amazon alexa service, and selecting the first returned report which provides cloud information, which may not necessarily be from the closest cloud reporting station
+for many reasons, including the difference between the zip code location and the actual device location, incorrect zip code stored in the settings of the amazon alexa app, errors in the zip code to latitude/longitude table, incorrect zip code to latitude/longitude conversion, application error, technical limitations, sensor problems, errors in the weather information obtained, caching, age of information obtained by the application, malfunctioning cloud detection/reporting systems, weather patterns, land features that cause weather differences such as mountains, valleys and bodies of water, the actual distance between the device and the measuring station, and any number of other things not mentioned here, may cause the application to return partially or completely wrong information
+these terms and conditions are subject to change
+the service is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement
+in no event shall the authors, copyright holders or data providers be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the service or the use or other dealings in the service

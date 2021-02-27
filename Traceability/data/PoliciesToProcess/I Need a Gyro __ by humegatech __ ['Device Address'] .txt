@@ -1,0 +1,18 @@
+privacy policy for the purposes of this policy the term "address" is defined as your street address (e
+, 1600 grand ave, saint paul, mn 55105) and/or your geographic coordinates (e
+for the purposes of this policy "this gyro service" represents the domain ineedagyro
+com its subdomains and any services (e
+the amazon echo and/or amazon alexa applications) that access this domains and/or subdomains
+for the purposes of this policy the term "we" is defined as the owners of this gyro service
+this privacy policy discloses the privacy practices for this gyro service and applies solely to information collected by this gyro service
+information collection, use, and sharing we are the sole owners of the information collected by this gyro service
+we only have access to/collect information that you voluntarily give us via direct contact from you when you use this gyro service
+we collect and store, or reserve the right to collect and store, any information about your request
+your request includes (but is not limited to) the following information
+address (as determined by your browser's location abilities at the time of the request)
+we use your street address to find the gyros closest to you, but do not store your street address or geographic coordinates after we fulfill each request
+we do store -- and may sell or rent -- the zip code and any other data associated with your request to anyone
+hopefully this practice leads to more delicious gyros becoming available near you
+it is our aim to make it difficult for someone to associate you our hour household with one or more requests, but it is not wholly impossible
+for example, if you or your household have the only device with internet access in your zip code, a third party who purchases or rents zipcode information from this gyro service and knows that your household has the only device with internet access in your zip code could reasonably assume that the device in your household was used to make a request
+if the device you use to make a request is the only one in your zip code to use the browser type/browser version combination, a third party who purchases or rents zip code, browser type and browser version information from this gyro service and knows that your household has the only device with in your zip code to use that browser type/browser version combination could reasonably assume that the device in your household was used to make a request

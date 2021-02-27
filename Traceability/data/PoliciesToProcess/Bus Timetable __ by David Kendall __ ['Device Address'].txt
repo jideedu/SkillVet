@@ -1,0 +1,11 @@
+this privacy policy's aim is to be as transparent as possible about what this alexa skill will do with the information provided to it
+this privacy policy can change at any point, so it is your responsibility to review it regularly
+effective as of 21st december 2017
+personal data on your device
+this skill will only use the address associated with the device that you use the skill on to determine the origin or from location when requesting bus information to a specified destination
+it will not use this information for any other purpose
+google maps directions api
+this skill will pass the specified origin and destination to google to calculate the bus routes available between the two locations
+it will then use they journeys to give the information you require
+by using this skill, you agree to the privacy policy as outlined by google
+© david kendall 2017

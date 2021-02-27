@@ -1,0 +1,129 @@
+church of the highlands
+lee martinez campus pastor
+brandon isbell campus pastor
+tyler vinyard campus pastor
+kyle cantrell campus pastor
+matt minor campus pastor
+blake lindsey campus pastor
+cory hardesty campus pastor
+bronson moore campus pastor
+allen pedram campus pastor
+steven winston campus pastor
+jimmy bowers campus pastor
+chris erwin campus pastor
+david russell campus pastor
+kevin haefner campus pastor
+brian bagwell campus pastor
+mychal smith campus pastor
+caleb chambers campus pastor
+charles kelly campus pastor
+chad sleeper campus pastor
+mayo sowell campus pastor
+jamil gilleylen campus pastor
+revised october 19, 2017
+information collected by our website
+our commitment to data security
+an introduction to cookies
+cookies used by our website
+how to disable cookies
+information collected by our website
+your privacy matters to us
+any information that you send through this site will never be intentionally distributed to anyone outside of church of the highlands
+in the rare cases where sharing sensitive information is necessary, we will only do so at your request or at the request of law enforcement
+in addition to our own computer network, church of the highlands uses several third-party hosted services to supply additional features to our websites
+in each case, these hosted services are governed by their respective privacy policies
+for the purpose of making an enquiry or placing an order, our website
+may collect the following information
+your name, appropriate contact information including email address and address, preferences and interests
+other information relevant to visitor surveys and/or offers may also be requested
+the way we use information
+we use return email addresses to answer the email we receive
+such addresses are not used for any other purpose and shall not be intentionally disclosed to outside parties
+church of the highlands will never use or share the personally-identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses
+our commitment to data security
+to prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have placed appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online and believe these faculties to be secure to the best of our knowledge and ability
+however, church of the highlands does not warrant, guarantee, and/or absolve security and/or unintentional disclosure of personal, identifiable information
+we will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information
+we will never store your credit/debit card information on our website
+all electronic transactions you make to or receive from us will be encrypted
+of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet
+you are responsible for keeping your password and user details confidential
+we will not ask you for your password
+our website may contain links to other websites of interest
+however, once you have used these links to leave our site, you should note that we do not have any control over the other website
+therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites, and such sites are not governed by this privacy statement
+you should exercise caution and look at the privacy statement applicable to the website in question
+an introduction to cookies
+a cookie is a small data file that is automatically placed onto your computer’s hard drive
+cookie files are created by our website and placed onto your device in order to analyze and influence your preferences or behavior
+analytical cookies are designed to track your journey and experience on our website so that we may tailor your experience and gather data
+overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not
+a cookie in no way gives us access to your computer or any information about you other than the data you choose to share with us
+the majority of modern web browsers will automatically allow cookies to be placed onto your device
+however, you can usually modify your browser’s settings in order to prevent any cookies from being placed onto your device
+setting your browser to block cookies may prevent you from taking full advantage of our website
+cookies deployed by our website
+ensure that functionality operates as intended
+remember your choices and preferences during and between visits
+allow you to share pages via popular social media networks including facebook and twitter
+post enquiries via online forms
+track your visit for statistical analysis, allowing us to improve the usability, speed and security of our website
+cookies are not deployed to
+collect any personal identifiable information (without your express permission)
+collect any sensitive information (without your express permission)
+pass data to advertising networks
+pass personally-identifiable data to third parties
+cookies used by our website
+we encourage users to share our content and/or like our profile on popular social media networks
+in order to make social sharing accessible, our website utilizes widgets provided directly from the social media networks
+cookies and privacy implications from the social media networks vary and will be dependent on your nominated privacy settings with each social media network
+social sharing buttons will only deploy cookies if you are signed in to that respective social media network at the time of being on our website
+our website uses google analytics, which allows us to track and compile anonymous visitor statistics
+the information collected ranges from simple traffic volume to the type of browser you are using to view our website
+this information is valuable to us not just for marketing analysis and quantification, but to improve the usability, security and load speed of our website content
+google analytics is a popular, secure, flagship webmaster product from google
+the privacy and security of google analytics data is a high priority at google that you can read more about on google’s analytics data safeguarding page
+google also offers a google analytics opt-out browser add-on that will allow you to automatically opt-out of all websites that track your activity via google analytics
+no personal information is collected by google analytics
+we also use hotjar in order to better understand our users’ needs and to optimize this service and experience
+hotjar is a technology service that helps us better understand our users’ experience (e
+how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc
+) and this enables us to build and maintain our service with user feedback
+hotjar uses cookies and other technologies ‌to collect data on our users’ behavior and their devices (in particular, device’s ip address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and preferred language used to display our website)
+hotjar stores this information in a pseudonymized user profile
+neither hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user
+for further details, please see hotjar’s privacy policy
+you can opt-out to the creation of a user profile, hotjar’s storing of data about your usage of our site and hotjar’s use of tracking cookies on other websites by following this opt-out link
+our website’s visitors can choose to contact us via forms on our website
+in order to prevent spam enquiries, we protect our forms with anti-spam challenges which ensure the visitor is an actual living person, rather than a computer bot or spider
+below is a table of information which lists all cookies deployed and used on our website
+the single default cookie for google universal analytics
+this sole cookie used by goole analytics stores a unique client identifier (client id) which is set randomly
+this cookie is set to expire after 24 months (2 years) and is refreshed each time you visit our website
+expression engine cross-site request forgery
+used by expressionengine cms
+this cookie offers prevents submissions to forms from other websites and is a security measure against certain forms of hacking attacks
+expression engine last activity cookie
+used by expressionengine cms
+this cookie contains the date of your last activity on the website
+expression engine last visit cookie
+used by expressionengine cms
+this cookie is only relevant to registered users and contains data relating to the dates of your visits to website
+expression engine tracking cookie
+used by expressionengine cms
+this cookie keeps track of the last 5 pages you visited on the site and allows us to redirect you to the page you were on before submitting a comment or sending us an email through a contact form
+the x-mapping cookie is associated with the stingray traffic manager platform from riverbed, which is a load balancing application for high traffic web services and sites
+used to route data and page requests to the correct server where a site is hosted on multiple servers
+it has a common root of x-mapping- followed by an eight letter code
+for more information see
+how to disable cookies
+most modern browsers allow you to control your cookie settings for all websites that you browse
+you can disable cookie deployment completely by editing your browser settings
+however, in doing this, you may be limiting the functionality that is displayed on our website
+to learn how to disable cookies on your preferred browser, we recommend reading this advice posted by google
+if you are concerned about cookies tracking your movements on the internet, then you may be concerned about spyware
+spyware is the name given to a particular band of cookies that track personal information about you
+there are many anti-spyware programs that you can use to prevent this from happening
+learn more about anti-spyware software by visiting http
+you can also disable google analytics on all websites by downloading the google analytics opt-out browser add-on
+©2001-2019 church of the highlands

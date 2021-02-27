@@ -1,0 +1,543 @@
+extend parking on the move
+avoid fines with sms reminders
+change your vehicle if you make a mistake
+download receipts if you need them
+report a problem or complaint with a car park
+cookies help us deliver our services
+by using our services, you agree to our use of cookies
+read our cookie policy
+park permits receipts more ▼
+ringgo privacy notice main content
+your privacy is important to us at ringgo
+we will only use your personal information to administer your account,
+provide the products and services you have requested from us, and to keep you informed
+about our products and services
+the protection, confidentiality and integrity
+of your personal data are our prime concerns
+this privacy notice explains what
+personal information we collect from you when you interact with our products and services,
+and how we use this information
+we will inform you of any future changes to our processing purposes or our privacy policy
+ringgo provides a solution to pay for your parking sessions, on‐street and off‐street, via
+multiple platforms including phone (interactive voice response ("ivr") and sms), website, and
+in addition, we also provide parking permit related services
+applies to these services and the relating platforms, including www
+uk , ringgo branded apps, ringgo ivr and other ringgo related websites, apps, communications and services
+what personal data do we collect
+we need certain personal information to be able to offer you the best parking experience
+and to keep you informed of our products and services
+you provide some of this data directly,
+for instance when you create an account or enter your parking details into our mobile application
+additionally, we receive some of your personal data indirectly through your devices,
+by recording how you interact with our services (e
+this allows us to personalise and improve our products
+when you create a ringgo account, start a parking session, or otherwise use our services,
+we process the following details
+first and last name
+title (mr, mrs etc
+your vehicle registration number
+your vehicle brand/type and colour
+social media account information, if you use a social media plugin to register
+your location details when you park, using our services
+payment and billing information, e
+bank account, payment card or paypal details
+parking permit details (if applicable)
+company name (if applicable)
+business registration number (if applicable)
+we also receive information from third parties we work with
+while the partners we work with may change,
+private, municipal, railway, airport, hospital and university car park operators, who,
+if you have chosen to make use of our service, provide us with the details of your parking sessions,
+so we can facilitate your parking transactions
+this information consists of your vehicle registration number, parking location, parking fee
+and the start and end time of your parking session
+automotive companies (car manufacturers) that provide some of our services in combination with a car
+this service registers the start and end time of your parking session, your parking location
+and the parking fee, so your parking session is automatically ended once you drive away
+this only applies if you have signed up for this service through your car
+operators of parking equipment (for instance parking meters) and licence plate recognition systems
+(for instance as used in car garages), so your parking session can be identified and registered
+please note that such automated licence plate recognition services only apply
+if you have signed up for this service
+our partners who allow the option of auto pay, so you can automatically pay
+after a parking session on the basis of anpr (automatic number plate recognition),
+rfid tag, bluetooth, uhf tag or vehicle beacon
+we only receive these details
+if you have registered for this payment option at the specific location concerned, in advance
+our clients from the public and private sector, who use our service
+to facilitate parking of their employees
+if you are an employee in such an arrangement,
+we receive your name, or personnel id, e‐mail address, phone number
+and vehicle registration number from your employer, after which you can sign up
+and create your own account
+cookies and other similar technologies
+we collect certain data through cookies and similar technologies (e
+web beacons, tags, device
+cookies are text files placed on your computer to collect standard internet log information
+and visitor behaviour information
+this information is used to track visitor use of the website and to
+compile statistical reports on website activity
+we register your interaction with our services in order
+to improve our website, content and services
+our use of such technologies and the data collected is
+described in more detail in our cookie policy https
+you can manage your cookie preferences through your browser settings
+if you have enabled this in your phone and app settings,
+we receive data about your location when you use our services
+we use this information to verify and facilitate your parking transactions by
+for example helping you to identity your parking location and to warn you
+in case you forgot to stop your parking session
+you can always change your preferences in your settings
+how do we use your personal data
+we only use your data for the purposes for which it was collected
+and, where relevant, to meet local legal obligations
+we use your personal data for the following purposes
+performance of agreements with users -
+to provide you with the parking related products and services of your choice,
+we process your information for example to complete parking transactions
+facilitate payment of the relevant parking fees and communicate your parking status
+with the relevant parking control bodies
+customer support - we use your information to support you
+in your use of our products and services
+this includes the use of personal information
+to diagnose product problems, rectify erroneous transactions
+and provide other customer support related services
+customer engagement and communication - we use your information
+to communicate with you via email, sms text or other electronic media
+for instance on service‐related matters, such as invoices
+other instances where we engage with you include confirming the opening of an account,
+parking reminder text messages, resolving complaints,
+and asking you to take part in one of our surveys
+marketing - we would like to send you information which may be of interest to you,
+about our products and services and those of other companies (in so far as you have consented to this)
+that may be of interest to you
+we communicate with you via email, sms text or other electronic media
+you have the right at any time to stop us from contacting you for marketing related purposes
+depending on your preferences, you can unsubscribe, change your settings on‐line or contact our
+customer support team to do so
+safety, security and dispute settlement - we use your details to protect the security,
+integrity and safety of our products, services and customers
+this includes processing in the context of detecting and preventing fraud, theft
+and other misuse of our services
+we may also use personal information
+in the context of dispute settlements, to enforce our agreement with you,
+to enforce our rights towards third parties or defend ourselves
+against any third party claims or allegations
+legal obligations - we may process your information
+in relation to a legal obligation
+this includes cases where we must comply with requests
+from competent authorities, administrative obligations and in cases involving legal disputes
+improving and personalising our products and services - we use your personal information
+to improve our products and services
+clicking behaviour and search results on our website
+can for instance help us to prioritise or identify new product features
+maintenance, development and incident management - if you experience issues
+with one of our products or services, we may need to process some of your personal information,
+such as your name, vehicle registration number and client id,
+in order to resolve the respective issue
+we may also use your personal information in relation to certain system development processes,
+for instance if we move customer data to a new database
+general business process execution, internal management and management reporting -
+to be able to run our business, we also use your personal information for general business processes
+this includes processing your information for archiving,
+insurance and other administration related purposes,
+management reporting or processing in relation to audits
+with whom do we share your personal data
+we share your personal data with third parties such as municipalities, car park operators,
+hosting, customer care and e‐marketing facilities),
+corporate clients/employers), and other partners
+who we share your information with, depends on your location on the services you use
+we share your information
+to the extent necessary to operate our business, to provide you our services,
+or our partner services (e
+fuel card), to complete any related transactions
+and collect related payments, to provide customer care and to communicate with you in connection
+for instance, to process payments and transactions
+for parking enforcement purposes, whereby we communicate your parking status
+with the relevant parking control bodies, such as municipalities
+in such instances your vehicle registration number, location code, make, colour,
+and the start and end time of your parking transaction are shared
+for services relating to the issuing of parking permits (if applicable)
+for that purpose we may also undertake address validation checks with third party agencies
+to confirm that you are eligible for a product
+where you gave us explicit consent to do so
+if we are legitimately requested to share information with competent authorities,
+such as law enforcement, pursuant to law, e
+for investigation of illegal activities
+to enforce our agreement with you,
+for instance in cases where you have not paid for your parking transactions,
+we may share your information with a debt collector
+to enforce our rights towards third parties,
+or to defend ourselves against any third‐party claims or allegations
+to protect the security, integrity or safety of our services
+we offer our services as part of the parknow group
+to be able to provide you with our services,
+we make use of some intra‐company facilities, e
+for database purposes, administration,
+marketing and fraud prevention
+as such, we also share certain personal data with our affiliates
+such intra‐company sharing of data will only occur for purposes of operating our business,
+performing your service contract and as has otherwise been outlined in this privacy notice
+where is your personal data processed
+your personal data is mainly processed by our staff in the united kingdom
+we may also share data with our affiliates in the context of operating our business,
+providing our services and other processing purposes as outlined in this privacy notice
+our affiliated offices are located in the netherlands, france, germany, belgium, austria and switzerland
+for hosting and maintenance purposes your personal data is located in the united kingdom
+to the extent any other personal data will be transferred to a country outside the european union
+or an international organisation, we will make sure that this only happens to such countries
+and international organisations that ensure an adequate level of protection,
+have put appropriate safeguards in place to protect your data
+and your rights in accordance with the eu privacy law (gdpr),
+or as is otherwise allowed under the gdpr
+if you wish to receive more information of the safeguards we have implemented,
+please contact our customer support team
+how long do we keep your personal data
+we will retain your personal information only for as long as is necessary for the purposes
+for which the information was collected, or as long as is required pursuant to law
+if you do not use your account for more than 18 months, we will mark it in our database as "inactive"
+we will then no longer actively use your account information,
+to inform you on our products and services, but will archive the account
+to be able to easily re‐activate it should you wish to use our services again in the future
+in case you wish to close your account, please contact our customer support team
+upon closure, we will remove your personal information without undue delay
+except for information that we are obliged to keep pursuant to law
+for instance in order to meet statutory administrative retention obligations,
+we need to keep some of your account related information
+copies of invoices/receipts), for six years
+data may be retained longer in cases where it is used in relation to a legal claim
+or is used in relation to a valid legal process
+accessing and managing your personal data
+you can directly view and edit your personal details via your personal account through www
+there you can also make choices about our
+collection and use of your data
+for instance, you can always choose in your account settings, whether or not you wish to receive promotional emails, sms messages, telephone calls or mail from us
+how you can access or control your personal data will depend on which products and services you use
+if you cannot access, rectify, or erase certain personal data yourselves, if you want a copy of the
+personal data that we process of you, if you wish to request a restriction of processing of your personal
+data or to object to processing, please contact our customer care department using our web form
+we will respond to such requests within 30 days
+lawful basis for data processing
+we only collect and process your personal data when there is a lawful basis to do so
+the lawful basis we rely on in this respect includes
+the processing is necessary to perform your service contract
+i) a legitimate commercial interest to process certain of your personal data,
+for running our business and the purposes of certain forms of direct marketing and profiling
+ii) to archive certain account information to facilitate you
+to re‐use your account in the future
+iii) if there is a legitimate interest from business or security perspective,
+to prevent fraud or abuse of our services, or for purpose of network
+and information security of our it systems
+the processing necessary to comply with a legal obligation,
+the legal requirement to keep administrative records for a certain period of time,
+or the legal obligation to share certain data on a police order
+for criminal investigation purposes
+the processing necessary to assist in tasks in the public interest
+for instance to aid enforcement agents in verifying the validity of a parking action
+where you gave us explicit consent to process the data concerned,
+for example ‐ if applicable ‐ to share your data with partners
+or other third parties for commercial purposes
+if you have given your consent to the processing, you have the right to withdraw your consent at any time,
+by completing a web form
+we will discontinue the processing of your
+upon receipt of your withdrawal
+however, any processing performed prior to your withdrawal remains a legitimate processing based on a valid consent at the time
+we will not be under the obligation to reverse the processing
+questions, concerns and complaints
+if you have questions or concerns about the way in which we use your personal data, you can contact our
+data protection officer (dpo) via dpo@ringgo
+if you feel that an issue has not properly been resolved,
+you also have the right to lodge a complaint with the supervisory authority ico
+ringgo is a brand of park now ltd
+having its address at
+ground floor east, maplewood, chineham park, basingstoke, hampshire, rg24 8yb, and registered with companies house under no
+park now ltd is a member of the parknow group (parkmobile group b
+headquartered in diemen, at (1112xr) wisselwerking 40, the netherlands
+and registered with the commercial register under no
+the decisions relating to the purposes and means of the personal data processing are
+in principle centralised in parkmobile group b
+, which acts as controller
+for this personal data processing
+however, there may also be cases where
+makes autonomous decisions and/or joint decisions
+with parkmobile group b
+concerning the purposes and means of a specific processing activity,
+for which activity ringgo will then act as (joint) controller
+in certain cases we also process data on behalf of third parties, such as municipalities,
+for purpose of parking enforcement and permits
+archive of previous privacy policies
+park now ltd, ground floor east, maplewood, chineham park, basingstoke, hampshire, rg24 8yb
+part of park now
+select language ​ ▼
+original text contribute a better translation
+extend parking on the move
+avoid fines with sms reminders
+change your vehicle if you make a mistake
+download receipts if you need them
+report a problem or complaint with a car park
+cookies help us deliver our services
+by using our services, you agree to our use of cookies
+read our cookie policy
+park permits receipts more ▼
+ringgo privacy notice main content
+your privacy is important to us at ringgo
+we will only use your personal information to administer your account,
+provide the products and services you have requested from us, and to keep you informed
+about our products and services
+the protection, confidentiality and integrity
+of your personal data are our prime concerns
+this privacy notice explains what
+personal information we collect from you when you interact with our products and services,
+and how we use this information
+we will inform you of any future changes to our processing purposes or our privacy policy
+ringgo provides a solution to pay for your parking sessions, on‐street and off‐street, via
+multiple platforms including phone (interactive voice response ("ivr") and sms), website, and
+in addition, we also provide parking permit related services
+applies to these services and the relating platforms, including www
+uk , ringgo branded apps, ringgo ivr and other ringgo related websites, apps, communications and services
+what personal data do we collect
+we need certain personal information to be able to offer you the best parking experience
+and to keep you informed of our products and services
+you provide some of this data directly,
+for instance when you create an account or enter your parking details into our mobile application
+additionally, we receive some of your personal data indirectly through your devices,
+by recording how you interact with our services (e
+this allows us to personalise and improve our products
+when you create a ringgo account, start a parking session, or otherwise use our services,
+we process the following details
+first and last name
+title (mr, mrs etc
+your vehicle registration number
+your vehicle brand/type and colour
+social media account information, if you use a social media plugin to register
+your location details when you park, using our services
+payment and billing information, e
+bank account, payment card or paypal details
+parking permit details (if applicable)
+company name (if applicable)
+business registration number (if applicable)
+we also receive information from third parties we work with
+while the partners we work with may change,
+private, municipal, railway, airport, hospital and university car park operators, who,
+if you have chosen to make use of our service, provide us with the details of your parking sessions,
+so we can facilitate your parking transactions
+this information consists of your vehicle registration number, parking location, parking fee
+and the start and end time of your parking session
+automotive companies (car manufacturers) that provide some of our services in combination with a car
+this service registers the start and end time of your parking session, your parking location
+and the parking fee, so your parking session is automatically ended once you drive away
+this only applies if you have signed up for this service through your car
+operators of parking equipment (for instance parking meters) and licence plate recognition systems
+(for instance as used in car garages), so your parking session can be identified and registered
+please note that such automated licence plate recognition services only apply
+if you have signed up for this service
+our partners who allow the option of auto pay, so you can automatically pay
+after a parking session on the basis of anpr (automatic number plate recognition),
+rfid tag, bluetooth, uhf tag or vehicle beacon
+we only receive these details
+if you have registered for this payment option at the specific location concerned, in advance
+our clients from the public and private sector, who use our service
+to facilitate parking of their employees
+if you are an employee in such an arrangement,
+we receive your name, or personnel id, e‐mail address, phone number
+and vehicle registration number from your employer, after which you can sign up
+and create your own account
+cookies and other similar technologies
+we collect certain data through cookies and similar technologies (e
+web beacons, tags, device
+cookies are text files placed on your computer to collect standard internet log information
+and visitor behaviour information
+this information is used to track visitor use of the website and to
+compile statistical reports on website activity
+we register your interaction with our services in order
+to improve our website, content and services
+our use of such technologies and the data collected is
+described in more detail in our cookie policy https
+you can manage your cookie preferences through your browser settings
+if you have enabled this in your phone and app settings,
+we receive data about your location when you use our services
+we use this information to verify and facilitate your parking transactions by
+for example helping you to identity your parking location and to warn you
+in case you forgot to stop your parking session
+you can always change your preferences in your settings
+how do we use your personal data
+we only use your data for the purposes for which it was collected
+and, where relevant, to meet local legal obligations
+we use your personal data for the following purposes
+performance of agreements with users -
+to provide you with the parking related products and services of your choice,
+we process your information for example to complete parking transactions
+facilitate payment of the relevant parking fees and communicate your parking status
+with the relevant parking control bodies
+customer support - we use your information to support you
+in your use of our products and services
+this includes the use of personal information
+to diagnose product problems, rectify erroneous transactions
+and provide other customer support related services
+customer engagement and communication - we use your information
+to communicate with you via email, sms text or other electronic media
+for instance on service‐related matters, such as invoices
+other instances where we engage with you include confirming the opening of an account,
+parking reminder text messages, resolving complaints,
+and asking you to take part in one of our surveys
+marketing - we would like to send you information which may be of interest to you,
+about our products and services and those of other companies (in so far as you have consented to this)
+that may be of interest to you
+we communicate with you via email, sms text or other electronic media
+you have the right at any time to stop us from contacting you for marketing related purposes
+depending on your preferences, you can unsubscribe, change your settings on‐line or contact our
+customer support team to do so
+safety, security and dispute settlement - we use your details to protect the security,
+integrity and safety of our products, services and customers
+this includes processing in the context of detecting and preventing fraud, theft
+and other misuse of our services
+we may also use personal information
+in the context of dispute settlements, to enforce our agreement with you,
+to enforce our rights towards third parties or defend ourselves
+against any third party claims or allegations
+legal obligations - we may process your information
+in relation to a legal obligation
+this includes cases where we must comply with requests
+from competent authorities, administrative obligations and in cases involving legal disputes
+improving and personalising our products and services - we use your personal information
+to improve our products and services
+clicking behaviour and search results on our website
+can for instance help us to prioritise or identify new product features
+maintenance, development and incident management - if you experience issues
+with one of our products or services, we may need to process some of your personal information,
+such as your name, vehicle registration number and client id,
+in order to resolve the respective issue
+we may also use your personal information in relation to certain system development processes,
+for instance if we move customer data to a new database
+general business process execution, internal management and management reporting -
+to be able to run our business, we also use your personal information for general business processes
+this includes processing your information for archiving,
+insurance and other administration related purposes,
+management reporting or processing in relation to audits
+with whom do we share your personal data
+we share your personal data with third parties such as municipalities, car park operators,
+hosting, customer care and e‐marketing facilities),
+corporate clients/employers), and other partners
+who we share your information with, depends on your location on the services you use
+we share your information
+to the extent necessary to operate our business, to provide you our services,
+or our partner services (e
+fuel card), to complete any related transactions
+and collect related payments, to provide customer care and to communicate with you in connection
+for instance, to process payments and transactions
+for parking enforcement purposes, whereby we communicate your parking status
+with the relevant parking control bodies, such as municipalities
+in such instances your vehicle registration number, location code, make, colour,
+and the start and end time of your parking transaction are shared
+for services relating to the issuing of parking permits (if applicable)
+for that purpose we may also undertake address validation checks with third party agencies
+to confirm that you are eligible for a product
+where you gave us explicit consent to do so
+if we are legitimately requested to share information with competent authorities,
+such as law enforcement, pursuant to law, e
+for investigation of illegal activities
+to enforce our agreement with you,
+for instance in cases where you have not paid for your parking transactions,
+we may share your information with a debt collector
+to enforce our rights towards third parties,
+or to defend ourselves against any third‐party claims or allegations
+to protect the security, integrity or safety of our services
+we offer our services as part of the parknow group
+to be able to provide you with our services,
+we make use of some intra‐company facilities, e
+for database purposes, administration,
+marketing and fraud prevention
+as such, we also share certain personal data with our affiliates
+such intra‐company sharing of data will only occur for purposes of operating our business,
+performing your service contract and as has otherwise been outlined in this privacy notice
+where is your personal data processed
+your personal data is mainly processed by our staff in the united kingdom
+we may also share data with our affiliates in the context of operating our business,
+providing our services and other processing purposes as outlined in this privacy notice
+our affiliated offices are located in the netherlands, france, germany, belgium, austria and switzerland
+for hosting and maintenance purposes your personal data is located in the united kingdom
+to the extent any other personal data will be transferred to a country outside the european union
+or an international organisation, we will make sure that this only happens to such countries
+and international organisations that ensure an adequate level of protection,
+have put appropriate safeguards in place to protect your data
+and your rights in accordance with the eu privacy law (gdpr),
+or as is otherwise allowed under the gdpr
+if you wish to receive more information of the safeguards we have implemented,
+please contact our customer support team
+how long do we keep your personal data
+we will retain your personal information only for as long as is necessary for the purposes
+for which the information was collected, or as long as is required pursuant to law
+if you do not use your account for more than 18 months, we will mark it in our database as "inactive"
+we will then no longer actively use your account information,
+to inform you on our products and services, but will archive the account
+to be able to easily re‐activate it should you wish to use our services again in the future
+in case you wish to close your account, please contact our customer support team
+upon closure, we will remove your personal information without undue delay
+except for information that we are obliged to keep pursuant to law
+for instance in order to meet statutory administrative retention obligations,
+we need to keep some of your account related information
+copies of invoices/receipts), for six years
+data may be retained longer in cases where it is used in relation to a legal claim
+or is used in relation to a valid legal process
+accessing and managing your personal data
+you can directly view and edit your personal details via your personal account through www
+there you can also make choices about our
+collection and use of your data
+for instance, you can always choose in your account settings, whether or not you wish to receive promotional emails, sms messages, telephone calls or mail from us
+how you can access or control your personal data will depend on which products and services you use
+if you cannot access, rectify, or erase certain personal data yourselves, if you want a copy of the
+personal data that we process of you, if you wish to request a restriction of processing of your personal
+data or to object to processing, please contact our customer care department using our web form
+we will respond to such requests within 30 days
+lawful basis for data processing
+we only collect and process your personal data when there is a lawful basis to do so
+the lawful basis we rely on in this respect includes
+the processing is necessary to perform your service contract
+i) a legitimate commercial interest to process certain of your personal data,
+for running our business and the purposes of certain forms of direct marketing and profiling
+ii) to archive certain account information to facilitate you
+to re‐use your account in the future
+iii) if there is a legitimate interest from business or security perspective,
+to prevent fraud or abuse of our services, or for purpose of network
+and information security of our it systems
+the processing necessary to comply with a legal obligation,
+the legal requirement to keep administrative records for a certain period of time,
+or the legal obligation to share certain data on a police order
+for criminal investigation purposes
+the processing necessary to assist in tasks in the public interest
+for instance to aid enforcement agents in verifying the validity of a parking action
+where you gave us explicit consent to process the data concerned,
+for example ‐ if applicable ‐ to share your data with partners
+or other third parties for commercial purposes
+if you have given your consent to the processing, you have the right to withdraw your consent at any time,
+by completing a web form
+we will discontinue the processing of your
+upon receipt of your withdrawal
+however, any processing performed prior to your withdrawal remains a legitimate processing based on a valid consent at the time
+we will not be under the obligation to reverse the processing
+questions, concerns and complaints
+if you have questions or concerns about the way in which we use your personal data, you can contact our
+data protection officer (dpo) via dpo@ringgo
+if you feel that an issue has not properly been resolved,
+you also have the right to lodge a complaint with the supervisory authority ico
+ringgo is a brand of park now ltd
+having its address at
+ground floor east, maplewood, chineham park, basingstoke, hampshire, rg24 8yb, and registered with companies house under no
+park now ltd is a member of the parknow group (parkmobile group b
+headquartered in diemen, at (1112xr) wisselwerking 40, the netherlands
+and registered with the commercial register under no
+the decisions relating to the purposes and means of the personal data processing are
+in principle centralised in parkmobile group b
+, which acts as controller
+for this personal data processing
+however, there may also be cases where
+makes autonomous decisions and/or joint decisions
+with parkmobile group b
+concerning the purposes and means of a specific processing activity,
+for which activity ringgo will then act as (joint) controller
+in certain cases we also process data on behalf of third parties, such as municipalities,
+for purpose of parking enforcement and permits
+archive of previous privacy policies
+park now ltd, ground floor east, maplewood, chineham park, basingstoke, hampshire, rg24 8yb
+part of park now
+original text contribute a better translation
