@@ -1,7 +1,7 @@
 # Alexa Marketplace Analysis
 
 This repository uses the compilation of json and csv files collected from Amazon website to create a unique dataset to perform the traceability anlaysis on Alexa skills ecosystem.
-We collected the skills ecosystem few months ago. The original files are included in the skills.zip file. Please note that they were huge and had many repetitions.
+We collected the skills ecosystem few months ago. The original files are included in the skills.zip file.
 
 This repo contains:
 <ul>
