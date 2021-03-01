@@ -11,7 +11,7 @@ This repo contains:
         <li><b>CreateNewFullDataset-MapTraceabilityToNewSkills.ipynb</b>: Jupyter notebook used to create the new dataset saved in NewFullDataset</li>
         <li><b>FiguresDataset.ipynb    </b>: Jupyter notebook with different figures and analyses used in the paper</li>
         <li><b>Comparedatasets.ipynb   </b>: Jupyter notebook that can be used to compare skill dataset with the any new files.</li>
-        <li><b>Traceability Folder   </b>: This folder consist of file use in training the traceability model and the datasets used for the training and validation.</li>
+        <li><b>Traceability Folder   </b>: This folder consist of file use in training the traceability model and the datasets used for the validation.</li>
 
 </ul>
 
