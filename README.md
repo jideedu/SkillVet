@@ -7,7 +7,7 @@ This repo contains:
 <ul>
         <li><b>_AnalysePhonetics/      </b>: Folder that includes used to estimate phonetic distance between skill names using CMU dictionary and normalised Levehnstein distance. Inside the folder you can find the jupyter notebook used to perfom the experiments, and a set of jsons used to speed up the phonetic analysis.</li>
         <li><b>NewFullDataset/         </b>: Folder that contains the newly created .json datasets that combines both skills json and skill linkage for faster computing</li>
-        <li><b>skills.zip                 </b>: Original json files. The dataset contains repetitions and some skills and not correctly parsed. Each line in the file corresponds with a json object</li>
+        <li><b>skills.zip                 </b>: Original json files of the crawl data from Amazon Alexa skills website. The dataset contains repetitions. Each line in the file corresponds with a json object</li>
         <li><b>CreateNewFullDataset-MapTraceabilityToNewSkills.ipynb</b>: Jupyter notebook used to create the new dataset saved in NewFullDataset</li>
         <li><b>FiguresDataset.ipynb    </b>: Jupyter notebook with different figures and analyses used in the paper</li>
         <li><b>Comparedatasets.ipynb   </b>: Jupyter notebook that can be used to compare skill dataset with the any new files.</li>
